@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-exner-od-ca82.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1853-ca83.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-fessler-od-ca372.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#exner-franz" role="recipient">Franz Exner</rs>
+                    <lb/>o. O., <date when="1852">o. D. [August/September 1852]</date>
+                    <note xml:id="note_1">Auf dem Blatt ist mit Bleistift "52?" vermerkt. Die
+                        Datierung in den Spätsommer 1852 erscheint plausibel, da Thun gerade in
+                        dieser Zeit mehrfach um Treffen mit Exner gebeten hatte. Vgl. dazu etwa <ref target="thun/thun-korrespondenz/oesterreichische-nationalbibliothek/thun-an-exner-1852-08-24-ca79.xml">den Brief Thuns an Exner vom 24. August.</ref>
+                    </note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 273/47-12</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Joseph Mozart hat Leo Thun mitgeteilt, dass Franz Exner ihn besuchen
+                            möchte. Thun würde sich sehr darüber freuen und wird Exner am
+                            angegebenen Tag seine Kutsche zum Bahnhof in Hetzendorf schicken.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date>o. D. [August/September 1852]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#exner-franz">Franz Exner</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                </index>
+                <p>Lieber Herr Ministerialrath</p>
+                <p>
+                    <rs type="person" ref="#mozart-joseph">Mozart</rs> sagt mir, daß Sie mich vielleicht
+                    Freitag besuchen werden, was mich herzlich freuen wird. Schreiben sie mir doch
+                    mit welchem Train Sie zu kommen denken. Ich würde dann meinen Wagen (kenntlich
+                    durch die Bespannung mit einem Schimmel und einem Fuchs) an den Hetzendorfer
+                    Bahnhof schicken. Sollten sie sich gerade an dem Tage unwohl fühlen und deshalb
+                    nicht kommen, so hätte das gar nichts zu sagen, der Wagen, der den Tag gar
+                    nichts anderes zu thun hat, weil meine <rs type="person" ref="#thun-hohenstein-caroline">Frau</rs> verreist ist, würde eben wieder nach Hause fahren.</p>
+                <p>Aufrichtig der Ihrige</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="exner-franz">
+                        <persName>
+                            <surname>Exner</surname>
+                            <forename>Franz Serafin</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1802–1853 Padua</p>
+                            <p>1831–1848 Prof. für Philosophie an der Universität Prag, 1848–1851 Ministerialrat im Ministerium für Kultus und Unterricht, ab 1852 Ministerialkommissär für das lombardisch-venetianische Schulwesen in Oberitalien</p>
+                            <p>http://d-nb.info/gnd/116319410</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116319410</tei:idno>
+                    </person>
+                <person xml:id="mozart-joseph">
+                        <persName>
+                            <surname>Mozart</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1805–1892 Wien</p>
+                            <p>ab 1849 Sektionsrat im Ministerium für Kultus und Unterricht, 1857 Ministerialrat, zunächst Referent für Gymnasialangelegenheiten, dann für die italienischen Mittelschulen und Universitäten, 1849–1863 Mitglied der Redaktion der Zeitschrift für die Österreichischen Gymnasien</p>
+                            <p>http://d-nb.info/gnd/1023724472</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1023724472</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-caroline">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Caroline</forename>
+                        </persName>
+                        <note>
+                            <p>1822–1898 Bad Ischl</p>
+                            <p>geb. Clam-Martinic, ab 1847 Gattin von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+        </back>
+    </text>
+</TEI>

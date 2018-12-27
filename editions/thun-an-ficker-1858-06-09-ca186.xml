@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-ficker-1858-06-09-ca186.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1857-08-15-ca184.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
+                        Ficker</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1858-06-09">9. Juni 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 10</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Julius Ficker um Auskunft über den Historiker Gottfried
+                            Muys. Der Minister möchte diesen an die Universität Lemberg berufen.
+                            Professor Joseph Aschbach hat sich für Muys ausgesprochen und Thun
+                            glaubt sich zu erinnern, dass auch Ficker sich vor Jahren für Muys stark
+                            gemacht hatte. Thun hat allerdings eine anonyme Warnung aus Bonn
+                            erhalten und möchte nun Näheres über Muys' Lebenswandel und
+                            wissenschaftliches Werk in Erfahrung bringen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Auf der Rückseite des Briefes eine Notiz von Julius Ficker.</p>
+                        <p>Verweis auf A3 XXI D453.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1858-06-09">9. Juni 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Universität Lemberg</term>
+                </index>
+                <p>Wien den 9. Juni 1858</p>
+                <p>Werther Herr Professor!</p>
+                <p>Unter den Männern die Sie mir bei früheren Gelegenheiten für eine Berufung nach
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> empfohlen haben, war auch <rs type="person" ref="#muys-gottfried">Dr. Muys</rs>. Ich habe nun die Absicht ihn als
+                    Professor der Geschichte – namentlich für alte Geschichte – nach <rs type="org" ref="#org_0021">Lemberg</rs> in Antrag zu bringen. Auch
+                        <rs type="person" ref="#aschbach-joseph">Prof. Aschbach</rs> empfiehlt ihn
+                    sehr, und hat deshalb mit ihm eine vorläufige Verhandlung gepflogen. Schon vor
+                    einiger Zeit erhielt ich aus <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> eine anonyme Warnung.
+                    Anonyme Schreiben pflege ich einfach in den Papierkorb zu werfen. Ich erhalte
+                    nun heute die anliegende dringende Wiederholung. Ich sehe mich dadurch doch
+                    veranlaßt Ihre erprobte Gefälligkeit noch einmal in Anspruch zu nehmen, und Sie
+                    zu bitten, mir zu schreiben, ob Sie noch der Überzeugung sind, daß <rs type="person" ref="#muys-gottfried">Dr. Muys</rs> volles Vertrauen verdient oder
+                    falls Sie ihn persönlich nicht hinreichend kennen sollten, wer etwa als ein ganz
+                    verlässlicher Gewährsmann anzusehen sein dürfte.</p>
+                <p>Mit aufrichtiger Hochachtung<lb/>Ihr ergebener<lb/>Thun</p>
+                <p/>
+                <p>&lt;Herr Minister<lb/>Erkundigen Sie sich nochmals&gt;</p>
+                <note xml:id="note_1">Bemerkung von Ficker auf der Rückseite des Briefes.</note>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="ficker-julius">
+                        <persName>
+                            <surname>Ficker</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>Paderborn 1826–1902 Innsbruck</p>
+                            <p>ab 1852 Prof. der Geschichte an der Universität Innsbruck, ab 1863 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/118532863</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118532863</tei:idno>
+                    </person>
+                <person xml:id="muys-gottfried">
+                        <persName>
+                            <surname>Muys</surname>
+                            <forename>Gottfried</forename>
+                        </persName>
+                        <note>
+                            <p>Krefeld 1828–1898 Laibach</p>
+                            <p>Historiker, ab 1853 Privatdozent an der Universität Bonn, ab 1855–1859 Prof. an der Universität Lemberg, ab 1865 Kustos der Lyzeal-Bibliothek in Lublin</p>
+                            <p>http://d-nb.info/gnd/102072353</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102072353</tei:idno>
+                    </person>
+                <person xml:id="aschbach-joseph">
+                        <persName>
+                            <surname>Aschbach</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Höchst am Main 1801–1882 Wien</p>
+                            <p>ab 1823 Lehrer am Gymnasium in Frankfurt, ab 1842 Prof. der Geschichte an der Universität Bonn, 1853–1872 Prof. an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/119059312</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119059312</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_6c1def5820cdde63de0c38dd673de4d6">
+                        <placeName>Bonn</placeName>
+                        <placeName type="alt">Bonna</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.73438 7.09549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2946447/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0021">
+                        <orgName>Universität Lemberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/66083-8</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

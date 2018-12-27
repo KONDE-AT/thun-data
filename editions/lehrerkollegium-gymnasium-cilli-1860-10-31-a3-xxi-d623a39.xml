@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="lehrerkollegium-gymnasium-cilli-1860-10-31-a3-xxi-d623a39.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasiu-marburg-an-thun-1860-10-28-a3-xxi-d623a37.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-goerz-an-thun-1860-11-05-a3-xxi-d623a30.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Das Lehrerkollegium des Gymnasiums in Cilli [Celje] an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_1563f0890ca9564b24de375c526e50eb">Celje</rs>, <date when="1860-10-31">31. Oktober 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Das Lehrerkollegium des Gymnasiums in Cilli dankt Thun für seine
+                            Verdienste als Unterrichtsminister: Die Reform des österreichischen
+                            Unterrichtswesens wird als Großtat in die Geschichtsbücher eingehen. Das
+                            Kollegium zeigt sich auch davon überzeugt, dass das Erreichte Bestand
+                            haben wird.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Kundgebungen der unzweideutigsten Art, von den Höhen der Wissenschaft bis herab
+                    auf jene Niederungen, wo die Keime derselben in den Menschengeist gelegt werden,
+                    haben Euer Excellenz in diesen Tagen die Überzeugung verschafft, daß die
+                    epochenmachende Tragweite jener Umgestaltungen des öffentlichen Unterrichts in
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, die sich für immer an den
+                    Namen Euer Excellenz knüpfen, von Seite competenter Zeitgenossen glänzend
+                    gewürdigt worden ist.<lb/>Gestatten Euer Excellenz, daß auch wir – Arbeiter im
+                    Weinberge des öffentlichen Unterrichts – es hiemit offen aussprechen, wie sehr
+                    es uns wohlthat, unter der weisen und hochherzigen Leitung Euer Excellenz
+                    unserer Geistesarbeit obzuliegen.<lb/>Die Saat des Lichtes, die Euer Excellenz
+                    ausgestreut haben – sie wird, sie kann nicht erstickt werden. Hunderte und
+                    Hunderte von Männern werden mit Waffen des Geistes für dieselbe
+                    einstehen.<lb/>Schließlich bitten wir Euer Excellenz, die Gesinnungen vollster
+                    und aufrichtigster Verehrung zu genehmigen, die wir bei diesem Anlaße zu Füßen
+                    Euer Excellenz niederzulegen uns erlauben.</p>
+                <p>Jos. Premru<lb/>k.k. Director</p>
+                <p>Joh. Oreschek<lb/>W. Marek<lb/>Gust. Lindner<lb/>Jos. Ginner<lb/>Fr.
+                    Hafner<lb/>Em. Rud. Größmann<lb/>J. Huber<lb/>Anton Hluščìk<lb/>Anton
+                    [?]<lb/>Konrad Paßl<lb/>Ferdinand Ramor<lb/>Ivan Vrusich[?]<lb/>
+                </p>
+                <p>Cilli, am 31. Oktober 1860</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_1563f0890ca9564b24de375c526e50eb">
+                        <placeName>Cilli [Celje]</placeName>
+                        <placeName type="alt">Celje</placeName>
+                        <placeName type="alt">Cilli</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.23092 15.26044</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

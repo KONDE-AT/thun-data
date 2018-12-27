@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-linde-1858-05-17-ca1133.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-12-26-ca1130.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-miklosich-02-01-ca799.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#linde-justin" role="recipient:gelehrter">Justin
+                        Linde</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1858-05-17">17. Mai 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Bundesarchiv Koblenz</institution>
+                        <idno>N 1759, 51</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bedankt sich bei Justin Linde dafür, dass er den Druck einiger
+                            Zeitungsartikel verhindern konnte, die gegen Thuns Politik gerichtet
+                            waren. Er ist ihm für etwaige weitere Hinweise in dieser Sache dankbar,
+                            beispielsweise über die Urheber der Artikel. Thun ist sich nicht sicher,
+                            ob nicht auch in seinem eigenen Ministerium gegen ihn gearbeitet werde.
+                            Er versichert Linde, dass die Behauptung, er sei mit manchen
+                            Bestimmungen des Konkordats nicht einverstanden, falsch sei. Thun
+                            erklärt indes, dass er einen wissenschaftlichen Aufschwung befürworte,
+                            der sich auf katholischer Grundlage bewege. Er ist sich jedoch bewusst,
+                            dass er damit einen Spagat versucht. Der Minister will aber an seinem
+                            Kurs festhalten, auch wenn er manches Mal Fehler machen wird.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1858-05-17">17. Mai 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#linde-justin">Justin Linde</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Konkordat</term>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                </index>
+                <p>Wien den 17. Mai 1858</p>
+                <p>Geehrter Herr Staatsrath!</p>
+                <p>Ich bin Ihnen für Ihre gefällige Mittheilung zu herzlichem Danke verpflichtet.
+                    Ich kann Sie nur vollkommen in der Uiberzeugung bestärken, daß die
+                    Zeitungskorrespondenzen, derer Sie erwähnen in direktem Widerspruch mit meinen
+                    Intenzionen stehen, und daß ich Ihnen sehr dankbar dafür bin, Sie zu verhindern.
+                    Ich kann nicht dafür bürgen, daß nicht auch unter den Beamten des <rs type="org" ref="#org_0005">Ministeriums</rs>, dem ich
+                    vorstehe welche seien, denen es erwünscht ist, wenn in Beziehung auf kirchliche
+                    Tendenzen gegen das, was mir am Herzen liegt, agitirt wird. Wenn aber behauptet
+                    wird, ich sei zu manchen Bestimmungen des Konkordates wider meine Uiberzeugung
+                    gedrängt worden, und sehe es deshalb gern, daß die öffentliche Meinung gegen
+                    deren Ausführung aufgeregt werde, so ist das nichts als Lüge und Verläumdung.
+                    Was den Unterricht anbelangt, so ist es und bleibt mein angelegentliches
+                    Bestreben es dahin zu bringen, daß wissenschaftlicher Aufschwung mit kath.
+                    Richtung vereint zur Geltung gelange. Die Schwierigkeiten sind in dieser
+                    Beziehung allerdings sehr groß, und werden es bleiben, so lange nicht auf allen
+                    Gebiethen eine viel größere Auswahl bewährter kath. Kräfte zu Gebothe steht, als
+                    bisher, und das kann doch erst eine Folge dessen werden, was hierzulande
+                    geschieht. Ich fühle es sehr gut, daß ich inzwischen auf einem Seile tanze, und
+                    es mag wohl sein, daß ich dabei mitunter bei dem besten Willen einen falschen
+                    Schritt mache. So viel kann ich versichern, daß ich in dieser Beziehung nicht
+                    aufhöre zu lernen. Die Zeitungsmanöver, die auf dem Gebiethe des Unterrichts
+                    getrieben werden, um meiner kirchlichen Richtung entgegenzuwirken, sind mir in
+                    ihren Erfolgen sehr wohl bekannt. Ihre Genesis und ihre Urheber habe ich noch
+                    nicht entdeckt, Beweise darüber wenn auch nur zu meiner eigenen Belehrung wären
+                    mir sehr erwünscht.<lb/>Ihren Brief, werther Herr Staatsrath, habe ich keinen
+                    Menschen sehen lassen, und ich verbrenne ihn nun.<lb/>Sie gekränkt zu haben thut
+                    mir sehr leid, ich kann nur mit aufrichtigem Herzen wiederholen, daß nichts
+                    meiner Absicht ferner liegen kann, ich Ihnen vielmehr die herzlichste
+                    Hochachtung stets bewahren werde.</p>
+                <p>Leo Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="linde-justin">
+                        <persName>
+                            <surname>Linde</surname>
+                            <forename>Justin Timotheus Balthasar</forename>
+                        </persName>
+                        <note>
+                            <p>Brilon 1797–1870 Bonn</p>
+                            <p>1824–1829 Prof. des deutschen Privatrechts und der röm. Rechtsgeschichte an der Universität Gießen, ab 1829 Geh. Regierungsrat im Ministerium des Innern und der Justiz in Darmstadt, ab 1832 Direktor des Oberstudienrats, 1836–1847 Geh. Staatsrat im Ministerium des Innern und der Justiz, 1848/49 Mitglied der Frankfurter Nationalversammlung, 1850–1866 österr. Gesandter beim deutschen Bundestag</p>
+                            <p>http://d-nb.info/gnd/119095645</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119095645</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

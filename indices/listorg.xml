@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Institutionsverzeichnis</title>
+                <respStmt>
+                    <resp>providing the content</resp>
+                    <name>Martin Kirnbauer</name>
+                    <name>Peter Andorfer</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Institutionsverzeichnis der Thun-Korrespondenz</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="index_orgs">
+                <listOrg xml:id="listorg">
+                    <org xml:id="org_0001">
+                        <orgName>Rechtsakademie Hermannstadt</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/5029374-6</idno>
+                    </org>
+                    <org xml:id="org_0002">
+                        <orgName>Universität Pavia</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/40464-0</idno>
+                    </org>
+                    <org xml:id="org_0003">
+                        <orgName>Universität Padua</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1011210-8</idno>
+                    </org>
+                    <org xml:id="org_0004">
+                        <orgName>Ministerrath</orgName>
+                    </org>
+                    <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+                    <org xml:id="org_0006">
+                        <orgName>Maximilians-Gymnasium (München)</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/108601362X</idno>
+                    </org>
+                    <org xml:id="org_0007">
+                        <orgName>jesuitische Hochschule in Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1600912-5</idno>
+                    </org>
+                    <org xml:id="org_0008">
+                        <orgName>Universität Pest</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/83557-2</idno>
+                    </org>
+                    <org xml:id="org_0010">
+                        <orgName>Pazmaneum</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/4733779-5</idno>
+                    </org>
+                    <org xml:id="org_0011">
+                        <orgName>Josefs Polytechnikum (Budapest)</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16005151-4</idno>
+                    </org>
+                    <org xml:id="org_0012">
+                        <orgName>k.k. Finanzministerium (Österreich)</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/118073-3</idno>
+                    </org>
+                    <org xml:id="org_0013">
+                        <orgName>k.k. Justizministerium (Österreich)</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/39547-X</idno>
+                    </org>
+                    <org xml:id="org_0014">
+                        <orgName>Universität Neapel</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36296-7</idno>
+                    </org>
+                    <org xml:id="org_0015">
+                        <orgName>kaiserliche Akademie der Wissenschaften</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/110494894X</idno>
+                    </org>
+                    <org xml:id="org_0016">
+                        <orgName>k.k. Theresianische Ritterakademie</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/5005464-8</idno>
+                    </org>
+                    <org xml:id="org_0017">
+                        <orgName>Universität Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
+                    </org>
+                    <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+                    <org xml:id="org_0019">
+                        <orgName>Akademie der bildenden Künste Mailand</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+                    <org xml:id="org_0021">
+                        <orgName>Universität Lemberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/66083-8</idno>
+                    </org>
+                    <org xml:id="org_0022">
+                        <orgName>Diözese Großwardein</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/4534475-9</idno>
+                    </org>
+                    <org xml:id="org_0023">
+                        <orgName>Universität Krakau</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1012007-5</idno>
+                    </org>
+                    <org xml:id="org_0024">
+                        <orgName>Warschauer Realgymnasium</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0025">
+                        <orgName>Universität Heidelberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024349-2</idno>
+                    </org>
+                    <org xml:id="org_0026">
+                        <orgName>Universität Graz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36157-4</idno>
+                    </org>
+                    <org xml:id="org_0027">
+                        <orgName>Universität Berlin</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1016783-3</idno>
+                    </org>
+                    <org xml:id="org_0028">
+                        <orgName>Universität München</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2002585-3</idno>
+                    </org>
+                    <org xml:id="org_0029">
+                        <orgName>Universität Jena</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36164-1</idno>
+                    </org>
+                    <org xml:id="org_0030">
+                        <orgName>Universität Freiburg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024338-8</idno>
+                    </org>
+                    <org xml:id="org_0031">
+                        <orgName>Universität Zürich</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36190-2</idno>
+                    </org>
+                    <org xml:id="org_0032">
+                        <orgName>Universität Bern</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2023768-6</idno>
+                    </org>
+                    <org xml:id="org_0033">
+                        <orgName>Universität Erlangen</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024186-0</idno>
+                    </org>
+                    <org xml:id="org_0034">
+                        <orgName>Universität Gießen</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36154-9</idno>
+                    </org>
+                    <org xml:id="org_0035">
+                        <orgName>k.k. protestantisch-theologische Lehranstalt der <rs type="org" ref="#org_0018">Universität Wien</rs>
+                        </orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1700272-2</idno>
+                    </org>
+                    <org xml:id="org_0036">
+                        <orgName>Josephinum</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/65009-2</idno>
+                    </org>
+                    <org xml:id="org_0037">
+                        <orgName>Universität Leipzig</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024343-1</idno>
+                    </org>
+                    <org xml:id="org_0038">
+                        <orgName>Universität Königsberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1116746166</idno>
+                    </org>
+                    <org xml:id="org_0039">
+                        <orgName>Universität Göttingen</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024315-7</idno>
+                    </org>
+                    <org xml:id="org_0040">
+                        <orgName>Universität Bonn</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36150-1</idno>
+                    </org>
+                    <org xml:id="org_0041">
+                        <orgName>Universität Marburg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2001630-X</idno>
+                    </org>
+                    <org xml:id="org_0042">
+                        <orgName>Universität Halle</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1095888250</idno>
+                    </org>
+                    <org xml:id="org_0043">
+                        <orgName>Gerold</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2168247-1</idno>
+                    </org>
+                    <org xml:id="org_0044">
+                        <orgName>Universität Tübingen</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36187-2</idno>
+                    </org>
+                    <org xml:id="org_0045">
+                        <orgName>Allgemeine Zeitung</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/116616103X</idno>
+                    </org>
+                    <org xml:id="org_0046">
+                        <orgName>k.k. Ministerium des Innern</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/260143-6</idno>
+                    </org>
+                    <org xml:id="org_0047">
+                        <orgName>Universität Olmütz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1029776-5</idno>
+                    </org>
+                    <org xml:id="org_0048">
+                        <orgName>Meraner Gymnasium</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/7521530-5</idno>
+                    </org>
+                    <org xml:id="org_0049">
+                        <orgName>Stift Marienberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2165566-2</idno>
+                    </org>
+                    <org xml:id="org_0050">
+                        <orgName>k. baierische Akademie der Wissenschaften</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2005521-3</idno>
+                    </org>
+                    <org xml:id="org_0051">
+                        <orgName>k. böhmische Gesellschaft der Wissenschaften</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/63888-2</idno>
+                    </org>
+                    <org xml:id="org_0052">
+                        <orgName>Polytechnikum Prag</orgName>
+                        <!-- fraglich <idno type="URL" subtype="GND">http://d-nb.info/gnd/507911-1</idno> -->
+                    </org>
+                    <org xml:id="org_0053">
+                        <orgName>Universität Greifswald</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1124020543</idno>
+                    </org>
+                    <org xml:id="org_0054">
+                        <orgName>Universität Kiel</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024175-6</idno>
+                    </org>
+                    <org xml:id="org_0055">
+                        <orgName>k.k. geologische Reichsanstalt</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/37287-0</idno>
+                    </org>
+                    <org xml:id="org_0056">
+                        <orgName>Universität Klausenburg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/5058130-2</idno>
+                    </org>
+                    <org xml:id="org_0057">
+                        <orgName>Zeitschrift für die österreichischen Gymnasien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/011157429</idno>
+                    </org>
+                    <org xml:id="org_0058">
+                        <orgName>Universität Landshut</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024335-2</idno>
+                    </org>
+                    <org xml:id="org_0059">
+                        <orgName>Accademia degli Agiati</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/4443305-0</idno>
+                    </org>
+                    <org xml:id="org_0060">
+                        <orgName>Abazia di S. Barbara in Mantova</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0061">
+                        <orgName>Polytechnikum Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/37787-9</idno>
+                    </org>
+                    <org xml:id="org_0062">
+                        <orgName>Santa Maria dell' Anima</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/4402265-7</idno>
+                    </org>
+                    <org xml:id="org_0063">
+                        <orgName>Vatikanisches Archiv</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1013819-5</idno>
+                    </org>
+                    <org xml:id="org_0064">
+                        <orgName>Universität Würzburg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36189-6</idno>
+                    </org>
+                    <org xml:id="org_0065">
+                        <orgName>Universität Breslau</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1220756-1</idno>
+                    </org>
+                    <org xml:id="org_0066">
+                        <orgName>Universität Münster</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36175-6</idno>
+                    </org>
+                    <org xml:id="org_0067">
+                        <orgName>Universität Rom</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1097368-0</idno>
+                    </org>
+                    <org xml:id="org_0068">
+                        <orgName>Universität Dorpat</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/501111-5</idno>
+                    </org>
+                    <org xml:id="org_0069">
+                        <orgName>k.k. Akademie der bildenden Künste Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2003761-2</idno>
+                    </org>
+                    <org xml:id="org_0070">
+                        <orgName>Verein zur Beförderung der Tonkunst (in Böhmen)</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0071">
+                        <orgName>Seminario Principesco Vescovile</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0072">
+                        <orgName>Deutscher Bund</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/4011750-9</idno>
+                    </org>
+                    <org xml:id="org_0073">
+                        <orgName>Universität Paris</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2025059-9</idno>
+                    </org>
+                    <org xml:id="org_0074">
+                        <orgName>Universität Brüssel</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1011179-7</idno>
+                    </org>
+                    <org xml:id="org_0075">
+                        <orgName>Jesuitenorden</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/80092-2</idno>
+                    </org>
+                    <org xml:id="org_0076">
+                        <orgName>Gymnasium Pforta</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/82742-3</idno>
+                    </org>
+                    <org xml:id="org_0077">
+                        <orgName>Medizinisch-chirurgische Lehranstalt Salzburg</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0078">
+                        <orgName>Akademisches Gymnasium Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/600902-5</idno>
+                    </org>
+                    <org xml:id="org_0079">
+                        <orgName>Kaisertum Österreich</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0080">
+                        <orgName>Lyzeum Rastatt</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/5013990-3</idno>
+                    </org>
+                    <org xml:id="org_0081">
+                        <orgName>Altstädter Gymnasium (Prag)</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/401873-4</idno>
+                    </org>
+                    <org xml:id="org_0082">
+                        <orgName>Universität Gent</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1009455-6</idno>
+                    </org>
+                    <org xml:id="org_0083">
+                        <orgName>historischer Verein für Steyermark</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/11486-8</idno>
+                    </org>
+                    <org xml:id="org_0084">
+                        <orgName>Universität Löwen</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0085">
+                        <orgName>chirurgische Lehranstalt Lemberg</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0086">
+                        <orgName>chirurgische Lehranstalt Olmütz</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0087">
+                        <orgName>chirurgische Lehranstalt Gratz</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0088">
+                        <orgName>chirurgische Lehranstalt Innsbruck</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0089">
+                        <orgName>Akademie der bildenden Künste Venedig</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0090">
+                        <orgName>k.k. Priesterbildungs-Institut zum hl. Augustin</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/400016-X</idno>
+                    </org>
+                    <org xml:id="org_0091">
+                        <orgName>Ministerium des Äußeren</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/119828-2</idno>
+                    </org>
+                    <org xml:id="org_0093">
+                        <orgName>Akademisches Gymnasium Lemberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/5034132-7</idno>
+                    </org>
+                    <org xml:id="org_0094">
+                        <orgName>Dominikaner Lyzeum Lemberg</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0095">
+                        <orgName>Bernardiner Lycäum Lemberg</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0096">
+                        <orgName>Technische Akademie Lemberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/82774-5</idno>
+                    </org>
+                    <org xml:id="org_0097">
+                        <orgName>Universität Siena</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1024765-8</idno>
+                    </org>
+                    <org xml:id="org_0098">
+                        <orgName>Universität Pisa</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1011221-2</idno>
+                    </org>
+                    <org xml:id="org_0099">
+                        <orgName>Universität Turin</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1011229-7</idno>
+                    </org>
+                    <org xml:id="org_0100">
+                        <orgName>Lyzeum Salzburg</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0101">
+                        <orgName>Gymnasium Neusatz</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0102">
+                        <orgName>Cisterzienserstift Engelszell</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1224816-2</idno>
+                    </org>
+                    <org xml:id="org_0103">
+                        <orgName>Gustav-Adolph-Verein</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0104">
+                        <orgName>Stift Schlägl</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2002080-6</idno>
+                    </org>
+                    <org xml:id="org_0105">
+                        <orgName>katholisch-theologische Akademie in Münster</orgName>
+                         <idno type="URL" subtype="GND"/>
+                    </org>
+                    <org xml:id="org_0106">
+                        <orgName>Stift Wilten</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/672482-6</idno>
+                    </org>
+                    <org xml:id="org_0107">
+                        <orgName>Stift Heiligenkreuz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/80820-9</idno>
+                    </org>
+                </listOrg>
+            </div>
+        </body>
+    </text>
+</TEI>

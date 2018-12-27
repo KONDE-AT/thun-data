@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="simor-an-thun-1854-12-23-a3-xxi-d296h.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-15-a3-xxi-d296g.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1858-06-18-a3-xxi-d455.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when="1854-12-23">23.
+                        Dezember 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D296</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>János Simor berichtet Minister Leo Thun von seinem Aufenthalt in Rom.
+                                Zunächst kündigt er jedoch seine baldige Rückkehr an. Anschließend
+                                geht er auf die Verhandlungen zum Konkordat ein. Diese waren durch
+                                eine Krankheit von Kardinal Santucci für einige Tage unterbrochen.
+                                Mittlerweile wurden sie fortgesetzt. Der Wiener Erzbischof Rauscher
+                                wird jedoch persönlich an den Kaiser über den Fortgang der
+                                Verhandlungen berichten. Kardinal Ján Scitovský will demnächst nach
+                                Ungarn zurückkehren. Simor betont, dass Scitovský durch sein
+                                Auftreten und seine Äußerungen mehrfach Anlass zu Scherzen gegeben
+                                und sein Ruf in der Stadt einigermaßen gelitten habe. Er nennt in
+                                der Folge die Männer, die Scitovský in Rom für Titel vorgeschlagen
+                                habe. Simor berichtet dann, dass die zuletzt mehrfach kolportierte
+                                Ausweisung der Jesuiten aus dem Königreich Neapel nicht mehr zu
+                                befürchten sei. Zuletzt verweist Simor noch einmal auf die
+                                außerordentliche Wirkung einer Predigt des Erzbischofs Rauscher in
+                                der Kirche Santa Maria dell'Anima, sowie auf die Angelegenheit
+                                dieser Kirche im Allgemeinen. Abschließend wünscht Simor dem
+                                Minister ein frohes neues Jahr und viel Ausdauer für die
+                                bevorstehenden Aufgaben.</p>
+                        </msContents>
+                        <physDesc>
+                            <p>Unter der Signatur A3 XXI D296 sind weitere sieben Briefe und
+                                Berichte Simors abgelegt:<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-11-a3-xxi-d296a.xml">János Simor an Leo Thun. Rom, 11. November 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-14-a3-xxi-d296b.xml">János Simor an Leo Thun. Rom, 14. November 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-17-a3-xxi-d296c.xml">János Simor an Leo Thun. Rom, 17. November 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-01-a3-xxi-d296d.xml">János Simor an Leo Thun. Rom, 1. Dezember 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-07-a3-xxi-d296e.xml">János Simor an Leo Thun. Rom, 7. Dezember 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-12-a3-xxi-d296f.xml">János Simor an Leo Thun. Rom, 12. Dezember 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-15-a3-xxi-d296g.xml">János Simor an Leo Thun. Rom, 15. Dezember 1854</ref>.</p>
+                        </physDesc>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#simor-johann">János Simor</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when="1854-12-23">23.
+                        Dezember 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vatikan</term>
+                    <term>Konkordat</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Ich habe die Ehre Euerer Excellenz gehorsamst anzuzeigen, daß ich die Rückreise
+                    am 27. dieses anzutreten gedenke. Wenn ich auch in dieser Jahreszeit nicht über
+                    dem Meere reisen werde, da ich mich jedoch am Wege nirgends länger aufhalten
+                    will, als wegen Visirung des Passes unumgänglich nothwendig sein wird, so hoffe
+                    ich am 4. oder 5. Jänner in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> einzutreffen.<lb/>Seit
+                    meinem letzten Schreiben ist hier nichts von Wichtigkeit vorgefallen, nur wurde
+                    die Verhandlung des Herrn <rs type="person" ref="#rauscher-joseph">Erzbischofs von
+                        Wien</rs> mit dem <rs type="person" ref="#santucci-vincenzo">Kardinal
+                        Santucci</rs> durch die Krankheit des letzteren auf 12 Tage
+                    unterbrochen, welche jedoch bereits wieder in ihrem wiewohl langsamen Gange
+                    begriffen ist. Über den Stand der Concordatsangelegenheit berichtet eben jetzt
+                    der <rs type="person" ref="#rauscher-joseph">Herr Erzbischof</rs> unmittelbar an
+                        <rs type="person" ref="#franz-joseph">Seine Majestät den Kaiser</rs>. Der
+                        <rs type="person" ref="#ketteler-wilhelm-emanuel">Bischof von Mainz</rs>,
+                    welcher hier als Abgesandter des <rs type="person" ref="#vicari-hermann">Erzbischofs von
+                        Freiburg</rs> und des oberrheinischen Episcopates verweilt, hat immer
+                    noch nicht den Mann gefunden, mit welchem er verhandeln könnte. Bei dem
+                    Umstande, daß hier der Grundsatz herrscht „festina lente“, läßt sich das Ende
+                    der Verhandlungen über unsere Angelegenheit nicht voraussehen, und somit kann
+                    auch die Zeit nicht bestimmt werden, wann der <rs type="person" ref="#rauscher-joseph">Herr Erzbischof</rs> wird abreisen können. Der Kardinal von
+                        <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs> [Esztergom] reist ab am 29. dieses und will über
+                        <rs type="place" subtype="place" ref="#place_44dd74f1f0839b82eafff78727d59982">Ancona</rs> gehen. Wie die Urtheile der einsichtsvolleren
+                    römischen Prälaten über ihn dermalen lauten, wollen Euere Excellenz aus der
+                    Äußerung des <rs type="person" ref="#santucci-vincenzo">Kardinals Santucci</rs>
+                    entnehmen „<rs type="person" ref="#scitovsky-jan">primas Hungariae</rs> est bonus
+                    sed simplex homo“ sagte dieser Kardinal zum <rs type="person" ref="#rauscher-joseph">Herrn Erzbischofe von Wien</rs>. Manche küchenlateinische Äußerungen
+                    desselben werden unter den Prälaten herumgetragen und herzlich belacht sogar vom
+                        <rs type="person" ref="#pius-IX">Heiligen Vater</rs>, welcher über Alles
+                    unterrichtet wird. Ich habe vorausgesehen und vorausgesagt, daß der <rs type="person" ref="#scitovsky-jan">Kardinal</rs> in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> sich
+                    in der öffentlichen Meinung zu Grunde richten wird. Übrigens ist er mit seinem
+                    hierortigen Aufenthalte satt und reist sehr gerne zurück. So viel mir bekannt
+                    ist, wurden von ihm folgende Männer für römische Titeln vorgeschlagen, und zwar
+                    pro Episcopis solio Pontificio Assistentibus: <rs type="person" ref="#sterca-sulutiu-alexandru">Sterka Sulucz</rs>, <rs type="person" ref="#fabry-ignaz">Fábry</rs>, <rs type="person" ref="#roskovanyi-augustin">Roskoványi</rs>, <rs type="person" ref="#szaniszlo-ferenc">Szaniszlo</rs>, <rs type="person" ref="#osegovich-emerich">Osegovich</rs>, <rs type="person" ref="#krautmann-joseph">Krautmann</rs>
+                    – pro Praelatis Domesticis: <rs type="person" ref="#nehiba-johann">Nehiba</rs>,
+                        <rs type="person" ref="#schirgl-andreas">Schirgl</rs>, <rs type="person" ref="#forgach-de-ghymes-august">Forgàch</rs>, <rs type="person" ref="#danielik-johann">Danielik</rs>; pro Cubiculariis: <rs type="person" ref="#hollok-emerich">Hollok</rs> (Rosenauer Domherr), Senerteczky[?]
+                    (Preßburger Domherr), <rs type="person" ref="#szabo-joseph">Szabó</rs>
+                    (Kanzleidirektor in <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs>), <rs type="person" ref="#szabo-johann">Szabó</rs> et <rs type="person" ref="#zalka-johann">Zalka</rs>
+                    (Professoren an der <rs type="org" ref="#org_0008">Universität zu
+                        Pesth</rs>), dann sind <rs type="person" ref="#szantofy-anton">Szàntòfy</rs>, <rs type="person" ref="#palasthy-paul">Palássty</rs>,
+                        <rs type="person" ref="#bubla-karl">Bubla</rs> (Sekretär zu Pirnau
+                        [<rs type="place" subtype="place" ref="#place_2856b996cf0fe5b2b0f5f9c907235664">Pornóapáti</rs>]), <rs type="person" ref="#schumichraszt-michael">Schumichrast</rs> (Gerichtsnotar zu <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs>)
+                    unter den Vorgeschlagenen. Für den Neffen des <rs type="person" ref="#palugyay-imrich">Bischofs Palugyai</rs> wurde um einen päpstlichen Orden
+                    eingeschritten. Ich konnte mich von dem Vorschlage nur mit der kathegorischen
+                    Erklärung befreien, werde ich ernannt, so werde ich dagegen protestiren, d. h.
+                    den mir verliehenen Titel durch aus nicht annehmen.<lb/>Nachdem die Jesuiten in
+                        <rs type="place" subtype="place" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</rs> auf‘s Verlangen des Ministers, welcher sie
+                    eines Abends mit seinem Besuche überraschte, schriftlich erklärt haben, daß sie
+                    die absolute monarchische Regierungsform für die beste und haltbarste
+                    anerkennen, und daß sie sich hiernach benehmen werden, wurde das bereits fertige
+                    Ausweisungsdekret zurückgenommen. <rs type="person" ref="#djunkovsky-paul-marie">Djunkovsky</rs>, welcher hier auf das <rs type="org" ref="#org_0005">Cultusministerium</rs>,
+                    vorzüglich aber auf mich tüchtig geschimpft hat, erhielt eine Sendung nach
+                    Scandinavien und Grönland und ist bereits auf dem Wege.<lb/>Die am 3. Sonntage
+                    des Advents gehaltene Rede des Herrn <rs type="person" ref="#rauscher-joseph">Erzbischofs
+                        von Wien</rs> hat sehr gefallen und wird im Drucke erscheinen; am 6.
+                    Jänner wird er abermals predigen. Das zu der deutschen Stiftung <rs type="org" ref="#org_0062">dell’Anima</rs> gehörige Haus ist bereits
+                    auserkoren, welches die deutschen Bischöfe in Pacht zu nehmen und als
+                    Absteigequartier zu benutzen gedenken. Die dogmatische Bulle über die
+                    „Immaculata“ ist noch immer nicht erschienen, wohl aber die am 9. dieses
+                    gehaltene „Allocution“. Erlauben Euere Excellenz, daß ich diesen meinen letzten
+                    Brief von <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> mit dem aufrichtigen und tief in dem
+                    innersten meiner Seele gefühlten Wunsche beschließe, Gott, der Herr möge Euere
+                    Excellenz auch im künftigen Jahre, ja durch eine unabsehbare Reihe kommender
+                    Jahre zum Wohle der Kirche und des Staates in dem besten Wohlsein erhalten: es
+                    möge Euerer Excellenz die Kraft von oben nie fehlen zur Ausdauer und zur
+                    Vollbringung Hochdero heilsamster und edelster Absichten. Ich bin dessen sicher,
+                    daß mir die bisherige Huld und Gnade Euerer Excellenz auch im neuen Jahre nicht
+                    entgehen werde, hätte ich nur auch die Kraft, um dieselbe zu
+                    verdienen.<lb/>Genehmigen Euere Excellenz den Ausdruck meiner tiefsten
+                    Verehrung, mit welcher ich die Ehre habe zu verharren </p>
+                <p>Rom, den 23. Dezember 1854</p>
+                <p>Euerer Exzellenz unterthänigst gehorsamster Diener<lb/>Simor</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="simor-johann">
+                        <persName>
+                            <surname>Simor</surname>
+                            <forename>János</forename>
+                        </persName>
+                        <note>
+                            <p>Székesfehérvár 1813–1891 Balatonfüred</p>
+                            <p>Priester, ab 1846 Prof. für Dogmatik im Priesterseminar Esztergom, ab 1850 Prof. für Kirchenrecht an der Universität Wien, ab 1857 Bischof von Györ, ab 1867 Erzbischof von Esztergom und Primas von Ungarn, 1873 Kardinal</p>
+                            <p>http://d-nb.info/gnd/123271606</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123271606</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="rauscher-joseph">
+                        <persName>
+                            <surname>Rauscher</surname>
+                            <forename>Josef Othmar</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1875 Wien</p>
+                            <p>ab 1825 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum Salzburg, ab 1832 Direktor der orientalischen Akademie in Wien, ab 1849 Fürstbischof von Seckau, ab März 1853 Erzbischof von Wien, ab 1855 Kardinal</p>
+                            <p>http://d-nb.info/gnd/118787977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118787977</tei:idno>
+                    </person>
+                <person xml:id="santucci-vincenzo">
+                        <persName>
+                            <surname>Santucci</surname>
+                            <forename>Vincenzo</forename>
+                        </persName>
+                        <note>
+                            <p>Gorga 1796–1861 Rocca di Papa</p>
+                            <p>ab 1853 Kardinal</p>
+                            <p>http://d-nb.info/gnd/117619027</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117619027</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="ketteler-wilhelm-emanuel">
+                        <persName>
+                            <surname>Ketteler</surname>
+                            <forename>Wilhelm Emmanuel</forename>
+                        </persName>
+                        <note>
+                            <p>Münster 1811–1877 Burghausen</p>
+                            <p>1850–1877 Bischof von Mainz</p>
+                            <p>http://d-nb.info/gnd/118561723</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118561723</tei:idno>
+                    </person>
+                <person xml:id="vicari-hermann">
+                        <persName>
+                            <surname>Vicari</surname>
+                            <forename>Hermann</forename>
+                        </persName>
+                        <note>
+                            <p>Aulendorf 1773–1868 Freiburg i. Breisgau</p>
+                            <p>ab 1832 Weihbischof von Freiburg, 1842–1868 Erzbischof von Freiburg</p>
+                            <p>http://d-nb.info/gnd/118945467</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118945467</tei:idno>
+                    </person>
+                <person xml:id="scitovsky-jan">
+                        <persName>
+                            <surname>Scitovský</surname>
+                            <forename>Ján</forename>
+                        </persName>
+                        <note>
+                            <p>Košická Belá 1785–1866 Esztergom</p>
+                            <p>ab 1838 Bischof von Pécs, ab 1849 Erzbischof von Esztergom und Primas von Ungarn, seit 1853 Kardinal</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="pius-IX">
+                        <persName>
+                            <surname>Pius IX.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Senigallia 1792–1878 Rom</p>
+                            <p>Papst von 1846–1878</p>
+                            <p>http://d-nb.info/gnd/118594729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118594729</tei:idno>
+                    </person>
+                <person xml:id="sterca-sulutiu-alexandru">
+                        <persName>
+                            <surname>Sterka-Suluz</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Abrud 1794–1867 Blasendorf</p>
+                            <p>ab 1850 griech.-kath. Bischof von Fǎgǎraş und Alba Iulia, 1854 Metropolit der griech.-kath. Metropolie Fǎgǎraş-Alba Iulia</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="fabry-ignaz">
+                        <persName>
+                            <surname>Fábry</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Sátoraljaujhelyi 1792–1867 Kosice</p>
+                            <p>1843–1852 Titularbischof von Boson, 1852–1867 Bischof von Kaschau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="roskovanyi-augustin">
+                        <persName>
+                            <surname>Roskoványi</surname>
+                            <forename>August</forename>
+                        </persName>
+                        <note>
+                            <p>Szenna 1807–1892 Neutra</p>
+                            <p>kath. Priester, ab 1841 Rektor des theolog. Seminars in Eger, ab 1851 Bischof von Vác, ab 1859 Bischof von Neutra</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="szaniszlo-ferenc">
+                        <persName>
+                            <surname>Szaniszló de Torda</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Szombathely 1792–1869 Alsó</p>
+                            <p>1850–1868 griech.-kath. Bischof von Großwardein</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="osegovich-emerich">
+                        <persName>
+                            <surname>Ožegović von Barlabaševec</surname>
+                            <forename>Mirko</forename>
+                        </persName>
+                        <note>
+                            <p>Vinarac 1775–1869 Zengg</p>
+                            <p>ab 1833 Bischof von Zengg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="krautmann-joseph">
+                        <persName>
+                            <surname>Krautmann</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Beckó 1789–1855 Esztergom</p>
+                            <p>1852–1855 Weihbischof von Tinninien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="nehiba-johann">
+                        <persName>
+                            <surname>Nehiba</surname>
+                            <forename>Johann Baptist</forename>
+                        </persName>
+                        <note>
+                            <p>Bács 1794–1875 Kalocsa</p>
+                            <p>Domherr von Kalocsa, Titularbischof von Tinnini</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="schirgl-andreas">
+                        <persName>
+                            <surname>Schirgl</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>Szomolnok 1811–1872 Esztergom</p>
+                            <p>Domherr in Esztergom</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="forgach-de-ghymes-august">
+                        <persName>
+                            <surname>Forgách de Ghymes et Gács</surname>
+                            <forename>August</forename>
+                        </persName>
+                        <note>
+                            <p>1814–1888</p>
+                            <p>Abt zur Heiligen Jungfrau de Kolos, Kanonikus a Latere, Titularbischof von Sebenico</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="danielik-johann">
+                        <persName>
+                            <surname>Danielik</surname>
+                            <forename>Johann Nepomuk</forename>
+                        </persName>
+                        <note>
+                            <p>Murány 1817–1888 Eger</p>
+                            <p>Domherr von Eger, ab 1848 Herausgeber der Zeitschrift „Religio és Nevelés“, Titularbischof von Pristini</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="hollok-emerich">
+                        <persName>
+                            <surname>Hollok</surname>
+                            <forename>Emmerich</forename>
+                        </persName>
+                        <note>
+                            <p>*Rosenau 1796</p>
+                            <p>Lehrer der Religionswissenschaft und ungarischen Sprache und Literatur am bischöfl. Lyzeum Rosenau, ab 1836 Assessor des Heiligen Stuhles, ab 1842 Titulardomherr, ab 1846 wirklicher Domherr zu Rosenau, ab 1850 Custodialdomherr, ab 1854 Apostolischer Notar</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="szabo-joseph">
+                        <persName>
+                            <surname>Szabó</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Kanzleidirektor in Gran</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="szabo-johann">
+                        <persName>
+                            <surname>Szabó</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Priester, Prof. der hebräischen Sprache und für Altes Testament an der Universität Pest</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="zalka-johann">
+                        <persName>
+                            <surname>Zálka</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Veszkény 1820–1901 Raab</p>
+                            <p>Prof. für Kirchengeschichte an der Universität Pest, ab 1867 Bischof von Raab</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="szantofy-anton">
+                        <persName>
+                            <surname>Szantofy/Szántoffy</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Propst und Dechant in Pest</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="palasthy-paul">
+                        <persName>
+                            <surname>Palásthy</surname>
+                            <forename>Paul</forename>
+                        </persName>
+                        <note>
+                            <p>Magyar-Iszep 1825–1899 Gran</p>
+                            <p>Priester, Prof. der Moraltheologie an der Universität Pest, ab 1886 Weihbischof von Gran</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="bubla-karl">
+                        <persName>
+                            <surname>Bubla</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Trenčín 1809–1889 Esztergom</p>
+                            <p>Domherr in Esztergom</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="schumichraszt-michael">
+                        <persName>
+                            <surname>Schumichraszt</surname>
+                            <forename>Michael</forename>
+                        </persName>
+                        <note>
+                            <p>1821–1869 Wien</p>
+                            <p>Notar des Erzbistums Gran, Domherr in Pressburg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="palugyay-imrich">
+                        <persName>
+                            <surname>Palugyai</surname>
+                            <forename>Emerich</forename>
+                        </persName>
+                        <note>
+                            <p>Palúdzka 1780–1858</p>
+                            <p>1830 Bischof von Kosice, 1838–1858 Bischof von Neutra</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="djunkovsky-paul-marie">
+                        <persName>
+                            <surname>Djunkovsky</surname>
+                            <forename>Paul Maria Etienne</forename>
+                        </persName>
+                        <note>
+                            <p>St. Petersburg 1821–1870</p>
+                            <p>russ.-kath. Missionar, ab 1855 apostolischer Präfekt für die Nordpolmission</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_cde856980f41b5362c96273d9c84431d">
+                        <placeName>Esztergom</placeName>
+                        <placeName type="alt">Graner</placeName>
+                        <placeName type="alt">Gran</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.7928 18.74148</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3053163/</idno>
+                    </place>
+                <place xml:id="place_44dd74f1f0839b82eafff78727d59982">
+                        <placeName>Ancona</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.5942 13.50337</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3183089/</idno>
+                    </place>
+                <place xml:id="place_2856b996cf0fe5b2b0f5f9c907235664">
+                        <placeName>Pernau</placeName>
+                        <placeName type="pref">Pornóapáti</placeName>
+                        <placeName type="alt">Pornóapáti</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.15634 16.46456</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046216/</idno>
+                    </place>
+                <place xml:id="place_2a4e63dc83d509fece21a7872f95a242">
+                        <placeName>Naples</placeName>
+                        <placeName type="pref">Neapel</placeName>
+                        <placeName type="alt">Neapels</placeName>
+                        <placeName type="alt">Neapel</placeName>
+                        <location>
+                            <geo decls="#LatLng">40.83333 14.25</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3172395/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0008">
+                        <orgName>Universität Pest</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/83557-2</idno>
+                    </org>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+                <org xml:id="org_0062">
+                        <orgName>Santa Maria dell' Anima</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/4402265-7</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

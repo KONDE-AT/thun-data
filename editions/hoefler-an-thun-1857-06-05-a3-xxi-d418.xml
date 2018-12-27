@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="hoefler-an-thun-1857-06-05-a3-xxi-d418.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1857-04-12-a3-xxi-d413.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1858-06-26-a3-xxi-d458.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1857-06-05">5. Juni 1857</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D418</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Constantin Höfler übersendet Thun einen Druck seiner Rede
+                            vom 28. Mai des Jahres, die er in der Aula der Universität gehalten hat.
+                            Bei dieser Gelegenheit wurden erstmals Preisfragen der Philosophischen
+                            Fakultät veröffentlicht. Die Rede und die Aufgaben wurden mit
+                            Begeisterung aufgenommen. Er hofft, dass Thun ebenfalls Zeit finden
+                            wird, sie zu lesen und er mit der Auswahl der Preisfragen zufrieden ist.
+                            Anschließend geht Höfler auf verschiedene Personalfragen ein und empfiehlt
+                            unter anderem den Englischlehrer Richard Raby, der sich für verschiedene
+                            Stellen in Prag beworben hat, und den Priester Martin Katzenberger aus
+                            Bamberg. Schließlich weist er darauf hin, dass demnächst die Beratungen
+                            hinsichtlich des Neubaus eines Gebäudes für die naturwissenschaftlichen
+                            Fächer anstünden. Dabei gäbe es jedoch verschiedene Hindernisse zu
+                            überwinden. Höfler hofft gleichzeitig, dass mit dem neuen Gebäude die
+                            Philosophische Fakultät wieder Räume im Carolinum erhalten werde.<lb/>In
+                            der Beilage teilt Höfler dem Minister die wesentlichen Ergebnisse der
+                            Beratungen für die Neuaufteilung der Räumlichkeiten an der Prager
+                            Universität mit. Zentrale Übereinkunft der Professoren war, beim
+                            Ministerium eine Verlegung des Altstädter Gymnasiums zu beantragen und
+                            in den dortigen Räumlichkeiten dann die naturwissenschaftlichen Fächer
+                            der Universität unterzubringen. Die Philosophische Fakultät solle
+                            außerdem jenen Hörsaal im Carolinum erhalten, den bisher der jüdische
+                            Buchhändler Schalek benütze. Damit könnte man von einem Neubau absehen.
+                            Höfler hofft, dass Thun diesen Vorschlag unterstützen wird.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d418_1">Zusammenfassung der Beratungen zur
+                                baulichen Umgestaltungen der Prager Universität.</tei:ref>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin">Constantin Höfler</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when="1857-06-05">5. Juni 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Prag</term>
+                    <term>Philosophische Fakultät</term>
+                    <term>Personalfragen</term>
+                    <term>Polytechnikum Prag</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Ich hielt es für meine Pflicht, das erste Exemplar meiner am 28. vorigen Monats
+                    in der akademischen Aula in Gegenwart Seiner Eminenz des <rs type="person" ref="#schwarzenberg-friedrich">Herrn Universitätskanzlers</rs>
+                    gehaltenen Rede<note xml:id="note_1">Vgl. <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10447669-8">Constantin Höfler, Die philosophische Fakultät, ihre Stellung zur
+                            Wissenschaft und zum Staate. Eine Rede, gehalten in der akademischen
+                            Aula der Carolo-Ferdinanda bei Gelegenheit der ersten Verkündigung von
+                            Preis-Aufgaben durch die philosophische Fakultät, Prag
+                        1857</ref>.</note> samt den Thematen der Preisaufgaben Eurer Excellenz
+                    zuzusenden, so daß sie meiner Berechnung nach zur selben Stunde, in welcher sie
+                    gehalten wurde, 12 Uhr, sich in den Händen Eurer Excellenz befinden sollte. Da
+                    mir aber Herr Dr. <rs type="person" ref="#nowak-august">Nowak</rs> meldete, sie sei
+                    unbegreiflicher Weise nicht Eurer Excellenz zu Handen gekommen, während ich sie
+                    doch selbst auf die Post trug und in Gegenwart des <rs type="person" ref="#gindely-anton">Dr. Gindely</rs> in den Kasten legte, so beeile ich mich Eurer
+                    Excellenz ein anderes Exemplar zu Füßen zu legen. Ich würde mich sehr glücklich
+                    fühlen, wenn Euer Excellenz es lesen wollten. Nach Allem, was mir von den
+                    verschiedensten Seiten gesagt wurde, ist der Gegensatz zwischen dem Alten und
+                    dem Neuen niemals bei einer öffentlichen Gelegenheit, vor einem gemischten
+                    Publicum so stark hervorgetreten und der Sieg des Letztern so augenfällig
+                    gewesen, als bei dieser Feier. Die Wirkung dürfte als nachhaltig bezeichnet
+                    werden. Ein wohlthätiges Feuer schien sich über die Versammlung zu verbreiten
+                    und daß ich (außer unseren Preisen) eine Handvoll Dukaten zu besserer Dotirung
+                    von den verschiedensten Personen erhielt, möchte dafür sprechen, daß die Sache
+                    auch in andern Kreisen Anklang fand. Ich habe die sehr triftigen Bemerkungen,
+                    welche einmal die Kreuzzeitung gegen Preisaufgaben machte, wenn dieselben ein
+                        <hi rend="ul">Famulat</hi> für ein bestimmtes System herbeiführen sollen
+                    oder den Candidaten aus seiner natürlichen Entwicklung herausreißen, sehr wohl
+                    beherziget und eben deshalb mich entschieden gegen eine derartige Auffassung
+                    ausgesprochen. Die philosophische Preisaufgabe ist mit bestimmter Rücksicht auf
+                    die Philologen, die historische mit gleicher Beziehung auf die cand. juris
+                    gegeben und berührt die Zeit, in welcher <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> die Verwirrung
+                    im deutschen Reiche klug benützend, sich aus der Zersplitterung zu staatlicher
+                    Einheit, aus dem Verfalle zu so großem Ansehen emporarbeitete, daß die Wendung
+                    der europäischen Politik durch die Erhebung <rs type="person" ref="#friedrich-II">Friedrichs II.</rs> von einem Könige Siciliens auf den deutschen
+                    Thron von <rs type="person" ref="#ottokar-I-premysl">Otokar I.</rs> ausging. Gebe
+                    Gott zum Ganzen seinen Segen!<lb/>Der Engländer <rs type="person" ref="#raby-richard">Raby</rs> aus <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, welcher in diesen Tagen
+                    hier war, ist wie ich eben hörte, vom Verwaltungsrath der Handelsschule zum
+                    Lehrer der englischen Sprache designirt. Ich führte ihn zu dem Herrn
+                    Generalgroßmeister, welcher ihm für den Fall, daß Euer Excellenz den
+                    Organisationsplan der <rs type="org" ref="#org_0052">polytechnischen Schule</rs>, wobei ein englischer Lehrer mit 600 fl
+                    ein Religionslehrer, Prediger und zugleich Professor der Philosophie mit 1600 fl
+                    beantragt sind, bekräftigen sollten, seine Stimme zu der erstgenannten cattedra
+                    versprach. Dasselbe hat so viel ich weiß auch <rs type="person" ref="#">Dr. Walter</rs>
+                    gethan. Endlich liegt von <rs type="person" ref="#raby-richard">Herrn Raby</rs>
+                    auch eine Eingabe an das philosophische Professorencollegium um eine
+                    Lectorstelle der englischen Sprache und Literatur vor. <rs type="person" ref="#ricard-anselme">Mr. Ricard</rs>, Professor der französischen
+                    Sprache und Literatur an der Handelsschule, hat mir heute ein Gesuch um eine
+                    Privatdocentur für französische Sprache und Literatur an unserer Facultät
+                    gebracht. Er spricht vortrefflich, hat ein sehr angenehmes Äußeres und scheint
+                    ein Mann von vieler Bildung zu sein. Ich darf vielleicht bei dieser Gelegenheit
+                    hinzufügen, daß die Sache seiner Ernennung als Privatdocent mit Sehnsucht
+                    entgegensieht – daß in <rs type="place" subtype="place" ref="#place_2a355a5b0521435f8248f11b12db208a">Bamberg</rs> ein Professor der
+                    Philosophie, namens <rs type="person" ref="#katzenberger-martin">Dr.
+                        Katzenberger</rs>, sich befinde, welcher als Geistlicher ebenso die
+                    allgemeine Achtung erlangte wie als Professor, wage ich in Bezug auf die bei dem
+                    Polytechnicum beantragte Stelle ganz unmaßgeblich zu bemerken.<lb/>Morgen findet
+                    eine Commissionssitzung in Betreff des Neubaues für naturwissenschaftliche
+                    Fächer statt. Der Rector, der philosophische Professorendecan und <rs type="person" ref="#pierre-viktor">Prof. Pierre</rs> werden sich hiebei für die
+                    Versetzung der Anatomie aus der Universität, dem Centrum der Stadt und dem
+                    Aufenthalt der Lebenden in das Krankenhaus und Unterbringung der Physik in den
+                    Räumen des Carolins aussprechen und in dieser Beziehung einen submissen Antrag
+                    stellen. Wie mir Prof. <rs type="person" ref="#loeschner-josef">Löscher</rs> [sic,
+                    richtig Löschner] sagt, scheitern viele sanitätspoliceiliche Maßregeln in
+                        <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> an der Thatsache, welche freilich einzig in
+                    ihrer Art sein dürfte, daß die Leichen vom Krankenhause durch den belebtesten
+                    Theil der Stadt ins Carolinum gebracht werden, daß dort Sectionen und Präparationen
+                    statt finden. Daß die philosophische Facultät, welcher <rs type="person" ref="#karl-IV">Kaiser Karl</rs> das Carolin schenkte, daselbst nicht einmal einen
+                    Hörsal besitzt, wohl aber <rs type="person" ref="#schalek-josef">H. Schalek</rs>
+                    die bel étage einnimmt, gehört mit zu den bedeutenden Eigenthümlichkeitn des
+                    Carolins. Und doch sind jetzt die philosophische und juristische Facultät so
+                    enge mit einander verbunden, daß ein philosophischer Hörsal im Carolinum bereits
+                    ein steigendes Bedürfnis wird, abgesehen von dem physikalischen, welcher wo
+                    möglich in der Nähe des chemischen Laboratoriums sein sollte.<lb/>Indem ich
+                    meine Bitte, Euer Excellenz möge die Rede einer gnädigen Aufmerksamkeit
+                    würdigen, zu wiederholen wage, habe ich die Ehre zu verharren in tiefster
+                    Ehrfurcht</p>
+                <p>Euer Excellenz<lb/>unterthänigst gehorsamster Diener<lb/>Dr. C. Höfler</p>
+                <p>Prag, 5. Juni 1857</p>
+                <div type="enclosure" xml:id="D418_1">
+                    <p>Da die Commission glücklicher Weise nach langen Erörterungen sich einigte, so
+                        erlaube ich mir Euer Excellenz die Anträge dem wesentlichen Inhalte nach
+                        vorzulegen:<lb/>1. Der projectirte Neubau im Clementinum unterbleibt.
+                        Dagegen sollen Eure Excellenz gebeten werden, das Altstädter Gymnasium zu
+                        verlegen – eventuell in das Bouquoische Haus – und dessen Räumlichkeiten den
+                        naturhistorischen Fächern zu übergeben.<lb/>2. Solle der erste Stock –
+                        unbeschadet der Wohnung des Bibliothekars – <rs type="person" ref="#pierre-viktor">Prof. Pierre</rs> für das physikalische Cabinet, Laboratorium,
+                        Hörsal, Wohnung des Cabinetsdieners eingeräumt werden.<lb/>3. Der zweite
+                        Stock, wie ihn das Altstädter Gymnasium besessen, solle dem <rs type="person" ref="#stein-samuel-friedrich">Prof. Stein</rs> für das zoologische
+                        Museum überwiesen werden.<lb/>4. <rs type="person" ref="#reuss-august">Prof.
+                            Reuß</rs> erhält für mineralogisches Cabinet, Hörsal,
+                        Arbeitszimmer, Lokalität für den Amtsdiener das bisherige zoologische
+                        Cabinet und die mineralogischen Localitäten zusammen.<lb/>5. Prof. <rs type="person" ref="#kosteletzky-vinzenz">Dr. Kosteletzký</rs> erhält einen Hörsal
+                        im Carolinum und zwar den, wo bisher der Buchhändler <rs type="person" ref="#schalek-josef">Schalek</rs> wohnte. Dieser Hörsal, welchen
+                        weder die medicinische noch die juristische Facultät benützt, wird zugleich
+                        von denjenigen Professoren der philosophischen Facultät benutzt, welche
+                        obligate Collegien für die Juristen lesen und bisher wegen Mangel an
+                        Hörsälen zur ungelegensten Stunde für Candidaten wie für Professoren lesen
+                        mußten. Dadurch wird einem wesentlichen Übelstande abgeholfen werden, ohne
+                        daß den beiden anderen Facultäten ein Nachtheil erwächst. Die philosophische
+                        Facultät beansprucht von ihnen nur das bescheidene Plätzchen, welches sie
+                        bisher dem Juden <rs type="person" ref="#schalek-josef">Schalek</rs> gönnten
+                        und doch ihren Collegen nicht verweigern werden! Zugleich soll hier, was uns
+                        bisher so sehr abging, ein Lesezimmer für die Professoren begründet
+                        werden.<lb/>6. Wird für den Fall der Verlegung des Altstädter Gymnasiums in
+                        das Bouquoische Haus beantragt, den Bau einer Capelle zu unterlassen, da die
+                        Nähe der Thein- und St. Gallikirchen dieselbe überflüssig machen.<lb/>Das
+                        ursprüngliche Project in Betreff der Versetzung der Anatomie ward aus dem
+                        Grund aufgegeben, weil es zwar für die Physik am vortheilhaftesten, aber in
+                        Betreff der übrigen naturhistorischen Fächer nicht ausgiebig wäre. Es müßte
+                        dann doch der Neubau geführt werden, während man so dem Staate die
+                        bedeutende Ausgabe erspart.<lb/>Ich erlaube mir nun Eurer Excellenz diese
+                        unmaßgeblichen Vorschläge, in welchen sich Prof. <rs type="person" ref="#kosteletzky-vinzenz">Kosteletzký</rs>, <rs type="person" ref="#reuss-august">Reuß</rs>, <rs type="person" ref="#stein-samuel-friedrich">Stein</rs>, <rs type="person" ref="#pierre-viktor">Pierre</rs> mit mir einigten, um so mehr zu
+                        empfehlen, als von unserer Seite nur das wissenschaftliche Interesse
+                        vorwaltet und wir ja bei einer Verlegung des Gymnasiums in das Bouquoische
+                        Haus nicht wohlfeile Mieten verlieren, wie dieses der Fall bei den
+                        juristischen Professoren und wohl auch der Grund partieller Abneigung gegen
+                        den erwähnten Vorschlag ist.</p>
+                    <p>In tiefster Ehrfurcht<lb/>Höfler</p>
+                </div>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="hoefler-karl-adolf-constantin">
+                        <persName>
+                            <surname>Höfler</surname>
+                            <forename>Karl Adolf Constantin</forename>
+                        </persName>
+                        <note>
+                            <p>Memmingen 1811–1897 Prag</p>
+                            <p>ab 1836 Privatdozent für Geschichte an der Universität München, ab 1839 Prof. an der Universität München, 1847 Zwangspensionierung, ab 1847 Kreisarchivar in Bamberg, ab 1852 Prof. für allgemeine Geschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/118774654</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118774654</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="schwarzenberg-friedrich">
+                        <persName>
+                            <surname>Schwarzenberg</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1809–1885 Wien</p>
+                            <p>1836 Fürsterzbischof von Salzburg, ab 1842 Kardinal, ab 1850 Erzbischof von Prag</p>
+                            <p>http://d-nb.info/gnd/118763024</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118763024</tei:idno>
+                    </person>
+                <person xml:id="nowak-august">
+                        <persName>
+                            <surname>Nowak</surname>
+                            <forename>August</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Prof. der politischen Wissenschaften an der Universität Wien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="gindely-anton">
+                        <persName>
+                            <surname>Gindely</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1829–1892 Prag</p>
+                            <p>Lehrer für Deutsch an der Böhmischen Realschule in Prag, 1853–1855 Supplent für allgemeine und österr. Geschichte an der Universität Olmütz, ab 1857 Lehrer an der Böhmischen Realschule in Prag, ab 1862 Prof. an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/116632607</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116632607</tei:idno>
+                    </person>
+                <person xml:id="friedrich-II">
+                        <persName>
+                            <surname>Friedrich II.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Jesi bei Ancona 1194–1250 Castel Fiorentino b. Lucera</p>
+                            <p>ab 1198 König von Sizilien, ab 1211/12 deutscher König, 1120–1250 Kaiser des HRR</p>
+                            <p>http://d-nb.info/gnd/118535765</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535765</tei:idno>
+                    </person>
+                <person xml:id="ottokar-I-premysl">
+                        <persName>
+                            <surname>Ottokar I. Přemysl</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>1160/65–1230</p>
+                            <p>1198–1230 König von Böhmen</p>
+                            <p>http://d-nb.info/gnd/11949129X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11949129X</tei:idno>
+                    </person>
+                <person xml:id="raby-richard">
+                        <persName>
+                            <surname>Raby</surname>
+                            <forename>Richard</forename>
+                        </persName>
+                        <note>
+                            <p>1816–1881</p>
+                            <p>engl. Autor und Übersetzer, lebte in München</p>
+                            <p>http://d-nb.info/gnd/104232390</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104232390</tei:idno>
+                    </person>
+                <person xml:id="ricard-anselme">
+                        <persName>
+                            <surname>Ricard</surname>
+                            <forename>Anselme</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Prof. der französischen Sprache an der höheren Handelslehranstalt in Prag, Lektor der französischen Sprache an der Universität Prag</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="katzenberger-martin">
+                        <persName>
+                            <surname>Katzenberger</surname>
+                            <forename>Martin</forename>
+                        </persName>
+                        <note>
+                            <p>Niederlauer 1821–1902 Bamberg</p>
+                            <p>Priester, ab 1850 Prof. der Philosophie am Lyzeum in Bamberg, ab 1876 Direktor des Lyzeums</p>
+                            <p>http://d-nb.info/gnd/116067888</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116067888</tei:idno>
+                    </person>
+                <person xml:id="pierre-viktor">
+                        <persName>
+                            <surname>Pierre</surname>
+                            <forename>Victor</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1819–1886 Wien</p>
+                            <p>ab 1844 Assistent am physikalischen Institut an der Universität Wien, 1851–1853 Prof. der Physik an der Technischen Militärakademie Wien, ab 1853 Prof. der Physik an der Universität Lemberg, ab 1857 Prof. der Physik an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/118897578</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118897578</tei:idno>
+                    </person>
+                <person xml:id="loeschner-josef">
+                        <persName>
+                            <surname>Löschner</surname>
+                            <forename>Josef Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Kaaden 1809–1888 Welchau</p>
+                            <p>Pädiater und Balneologe, ab 1842 Herausgeber der „Prager Vierteljahresschrift für die praktische Heilkunde“, ab 1849 Prof. der Kinderheilkunde an der Universität Prag, ab 1865 Ministerial- und Sanitätsreferent im Staatsministerium</p>
+                            <p>http://d-nb.info/gnd/126556717</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/126556717</tei:idno>
+                    </person>
+                <person xml:id="karl-IV">
+                        <persName>
+                            <surname>Karl IV.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1316–1378 Prag</p>
+                            <p>ab 1347 König von Böhmen, 1355–1378 Kaiser des HRR</p>
+                            <p>http://d-nb.info/gnd/118560085</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118560085</tei:idno>
+                    </person>
+                <person xml:id="schalek-josef">
+                        <persName>
+                            <surname>Schalek</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Buchhändler Prag</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="stein-samuel-friedrich">
+                        <persName>
+                            <surname>Stein</surname>
+                            <forename>Samuel Friedrich Nathaniel</forename>
+                        </persName>
+                        <note>
+                            <p>Niemegk bei Potsdam 1818–1885 Prag</p>
+                            <p>ab 1849 Kustos des Zoologischen Museums der Universität Berlin, 1850–1855 Prof. für Zoologie an der Forstakademie zu Tharandt, ab 1855 Prof. für Zoologie an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/117240265</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117240265</tei:idno>
+                    </person>
+                <person xml:id="reuss-august">
+                        <persName>
+                            <surname>Reuss</surname>
+                            <forename>August Emanuel</forename>
+                        </persName>
+                        <note>
+                            <p>Bilin 1811–1873 Wien</p>
+                            <p>Arzt, ab 1849 Prof. für Mineralogie an der Universität Prag, 1863–1873 Prof. an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/10082594X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/10082594X</tei:idno>
+                    </person>
+                <person xml:id="kosteletzky-vinzenz">
+                        <persName>
+                            <surname>Kostelecky</surname>
+                            <forename>Vinzenz Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Brünn 1801–1887 Prag</p>
+                            <p>ab 1835 Prof. der medizin.-pharmazeut. Botanik an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/104330643</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104330643</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+                <place xml:id="place_2a355a5b0521435f8248f11b12db208a">
+                        <placeName>Bamberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.89873 10.90067</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2952984/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0052">
+                        <orgName>Polytechnikum Prag</orgName>
+                        <!-- fraglich <idno type="URL" subtype="GND">http://d-nb.info/gnd/507911-1</idno> -->
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

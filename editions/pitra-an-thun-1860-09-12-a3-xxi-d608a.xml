@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="pitra-an-thun-1860-09-12-a3-xxi-d608a.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/pitra-an-thun-1860-09-04-a3-xxi-d608.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-gumpendorf-an-stadthauptmannschaft-1851-02-28-a3-xxi-d106.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#pitra-jean-baptiste" role="sender:kleriker">Jean-Baptiste
+                        Pitra</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1860-09-12">12.
+                        September 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D608</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Benediktinermönch Jean-Baptiste Pitra erinnert Leo Thun an ihr
+                            gemeinsames Treffen und bietet ihm neuerlich an, Informationen über den
+                            Basilianer-Orden zur Verfügung zu stellen. Pitra plädiert für eine
+                            Unterstützung dieses Ordens. Pitra fügt seinen mündlichen Vorschlägen
+                            außerdem einige weitere Hinweise zu den Problemen des Ordens hinzu.
+                            Pitra bittet Thun, seine Briefe und die Unterhaltung vertraulich zu
+                            behandeln, da er keinen offiziellen Auftrag habe, diese Recherchen
+                            durchzuführen. Er empfiehlt Thun die Bibliothek der Benediktinerabtei in
+                            Solesmes.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Französisch.</p>
+                        <p>Der Brief ist im Nachlass als Beilage zum Brief: <ref target="thun/thun-korrespondenz/tetschen/pitra-an-thun-1860-09-04-a3-xxi-d608.xml">Jean-Baptiste Pitra an Leo Thun. Wien, 4. September 1860,</ref>
+                            abgelegt.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#pitra-jean-baptiste">Jean-Baptiste Pitra</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1860-09-12">12.
+                        September 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Basilianer</term>
+                </index>
+                <p>Monsieur le Comte</p>
+                <p>Chaque jour rend tellement graves les circonstances où nous sommes que je me fais
+                    un devoir de ne pas occuper par un nouvel entretien les moments de Votre
+                    Excellence, consacrés à tant de sollicitudes. Il m'eut, et, je l'avoue, aussi
+                    agréable qu'honorable de rencontrer une fois de plus dans ma position aussi
+                    élevé et au milieu de préoccupations si grandes, ce rare intérêt, pour les
+                    questions monastiques, cette intelligente et bienveillante attention dont je
+                    garde un long et profond souvenir.<lb/>J'ose ajouter, Monsieur le Comte, que si
+                    plus tard et dans un temps plus opportun, Votre Excellence daignait se rappeler
+                    que j'ai recueilli sur les Basiliens beaucoup de notes et de documents qui
+                    pourraient n'être pas inutiles. Je serai heureux qu'une occasion s'offrit de les
+                    mettre à la disposition de Votre Excellence, autant que le permettra la
+                    discrétion confidentielle que je dois m'imposer.<lb/>C'est un point surtout que
+                    j'ai pu à peine aborder, bien qu'il me paraisse le plus important de tous.
+                    L'ordre de Saint-Basile, dont la constitution séculaire de l'Église grecque, est
+                    essentiellement hiérarchique. L'Episcopat en sort et lui doit en grande partie
+                    son prestige et le respect des peuples, en même temps qu'il peut et doit
+                    puissamment contribuer à la vie, à la force, à la splendeur de l'ordre. Cette
+                    harmonie a été rompue parmi nous. La rupture avec la hiérarchie et l'antagonisme
+                    du clergé séculier, telle est peut être la principale cause de la décadence de
+                    l'ordre Basilien.<lb/>Si la Providence permettait la création d'un nouveau siège
+                    de rite grec, si Vellehrad [Velehrad] devenait tôt ou tard, pour les slaves de
+                    ce rite épars dans la <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Moravie</rs> et la <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Bohème</rs>, non seulement une abbaye Basilienne mais une
+                    Église épiscopale, ce serait peut être une occasion décelable, selon l'esprit et
+                    la discipline de l'Église orientale une véritable hiérarchie Basilienne. Cette
+                    intéressante question mériterait alors une étude spéciale par laquelle je serais
+                    heureux l'humble et faible concours de mes recherches.<lb/>Mais je trouve,
+                    Monsieur le Comte, à ces choses tellement délicates que je n'oserai avancer,
+                    sans connaître les cries de l'autorité suprême en pareille matière et sans être
+                    spécialement autorisé à m'en occuper. Je prie Votre Excellence de vouloir bien
+                    considérer ceci et tout ce que j'ai eu l'honneur de lui dire et d'écrire, comme
+                    étant tout à fait personnel et privé, n'ayant aucun caractère officiel pour
+                    moi-même et n'étant appelé à faire ces recherches et à donner quelques
+                    explications confidentielles que pour un cas transitoire et exceptionnel.<lb/>En
+                    prenant congé de Votre Excellence et en lui renouvelant l'humble expression de
+                    la commune reconnaissance des Bénédictins de France, j'oserai recommander encore
+                    à votre bienveillante et généreuse attention la Bibliothèque de l'Abbaye de
+                        <rs type="place" subtype="place" ref="#place_1544719c927e90192452512a8a948491">Solesmes</rs>. Si à la belle collection liturgique que
+                    j'ai eu l'honneur de recevoir du Ministre des Cultes de <rs type="person" ref="#franz-joseph">Sa Majesté impériale et royale</rs>, Son
+                    Excellence, le président de <rs type="org" ref="#org_0015">l'académie de sciences</rs> de <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Vienne</rs> daignait plus tard ajouter quelques unes de productions
+                    de cette [?], nous serions heureux de les joindre aux travaux des corps savants
+                    de l'Europe, que nous nous efforçons de réunir. Nous attacherions surtout une
+                    importance spéciale aux catalogues des manuscrits de l'Emprie [Empire] qui
+                    pourraient se publier, aux autres originaux des conciles, des Églises et des
+                    abbayes, et spécialement à la collection déjà considérable des sources de
+                    l'histoire d'Autriche.<lb/>J'ose espérer que Votre Excellence daignera pardonner
+                    tout ce qui a pu m'échapper d'indiscret, et agréer les profond et reconnaissant
+                    respect avec lequel j'ai l'honneur d'être</p>
+                <p>De Votre Excellence</p>
+                <p>Monsieur le Comte</p>
+                <p>Le très humble et obéissant serviteur<lb/> Y. B. Pitra de l'ordre de S. B.<lb/>à
+                    l'Abbaye de Solesmes (Sarthe) France</p>
+                <p>P.S. Qu'il me soit permis de rectifier ici un détail concernant les Basiliens
+                    dont la procure générale à <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs> était attachée
+                    à l'Église des S.S. Serge et Bacchus.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="pitra-jean-baptiste">
+                        <persName>
+                            <surname>Pitra</surname>
+                            <forename>Jean-Baptiste-Francois OSB</forename>
+                        </persName>
+                        <note>
+                            <p>Champforgeuil 1812–1889 Rom</p>
+                            <p>1835–1840 Prof. am Priesterseminar von Autun, 1842 Eintritt in die Abtei von Solesmes, ab 1863 Kardinal, ab 1869 Kardinalbibliothekar</p>
+                            <p>http://d-nb.info/gnd/118964577</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118964577</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_fc9c3a7e02f8a9d5ed9033b572285243" type="placeName">
+                        <placeName type="pref">Mähren</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 17</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/64402-X</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                <place xml:id="place_1544719c927e90192452512a8a948491">
+                        <placeName>Solesmes</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.85009 -0.29806</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2974361/</idno>
+                    </place>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0015">
+                        <orgName>kaiserliche Akademie der Wissenschaften</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/110494894X</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="attems-an-thun-1859-07-19-a3-xxi-d513.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/attems-an-thun-1855-08-10-a3-xxi-d347e.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-thun-polen-od-a3-xxi-d637.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#attems-ottokar-maria" role="sender:kleriker">Ottokar
+                        Attems</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>, <date when="1859-07-19">19. Juli 1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D513</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Fürstbischof Ottokar Maria Attems empfiehlt den provisorischen Direktor
+                            und Katecheten der Hauptschule Hallein, Albin Mauß, für den
+                            Direktorposten an der Normalhauptschule in Salzburg. Mauß sei
+                            fortwährend bemüht, sich weiterzubilden und besitze umfangreiche
+                            Kenntnisse des Schulwesens. Der Fürstbischof kennt Mauß persönlich,
+                            weshalb er überzeugt ist, dass dieser die Stelle zur vollsten
+                            Zufriedenheit ausfüllen werde.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#attems-ottokar-maria">Ottokar Attems</rs>
+                    <settlement ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</settlement>
+                    <date when="1859-07-19">19. Juli 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Lehrerausbildung</term>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                </index>
+                <p>Hochgeborner Graf!</p>
+                <p>Unter den Competenten für die Direktorstelle an der k.k. Normalhauptschule zu
+                        <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs> befindet sich auch der provisorische
+                    Direktor und Katechet der k.k. Hauptschule zu <rs type="place" subtype="place" ref="#place_f7688f95685985f806fab40e78596fe8">Hallein</rs>
+                    <rs type="person" ref="#mauss-albin">Albin Mauß</rs>. Derselbe war, als ich
+                    Dompfarrer und Stadtdechant in <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs> war, mein
+                    Cooperator und ich hatte da um so bessere Gelegenheit, seine gediegenen
+                    Schulkenntnisse, seine besondere Vorliebe für das Schulfach und sein fruchtbares
+                    Einwirken auf Herz und Verstand der Kinder kennen zu lernen. Seit 5 Jahren ist
+                    er nun mit der Leitung und dem Katechetenamte an der <rs type="place" subtype="place" ref="#place_f7688f95685985f806fab40e78596fe8">Halleiner</rs> Hauptschule betraut, er versieht dieses Amt ohne
+                    irgend einem Gehalte oder einer Remuneration und ist fortwährend bemüht, sich im
+                    Schulfache theoretisch und praktisch immer mehr auszubilden. Über seine
+                    Leistungen dürfte er sich mit den besten Anerkennungszeugnissen ausweisen
+                    können.<lb/>Erlauben Euer Excellenz nun, daß ich diesen Competenten
+                    Hochdenenselben für die <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburger</rs>
+                    Normalschuldirektorsstelle bestens empfehle. Ich bin überzeugt, daß diese Stelle
+                    durch <rs type="person" ref="#mauss-albin">Albin Mauß</rs> vollkommen zur
+                    allseitigen Zufriedenheit ausgefüllt werden würde.<lb/>Genehmigen Hochdieselben
+                    bei dieser Gelegenheit den erneuerten Ausdruck meiner ausgezeichnetsten
+                    Hochachtung und besonderen Verehrung, womit ich geharre</p>
+                <p>Eurer Excellenz</p>
+                <p>gehorsamster Diener<lb/>Ottokar Maria<lb/>Fürstbischof</p>
+                <p>Gratz, den 19. Juli 1859</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="attems-ottokar-maria">
+                        <persName>
+                            <surname>Attems</surname>
+                            <forename>Ottokar Maria</forename>
+                        </persName>
+                        <note>
+                            <p>Graz 1815–1867 Graz</p>
+                            <p>1837–1853 Priester in Seckau, 1853–1867 Bischof von Seckau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="mauss-albin">
+                        <persName>
+                            <surname>Mauß</surname>
+                            <forename>Albin</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Priester, Katechet und Direktor der Hauptschule Hallein, ab 1859 Direktor der Normalhauptschule und Lehrerbildungsanstalt in Salzburg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+                <place xml:id="place_f2646aa02d03ac5a141ef404d919cd11">
+                        <placeName>Salzburg</placeName>
+                        <placeName type="pref">salzburg</placeName>
+                        <placeName type="alt">Salzburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.79941 13.04399</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2766824/</idno>
+                    </place>
+                <place xml:id="place_f7688f95685985f806fab40e78596fe8">
+                        <placeName>Hallein</placeName>
+                        <placeName type="alt">Halleiner</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.68333 13.1</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2776951/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

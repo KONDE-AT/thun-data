@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="wolkenstein-an-thun-1851-05-19-a3-xxi-d116.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1850-12-02-a3-xxi-d78.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-11-24-a3-xxi-d132.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#wolkenstein-karl" role="sender:beamter">Karl
+                        Wolkenstein</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                    Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_856c6e6d864e89a9e54edf46d1f5a8b2">Brunnersdorf</rs>, <date when="1851-05-19">19. Mai 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D116</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Karl Wolkenstein schlägt Thuns Angebot aus, ein Amt in Tirol anzunehmen.
+                            Wolkenstein gesteht allerdings, dass ihm die Aussicht auf eine Rückkehr
+                            in die Heimat sehr gefallen habe. Dies würde jedoch auch bedeuten, seine
+                            Besitzungen in Brunnersdorf, die ihm ans Herz gewachsen seien, verlassen
+                            und damit vernachlässigen zu müssen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D78</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#wolkenstein-karl">Karl Wolkenstein</rs>
+                    <settlement ref="#place_856c6e6d864e89a9e54edf46d1f5a8b2">Brunnersdorf</settlement>
+                    <date when="1851-05-19">19. Mai 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Tirol</term>
+                    <term>Neoabsolutismus</term>
+                </index>
+                <p>19.5.1851</p>
+                <p>Werthester Freund!</p>
+                <p>Erst gestern abends bin ich von <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>,
+                    wohin mich Familiengeschäfte führten, zurückgekehrt, dies zur Entschuldigung,
+                    wenn die Beantwortung deines während meiner Abwesenheit eingelangten Schreibens
+                    so spät erfolgt. So viel Versuchendes für mich in dem Gedanken liegt wieder in
+                    das <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Land</rs> zurückzukehren, welchem meine Familie
+                    angehört, an dem ich selbst noch nach 30jähriger Abwesenheit mit Vorliebe hänge,
+                    so gestatten mir doch anderweitige Rücksichten nicht, jener Versuchung zu folgen
+                    und den ehrenden Antrag anzunehmen. Nebst anderen Erwägungen tritt da ein, daß
+                    mich die weite Entfernung meinem hiesigen Besitzthum nahezu entfremden würde,
+                    was einstheils nach den bedeutenden Verlusten, die ich erfahren habe, öconomisch
+                    unzulässig ist, anderntheils aber darum nicht angemessen erscheint, weil ich es
+                    gerade in unserer Zeit für doppelt nöthig halte, die Basis, die uns geblieben
+                    ist, nicht zu vernachlässigen.<lb/>Für heute muß ich schließen, da mir noch eine
+                    ziemliche Zahl anderer zu beantwortender Briefe vorliegt.</p>
+                <p>Dein</p>
+                <p>treuer Freund<lb/>Wolkenstein</p>
+                <p>Brunnersdorf, 19.5.1851</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="wolkenstein-karl">
+                        <persName>
+                            <surname>Wolkenstein-Trostburg</surname>
+                            <forename>Karl Friedrich Otto</forename>
+                        </persName>
+                        <note>
+                            <p>Passau 1802–1875 Teplitz</p>
+                            <p>bis 1848 Richter, zuletzt Präsident des Landrechts in Brünn, 1848 Rückzug ins Privatleben, 1860 Mitglied des verstärkten Reichsrats</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_856c6e6d864e89a9e54edf46d1f5a8b2">
+                        <placeName>Prunéřov</placeName>
+                        <placeName type="pref">Brunnersdorf [Prunéřov]</placeName>
+                        <placeName type="alt">Brunnersdorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.40067 13.27796</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067382/</idno>
+                    </place>
+                <place xml:id="place_494eccfffbfff4c93f6e601ab346a3cf">
+                        <placeName>Okres Bratislava I</placeName>
+                        <placeName type="pref">Preßburg [Bratislava]</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Presburg</placeName>
+                        <placeName type="alt">Preßburger</placeName>
+                        <placeName type="alt">Presburger</placeName>
+                        <placeName type="alt">Pressburger</placeName>
+                        <placeName type="alt">Pressburg</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">Preßburgs</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.14653 17.10584</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8986283/</idno>
+                    </place>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

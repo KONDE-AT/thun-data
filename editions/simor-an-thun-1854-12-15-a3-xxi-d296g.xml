@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="simor-an-thun-1854-12-15-a3-xxi-d296g.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-12-a3-xxi-d296f.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-23-a3-xxi-d296h.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when="1854-12-15">15.
+                        Dezember 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D296</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>János Simor berichtet Leo Thun aus Rom von Fortschritten bei den
+                            Verhandlungen zum Konkordat: Zwischen Kardinal Santucci und dem Wiener
+                            Erzbischof habe es offenbar eine grundsätzliche Einigung in der bisher
+                            schwierigen Frage der Ehegesetze gegeben. Erzbischof Rauscher sei daher guter
+                            Hoffnung, jedoch enttäuscht über den langsamen Fortschritt der
+                            Verhandlungen. Allgemein zweifle derzeit aber niemand mehr am
+                            Zustandekommen des Konkordats. Außerdem äußerte sich der Kardinal
+                            lobend über den Charakter und die Fähigkeiten des Wiener Erzbischofs.
+                            Anschließend berichtet Simor von den Bestrebungen des Olmützer
+                            Domkapitels, seine Privilegien zu retten. Schließlich weist Simor darauf
+                            hin, dass der König von Neapel den Jesuiten ihre Schule entziehen wolle,
+                            um sie den Piaristen zu übergeben. Zuletzt erklärt er, dass das Gerücht,
+                            Kardinalstaatssekretär Antonelli werde bald abgelöst werden, jeglicher
+                            Grundlage entbehre.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Unter der Signatur A3 XXI D296 sind weitere sieben Briefe und Berichte
+                            Simors abgelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-11-a3-xxi-d296a.xml">János Simor an Leo Thun. Rom, 11. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-14-a3-xxi-d296b.xml">János Simor an Leo Thun. Rom, 14. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-17-a3-xxi-d296c.xml">János Simor an Leo Thun. Rom, 17. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-01-a3-xxi-d296d.xml">János Simor an Leo Thun. Rom, 1. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-07-a3-xxi-d296e.xml">János Simor an Leo Thun. Rom, 7. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-12-a3-xxi-d296f.xml">János Simor an Leo Thun. Rom, 12. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-23-a3-xxi-d296h.xml">János Simor an Leo Thun. Rom, 23. Dezember 1854</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#simor-johann">János Simor</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when="1854-12-15">15.
+                        Dezember 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vatikan</term>
+                    <term>Konkordat</term>
+                    <term>Gesellschaft Jesu</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Heute kann ich Euerer Excellenz über den Stand der Verhandlungen in Betreff des
+                    Concordats, wenn auch vor der Hand sehr wenig, aber doch Erfreuliches berichten.
+                    Wenn nicht Alles trügt, so ist zwischen dem <rs type="person" ref="#santucci-vincenzo">Kardinal Santucci</rs> und dem <rs type="person" ref="#rauscher-joseph">Herrn
+                        Erzbischof</rs> eine Verständigung in Bezug auf die schwierige
+                    Ehefrage herbeigeführt worden. Man verhandelt gegenwärtig schon über andere
+                    Punkte, namentlich über die von dem apostolischen Stuhle in Anspruch genommene
+                    Reservation mancher Pfründen an den Domkapiteln. <rs type="person" ref="#santucci-vincenzo">Santucci</rs> zweifelt nicht, daß die
+                    Verhandlungen mit dem gewünschten Erfolge gekrönt sein werden. Der Herr
+                        <rs type="person" ref="#rauscher-joseph">Erzbischof</rs> ist auch mit dem
+                    Stande der Verhandlungen zufrieden und hofft das Beste, nur über den langsamen
+                    Gang derselben klagt er. Ich sage darauf, man muß Geduld haben. Hier in
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> zweifelt überhaupt niemand mehr, daß das
+                    Concordat zu Stande kommen wird. Die Olmützer Herren agitiren durch den
+                    Monsignor <rs type="person" ref="#hohenlohe-schillingfuerst-gustav">Hohenlohe</rs>,
+                    um ihr vermeintes Privilegium, wornach das Domcapitel nur aus lauter adeligen
+                    Herren bestehen soll, zu retten. Vielleicht kam <rs type="person" ref="#lichnowsky-robert">Lichnovsky</rs> deshalb nach Rom, welchen ich
+                    jedoch noch nicht gesehen habe. Obschon ich weiß, daß der <rs type="person" ref="#rauscher-joseph">Herr Erzbischof</rs> über den Stand und Gang der
+                    Verhandlungen berichtet, so glaube ich dennoch über diese erfreuliche Wendung
+                    unserer so wichtigen Angelegenheit schreiben zu sollen. Der <rs type="person" ref="#santucci-vincenzo">Kardinal Santucci</rs> hat sich gegen einen
+                    Bischof über den <rs type="person" ref="#rauscher-joseph">Erzbischof von Wien</rs>
+                    also geäußert: Man hat uns gesagt, der <rs type="person" ref="#rauscher-joseph">Erzbischof</rs> habe bloß belletristische und keine theologischen
+                    Kenntnisse, nun sehen wir aber, daß er auch auf dem Gebiete der Theologie sehr
+                    bewandert ist. Der <rs type="person" ref="#rauscher-joseph">Erzbischof</rs> lobt
+                    den <rs type="person" ref="#santucci-vincenzo">Kardinal</rs> gleichfalls, nur
+                    bedauert er, daß der <rs type="person" ref="#santucci-vincenzo">Kardinal</rs> nicht
+                    besser französisch spricht. Den Jesuiten droht ein harter Schlag von Seite
+                        <rs type="place" subtype="place" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapels</rs>, der König hat erklärt,
+                    denselben alle Lehranstalten nehmen und den Piaristen übergeben zu wollen, und
+                    wirklich hat er sie bereits aus zwei Seminarien vertreiben lassen. Ursache
+                    hievon soll die Haltung der „Civilta Cattolica“ sein, wo man zu sehr auf die
+                    Freiheit der Kirche drängt, und wo die Schwierigkeiten in Bezug auf die
+                    Zulassung der besagten Zeitschrift in das Königreich beider Sicilien etwas
+                    unzart besprochen wurden. Andere meinen, diese Maßregel sei der Thätigkeit der
+                    geheimen Gesellschaften zuzuschreiben. Die Verhandlungen sind im Gange, um den
+                    König auf andere Gedanken zu bringen, man hofft jedoch und verspricht sich davon
+                    wenig Erfolg. Künftigen Sonntag wird der <rs type="person" ref="#rauscher-joseph">Herr
+                        Wiener Erzbischof</rs> in der deutschen Kirche predigen und an einem
+                    der kommenden Festtage der <rs type="person" ref="#ketteler-wilhelm-emanuel">Bischof von
+                        Mainz</rs>. Die Nachricht des „Lloyd“ <rs type="person" ref="#antonelli-giacomo">Kardinal Antonelli</rs> werde abtreten und
+                    dessen Stelle der Kardinal <rs type="person" ref="#marini-pietro">Marini</rs>
+                    einnehmen, scheint aus der Luft gegriffen worden zu sein, hier in
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> weiß davon Niemand etwas. Ich habe die
+                    Bekanntschaft des P. Steiner gemacht, über dessen erstaunliche litherarische
+                    Arbeiten ich mündlich referiren werde. Der <rs type="person" ref="#foerster-heinrich">Bischof von Breslau</rs> wird morgen abreisen und geht über
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>.<lb/>Genehmigen Euere Excellenz die Versicherung
+                    meiner tiefsten Verehrung, mit welcher ich die Ehre habe zu verharren</p>
+                <p>Rom, den 15. Dezember 1854</p>
+                <p>Euerer Exzellenz unterthänigst gehorsamster Diener<lb/>Simor</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="simor-johann">
+                        <persName>
+                            <surname>Simor</surname>
+                            <forename>János</forename>
+                        </persName>
+                        <note>
+                            <p>Székesfehérvár 1813–1891 Balatonfüred</p>
+                            <p>Priester, ab 1846 Prof. für Dogmatik im Priesterseminar Esztergom, ab 1850 Prof. für Kirchenrecht an der Universität Wien, ab 1857 Bischof von Györ, ab 1867 Erzbischof von Esztergom und Primas von Ungarn, 1873 Kardinal</p>
+                            <p>http://d-nb.info/gnd/123271606</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123271606</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="santucci-vincenzo">
+                        <persName>
+                            <surname>Santucci</surname>
+                            <forename>Vincenzo</forename>
+                        </persName>
+                        <note>
+                            <p>Gorga 1796–1861 Rocca di Papa</p>
+                            <p>ab 1853 Kardinal</p>
+                            <p>http://d-nb.info/gnd/117619027</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117619027</tei:idno>
+                    </person>
+                <person xml:id="rauscher-joseph">
+                        <persName>
+                            <surname>Rauscher</surname>
+                            <forename>Josef Othmar</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1875 Wien</p>
+                            <p>ab 1825 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum Salzburg, ab 1832 Direktor der orientalischen Akademie in Wien, ab 1849 Fürstbischof von Seckau, ab März 1853 Erzbischof von Wien, ab 1855 Kardinal</p>
+                            <p>http://d-nb.info/gnd/118787977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118787977</tei:idno>
+                    </person>
+                <person xml:id="hohenlohe-schillingfuerst-gustav">
+                        <persName>
+                            <surname>Hohenlohe-Schillingsfürst</surname>
+                            <forename>Gustav</forename>
+                        </persName>
+                        <note>
+                            <p>Rothenburg an der Fulda 1823–1896 Rom</p>
+                            <p>ab 1850 päpstlicher Geheimkämmerer, ab 1857 Titularerzbischof von Edessa, ab 1866 Kardinal</p>
+                            <p>http://d-nb.info/gnd/116955422</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116955422</tei:idno>
+                    </person>
+                <person xml:id="lichnowsky-robert">
+                        <persName>
+                            <surname>Lichnovsky</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>http://d-nb.info/gnd/119002043</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119002043</tei:idno>
+                    </person>
+                <person xml:id="ketteler-wilhelm-emanuel">
+                        <persName>
+                            <surname>Ketteler</surname>
+                            <forename>Wilhelm Emmanuel</forename>
+                        </persName>
+                        <note>
+                            <p>Münster 1811–1877 Burghausen</p>
+                            <p>1850–1877 Bischof von Mainz</p>
+                            <p>http://d-nb.info/gnd/118561723</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118561723</tei:idno>
+                    </person>
+                <person xml:id="antonelli-giacomo">
+                        <persName>
+                            <surname>Antonelli</surname>
+                            <forename>Giacomo</forename>
+                        </persName>
+                        <note>
+                            <p>Sonnino 1808–1876 Rom</p>
+                            <p>ab 1847 Kardinalstaatssekretär</p>
+                            <p>http://d-nb.info/gnd/116016671</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116016671</tei:idno>
+                    </person>
+                <person xml:id="marini-pietro">
+                        <persName>
+                            <surname>Marini</surname>
+                            <forename>Pietro</forename>
+                        </persName>
+                        <note>
+                            <p>Rom 1794–1863 Rom</p>
+                            <p>1829–1845 Uditore der Rota, 1845–1846 Gouverneur von Rom, ab 1846 Kardinal</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="foerster-heinrich">
+                        <persName>
+                            <surname>Förster</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Glogau 1799–1881 Johannesberg</p>
+                            <p>1853–1881 Fürstbischof von Breslau</p>
+                            <p>http://d-nb.info/gnd/11879826X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11879826X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_2a4e63dc83d509fece21a7872f95a242">
+                        <placeName>Naples</placeName>
+                        <placeName type="pref">Neapel</placeName>
+                        <placeName type="alt">Neapels</placeName>
+                        <placeName type="alt">Neapel</placeName>
+                        <location>
+                            <geo decls="#LatLng">40.83333 14.25</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3172395/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

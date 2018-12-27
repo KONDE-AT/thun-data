@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="binder-an-kaiser-1854-05-09-a3-xxi-d259.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bielowski-an-thun-1855-11-03-a3-xxi-d356.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bippart-an-thun-1857-10-18-a3-xxi-d432.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#binder-georg-paul" role="sender:gelehrter">Georg Paul
+                        Binder</rs> an <rs type="person" ref="#franz-joseph" role="recipient">Kaiser
+                        Franz Joseph</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1854-05-09">9. Mai 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D259</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Der evangelische Superintendent Georg Paul Binder bittet den Kaiser,
+                                die von der evangelischen Kirche in Siebenbürgen beantragte
+                                rechtliche Neuordnung der Kirchenverfassung zu bestätigen. Die
+                                Kirche hatte bereits im Jahr 1851 einen solchen Antrag eingebracht,
+                                bisher war über diesen aber noch nicht entschieden worden. Zur
+                                Untermauerung des Antrags weist Binder insbesondere auf das seit
+                                jeher gute Verhältnis der evangelischen Kirche zu den staatlichen
+                                Autoritäten hin. Außerdem verweist er auf die treue Haltung der
+                                Siebenbürger Sachsen während der Revolution von 1848. Binder hebt
+                                auch besonders hervor, dass durch die Neuordnung der
+                                Kirchenverfassung staatliche Rechte nicht eingeschränkt werden
+                                würden.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#binder-georg-paul">Georg Paul Binder</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1854-05-09">9. Mai 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#franz-joseph">Kaiser Franz Joseph</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Evangelische Kirche</term>
+                    <term>Siebenbürgen</term>
+                </index>
+                <p>Euer Kaiserliche Königliche Apostolische Majestät!<lb/>Allergnädigster Kaiser und
+                    Herr!</p>
+                <p>Schon seit der Reformation nahmen bei den Evangelischen A. C. in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> die Geistlichen und Weltlichen
+                    stets gleichen Antheil an der äußeren Verwaltung der Kirche namentlich des
+                    Kirchenvermögens, und dieses Verhältniß wurde auch in der im Jahr 1807 von
+                    Allerhöchst Seiner Majestät <rs type="person" ref="#franz-I-II">Kaiser Franz</rs>,
+                    dem Ersten, glorreichen Andenkens, genehmigten neuesten Kirchenverfassung oder
+                    Vorschrift für die Consistorien A. C. aufrecht erhalten. Die Mitwirkung der
+                    Weltlichen aber und die Vertretung der Kirchengemeinden fand mit der politischen
+                    Verfassung der sächsischen Nation, deren Mitglieder dem Augsburgischen
+                    Glaubensbekenntnisse anhangen, in dem engsten Zusammenhang, denn die Vorsteher
+                    und Mitglieder der Ortsbehörden waren zugleich auch die verfassungsmäßigen
+                    Mitglieder der Ortskirchenräthe (Localconsistorien), die Kreisvorsteher –
+                    Stuhls- und Distriktsbeamten – waren Mitglieder der Kreiskirchenräthe
+                    (Domesticalconsistorien) und die Deputirten zur Nationsuniversität waren
+                    Beisitzer des Oberkirchenrathes (Oberconsistorien). Alle diese Beamten und
+                    Deputirten aber gingen aus der Wahl des Volkes hervor, desselben Volkes, welches
+                    sonst ausschließlich dem Augsburger Glaubensbekenntnisse angehört. Die Kirche
+                    hatte daher keine Veranlassung, dieses Laienelement als mit dem geistlichen
+                    Stande gleichberechtigt nicht anzuerkennen, zumal dasselbe Laienelement die
+                    vollziehende Gewalt in Händen hatte, mithin zur Durchführung von Beschlüßen, zu
+                    deren Fassung es mitgewirkt hatte, das brachium civile mit aller
+                    Bereitwilligkeit ertheilte.<lb/>Diese Ordnung der Dinge ist durch die politische
+                    Organisationsverfügung der hohen Regierung von Grund aus abgeändert worden und
+                    es sind durch dieselben in der Zusammensetzung der Gemeindekirchenräthe, der
+                    Kreiskirchenräthe und des Oberkirchenrathes so bedeutende Lücken entstanden, daß
+                    das deutsche Kirchen- und Schulwesen in Siebenbürgen von Staatswegen mit
+                    Desorganisation und Anarchie im höchsten Grade bedroht erscheint. Und wenn bis
+                    zur Stunde Symptome der Anarchie nicht zu Tage treten, so erklärt sich diese
+                    Erscheinung lediglich aus dem eingelebten, von den bisherigen Institutionen
+                    genährten "Sinn für Ordnung und Gesetzlichkeit", welchen auch Euer Majestät
+                    gleich Allerhöchst Ihren Erlauchten Vorfahren, der sächsischen Nation
+                    nachzurühmen im Allerhöchsten Patente vom 21. Dezember 1848<note xml:id="note_1">Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18490005&amp;seite=00000046&amp;size=45">RGBl 44/1848</ref>.</note> die aufmunternde Gnade gehabt haben. Wohl
+                    aber begegnet der Freund der Ordnung auch auf kirchlichem Gebiete in Folge der
+                    durch die neue Staatsorganisation theilweise herbeigeführten Auflösung des
+                    Kirchenregiments schon vielfacher Lähmung des kirchlichen Lebens; und es
+                    erscheint aber deshalb bei dem durch Jahrhunderte geheiligten Zusammenhange
+                    zwischen Kirche und Schule auch der Bestand der deutschen Schulen von
+                    Regierungswegen in Frage gestellt, von Schulen, welche sich bewährt und der
+                    hohen Regierung niemals, aber niemals, in Hinsicht ihrer politischen Richtung
+                    zur Unzufriedenheit Veranlassung geboten haben. Euer Majestät geruhen mir
+                    Allergnädigst zu gestatten, auf die Haltung der unter der evangelischen Kirche
+                    A. C. stehenden deutschen Jugend im Jahre 1848 ehrerbietigst hinzuweisen. Vom
+                        <rs type="place" subtype="place" ref="#place_e747daf7efb52835d18bbc6bce29474a">Schäßburger</rs> Gymnasium allein
+                    scharten sich in dem beklagenswerthen Jahre sonst allgemeinen Abfalles sieben
+                    und zwanzig Studirende unter den kaiserlichen Fahnen, um in ihrer Treue gegen
+                    das angestammte Herrscherhaus sogar das Leben einzusetzen. Und diesem Schulwesen,
+                    welches solche Früchte getragen, droht große Gefahr, indem in Folge der
+                    Organisationsacte der hohen Regierung die Schulpatronate im Zustande der
+                    theilweisen Auflösung sich befinden.<lb/>Allergnädigster Kaiser und Herr! Die
+                    sächsische Nation hat bis zur Erschöpfung ihrer Kräfte Hab und Gut ihrer
+                    Anhänglichkeit für <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> geopfert. Die
+                    sächsische Nation hat ihre wichtigsten, durch keinen Treubruch verwirkten,
+                    Rechte der Idee einer vollkommen einheitlichen Organisierung Neuösterreichs zum
+                    Opfer gebracht. Vom theuren Erbe der Väter ist ihr nur die Schule und Kirche
+                    geblieben. Aber auch diesem einzigen Erbgute droht große Gefahr, wenn die durch
+                    Verfügungen der hohen Regierung herbeigeführten Lücken im Kirchenregimente nicht
+                    bald ausgefüllt werden. Dieses Unglück abzuwenden hat Euer Majestät treue
+                    evangelische Landeskirche A. C. in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> bereits unter dem 28. Mai 1851 die nöthigen
+                    kirchlichen Organisationsvorlagen gemacht, und noch immer – nach beinahe drei
+                    Jahren – harret die treue evangelische Kirche A. C. in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> deren günstiger Erledigung. Dieser
+                    Zustand einer Angelegenheit, welche der Kirche als eine heilige erscheinen muß,
+                    beängstigt um so mehr die Gemüther, je mehr sich die evangelische Kirche A. C.
+                    in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> vollkommen bewußt ist, jene
+                    Rechte, welche in den Staatsverträgen und Gesetzen als Majestätsrechte
+                    bezeichnet werden, auch in den erwähnten Organisationsvorlagen von 1851 nicht im
+                    Mindesten auch nur bezweifelt zu haben.<lb/>Geruhen daher Allerhöchst Euer
+                    Majestät durch eine Allergnädigste Entschließung die treue evangelische Kirche
+                    A. C. in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> zu beglücken und
+                    Allergnädigst zu verfügen, daß die Euer Majestät stets getreue evangelische
+                    Kirche nicht gehindert werde, die durch Organisationsmaßregeln der hohen
+                    Regierung in ihrem Kirchenregimente herbeigeführten Lücken auszufüllen, um so
+                    mehr, als auch die vorerwähnten Vorlagen Zeugenschaft geben dürften, daß die
+                    Kirche keinem Rechte des Staates auch nur im Mindesten zu nahe getreten
+                    sei.<lb/>Der ich in homagialischer Unterwürfigkeit verharre</p>
+                <p>Euer Kaiserlichen Königlichen Apostolischen Majestät<lb/>treugehorsamster
+                    Unterthan<lb/>Georg Binder<lb/>Superintendent der evangelischen Landeskirche A.
+                    C. in Siebenbürgen</p>
+                <p>Wien, am 18. Mai 1854</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="binder-georg-paul">
+                        <persName>
+                            <surname>Binder</surname>
+                            <forename>Georg Paul</forename>
+                        </persName>
+                        <note>
+                            <p>Schäßburg 1784–1876 Hermannstadt</p>
+                            <p>evang. Pfarrer in Wolkendorf bei Schäßburg, ab 1808 Lehrer am Gymnasium in Schäßburg, ab 1821 Rektor und Superintendent</p>
+                            <p>http://d-nb.info/gnd/18036622X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/18036622X</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="franz-I-II">
+                        <persName>
+                            <surname>Franz I./II.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Florenz 1768–1835 Wien</p>
+                            <p>1792–1806 letzter Kaiser des HRR, 1804–1835 als Franz I. Kaiser von Österreich</p>
+                            <p>http://d-nb.info/gnd/118534955</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118534955</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+                <place xml:id="place_e747daf7efb52835d18bbc6bce29474a">
+                        <placeName>Sighișoara</placeName>
+                        <placeName type="pref">Schäßburg [Sighișoara]</placeName>
+                        <placeName type="alt">Schäßburg</placeName>
+                        <placeName type="alt">Schäßburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.22141 24.79279</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8436351/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

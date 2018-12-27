@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-gumpendorf-an-stadthauptmannschaft-1851-02-28-a3-xxi-d106.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/porta-an-thun-1852-07-12-a3-xxi-d170.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht des Polizeikommissariats Maria Hilf an die k.k.
+                        Stadthauptmannschaft<lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1851-03-03">3. März 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D108</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Leiter des Polizeikommissariats Maria Hilf, Leopold Strehle, äußert
+                            sich dazu, wie man den in seinem Bezirk sich ausbreitenden
+                            Deutschkatholizismus zurückdrängen könne. Aus seiner Sicht sind dazu
+                            insbesondere gute Pfarrer notwendig. In Gumpendorf seinem Bezirk mangle
+                            es allerdings an einem solchen, denn der dortige Pfarrer ist seiner
+                            Ansicht nach nicht geeignet, um dem sich ausbreitenden
+                            Deutschkatholizismus entgegenzuwirken. Der Pfarrer sei wortkarg und kein
+                            guter Prediger und könne daher auch nicht positiv auf seine
+                            Pfarrmitglieder wirken.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D106</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Deutschkatholiken</term>
+                </index>
+                <p>Z. 27/g</p>
+                <p>Wien, am 3. März 1851</p>
+                <p>Löbliche k.k. Stadthauptmannschaft</p>
+                <p>Bei dem allenthalben sich kundgebenden Eifer der Häupter der hiesigen
+                    Deutschkatholiken, ihren Anhang zu vergrößern, erscheint es dringend angezeigt,
+                    daß in jenen Pfarrbezirken, wo der Deutschkatholizismus bereits Wurzel gefaßt
+                    hat, solche Geistliche bei den Pfarren angestellt werden, welche die nöthige
+                    Energie und die Gabe besitzen, durch das Gemüth ergreifende eindringliche
+                    Predigten sich ein zahlreiches Publikum zu verschaffen und die ihr vorzügliches
+                    Augenmerk auf die religiöse Bildung der Schuljugend richten.<lb/>Anlangend den
+                    Pfarrbezirk <rs type="place" subtype="place" ref="#place_9bb9483758fe5780cf4244971ccd4578">Gumpendorf</rs>, wo der Deutschkatholizismus
+                    gleichfalls schon Wurzel gefaßt hat und fortzuwuchern scheint, ist der dortige
+                    Herr Pfarrer <rs type="person" ref="#contriner-leonhard">Leonhard Contriner</rs>
+                    seiner Individualität nach nicht der Mann, welcher im Stande ist auf seine
+                    Gemeinde ein moralisches Übergewicht auszuüben. Er führt ein exclusives Leben,
+                    ist wortkarg, gegenüber den Parteien trocken und mitunter auch barsch; zudem in
+                    den Jahren vorgerückt, zeitweise kränklich und am allerwenigsten ein
+                    Redner.<lb/>Übrigens ist rücksichtlich seiner moralischen und politischen
+                    Haltung nichts Nachtheiliges vorgekommen.</p>
+                <p>
+                    <rs type="person" ref="#strehle-leopold">Strehle</rs>
+                </p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="contriner-leonhard">
+                        <persName>
+                            <surname>Contriner</surname>
+                            <forename>Leonhard</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer der Religionslehre am Schottengymnasium in Wien, Pfarrer in Gumpendorf</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="strehle-leopold">
+                        <persName>
+                            <surname>Strehle</surname>
+                            <forename>Leopold</forename>
+                        </persName>
+                        <note>
+                            <p>*Stronsdorf 1805</p>
+                            <p>1849–1861 Leiter des Polizeikommissariats Maria Hilf</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_9bb9483758fe5780cf4244971ccd4578">
+                        <placeName>Wien-Gumpendorf</placeName>
+                        <placeName type="pref">gumpendorf</placeName>
+                        <placeName type="alt">Gumpendf.</placeName>
+                        <placeName type="alt">Gumpendorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.191389 16.347778</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4136052-7</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

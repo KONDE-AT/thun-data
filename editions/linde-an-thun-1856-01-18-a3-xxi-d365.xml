@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="linde-an-thun-1856-01-18-a3-xxi-d365.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1855-10-10-a3-xxi-d350.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/linker-an-thun-1855-11-04-a3-xxi-d353.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#linde-justin" role="sender:beamter">Justin Linde</rs> an
+                    <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, <date when="1856-01-18">18. Januar 1856</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D365</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der hessische Staatsrat Justin Linde übermittelt Leo Thun einige Hinweise
+                            zu Kandidaten, die für eine Stelle als Gymnasiallehrer in Österreich in
+                            Fragen kämen, und um die Thun ihn gebeten hatte. Linde hat die
+                            Informationen von verschiedenen Personen eingeholt, unter anderem vom
+                            Bischof von Fulda. Daher haben sich die Nachforschungen stark verzögert.
+                            Linde empfiehlt besonders Georg Blakert, der jedoch eine gering dotierte
+                            Stelle in Österreich nicht annehmen werde. Eine Berufung von Emil
+                            Rössler kann er nicht befürworten, diejenige des Hilfslehrers Niklas
+                            Schell hingegen schon. Außerdem empfiehlt er einen tüchtigen jungen
+                            Hilfslehrer aus dem Großherzogtum Hessen, der dort keine Chance auf eine
+                            Anstellung hat.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Gymnasien</term>
+                    <term>Universität</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Frankfurt 18. Januar 1856</p>
+                <p>Hochgeborner Herr Graf!</p>
+                <p/>
+                <p>Mit Bezug auf mein ergebenstes Schreiben vom 4. des Monats <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/linde-an-thun_1855-11-04_A3-XXI-D353.xml">Justin Linde an Leo Thun. Frankfurt, 4. November 1855</ref>.</note>
+                    beeile ich mich, Euer Exzellenz vor Allem meine innigsten Theilnahme an dem
+                    neuen Unfalle, der nach öffentlichen Blättern, durch einen Fall, Hochdenselben
+                    betroffen, auszudrücken und werde mich freuen, wenn ich recht bald erfahre, daß
+                    die Folgen gehoben sind.<lb/>Sodann erlaube ich mir<lb/>1. nähere Notizen über
+                        <rs type="person" ref="#blakert-georg">Dr. Blakert</rs> zu überreichen. Sie
+                    sind, da ich den Herrn persönlich nicht kenne, sämmtlich aus ganz zuverlässigen
+                    Quellen geschöpft, nämlich eingezogen unmittelbar vom Hochwürden Herrn <rs type="person" ref="#koett-christoph-florentinus">Bischof von Fulda</rs> und andern
+                    distinguierten, sehr ehrenhaften Personen. Nach den finanziellen Verhältnissen
+                    des <rs type="person" ref="#blakert-georg">Dr. Blakert</rs> würde ihm schwerlich
+                    mit einer Stelle, deren Einnahmen sich nur auf 800 oder 1000 Gulden belaufen
+                    könnten gedient seyn. Er hat Familie und nach dem Inhalte der eingezogenen
+                    Erkundigungen, sicher kein Vermögen zuzusetzen. Sollte Euer Exzellenz auf ihn
+                    ferner reflectieren, so bitte ich mir nähere Andeutungen zukommen zu lassen. Am
+                    sichersten wäre es dann doch immerhin, wenn ich <rs type="person" ref="#blakert-georg">Dr. Blakert</rs> zuerst zu einer Besprechung zu mir einladen könnte,
+                    wodurch ich ein bestimmtes selbstständiges und sicheres Urtheil gewinnen würde.
+                    Dieser Versuch, setzt aber, meines unmaasgeblichen Erachtens voraus, daß ihm
+                    Aussichten, die im Stande wären ihn zu befriedigen, eröffnet werden könnten, für
+                    den Fall, daß man sich überzeugte, daß er in jeder Beziehung auch wirklich eine
+                    Acquisition für den k.k. Dienst sei, und zu erwarten stehe, daß er im Geiste des
+                    Systems Eurer Exzellenz zu wirken im Stande sei, und den ernsten Willen
+                    habe.<lb/>2. Bezüglich <rs type="person" ref="#roessler-emil">Dr. Rößler</rs> haben
+                    nähere Nachforschungen bis jetzt keine günstigen Resultate geliefert, wenn man
+                    sich aus der einen Nachricht: "daß er fleißig und solide sei", allein nicht
+                    zufrieden stellen will. Der katholische Geistliche in Göttingen, und ein mir als
+                    sehr treuer und entschiedener Katholik bekannter Professor in
+                    <rs type="place" subtype="place" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs> halten ihn nicht für katholisch. In
+                    <rs type="place" subtype="place" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs> wird er, so schreibt man mir, nicht
+                    fortkommen, weil er sich durch das frühere politische Benehmen geschadet habe.
+                    Man ist der Meinung, daß er überall sich nach seiner Umgebung, die Einfluß auf
+                    ihn nehme, richten werde. Aber solcher Mangel an Entschiedenheit und
+                    Selbstständigkeit bietet ja in keiner Hinsicht Garantien, wie sie bei
+                    academischen Docenten nothwendig sind.<lb/>3. Über <rs type="person" ref="#schell-nikolaus">Niklas Schell</rs>, Hülfslehrer im Gymnasium in
+                    <rs type="place" subtype="place" ref="#place_56379b3722203c9ce71d0191081d67f6">Hanau</rs>, habe ich nunmehr ebenfalls zuverlässige,
+                    verbürgte Nachrichten. Er stammt aus einer guten katholischen Familie in
+                    <rs type="place" subtype="place" ref="#place_0fd179e1ec67f709e25dafb228e73d55">Fulda</rs>, ist ein treuer Sohn der Kirche, sein Character
+                    flößt Vertrauen ein, sein Wandel ist tadellos, und kirchliche Haltung und
+                    Gesinnung ganz tadellos. Der katholische Pastor in <rs type="place" subtype="place" ref="#place_56379b3722203c9ce71d0191081d67f6">Hanau</rs>
+                    gibt ihm das beste Zeugnis. Er wohnt jedem Sonn- und Feyertagsgottesdienst, Vor-
+                    und Nachmittags bei, geht gehörig zum heiligen Abendmahle, und zwar in recht
+                    erbaulicher Weise. Über seine Lehrthätigkeit und Fähigkeit dazu, lauten die
+                    Nachrichten eben so günstig.<lb/>Wenn Euer Exzellenz deshalb jetzt noch
+                    entschlossen sind, mir zu erlauben, ihn im Sinne Ihres verehrlichen Auftrages,
+                    im Schreiben von vorigem Jahre anzueifern, so bitte ich, mir gnädige Weisung zu
+                    geben. Ich werde dann den Herrn doch erst persönlich zu sprechen, und über Alles
+                    mir die vollständigste Gewissheit durch eigenes Urtheil zu verschaffen
+                    suchen.<lb/>4. Endlich lege ich ganz ergebenst das Gesuch eines ganz tüchtigen
+                    jungen Philologen aus dem Großherzogthum <rs type="place" subtype="region" ref="#place_b1955bcdd57fab7b269abbb05a7abd51">Hessen</rs> bei, für dessen
+                    Kenntnisse, Katholizität, Ehrenhaftigkeit des Characters und Lehrfähigkeit ich
+                    einstehen kann. Er ist Candidat des Gymnasiallehramtes, d. h. hat die
+                    vorschriftsmäßigen Examina bestanden, und kann nun in allen Classen des
+                    Gymnasiums als Hülfslehrer und Stellvertreter functionieren, bis er eine
+                    definitive Anstellung bekommt, wozu in <rs type="place" subtype="region" ref="#place_b1955bcdd57fab7b269abbb05a7abd51">Hessen</rs> gegenwärtig,
+                    wegen Mangels vacanter Stellen wenig Aussicht ist. Sowohl dem Vater des jungen
+                    Mannes, einem braven Gymnasiallehrer, als dem jungen Mann selbst wünsche ich
+                    sehr, daß Euer Exzellenz ihn recht bald berücksichtigen könnten.<lb/>Bezüglich
+                    des <rs type="person" ref="#schell-nikolaus">Nikolaus Schell</rs> bitte ich, diesen
+                    nicht mit einem Apostaten gleichen Namens zu verwechseln, ein Fehler, in den ich
+                    selbst verfallen wäre, wenn ich nicht so genaue Erkundigungen eingezogen,
+                    wodurch die Angelegenheit leider ohne meine Schuld sich so sehr verzögert
+                    hat.<lb/>Genehmigen Hochdieselben den Ausdruck der innigsten Verehrung, womit
+                    ich die Ehre habe zu seyn.</p>
+                <p>Euer Exzellenz</p>
+                <p>gehorsamster Diener</p>
+                <p>Dr. Linde</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="linde-justin">
+                        <persName>
+                            <surname>Linde</surname>
+                            <forename>Justin Timotheus Balthasar</forename>
+                        </persName>
+                        <note>
+                            <p>Brilon 1797–1870 Bonn</p>
+                            <p>1824–1829 Prof. des deutschen Privatrechts und der röm. Rechtsgeschichte an der Universität Gießen, ab 1829 Geh. Regierungsrat im Ministerium des Innern und der Justiz in Darmstadt, ab 1832 Direktor des Oberstudienrats, 1836–1847 Geh. Staatsrat im Ministerium des Innern und der Justiz, 1848/49 Mitglied der Frankfurter Nationalversammlung, 1850–1866 österr. Gesandter beim deutschen Bundestag</p>
+                            <p>http://d-nb.info/gnd/119095645</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119095645</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="blakert-georg">
+                        <persName>
+                            <surname>Blakert</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="koett-christoph-florentinus">
+                        <persName>
+                            <surname>Kött</surname>
+                            <forename>Florentinus</forename>
+                        </persName>
+                        <note>
+                            <p>St. Martin, Elsass 1801–1873 Fulda</p>
+                            <p>1848–1873 Bischof von Fulda</p>
+                            <p>http://d-nb.info/gnd/116302054</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116302054</tei:idno>
+                    </person>
+                <person xml:id="roessler-emil">
+                        <persName>
+                            <surname>Rössler</surname>
+                            <forename>Emil Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Brüx 1815–1863 Sigmaringen</p>
+                            <p>1846–1848 Dozent für Geschichte des Rechts in Österreich an der Universität Wien, 1848/49 Mitglied der Frankfurter Nationalversammlung, ab 1849 Privatdozent für deutsche Rechtsgeschichte an der Univ. Göttingen, ab 1858 Bibliothekar in Erlangen, ab 1863 Bibliothekar in Sigmaringen</p>
+                            <p>http://d-nb.info/gnd/118790927</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118790927</tei:idno>
+                    </person>
+                <person xml:id="schell-nikolaus">
+                        <persName>
+                            <surname>Schell</surname>
+                            <forename>Nikolaus</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Gymnasiallehrer in Hanau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+                        <placeName>Frankfurt-Eckenheim</placeName>
+                        <placeName type="pref">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt am Main</placeName>
+                        <placeName type="alt">Francfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4093156-0</idno>
+                    </place>
+                <place xml:id="place_bb924613631a24955ccdde82d6af5cc2">
+                        <placeName>Göttingen</placeName>
+                        <placeName type="pref">goettingen</placeName>
+                        <placeName type="alt">Göttinger</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.53443 9.93228</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2918632/</idno>
+                    </place>
+                <place xml:id="place_56379b3722203c9ce71d0191081d67f6">
+                        <placeName>Hanau</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.13423 8.91418</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2911007/</idno>
+                    </place>
+                <place xml:id="place_0fd179e1ec67f709e25dafb228e73d55">
+                        <placeName>Fulda</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.55162 9.67518</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2923822/</idno>
+                    </place>
+                <place xml:id="place_b1955bcdd57fab7b269abbb05a7abd51" type="placeName">
+                        <placeName type="pref">Hessen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.599501 9.024946</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4024729-6</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

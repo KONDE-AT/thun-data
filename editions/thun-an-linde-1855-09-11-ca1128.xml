@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-linde-1855-09-11-ca1128.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1854-05-24-ca1127.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-12-26-ca1130.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#linde-justin" role="recipient:gelehrter">Justin
+                        Linde</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1855-09-11">11. September 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Bundesarchiv Koblenz</institution>
+                        <idno>N 1759, 51</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun informiert Justin Linde in einigen Personalfragen. Zunächst
+                            entschuldigt sich der Minister jedoch, dass er den Brief von Justin
+                            Linde so lange unbeantwortet gelassen habe. Er rechtfertigt dies mit der
+                            enormen Arbeitsbelastung im Ministerium. Er teilt Linde auch mit, dass
+                            er in der Sache des Mediziners Carl Ludwig nichts tun könne, da dieser
+                            in einem Militärspital angestellt sei und somit nicht in Thuns
+                            Kompetenzbereich falle. Schließlich bittet er neuerlich um die
+                            Vermittlung von Philologen und Philosophen. Außerdem erbittet er sich
+                            Auskunft über den Gymnasiallehrer Nikolaus Schell, der ihm von Bernhard
+                            Jülg empfohlen worden ist. Thun würde ihm, sollte auch Linde eine
+                            Empfehlung für ihn aussprechen, sofort eine Stelle am Gymnasium in
+                            Pressburg verleihen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D350 und A3 XXI D365.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1855-09-11">11. September 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#linde-justin">Justin Linde</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Klassische Philologie</term>
+                    <term>Rechtsgeschichte</term>
+                    <term>Gymnasien</term>
+                </index>
+                <p>Wien den 11. September 1855</p>
+                <p>Werther Herr Staatsrath!</p>
+                <p>Sie wissen wohl aus eigener Erfahrung wie schwer sich das Briefschreiben mit der
+                    Bewältigung der Papiermassen, die Welle auf Welle den Vorstand einer modernen
+                    Behörde überfluthen, vereinen läßt, und ich hoffe Sie verargen es mir deshalb
+                    nicht, daß ich so lange nicht an Sie geschrieben habe.<lb/>An Ihr letztes
+                    geehrtes Schreiben<note xml:id="note_1">Dieser Brief ist nicht erhalten. Der
+                        vorliegende knüpft jedoch an Themen an, über die sich Thun und Linde bereits
+                        im Mai 1854 ausgetauscht hatten. Vgl. <ref target="thun/thun-korrespondenz/konzepte-briefe-an-thun/linde-an-thun-1854-05-31-ca1055.xml">Justin Linde an Leo Thun, Frankfurt, 31. Mai 1854</ref>. </note>
+                    anknüpfend bemerke ich, daß der Physiolog <rs type="person" ref="#ludwig-carl">Ludwig</rs> an eine <orgName>militärische
+                        Anstalt</orgName> berufen worden ist, auf welche ich durchaus keinen Einfluß
+                    habe, so daß ich diese Berufung erst post factum aus der Wiener Zeitung erfuhr.
+                    Ich habe keinen Grund zu erwarten, daß ich in der Lage sein werde, mich nach
+                    einem ausländischen Dozenten dieses Faches umzusehen. Für einen tüchtigen,
+                    bewährten katholischen Philosophen, Philologen (in linguistischer Richtung
+                    allein vorherrschend für die classischen Sprachen) oder Vertreter des deutschen
+                    Rechtes und seiner Geschichte hätte ich aber immer noch Gelegenheit. In
+                    letzterer Beziehung leistet <rs type="org" ref="#org_0017">Prag</rs> sehr
+                    erwünschte Aushilfe für dessen Empfehlung ich Ihnen überhaupt zu aufrichtigem
+                    Dank verpflichtet bin. Ich bin in diesem Augenblick auch genöthiget einige
+                    tüchtige junge Leute als Lehrer der klassischen Sprachen an Gymnasien aus
+                    Deutschland zu requirieren. Als solcher ist mir unter anderen <rs type="person" ref="#schell-nikolaus">Nikolaus Schell</rs>, derzeit Lehrer am
+                    Gymnasium in <rs type="place" subtype="place" ref="#place_56379b3722203c9ce71d0191081d67f6">Hanau</rs> empfohlen worden. Durch Vermittlung
+                    des <rs type="person" ref="#juelg-bernhard">Prof. Jülg</rs>
+                    <note xml:id="note_2">Bernhard Jülg hatte im Frühjahr 1855 Thun mehrere Kandidaten empfohlen.
+                        Siehe dazu im AVA, MCU Präs. ad 418/1855. Der Brief, mit dem Schell
+                        empfohlen wird, ist allerdings nicht überliefert.</note> sind mir auch
+                    Abschriften seiner Prüfungszeugnisse bereits zugekommen. Es würde mir zu großer
+                    Beruhigung dienen, wenn ich Ihre Bürgschaft dafür hätte, daß er eine
+                    wünscheswerthe Aquisizion, ein durchaus verlässlicher Mann sei. In solchem Falle
+                    würde ich Sie bitten, ihn anzueifern, daß er mir schleunigst ein Gesuch um
+                    Anstellung in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> einsende, und
+                    könnte ihm dann eine Stelle in <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> mit 800 fl.,
+                    vielleicht selbst 1000 fl. in nächste Aussicht stellen, vorausgesetzt daß er
+                    sogleich dieselbe antreten könnte, das ist gleich nach seiner Ernennung zu deren
+                    Erwirkung ich beiläufig 3 Wochen Zeit brauchen würde.<lb/>Ich wäre Ihnen sehr
+                    verbunden, wenn Sie mir hierüber schleunigst Nachricht zu ertheilen die Güte
+                    hätten. In der Hoffnung, daß Sie diese meine neuerliche Zudringlichkeit mit
+                    gewohnter Güte aufnehmen werden, verharre ich werther Herr Staatsrath mit der
+                    ausgezeichnetsten Hochachtung </p>
+                <p>Ihr<lb/>ergebener<lb/>Graf Leo Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="linde-justin">
+                        <persName>
+                            <surname>Linde</surname>
+                            <forename>Justin Timotheus Balthasar</forename>
+                        </persName>
+                        <note>
+                            <p>Brilon 1797–1870 Bonn</p>
+                            <p>1824–1829 Prof. des deutschen Privatrechts und der röm. Rechtsgeschichte an der Universität Gießen, ab 1829 Geh. Regierungsrat im Ministerium des Innern und der Justiz in Darmstadt, ab 1832 Direktor des Oberstudienrats, 1836–1847 Geh. Staatsrat im Ministerium des Innern und der Justiz, 1848/49 Mitglied der Frankfurter Nationalversammlung, 1850–1866 österr. Gesandter beim deutschen Bundestag</p>
+                            <p>http://d-nb.info/gnd/119095645</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119095645</tei:idno>
+                    </person>
+                <person xml:id="ludwig-carl">
+                        <persName>
+                            <surname>Ludwig</surname>
+                            <forename>Carl</forename>
+                        </persName>
+                        <note>
+                            <p>Witzenhausen 1816–1895 Kurhessen</p>
+                            <p>Physiologe, ab 1855 Prof. an der med.-chirurg. Militärakademie in Wien</p>
+                            <p>http://d-nb.info/gnd/1031959491</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1031959491</tei:idno>
+                    </person>
+                <person xml:id="schell-nikolaus">
+                        <persName>
+                            <surname>Schell</surname>
+                            <forename>Nikolaus</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Gymnasiallehrer in Hanau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="juelg-bernhard">
+                        <persName>
+                            <surname>Jülg</surname>
+                            <forename>Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Ringelbach 1825–1886 Innsbruck</p>
+                            <p>1848–1850 Prof. an Lyzeen in Heidelberg, Freiburg und Rastatt, ab 1851 Prof. der klass. Philologie an der Universität Lemberg, ab 1853 Prof. an der Universität Krakau, ab 1863 Prof. an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/117220973</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117220973</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_56379b3722203c9ce71d0191081d67f6">
+                        <placeName>Hanau</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.13423 8.91418</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2911007/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_494eccfffbfff4c93f6e601ab346a3cf">
+                        <placeName>Okres Bratislava I</placeName>
+                        <placeName type="pref">Preßburg [Bratislava]</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Presburg</placeName>
+                        <placeName type="alt">Preßburger</placeName>
+                        <placeName type="alt">Presburger</placeName>
+                        <placeName type="alt">Pressburger</placeName>
+                        <placeName type="alt">Pressburg</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">Preßburgs</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.14653 17.10584</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8986283/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0017">
+                        <orgName>Universität Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

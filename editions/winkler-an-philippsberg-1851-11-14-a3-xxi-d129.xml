@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/winaricky-an-thun-1860-07-08-a3-xxi-d596.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#winkler-anton" role="sender:gelehrter">Anton
+                        Winkler</rs> an <rs type="person" ref="#philippsberg-eugen" role="recipient">Eugen Philippsberg</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</rs>, <date when="1851-11-14">14. November 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D129</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Mathematiker Anton Winkler übermittelt dem österreichischen Gesandten
+                            in Karlsruhe, Eugen Philippsberg, ein für Friedrich Thun bestimmtes
+                            Schreiben mitsamt einem Bittgesuch an das Ministerium für Kultus und
+                            Unterricht. Winkler bittet darin um eine Anstellung als Professor für
+                            Mathematik. Er bedankt sich schließlich bei Philippsberg, dass er ihn
+                            mit Friedrich Thun bekannt machte und bittet ihn um Unterstützung bei
+                            seinem Ansuchen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage:<lb/>Ein Brief von <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml">Anton Winkler an Friedrich Thun. Karlsruhe, 11. November
+                                1851.</ref>
+                            <note xml:id="note_1">Der Brief mit Beilage wurde eigens
+                                aufgenommen.</note>
+                            <lb/>Dieser sowie weitere Briefe in dieser
+                            Angelegenheit sind im Nachlass unter der Signatur A3 XXI D129
+                            zusammengefasst.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#winkler-anton">Anton Winkler</rs>
+                    <settlement ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</settlement>
+                    <date when="1851-11-14">14. November 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#philippsberg-eugen">Eugen Philippsberg</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität</term>
+                    <term>Mathematik</term>
+                </index>
+                <p>Hochwohlgeborner Herr,<lb/>Hochverehrtester Herr Legationsrath!</p>
+                <p>Euer Hochwohlgeboren gütiger Erlaubnis zufolge habe ich hiermit die Ehre, Ihnen
+                    ein Schreiben an Seine Excellenz den Bundespräsidialgesandten, Herrn <rs type="person" ref="#thun-hohenstein-friedrich">Grafen <hi rend="ul">von
+                        Thun</hi>
+                    </rs>, in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> und eine Eingabe
+                    an das hohe k.k. Ministerium des Unterrichts, worin ich um gnädige Aufnahme in
+                    k.k. Dienste als Lehrer der Mathematik zu bitten mir die Freiheit nehme, mit der
+                    ergebensten Bitte um hochgefällige Beförderung an den Herrn <rs type="person" ref="#thun-hohenstein-friedrich">Grafen von Thun</rs> Excellenz zu
+                        übersenden.<note xml:id="note_2">Vgl. den Brief <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml">Anton Winklers an Friedrich Thun vom 11. November 1851</ref> sowie die
+                        dort beigelegte Eingabe an das Ministerium für Kultus und Unterricht mit
+                        demselben Datum.</note>
+                    <lb/>Indem ich Euer Hochwohlgeboren meine schuldige
+                    herzliche Danksagung für die Güte und Freundlichkeit, womit Sie mir Gelegenheit
+                    gaben, <rs type="person" ref="#thun-hohenstein-friedrich">jenem hohen Herrn</rs>
+                    meine Aufwartung machen und meine Wünsche vortragen zu können, ergebenst
+                    wiederhole, erlaube ich mir noch die Bitte um Ihre hochgeneigte Unterstützung
+                    der gehorsamsten Eingabe, in welcher ich auf Euer Hochwohlgeboren mich zu
+                    beziehen die Freiheit mir genommen habe.<lb/>In größter Hochachtung habe ich die
+                    Ehre zu sein</p>
+                <p>Euer Hochwohlgeboren</p>
+                <p>dankbarster<lb/>Dr. A. Winckler</p>
+                <p>Carlsruhe, 14. November 1851</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="winkler-anton">
+                        <persName>
+                            <surname>Winkler</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Riegel am Kaiserstuhl 1821–1892 Semmeringpass</p>
+                            <p>ab 1847 Assistent der Mathematik am Polytechnikum in Karlsruhe, 1853–1859 Prof. der praktischen Geometrie am Polytechnikum in Brünn, 1858–1866 Prof. für höhere Mathematik am Joanneum in Graz</p>
+                            <p>http://d-nb.info/gnd/110341449</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/110341449</tei:idno>
+                    </person>
+                <person xml:id="philippsberg-eugen">
+                        <persName>
+                            <surname>Philippsberg</surname>
+                            <forename>Eugen</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1893</p>
+                            <p>österr. Legationsrat, 1851–1855 Gesandter in Karlsruhe</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_2126faa64bfa66d02e06345d06e61a25">
+                        <placeName>Karlsruhe</placeName>
+                        <placeName type="pref">karlsruhe</placeName>
+                        <placeName type="alt">dahier</placeName>
+                        <placeName type="alt">Carlsruhe</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.00937 8.40444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2892794/</idno>
+                    </place>
+                <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+                        <placeName>Frankfurt-Eckenheim</placeName>
+                        <placeName type="pref">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt am Main</placeName>
+                        <placeName type="alt">Francfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4093156-0</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

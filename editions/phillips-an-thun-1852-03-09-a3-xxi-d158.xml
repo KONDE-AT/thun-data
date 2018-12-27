@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="phillips-an-thun-1852-03-09-a3-xxi-d158.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-02-24-a3-xxi-d156.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-04-03-a3-xxi-d160.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1852-03-09">9.
+                        März 1852</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D158</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist George Phillips übermittelt Leo Thun ein Elaborat über den
+                            Zustand der Universitätsbibliothek Krakau. Nach seinem Urteil sei die
+                            Bibliothek dort schlecht ausgestattet, vor allem mangele es an Werken
+                            für die alte Geschichte. Phillips ist der Meinung, dass bei
+                            Neuanschaffungen die neueste Literatur besonders zu berücksichtigen
+                            sei. Er bietet auch an, eine Liste der besten Bücher für Römische und
+                            Griechische Geschichte zusammenzustellen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#phillips-george">George Phillips</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1852-03-09">9.
+                        März 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universitätsbibliothek</term>
+                    <term>Universität Krakau</term>
+                </index>
+                <p>Hochgeborner Herr Graf</p>
+                <p>Euer Excellenz erlaube ich mir beifolgend das mir gnädigst anvertraute
+                        Elaborat<note xml:id="note_1">Das angesprochene Elaborat ist im Nachlass von
+                            Thun nicht überliefert.</note> die <rs type="org" ref="#org_0023">Krakauer</rs> Universitätsbibliothek betreffend zu überreichen und die
+                    Bemerkung beizufügen, daß bei der offenbar völligen Armuth gedachter Bibliothek
+                    an Werken für die alte Geschichte selbst die älteren von dem Berichterstatter
+                    erwähnten Bücher eine wünschenswerthe Acquisition sein würden. Es wäre wohl die
+                    neueste Literatur bei der zu treffenden Auswahl mehr zu berücksichtigen, wohin
+                    namentlich das Werk des <rs type="org" ref="#org_0039">Göttinger</rs> Professors <rs type="person" ref="#hoeck-karl-friedrich">Hoeck</rs>, Römische Geschichte seit der Kaiserzeit gehören
+                        dürfte.<note xml:id="note_2">Vgl. <ref target="http://books.google.at/books?id=rovqaaaamaaj&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Karl Friedrich Hoeck, Römische Geschichte vom Verfall der Republik bis
+                            zur Vollendung der Monarchie unter Constantin. Mit vorzüglicher
+                            Rücksicht auf Verfassung und Verwaltung des Reichs. In drei Abteilungen,
+                            Bd. 1, 1841–1850.</ref>
+                    </note> Sollten Euer Excellenz es wünschen, so
+                    würde ich eine ausführlichere Zusammenstellung der besten Hülfsmittel für
+                    Römische und Griechische Geschichte versuchen. Schließlich erlaube ich mir nur
+                    noch die Bitte beizufügen, Euer Excellenz wollten mir, wenn Hochdero kostbare
+                    Zeit es gestattet, erlauben, Hochdenselben noch einmal vor Ihrer Abreise meine
+                    Aufwartung machen zu dürfen.<lb/>Mit der ausgezeichnetsten Hochachtung und
+                    Verehrung bestehe ich als</p>
+                <p>Euer Excellenz</p>
+                <p>unterthäniger Diener<lb/>Dr. G. Phillips</p>
+                <p>Wien, 9. März 1852</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="phillips-george">
+                        <persName>
+                            <surname>Phillips</surname>
+                            <forename>George</forename>
+                        </persName>
+                        <note>
+                            <p>Königsberg 1804–1872 Aigen bei Salzburg</p>
+                            <p>1827 Prof. an der Universität Berlin, 1834 Prof. für Kirchen- und Privatrecht an der Universität München, 1850 Prof. an der Universität Innsbruck, 1851–1860 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/100233791</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100233791</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="hoeck-karl-friedrich">
+                        <persName>
+                            <surname>Hoeck</surname>
+                            <forename>Karl Friedrich Christian</forename>
+                        </persName>
+                        <note>
+                            <p>Oelber am weißen Wege 1794–1877 Göttingen</p>
+                            <p>ab 1818 Privatdozent für klass. Philologie und alte Geschichte an der Universität Göttingen, ab 1823 Prof. an der Universität Göttingen, daneben ab 1835 Unterbibliothekar in der Universitätsbibliothek Göttingen, 1845–1875 Direktor der Universitätsbibliothek</p>
+                            <p>http://d-nb.info/gnd/116923776</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116923776</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0023">
+                        <orgName>Universität Krakau</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1012007-5</idno>
+                    </org>
+                <org xml:id="org_0039">
+                        <orgName>Universität Göttingen</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024315-7</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

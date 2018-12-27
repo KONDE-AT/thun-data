@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="hoefler-an-thun-1855-05-12-a3-xxi-d343.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1854-11-18-a3-xxi-d300.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1856-10-05-a3-xxi-d388.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1855-05-12">12. Mai 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D343</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Constantin Höfler dankt Leo Thun für die Förderung von
+                            Anton Zeithammer und berichtet vom Fortgang von dessen Studien in
+                            Berlin. Höfler glaubt, dass Zeithammer noch länger in Berlin bleiben
+                            möchte, was ihn nicht verwundere, zumal dort gerade die großen Geister
+                            der Epoche aufeinanderträfen. Anschließend berichtet Höfler über die
+                            Situation an der Universität Prag und die Leistung einzelner
+                            Professoren. Dabei hebt er besonders den Arbeitseifer von Johann
+                            Heinrich Löwe hervor. Von seinen eigenen Forschungen erwähnt er die
+                            Arbeit an den Fontes Rerum Husiticarum und ein Werk über die "Genesis
+                            der Revolution von 1648 bis 1806". Höfler geht auch auf seine
+                            Vorlesungstätigkeit ein und betont, dass die Universität die Aufgabe
+                            habe, die Jugend vor dem gefährlichen und unwissenschaftlichen Wissen zu
+                            schützen, das durch Zeitungen und Zeitschriften verbreitet werde. In
+                            diesem Zusammenhang erwähnt er auch einen (jüdischen) Schreiber, der mit
+                            mehreren diffamierenden Artikeln etablierte Professoren kritisiert hat,
+                            darunter ihn selbst und George Phillips. Höfler glaubt sogar, dass diese
+                            Kritik eine von langer Hand geplante Intrige sei.<lb/>Im beigelegten
+                            Brief berichtet Anton Zeithammer über seinen Aufenthalt in Berlin und
+                            den Fortgang seines Studiums der Geographie. Er besucht zahlreiche
+                            Kollegien und in der freien Zeit studiert er in den unterschiedlichen
+                            Bibliotheken Bücher, die in Prag nicht vorhanden sind. Professor Curtius
+                            will ihn zudem in die Geographische Gesellschaft einführen. Von den
+                            Kollegien, die er besucht, hebt er besonders jenes von Carl Ritter
+                            hervor. Er hofft, mit all seinem erworbenen Wissen dereinst in
+                            Österreich die Wissenschaft voranbringen zu können.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d343_1">Anton Zeithammer an Constantin Höfler.
+                                Berlin, 10. Mai 1855</tei:ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin">Constantin Höfler</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when="1855-05-12">12. Mai 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Prag</term>
+                    <term>Universität Berlin</term>
+                    <term>Geografie</term>
+                    <term>Studenten</term>
+                </index>
+                <p>Euer Excellenz!<lb/>Hochgeborener Herr Graf!<lb/>Hochgebietender gnädigster Herr
+                    Minister!</p>
+                <p>Die besondere Gnade, welche Euer Excellenz dem jungen <rs type="person" ref="#zeithammer-anton">Zeithammer</rs> erwiesen, giebt mir den Muth,
+                    Hochdenselben den beifolgenden Brief des Stipendiaten vorzulegen. Ich habe ihn
+                    bei seiner Abreise aufgefordert mir von Zeit zu Zeit über den Gang seiner
+                    Studien zu schreiben. Es dient dieses nicht blos dazu, eine gewisse Controlle
+                    über ihn namentlich in der Beziehung zu üben, daß er nicht zu viele und
+                    verschiedene Gebiete des Wissens durchstreife, sondern bei seinem
+                    Hauptgegenstand unverrükt verbleibe. Es ist auch zugleich für ihn selbst eine
+                    moralische Nothwendigkeit, sich von Zeit zu Zeit über Standpunkt und gemachten
+                    Fortschritt zu orientiren. Ich anticipire eine stillschweigende Ermächtigung
+                    Euer Excellenz die Briefe vorzulegen. Der erste ist offenbar unter dem Eindruke
+                    der Neuheit und mit einem gewissen Enthusiasmus geschrieben, den ich sehr
+                    begreiflich und lobenswerth finde. Daß <rs type="person" ref="#zeithammer-anton">Zeithammer</rs> wünscht, längere Zeit in <rs type="org" ref="#org_0027">Berlin</rs> verweilen zu können, ist sehr
+                    natürlich; ich erlaube mir diesen Wunsch Euer Excellenz väterlichem Herzen so
+                    nachdrüklich als es gestattet ist zu empfehlen.<lb/>Von dem Leben und Treiben
+                    der Universität ließe sich vieles bemerken und berichten. Irre ich mich in
+                    meiner großen Zurükgezogenheit nicht ganz, so nähert sich der Zeitpunkt in
+                    welchem, um <rs type="person" ref="#luther-martin">Luther</rs>’s Ausdruk zu
+                    gebrauchen, die Geister aufeinander platzen. Wenn es dann nur in würdevoller und
+                    der Sache angemessenen Weise geschieht und nicht in so hämischer und ungerechter
+                    wie unlängst <rs type="person" ref="#hanusch-ignaz">Hanusch</rs> den <rs type="person" ref="#wocel-johann-erasmus">Wocel</rs> zum allgemeinen Ärger in den
+                    Blättern für Literatur und Kunst angriff. Die Studirenden, welchen keke
+                    Behauptungen zu imponiren pflegen, lassen sich leicht von Angriffen dieser Art
+                    bethören, während sie den ruhigen und besonnenen Beobachter empören. <rs type="person" ref="#hanusch-ignaz">Hanusch</rs> hätte, um seinen ohnehin nicht großen
+                    moralischen und scientifischen Credit völlig zu ruiniren, nichts Geeigneteres
+                    thun können! Das germanische Recht scheint unter den Juristen Boden zu gewinnen.
+                    Die Vorträge des <rs type="person" ref="#schulte-friedrich">Prof. Schulte</rs>
+                    finden Beifall und ich zweifle nicht, daß er, weil ihm die Vergleichung des
+                    kanonischen und römischen Rechtes hiebei sehr zu statten kommt, den juridischen
+                    Theil der deutschen Reichs- und Rechtsgeschichte allmählich so tüchtig behandeln
+                    wird wie ein eigentlicher Germanist, vielleicht auch noch tüchtiger, da diesen
+                    die Kenntnis des römischen und kanonischen Rechtes zu fehlen pflegt.<lb/>Von
+                    meinen Specialcollegen bereitet <rs type="person" ref="#zimmermann-robert">Zimmermann</rs> seine Vorträge über Literatur, welche er mit
+                    verdientem Beifalle vor einem Damenkreise gehalten, zum Druke vor; <rs type="person" ref="#loewe-johann-heinrich">Löwe</rs>, welcher jetzt eine sehr große
+                    Anzahl von Zuhörern hat, ein größeres wissenschaftliches Werk in 3 Theilen,
+                    dessen Verlag Manz in Regensburg übernahm. Es ist fast unbegreiflich, woher der
+                    Mann die Arbeitskraft zu ziehen vermag, da er von häuslichen Sorgen fast zu
+                    Boden gedrükt ist und sich nicht die mindeste Erleichterung oder Erholung
+                    verschaffen, kaum von wirklichem Mangel sich frei halten kann. Zu den vielen
+                    Sorgen gesellt sich noch häusliches Unglük, da sein jüngstes Kind den einen Fuß
+                    nachschleift und einer eigenen Pflege bedarf. Darf ich von meinen geringen
+                    Leistungen sprechen, so schreitet die Sammlung der Fontes rerum Husiticarum so
+                    rasch voran als man in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> drukt. Die Sache selbst
+                    dürfte für die böhmische und allgemeine Geschichte von vielfacher Bedeutung
+                    werden. Welche Mühe aber damit verbunden ist, können Euer Excellenz daraus
+                    ersehen, daß z.B. bei ein und derselben wichtigen Urkunde Prager, Münchner,
+                    Leipziger und Hohenfurter Manuscripte herbeigeschafft werden mußten. Das eine
+                    gab den Kopf, das andere die Mitte, die übrigen das Ende. Ich hoffe aber von dem
+                    Ganzen eine gute Wirkung. Vierhundert Jahre liegen diese Dinge in aller Welt
+                    zerstreut; es ist ein gewißes Pflicht- und Dankgefühl, das mich als Prager
+                    Professor antreibt, gerade diese freilich entsetzlich schwierige Arbeit zu
+                    übernehmen.<lb/>Ein größeres geschichtliches Werk "Genesis der Revolution von
+                        1648–1806"<note xml:id="note_1">Vgl. Constantin Höfler, Die Genesis der
+                        Revolution bis zu ihrem vollständigen Siege, Regensburg 1856.</note> ist bis
+                    auf die letzten Paragraphen vollendet.<lb/>In Betreff der deutschen
+                    Literaturgeschichte gehe ich von dem Standpunkte aus, welcher immer mehr Anklang
+                    findet, daß dieselbe mit einer Geschichte der Poesie, wie es früher <rs type="person" ref="#gervinus-georg">Gervinus</rs> that, nicht identificirt werden
+                    dürfe. Ich habe jetzt meine Collegien über Literaturgeschichte so organisirt,
+                    daß ich in dem Wintersemester immer die deutsche Literaturgeschichte im
+                    Allgemeinen lesen werde, im Sommer aber ein Specialcollegium, z.B. Literatur des
+                    neunzehnten Jahrhundertes, Entwiklung der deutschen Historiographie,
+                    Literaturgeschichte des XIII, XIV, oder eines anderen Jahrhundertes. Man wird in
+                    den letzteren Collegien nie auf ein zahlreiches Auditorium rechnen können. Es
+                    kömmt aber offenbar darauf gar nicht an, sondern daß den Studirenden, welche
+                    sich unterrichten wollen, dazu Gelegenheit geboten werde. Bereits wächst die
+                    Anzahl der Candidaten für deutsche Sprache und deutsche Literatur, was ein
+                    erfreuliches Zeichen ist, und da gerade auf dem Gebiete der Literatur ein vages
+                    Raisonnement unter den jungen Leuten so allgemein und so leicht ist, muß an
+                    einer Universität der wissenschaftliche Schwerpunkt um so entschiedener
+                    festgehalten werden. Ich wundere mich daher, daß von denjenigen, welche in
+                    unsere Vorlesungen zeitweise hereinkommen, um Stoff für Zeitungsartikel zu
+                    holen, meiner Vorträge bisher noch immer günstig gedacht wurde. Wie mir gestern
+                        <rs type="person" ref="#zimmermann-joseph-andreas">Zimmermann</rs> sagte, so
+                    häufen sich diese Correspondenzen, als deren Autor der Israelit
+                        <rs type="person" ref="#">Bisling</rs> bezeichnet wird, den die Maturitätsprüfung
+                    abgeworfen hat; sie tragen auch alle jenes Gepräge, welches ein
+                    Correspondenzartikel der Augsburger Allgemeinen Zeitung vor längerer Zeit an
+                    sich trug. Dieser ging wie jene von dem verkehrten Satze aus, daß die Professur
+                    der deutschen Sprache noch nicht besetzt sei und gab dann <rs type="person" ref="#schleicher-august">Prof. Schleicher</rs> und mir den Rath, unser
+                    Provisorium aufzugeben und einem nicht näher bezeichneten, aber von dem
+                    Correspondenten in petto gehaltenen den Platz zu räumen. Täusche ich mich hiebei
+                    nicht vollkommen, so ist dieser Quidam ein und dieselbe Person mit einem
+                    (ehemals) jüdischen Docenten an einem der hiesigen Gymnasien, über dessen
+                    beispiellose Arroganz sich eine Übereinstimmung aller Parteien bildete, welche
+                    man fast rührend nennen könnte. Der junge Mann, welcher eine große Kenntnis von
+                    Büchertiteln und eine ebenso große Unkenntnis ihres näheren Inhaltes besitzt,
+                    debutirte hier damit, daß er in meiner und einiger anderer Collegen Anwesenheit
+                    sich über die Seichtigkeit der Vorträge meines verehrten Freundes, Hofrat
+                        <rs type="person" ref="#phillips-george">Phillips</rs> ausließ, dessen
+                    Collegium er drei Male besucht hatte. Natürlich sind wir nach dieser
+                    bescheidenen Beurtheilung eines Mannes von ausgezeichneten Verdiensten zu nichts
+                    Anderem da, als durch einen jungen Mann so rasch wie möglich ersetzt zu werden,
+                    der zwar jetzt noch bei Erwähnung lateinischer Worte wirklichen Lateinern durch
+                    seine Prosodie die Ohren zerreißt, um so mehr aber sich berufen fühlt, im
+                    Lehrstuhl der deutschen Sprache <rs type="person" ref="#schleicher-august">Schleicher</rs>, in dem der Geschichte mich und zuletzt wohl auch
+                        <rs type="person" ref="#zimmermann-robert">Zimmermann</rs> in dem der
+                    Philosophie abzulösen. Denn auch dieser hat so wenig wie ich die Ehre diesem
+                    neuen Criticus zu gefallen.<lb/>Ich zögere Euer Excellenz mit solchen Dingen zu
+                    behelligen; allein da es sich hier um eine weitangelegte Intrigue zu handeln
+                    scheint, ich auch geradezu aufgefordert werde, den im Finstern schleichenden
+                    gegenüber einen Schritt zu thun, so erlaube ich mir Euer Excellenz von dieser
+                    Sache, so wie sie sich mir darstellt, mit jener Offenheit ergebenst Mittheilung
+                    zu machen, die in meinem Charakter liegt. Es ist eine kleine Clique, welche
+                    Reputationen machen, die sogenannte öffentliche Meinung vertreten möchte; in
+                    Wahrheit handelt es sich aber nur um einen kleinen Schacher bei dem Einen und um
+                    das ôte-toi que je m’y mette bei dem Anderen, beides unter der Firma der
+                    Wissenschaft. Leider sind auch die Blätter, welche die Musen zu ihren Kränzen
+                    sammeln, so wenig von Ungeziefer frei als diejenigen, aus welchen man die corona
+                    civica windet.<lb/>Geruhen Euer Excellenz mir dieses lange Schreiben nicht
+                    verübeln zu wollen. Leute, welche viel in Einsamkeit verweilen, gewöhnen sich an
+                    Monologe und spinnen dieselben in die Weite und in die Breite aus. Doch wer
+                    seine Fehler gesteht, findet auch am ehesten Verzeihung. Ich hoffte auf
+                    Pfingsten Euer Excellenz persönlich aufwarten zu können; ich fürchte jedoch, daß
+                    ich auch dieses Mal die Zeit zu einer kleinen Excursion nicht zusammenbringe,
+                    obwohl ich mir bereits den Urlaub geben ließ. Wahrscheinlich kann ich davon
+                    nicht einmal Gebrauch machen. Wann soll ich arbeiten, wenn nicht in den Tagen
+                    der Erholung?<lb/>Ich habe die Ehre, mich Euer Excellenz Gnade gehorsamst
+                    empfehlend zu verharren in tiefster Ehrerbietung</p>
+                <p>Euer Excellenz unterthänigster Diener<lb/>Dr. C. Höfler</p>
+                <p>Prag, 12. Mai 1855</p>
+                <div type="enclosure" xml:id="D343_1">
+                    <p>Berlin, 10. Mai 1855</p>
+                    <p>Euer Hochwolgeboren!<lb/>geehrter herr Professor!</p>
+                    <p>Es verfloß doch eine geraume Zeit, ehe ich mich in ökonomischer Hinsicht
+                        eingerichtet, die nöthigen Gänge gemacht, ehe ich gelernt, mich in die
+                        hiesigen Verhältnisse einzuleben – und nun fühle ich mich schon ziemlich
+                        heimisch und frisch und gekräftigt, mich ganz den Arbeiten und Studien
+                        hinzugeben, um deren willen ich <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs> aufgesucht.
+                        Und es ist wahrhaft geboten, rathlos und mit Aufwand eines unermüdeten
+                        Fleißes die Zeit zu benützen, ja mit ihr zu geizen, um nur annähernd das
+                        Ziel zu erreichen, welches ich in voller Überlegung mir selbst gesetzt, um
+                        den Aufenthalt dahier so fruchtbringend zu machen wie möglich – denn die
+                        Zahl der Tage ist enge genug bemessen und die Aufgabe groß!<lb/>Ich habe
+                        meine Studien so eingerichtet, daß ich vor allem und mit Umgehung jedwedes
+                        noch so lockenden Nebenweges meine Zeit geographischen Arbeiten widme, die
+                        Anstalten benütze, welche mir nach dieser Richtung hin Stoff gewähren, mir
+                        namentlich eine gehörige Bekanntschaft mit der Reiseliteratur im Allgemeinen
+                        zu erwerben suche, um hierin einen richtigen Überblick und die
+                        wünschenswerthe Orientierung zu gewinnen. Werde ich dies alles innerhalb der
+                        mir zugemessenen kurzen Zeit erfüllen können? Wir haben wol manches von
+                        geographischer Literatur daheim, das mir zum Theile noch fremd ist, und ich
+                        suche, dieses noch für eine spätere Zeit zurücklegend, hier den größern in
+                            <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> nicht vorhandnen Theil durchzumachen, aber
+                        welche Masse ist selbst dann noch zu überwinden! Zumal ich nebstbei die
+                        Collegien nicht verabsaume, die ich meinem Plane gemäß gewählt. Zum Glück
+                        füllen diese meist nur die Vormittagstunden, so daß mir Nachmittag, Abend
+                        und wol auch ein Theil der Nacht zum Studium bleibt. Die Benützung der
+                        königlichen Bibliothek ist mir im vollsten Maße gewährt, ebenso jene der
+                        Bibliothek der geographischen Gesellschaft, was mir bis jetzt abgeht, ist
+                        die Benützung wissenschaftlicher Zeitschriften, die wol in einem eignen
+                        Journalzimmer der königlichen Bibliothek aufliegen, dessen Besuch aber
+                        statutenmäßig nur Mitgliedern des Universitätslehrkörpers gestattet ist;
+                        doch versprach Herr <rs type="person" ref="#curtius-ernst">Prof. Curtius</rs>,
+                        mir womöglich die Erlaubnis zum Besuche auszuwirken. Es ist mir überhaupt
+                        ungemein lieb, in so aufmerksamer und zuvorkommender Weise von Herrn
+                            <rs type="person" ref="#curtius-ernst">Curtius</rs> behandelt zu werden; er
+                        geht mir mit manchem Rathe zur Hand, und führte mich jüngst in die
+                        geographische Gesellschaft ein, deren Präsident <rs type="person" ref="#ritter-carl">Ritter</rs> selbst ist, und in deren Sitzungen wissenschaftliche
+                        Vorträge gehalten werden, die zumeist die neusten Forschungen auf dem Gebiet
+                        der allgemeinen Erdkunde zum Gegenstand haben. Für die Gesellschaft besteht
+                        hier, wie für geographische Studien und Forschungen überhaupt, in weiten
+                        Kreisen eine sehr rege Theilnahme, welche die schönsten Früchte trägt, –
+                        eine Theilnahme, die bei uns zu den frommen Wünschen gehört, mit der Zeit
+                        aber wol sich Bahn brechen wird und muß, wenn man nur nicht absichtlich die
+                        Augen wird verschließen wollen vor dem fördernden und heilbringenden
+                        Einfluß, der daraus nach so viel Seiten hin erwächst; ja es ist zu
+                        verwundern, wie bei der Stellung unsres Staates, bei seinem Beruf und seinem
+                        Wirken die Geographie und was sich an sie anschließt, bisher so
+                        stiefmütterlich behandelt wurde. Doch wozu spreche ich davon? Sind das doch
+                        Thatsachen, die Herr Professor so gut kennen, wie ich; Thatsachen, die eines
+                        Interpreten nicht bedürfen.<lb/>Die Collegien, die ich besuche, sind:
+                        Geographie von Europa bei <rs type="person" ref="#ritter-carl">Ritter</rs>;
+                        Geographie von Afrika bei Müller; physicalische Geographie bei <rs type="person" ref="#poggendorff-johann-christian">Poggendorff</rs>; Hydrographie
+                        bei <rs type="person" ref="#dove-heinrich-wilhelm">Dove</rs>;
+                        Pflanzengeographie bei Koch; dann Geschichte des Alterthums bei Curtius, von
+                        dem das geographische Element nicht vernachläßigt wird. Daß vor allen die
+                        Vorlesungen <rs type="person" ref="#ritter-carl">Ritters</rs> das größte
+                        Interesse und die anregendste Belehrung gewähren, ist selbstverständlich; es
+                        ist eigen, wie unter seinen Händen das Material sich gestaltet, mit welcher
+                        staunenswerten Sicherheit er den Stoff beherrscht, in welcher wahrhaft
+                        künstlerischen Vollendung die Form seiner Vorträge erscheint. Er las erst
+                        einigemale, aber da gab er seine großartigen Anschauungen in scharfen Zügen,
+                        die treffenden Vergleichungen, die ihm eigen sind, die allgemeine Übersicht
+                        und Charakteristik um nichts hätte ich diese ersten Vorträge versäumen
+                        mögen. Wie freue ich mich auf das persönliche Zusammentreffen mit diesem
+                        Manne; <rs type="person" ref="#curtius-ernst">Prof. Curtius </rs>versprach,
+                        mich nächstens bei ihm einzuführen. <rs type="person" ref="#mueller-georg-friedrich">Prof. Müller</rs> habe ich bereits kennen lernen; auch er bot mir
+                        freundlich Rath und Beistand an; sein Privatcollegium über Asien kam nicht
+                        zu Stande, wie denn überhaupt seine Vorlesungen nicht die besuchtesten zu
+                        sein pflegen; er ist ein Schüler Ritter’s, verhält sich meist receptiv, doch
+                        sind seine Vorträge nicht uninteressant. Niemand dürfte aber seinem
+                        Zuhörerkreis so imponiren, wie <rs type="person" ref="#dove-heinrich-wilhelm">Dove</rs>; mit solcher Sicherheit und Entschiedenheit tritt er
+                        auf, mit so kecken und frischen Worten weiß er entgegengesetzte Ansichten
+                        anzugreifen und, ich möchte sagen, umzurennen, und dabei bringt er aus
+                        seinem Fond von Wissen und Erfahrung eine solche Fülle vor, daß er auf das
+                        überzeugendste und eindringlichste seinen Lehren Eingang bereitet. <rs type="person" ref="#waagen-gustav-friedrich">Waagen</rs> liest nicht.<lb/>Herr
+                        Professor sehen, wie anregend der Aufenthalt in
+                            <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs> auf mich wirkt, und nur das bedaure ich,
+                        daß die Zeit so schnell verfließen wird, die mir hierzublieben vergönnt ist.
+                        Wie sehr lieb wäre mir, auch den Winter hier zubringen und bei größrer Muße
+                        meinen Studien mich widmen zu können. Wie glücklich würde ich sein, dereinst
+                        mein Scharflein mit beitragen zu können zur Verbreitung und Erweiterung
+                        geographischer Wissenschaft in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>; Gott gebe mir den Muth und die Kraft, auf diesem
+                        so unabsehbar weiten, bei uns so wenig bebauten Felde thätig und wirksam zu
+                        sein!<lb/>Von <rs type="person" ref="#heising-albert">D. Heising</rs> habe ich
+                        Empfehlungen zu melden; er läßt sagen, daß er von den Schriften des Herrn
+                        Professors nichts erhalten, bittet daher, ihm einige Exemplare zu schicken,
+                        um selbe, wie erwünscht zu benützen. Der Druck der böhmischen
+                        Geschichtsquellen nimmt wol einen rascheren Fortgang.<lb/>Schließlich bitte
+                        ich um die fernere Gewogenheit, deren ich mich erfreut, und die ich zu
+                        schätzen weiß, und zeichne mich mit inniger Hochachtung</p>
+                    <p>Euer Hochwolgeboren dankschuldiger Schüler<lb/>Anton Zeithammer</p>
+                    <p>Meine Adresse: Taubenstraße 46, bei Thöne‘s </p>
+                </div>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="hoefler-karl-adolf-constantin">
+                        <persName>
+                            <surname>Höfler</surname>
+                            <forename>Karl Adolf Constantin</forename>
+                        </persName>
+                        <note>
+                            <p>Memmingen 1811–1897 Prag</p>
+                            <p>ab 1836 Privatdozent für Geschichte an der Universität München, ab 1839 Prof. an der Universität München, 1847 Zwangspensionierung, ab 1847 Kreisarchivar in Bamberg, ab 1852 Prof. für allgemeine Geschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/118774654</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118774654</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="zeithammer-anton">
+                        <persName>
+                            <surname>Zeithammer</surname>
+                            <forename>Anton Ottokar</forename>
+                        </persName>
+                        <note>
+                            <p>Pisek 1832–1919</p>
+                            <p>1855 Gymnasiallehramtsprüfung, bis 1856 Präfekt an der Theresianischen Ritterakademie in Wien, ab 1856 Lehrer für Geschichte in Agram, 1861 Lehrer am Altstädter Gymnasium in Prag, ab 1868 journalistische Tätigkeit</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="luther-martin">
+                        <persName>
+                            <surname>Luther</surname>
+                            <forename>Martin OESA</forename>
+                        </persName>
+                        <note>
+                            <p>Eisleben 1483–1546 Eisleben</p>
+                            <p>Reformator</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="hanusch-ignaz">
+                        <persName>
+                            <surname>Hanuš</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1812–1869 Prag</p>
+                            <p>1838–1847 Prof. der Philosophie an der Universität Lemberg, 1847–1849 Prof. an der Universität Olmütz, 1849–1852 Prof. an der Universität Prag, 1852 vom Lehramt enthoben, ab 1860 Bibliothekar an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/115690743</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/115690743</tei:idno>
+                    </person>
+                <person xml:id="wocel-johann-erasmus">
+                        <persName>
+                            <surname>Wocel</surname>
+                            <forename>Johann Erasmus</forename>
+                        </persName>
+                        <note>
+                            <p>Kuttenberg 1803–1871 Prag</p>
+                            <p>Prof. der Archäologie, der Kunstgeschichte und der böhmischen Literaturgeschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/12042598X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/12042598X</tei:idno>
+                    </person>
+                <person xml:id="schulte-friedrich">
+                        <persName>
+                            <surname>Schulte</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Winterberg 1827–1914 Meran</p>
+                            <p>ab 1854 Privatdozent an der Universität Bonn, 1855 Prof. für Kirchenrecht und deutsche Reichs- und Rechtsgeschichte an der Universität Prag, 1873–1906 Prof. für Kirchengeschichte an der Universität Bonn</p>
+                            <p>http://d-nb.info/gnd/11861133X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11861133X</tei:idno>
+                    </person>
+                <person xml:id="zimmermann-robert">
+                        <persName>
+                            <surname>Zimmermann</surname>
+                            <forename>Robert</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1824–1898 Prag</p>
+                            <p>Sohn von Johann August Zimmermann, ab 1849 Prof. für Philosophie an der Universität Olmütz, 1852–1861 Prof. an der Universität Prag, 1861–1895 Prof. für Philosophie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/118528408</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118528408</tei:idno>
+                    </person>
+                <person xml:id="loewe-johann-heinrich">
+                        <persName>
+                            <surname>Loewe</surname>
+                            <forename>Johann Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1808–1892 Prag</p>
+                            <p>ab 1838 Prof. für Philosophie am Lyzeum in Salzburg, ab 1851 Prof. für Philosophie an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/159584345</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/159584345</tei:idno>
+                    </person>
+                <person xml:id="gervinus-georg">
+                        <persName>
+                            <surname>Gervinus</surname>
+                            <forename>Georg Gottfried</forename>
+                        </persName>
+                        <note>
+                            <p>Darmstadt 1805–1871 Heidelberg</p>
+                            <p>ab 1835 Prof. für Geschichte und Literatur an der Universität Heidelberg, 1836–1837 Prof. an der Universität Göttingen, 1837 des Landes verwiesen, 1844 Wiederaufnahme der akad. Tätigkeit als Honorarprof. an der Universität Heidelberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="zimmermann-joseph-andreas">
+                        <persName>
+                            <surname>Zimmermann</surname>
+                            <forename>Joseph Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>Schäßburg 1810–1897 Hermannstadt</p>
+                            <p>ab 1844 Prof. an der Rechtsakademie Hermannstadt, 1846–1847 Abgeordneter beim Landtag in Klausenburg, ab 1850 Beamter im Ministerium für Kultus und Unterricht (zuständig für die Evangelischen Kirchen)</p>
+                            <p>http://d-nb.info/gnd/127331492</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/127331492</tei:idno>
+                    </person>
+                <person xml:id="schleicher-august">
+                        <persName>
+                            <surname>Schleicher</surname>
+                            <forename>August</forename>
+                        </persName>
+                        <note>
+                            <p>Meiningen 1821–1868 Jena</p>
+                            <p>1846–1850 Forschungsaufenthalte in Paris, London und Wien, 1850 Prof. für klassische Philologie an der Universität Prag, 1853 Prof. für Vergleichende Sprachforschung, Deutsch und Sanskrit an der Universität Prag, ab 1857 Prof. an der Universität Jena</p>
+                            <p>http://d-nb.info/gnd/118759302</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118759302</tei:idno>
+                    </person>
+                <person xml:id="phillips-george">
+                        <persName>
+                            <surname>Phillips</surname>
+                            <forename>George</forename>
+                        </persName>
+                        <note>
+                            <p>Königsberg 1804–1872 Aigen bei Salzburg</p>
+                            <p>1827 Prof. an der Universität Berlin, 1834 Prof. für Kirchen- und Privatrecht an der Universität München, 1850 Prof. an der Universität Innsbruck, 1851–1860 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/100233791</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100233791</tei:idno>
+                    </person>
+                <person xml:id="curtius-ernst">
+                        <persName>
+                            <surname>Curtius</surname>
+                            <forename>Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>Lübeck 1814–1896 Berlin</p>
+                            <p>ab 1844 Hauslehrer des späteren Kaiser Friedrich III. und Prof. für Archäologie an der Universität Berlin, 1855–1867 Prof. an der Universität Göttingen</p>
+                            <p>http://d-nb.info/gnd/118523058</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118523058</tei:idno>
+                    </person>
+                <person xml:id="ritter-carl">
+                        <persName>
+                            <surname>Ritter</surname>
+                            <forename>Carl</forename>
+                        </persName>
+                        <note>
+                            <p>Quedlinburg 1779–1859 Berlin</p>
+                            <p>ab 1798 Hauslehrer in Frankfurt a. Main, 1819 Lehrer am Frankfurter Gymnasium, ab 1820 Prof. für Geographie an der Universität Berlin</p>
+                            <p>http://d-nb.info/gnd/11860130X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11860130X</tei:idno>
+                    </person>
+                <person xml:id="poggendorff-johann-christian">
+                        <persName>
+                            <surname>Poggendorff</surname>
+                            <forename>Johann Christian</forename>
+                        </persName>
+                        <note>
+                            <p>Hamburg 1796–1877 Berlin</p>
+                            <p>ab 1823 meteorologischer Beobachter an der Preußischen Akademie der Wissenschaften, Privatgelehrter</p>
+                            <p>http://d-nb.info/gnd/116250836</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116250836</tei:idno>
+                    </person>
+                <person xml:id="dove-heinrich-wilhelm">
+                        <persName>
+                            <surname>Dove</surname>
+                            <forename>Heinrich Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Liegnitz 1803–1879 Berlin</p>
+                            <p>ab 1828 Prof. für Physik an der Universität Königsberg, ab 1829 Lehrer am Friedrich-Wilhelms-Gymnasium Berlin, ab 1845 Prof. an der Universität Berlin, 1846 Gründung des Meteorologischen Instituts, 1849–1879 dessen Leiter</p>
+                            <p>http://d-nb.info/gnd/116190949</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116190949</tei:idno>
+                    </person>
+                <person xml:id="mueller-georg-friedrich">
+                        <persName>
+                            <surname>Müller</surname>
+                            <forename>Georg Friedrich Hermann</forename>
+                        </persName>
+                        <note>
+                            <p>1815–1886</p>
+                            <p>Geograph und Leiter des Kartographischen Instituts in Berlin</p>
+                            <p>http://d-nb.info/gnd/115864466</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/115864466</tei:idno>
+                    </person>
+                <person xml:id="waagen-gustav-friedrich">
+                        <persName>
+                            <surname>Waagen</surname>
+                            <forename>Gustav Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Hamburg 1794–1868 Kopenhagen</p>
+                            <p>1830 Direktor der Gemäldegalerie des königl. Museums in Berlin, zahlreiche Studienreisen in Europa, ab 1844 Prof. für Kunstgeschichte an der Universität Berlin</p>
+                            <p>http://d-nb.info/gnd/118628038</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118628038</tei:idno>
+                    </person>
+                <person xml:id="heising-albert">
+                        <persName>
+                            <surname>Heising</surname>
+                            <forename>Albert</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Historiker</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_d35a02eb49149450fb2fffc6e467eb37">
+                        <placeName>Berlin</placeName>
+                        <placeName type="pref">berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2950159/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0027">
+                        <orgName>Universität Berlin</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1016783-3</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

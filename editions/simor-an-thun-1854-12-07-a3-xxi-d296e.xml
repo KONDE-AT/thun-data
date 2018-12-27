@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="simor-an-thun-1854-12-07-a3-xxi-d296e.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-01-a3-xxi-d296d.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-12-a3-xxi-d296f.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when="1854-12-07">7.
+                        Dezember 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D296</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>János Simor berichtet Leo Thun von einigen Ereignissen in Rom. Zunächst
+                            spricht Simor seine Vermutung aus, dass der Domherr Johann Danielik wohl
+                            nicht mehr nach Rom reisen werde, da Kardinal Ján Scitovský bereits seine
+                            Abreise plane. In der Folge geht er auf die Rolle des Kardinals bei den
+                            Konkordatsverhandlungen ein. Simor betont dabei, dass Scitovský nach
+                            Einfluss strebe und sich nach außen als einflussreich gebärde. In
+                            Wirklichkeit, so glaubt Simor, hätten allerdings einige Kardinäle
+                            bereits erkannt, dass Scitovský für Auskünfte in Fragen des Konkordats
+                            nicht die beste Ansprechperson sei. Simor glaubt aber, dass Scitovský
+                            nicht als Feind des Konkordats anzusehen sei. In der Folge beschreibt
+                            und charakterisiert Simor den Dekan der Rota, Pietro Silvestri. Er
+                            schildert diesen als einen der reichsten Kirchenmänner in Rom. Silvestri
+                            genieße allgemein hohes Ansehen, stehe der konservativen Partei nahe,
+                            allein das Vertrauen des Papstes habe er nicht. Daher wurde sein
+                            Aufstieg in der Kurie gebremst. Seine Ernennung zum Kardinal soll erst
+                            in einigen Jahren erfolgen. Allerdings bestünde die Möglichkeit, dass
+                            der Kaiser ihn für das Amt des Kronkardinals vorschlägt. Dann müsste man
+                            aber einen geeigneten Nachfolger aus Österreich für seinen Posten in der
+                            Rota finden und dotieren. Simor möchte dieses Amt nicht übernehmen.
+                            Schließlich verweist er noch einmal auf die Aussagen aus seinem letzten
+                            Brief zur Dotierung der Kirche Santa Maria dell'Anima. Zuletzt berichtet
+                            er die Ankunft von Paul Marie Djunkovsky und des Olmützer Domherrn
+                            Lichnovsky. In seinem nächsten Brief will Simor dann die für den
+                            kommenden Tag geplante Feier der Dogmatisierung der Immaculata
+                            schildern.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Unter der Signatur A3 XXI D296 sind weitere sieben Briefe und Berichte
+                            Simors abgelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-11-a3-xxi-d296a.xml">János Simor an Leo Thun. Rom, 11. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-14-a3-xxi-d296b.xml">János Simor an Leo Thun. Rom, 14. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-17-a3-xxi-d296c.xml">János Simor an Leo Thun. Rom, 17. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-01-a3-xxi-d296d.xml">János Simor an Leo Thun. Rom, 1. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-12-a3-xxi-d296f.xml">János Simor an Leo Thun. Rom, 12. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-15-a3-xxi-d296g.xml">János Simor an Leo Thun. Rom, 15. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-23-a3-xxi-d296h.xml">János Simor an Leo Thun. Rom, 23. Dezember 1854</ref>.</p>
+                        <p>Dem Brief sind die ersten beiden Seiten des Giornale di Roma, Nr. 277 vom
+                            5. Dezember 1854 beigelegt, die eine Liste mit den in Rom anwesenden
+                            Kardinälen und Bischöfen enthalten.<note xml:id="note_1">Die Liste ist
+                                hier nicht transkribiert.</note>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#simor-johann">János Simor</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when="1854-12-07">7.
+                        Dezember 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vatikan</term>
+                    <term>Konkordat</term>
+                    <term>Santa Maria dell'Anima</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Ich beeile mich das mir erst gestern in den Abendstunden zugestellte gnädige
+                    Schreiben Euerer Excellenz vom 23. November zu beantworten. <rs type="person" ref="#danielik-johann">Domherr D[anielik]</rs> wird, sollte er auch den
+                    Paß erhalten, nicht mehr nach <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> kommen. Über
+                    Aufforderung des Kardinals wollte er nur mit diesem oder höchstens nur während
+                    dessen Anwesenheit in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> die Reise antreten. Da der
+                        <rs type="person" ref="#scitovsky-jan">Kardinal</rs> bereits Anstalten trifft
+                    zu seiner Rückreise, welche er den 26. dieses anzutreten und in
+                        <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs> [Esztergom] den 5. Jänner einzutreffen gedenkt,
+                    um am folgenden hohen Festtage eine großartige kirchliche Feierlichkeit abhalten
+                    zu können, und da hievon der <rs type="person" ref="#danielik-johann">Domherr
+                        D.</rs> schon unterrichtet ist, so glaube ich mich nicht zu irren,
+                    wenn ich behaupte, er habe die Absicht hieher zu reisen bereits ganz aufgegeben.
+                        <rs type="person" ref="#danielik-johann">D.</rs> liebt die Bequemlichkeit viel
+                    mehr, als daß er sich in dieser Jahreszeit zu einer so weiten Reise entschließen
+                    könnte. Wollte er aber dennoch nach <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> kommen, so wäre
+                    ihm der Paß nicht zu verweigern, er würde und könnte auch nicht mehr so viel
+                    schaden als in der ersten Zeit, wo man noch den <rs type="person" ref="#scitovsky-jan">Kardinal</rs> nicht gekannt hat. Ich bin übrigens noch immer der
+                    Ansicht, daß es sehr zweckmäßig war, seine Reise mit dem <rs type="person" ref="#scitovsky-jan">Kardinal</rs> zu verbinden und so von diesem einen
+                    Hetzer und einen Anhaltspunkt fern zu halten, dessen sich schwache Menschen
+                    bedürfen. An dem Domherrn <rs type="person" ref="#schirgl-andreas">Schirgl</rs> hat
+                    der <rs type="person" ref="#scitovsky-jan">Kardinal</rs> einen solchen nicht,
+                    vielmehr muß ich zur Steuer der Wahrheit bezeugen, daß die Ansichten des
+                    Kardinals über das Concordat von diesem Domherrn durchaus nicht getheilt werden.
+                    Einige der einflußreicheren Kardinäle wissen übrigens bereits, daß die Auskünfte
+                    ihres ungarischen Collegen nicht ganz verläßlich sind und mir gelang es bei
+                    zweien diese Vorstellung über ihn festzustellen, ohne ihm sonst nahe zu treten,
+                    vielmehr ließ ich seinem Eifer und seiner Opferwilligkeit Gerechtigkeit
+                    wiederfahren. Dass er mit mir, seit wir in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> sind, über
+                    das Condordat nie spricht, ja dieses Wort gar nicht erwähnt, brauche ich nicht
+                    erst zu bemerken. Der <rs type="person" ref="#scitovsky-jan">Kardinal</rs> schreibt
+                    eigenhändig ein Diarium über seinen Aufenthalt in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> und
+                    schickt es bogenweise nach <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs>, um daselbst ins
+                    ungarische übersetzt zu werden. An seinen Clerus hat er einen Hirtenbrief von
+                    hieraus erlassen über seine Ankunft und seinen Empfang durch den <rs type="person" ref="#pius-IX">Heiligen Vater</rs>, welcher an ihn gleich in der
+                    ersten, dann in der zweiten und ebenso auch in der dritten Audienz über sehr
+                    wichtige Gegenstände gesprochen und an ihn hierüber „singulares quaestiones“
+                    gestellt haben soll. Wenn er ein Gegner des Concordats ist, so ist er meiner
+                    Ansicht nach ein nicht zu befürchtender, daher so ziemlich unschuldiger Gegner.
+                    Was den Monsignor <rs type="person" ref="#silvestri-pietro">Silvestri</rs>
+                    anbelangt, so hält man ihn hier für den am reichlichsten dotirten Prälaten, weil
+                    er mehrere einträgliche Ämter bekleidet. Er ist nemlich Decanno der S. Rota,
+                    dann Vicepoenitentiarius des Papstes, endlich erster Domherr an der Basilica
+                    Lateranensis, welche bekanntlich die erste Kirche <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Roms</rs> und der katholischen Welt ist. Er wird allgemein in seinem
+                    jährlichen Einkommen auf 10–12.000 Scudi geschätzt, er steht folglich viel
+                    besser als die meisten Kardinäle. Er genießt hier des besten Rufes und gehört zu
+                    der conservativen Parthei, zu welcher er sich auch im Jahre 1848 bekannt hat.
+                    Bei dem <rs type="person" ref="#pius-IX">Heiligen Vater</rs> soll er in keiner
+                    Gunst stehen, weil er ein Liebling des <rs type="person" ref="#gregor-XVI">verstorbenen
+                        Papstes</rs> war und weil er von seinen politischen Gesinnungen nie
+                    ein Geheimnis machte. Als das Patriarchat von <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs>
+                    durch den Tod des <rs type="person" ref="#monico-giacomo">Kardinals Monico</rs>
+                    erledigt wurde, glaubte man in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> allgemein, <rs type="person" ref="#silvestri-pietro">Monsignor Silvestri</rs> und kein anderer werde
+                    Patriarch. Als Decan der Rota hat er nemlich den Rang eines Erzbischofs, hätte
+                    daher auf die gedachte Würde und Pfründe Anspruch machen können. Auf ein Bisthum
+                    wird er kaum sich transferiren lassen und so kann sein Posten nur durch die
+                    Beförderung zum Kardinal erledigt werden. Obschon er aber einen sogenannten
+                    Posto Cardinalizio einnimmt, so kann er doch vor 3–4 Jahren auf die
+                    Kardinalwürde keinen Anspruch machen und es hängt auch nach Verlauf dieser Zeit
+                    vom Papste ab, ihn auf diese Würde zu befördern, wenn es dem <rs type="person" ref="#pius-IX">Heiligen Vater</rs> nicht gefällt ihn zu befördern, so
+                    kann er auch noch 10 Jahre, ja lebenslänglich diesen Posten bekleiden – ein
+                    Decano di S. Rota kann nur, aber er muß eben kein Kardinal werden. Der Papst
+                    wird motu proprio den <rs type="person" ref="#silvestri-pietro">Silvestri</rs> vor
+                    3–4 Jahren nicht zum Kardinal machen, so sagen die Wohlunterrichteten – es ist
+                    jedoch sehr wahrscheinlich, daß er ihn zum Kardinal, d. h. zum Kronkardinal
+                    ernennen würde, wenn ihn <rs type="person" ref="#franz-joseph">Seine Majestät der
+                        Kaiser</rs> als solchen verlangt und auch dotirt. Dieses alles muß
+                    übrigens der <rs type="person" ref="#esterhazy-von-galantha-moritz">Graf
+                        Esterházy</rs> besser wissen. Aber auch noch ein anderer Weg könnte
+                    eingeschlagen werden. Auch die Republik <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs> hat das
+                    Recht gehabt, einen Uditore de Rota zu ernennen, wie wäre es, wenn man versuchen
+                    wollte dieses unstreitig von <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
+                    ererbte Recht der Republik geltend zu machen und anstatt des einen 2 Uditori zu
+                    ernennen? Ich bin zwar nicht dafür, denn das würde mit Auslagen verbunden sein
+                    und es hieße „entia sine necessitate multiplicare“. Ich glaubte jedoch auch
+                    dieses allerdings im Wege der Diplomatie zu versuchende Auskunftsmittel
+                    anzuzeigen. Wenn die Beförderung des <rs type="person" ref="#silvestri-pietro">Silvestri</rs> zum Kronkardinal verlangt werden sollte, so wäre es
+                    vielleicht angezeigt ihn hievon früher zu verständigen. Nur müßte für diesen
+                    Fall sein Nachfolger mit vieler Sorgfalt ausgesucht werden. Es ist Euerer
+                    Excellenz bekannt, daß ich zu einem solchen bestimmt war, ich muß jedoch Euerer
+                    Excellenz erklären, daß ich die Eigenschaften für diesen Posten nicht besitze
+                    und ich werde in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> die Ehre haben diese meine
+                    Behauptung mit richtigen Gründen zu belegen. Ich empfehle den in meinem letzten
+                    Briefe hinsichtlich des Rectorats der <rs type="org" ref="#org_0062">Kirche dell’Anima</rs> gestellten Antrag umso mehr, da es zu meiner
+                    Kenntnis gekommen ist, daß die hier weilenden deutschen Bischöfe bezüglich
+                    dieser deutschen Stiftung und deren Regelung an den Präses der Sagra Visita
+                    Kardinal <rs type="person" ref="#brunelli-giovanni">Brunelli</rs> ein Memorandum
+                    überreichen wollen. Sie wollen zwar dem Protectoratsrechte <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> keinen Abbruch thun, allein mit dem
+                    Protectorate müssen auch wesentliche auf die Leitung des Institutes Bezug
+                    habende Rechte verbunden sein. Der Herr <rs type="person" ref="#rauscher-joseph">Erzbischof von Wien</rs> wird übrigens schon darüber wachen, daß das
+                    „Memorandum“ nicht zu unserem Nachtheile ausfällt. Morgen also ist der Tag, an
+                    welchem der <rs type="person" ref="#pius-IX">Heilige Vater</rs> selbst die
+                    dogmatische Entscheidung über den Glauben der Kirche hinsichtlich der
+                    unbefleckten Empfängnis der Mutter Gottes verkündigen wird. Nach dem
+                    Pontificalamte wird er ein Bild der Heiligen Jungfrau krönen (die Krone kostete
+                    7.000 scudi). Abends wird die S. Peterskirche auswärts vorzüglich die „Cupula“
+                    wie auch die Stadt festlich beleuchtet werden. Am 9. wird ein großes
+                    Consistorium abgehalten, an welchem alle Kardinäle, Erz- und Bischöfe
+                    theilnehmen worden. Alle hier weilenden Erz- und Bischöfe sind pro Episcopis
+                    solio pontificio assistentibus declarirt worden. Am 10., d. h. am 2.
+                    Adventsonntage ist die feierliche Einweihung der im Jahre 1823 abgebrannten,
+                    aber bereits restaurirten großen Basilica S. Pauli außer den Mäuern der Stadt.
+                    Den Haupttheil consecrirt der Heilige Vater, die übrigen Teile zu derselben Zeit
+                    6 Kardinäle, unter welchen sich jene zu <rs type="person" ref="#schwarzenberg-friedrich">Prag</rs> und zu <rs type="person" ref="#scitovsky-jan">Gran</rs>
+                    befinden. Erst nach diesen Feierlichkeiten wird eine gewisse Ruhe eintreten und
+                    der Herr <rs type="person" ref="#rauscher-joseph">Wiener Erzbischof</rs>
+                    Gelegenheit haben die Verhandlungen ernstlich zu betreiben.<lb/>
+                    <rs type="person" ref="#djunkovsky-paul-marie">Djunkovsky</rs> ist in
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, ich weiß es nur von den Geistlichen des
+                        <rs type="person" ref="#scitovsky-jan">Kardinals von Gran</rs>, bei welchem er
+                    sich bald nach seiner Ankunft eingefunden hat. Schon von
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> wurde mir auch von 2 Seiten berichtet, daß er
+                    über mich und meine Anwesenheit in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> sehr ungehalten
+                    ist, sonst weiß ich über sein hiesiges Wirken nichts Näheres. Auch wurde mir
+                    berichtet, daß ihm manche Bischöfe Österreichs über die Bureaucratie sehr
+                    geklagt und ihm fast unbedingtes Vertrauen geschenkt haben. Das heißt doch nicht
+                    klug und redlich zu handeln, ein solcher commis voyageur macht sich wichtig mit
+                    seinen Verbindungen in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>
+                    und <rs type="place" subtype="place" ref="#place_bc180dbc583491c00f8a1cd134f7517b">London</rs> und die schwachen Leute lassen sich von ihm in
+                    Schlepptau nehmen. Auch Monsignor <rs type="person" ref="#lichnowsky-robert">Lichnovsky</rs> ist angekommen, es hat diesem Herrn viel Mühe
+                    gekostet, um Monsignor, d. h. Cameriere papale zu werden. Der gegenwärtige
+                        <rs type="person" ref="#fuerstenberg-friedrich-egon">Erzbischof von Olmütz</rs>
+                    hat ihn auf seinem Gewissen, welcher ihm das herrlichste Zeugniß ausstellte,
+                    obschon er zu derselben Zeit erklärt haben soll, er hätte den Grafen Lichnovsky
+                    nie zum Priester geweiht. Ich erlaube mir das erste Blatt des „Giornale di Roma“
+                    beizulegen, es enthält das Verzeichnis der sämmtlichen hier anwesenden Prälaten,
+                    nemlich der 54 Kardinäle, 1 Patriarchen, 42 Erzbischöfe und 92 Bischöfe. Gestern
+                    las ich die heilige Messe bei St. Peter im Vaticano und wohnte dann der stillen
+                    Messe des Heiligen Vaters bei, welche er vor den großen Reliquien celebrirte und
+                    unter welcher er mehr als 400 Individuen (bloß Männern) die heilige Communion
+                    darreichte. Ich opferte diese heilige Messe auf für meine Gönner und Freunde in
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, derer ich übrigens alle Tage eingedenk bin. Am
+                    1. Adventsonntage hat der Papst mit allen Kardinälen, Bischöfen und seinem
+                    Hofstaate dem von dem <rs type="person" ref="#reisach-karl-august">Münchner
+                        Erzbischofe</rs> celebrirten Hochamte assistirt und dann das
+                    hochwürdige Gut, nachdem es proceßionaliter in der Kirche herumgetragen hätte
+                    zur öffentlichen 40 stündigen Anbetung ausgesetzt. Er fungirt mit
+                    unbeschreiblicher Würde und Majestät und hat eine herrliche Stimme. Über den
+                    Verlauf der nächsten Feierlichkeiten werde ich nicht ermangeln zu berichten.
+                    Euere Excellenz wollen mich nur auch ferner Ihrer Huld und Gnade würdigen, der
+                    ich die Ehre habe mit der tiefsten Verehrung zu verharren</p>
+                <p>Rom, den 7. Dezember 1854</p>
+                <p>Euerer Excellenz unterthänigst gehorsamster Diener<lb/>J. Simor</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="simor-johann">
+                        <persName>
+                            <surname>Simor</surname>
+                            <forename>János</forename>
+                        </persName>
+                        <note>
+                            <p>Székesfehérvár 1813–1891 Balatonfüred</p>
+                            <p>Priester, ab 1846 Prof. für Dogmatik im Priesterseminar Esztergom, ab 1850 Prof. für Kirchenrecht an der Universität Wien, ab 1857 Bischof von Györ, ab 1867 Erzbischof von Esztergom und Primas von Ungarn, 1873 Kardinal</p>
+                            <p>http://d-nb.info/gnd/123271606</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123271606</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="danielik-johann">
+                        <persName>
+                            <surname>Danielik</surname>
+                            <forename>Johann Nepomuk</forename>
+                        </persName>
+                        <note>
+                            <p>Murány 1817–1888 Eger</p>
+                            <p>Domherr von Eger, ab 1848 Herausgeber der Zeitschrift „Religio és Nevelés“, Titularbischof von Pristini</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="scitovsky-jan">
+                        <persName>
+                            <surname>Scitovský</surname>
+                            <forename>Ján</forename>
+                        </persName>
+                        <note>
+                            <p>Košická Belá 1785–1866 Esztergom</p>
+                            <p>ab 1838 Bischof von Pécs, ab 1849 Erzbischof von Esztergom und Primas von Ungarn, seit 1853 Kardinal</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="schirgl-andreas">
+                        <persName>
+                            <surname>Schirgl</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>Szomolnok 1811–1872 Esztergom</p>
+                            <p>Domherr in Esztergom</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="pius-IX">
+                        <persName>
+                            <surname>Pius IX.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Senigallia 1792–1878 Rom</p>
+                            <p>Papst von 1846–1878</p>
+                            <p>http://d-nb.info/gnd/118594729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118594729</tei:idno>
+                    </person>
+                <person xml:id="silvestri-pietro">
+                        <persName>
+                            <surname>Silvestri</surname>
+                            <forename>Pietro</forename>
+                        </persName>
+                        <note>
+                            <p>Rovigo 1803–1875 Rom</p>
+                            <p>ab 1835 Auditor der Sacra Romana Rota, ab 1853 Dekan der Rota, ab 1858 Kardinal und Kardinalprotektor für Österreich</p>
+                            <p>http://d-nb.info/gnd/119747863</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119747863</tei:idno>
+                    </person>
+                <person xml:id="gregor-XVI">
+                        <persName>
+                            <surname>Gregor XVI.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Belluno 1765–1846 Rom</p>
+                            <p>1831–1846 Papst</p>
+                            <p>http://d-nb.info/gnd/118541897</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118541897</tei:idno>
+                    </person>
+                <person xml:id="monico-giacomo">
+                        <persName>
+                            <surname>Monico</surname>
+                            <forename>Giacomo</forename>
+                        </persName>
+                        <note>
+                            <p>Riese Pio X 1778–1851 Venedig</p>
+                            <p>1827–1851 Patriarch von Venedig, ab 1833 Kardinal</p>
+                            <p>http://d-nb.info/gnd/102382423X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102382423X</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="esterhazy-von-galantha-moritz">
+                        <persName>
+                            <surname>Esterházy von Galantha</surname>
+                            <forename>Moritz</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1807–1890 Pirna b. Dresden</p>
+                            <p>Diplomat, Attaché in Paris, Gesandter in Den Haag, 1848–1856 Gesandter in Rom, bis 1866 außenpolitischer Berater von Kaiser Franz Joseph</p>
+                            <p>http://d-nb.info/gnd/135934516</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/135934516</tei:idno>
+                    </person>
+                <person xml:id="brunelli-giovanni">
+                        <persName>
+                            <surname>Brunelli</surname>
+                            <forename>Giovanni</forename>
+                        </persName>
+                        <note>
+                            <p>Rom 1795–1861 Osimo</p>
+                            <p>Titularerzbischof von Thessaloniki, 1847–1857 Nuntius in Madrid, 1856–1861 Bischof von Osimo und Cingoli Ancona, ab 1853 Kardinal</p>
+                            <p>http://d-nb.info/gnd/141265825</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/141265825</tei:idno>
+                    </person>
+                <person xml:id="rauscher-joseph">
+                        <persName>
+                            <surname>Rauscher</surname>
+                            <forename>Josef Othmar</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1875 Wien</p>
+                            <p>ab 1825 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum Salzburg, ab 1832 Direktor der orientalischen Akademie in Wien, ab 1849 Fürstbischof von Seckau, ab März 1853 Erzbischof von Wien, ab 1855 Kardinal</p>
+                            <p>http://d-nb.info/gnd/118787977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118787977</tei:idno>
+                    </person>
+                <person xml:id="schwarzenberg-friedrich">
+                        <persName>
+                            <surname>Schwarzenberg</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1809–1885 Wien</p>
+                            <p>1836 Fürsterzbischof von Salzburg, ab 1842 Kardinal, ab 1850 Erzbischof von Prag</p>
+                            <p>http://d-nb.info/gnd/118763024</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118763024</tei:idno>
+                    </person>
+                <person xml:id="djunkovsky-paul-marie">
+                        <persName>
+                            <surname>Djunkovsky</surname>
+                            <forename>Paul Maria Etienne</forename>
+                        </persName>
+                        <note>
+                            <p>St. Petersburg 1821–1870</p>
+                            <p>russ.-kath. Missionar, ab 1855 apostolischer Präfekt für die Nordpolmission</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="lichnowsky-robert">
+                        <persName>
+                            <surname>Lichnovsky</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>http://d-nb.info/gnd/119002043</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119002043</tei:idno>
+                    </person>
+                <person xml:id="fuerstenberg-friedrich-egon">
+                        <persName>
+                            <surname>Fürstenberg</surname>
+                            <forename>Friedrich Egon</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1813–1892 Hochwald</p>
+                            <p>1853–1892 Erzbischof von Olmütz, ab 1879 Kardinal</p>
+                            <p>http://d-nb.info/gnd/129767638</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/129767638</tei:idno>
+                    </person>
+                <person xml:id="reisach-karl-august">
+                        <persName>
+                            <surname>Reisach</surname>
+                            <forename>Karl August</forename>
+                        </persName>
+                        <note>
+                            <p>Roth bei Nürnberg 1800–1869 Contamine-sur-Arve</p>
+                            <p>1836–1846 Bischof von Eichstätt, 1846–1856 Erzbischof von München und Freising, 1855–1869 Kurienkardinal, 1856 Generalvisitator der Anima</p>
+                            <p>http://d-nb.info/gnd/118955403</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118955403</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_cde856980f41b5362c96273d9c84431d">
+                        <placeName>Esztergom</placeName>
+                        <placeName type="alt">Graner</placeName>
+                        <placeName type="alt">Gran</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.7928 18.74148</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3053163/</idno>
+                    </place>
+                <place xml:id="place_80c239e539544aa459dc13996638cb2f">
+                        <placeName>Venedig</placeName>
+                        <placeName type="pref">venedig</placeName>
+                        <placeName type="alt">Venedigs</placeName>
+                        <placeName type="alt">Vendig</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.43713 12.33265</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164603/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_bc180dbc583491c00f8a1cd134f7517b">
+                        <placeName>London</placeName>
+                        <placeName type="pref">london</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.50853 -0.12574</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2643743/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0062">
+                        <orgName>Santa Maria dell' Anima</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/4402265-7</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

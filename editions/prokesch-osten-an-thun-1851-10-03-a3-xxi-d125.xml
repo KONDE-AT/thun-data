@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="prokesch-osten-an-thun-1851-10-03-a3-xxi-d125.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/prokesch-an-thun-1852-11-14-a3-xxi-d174.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#prokesch-osten-anton" role="sender:beamter">Anton
+                        Prokesch-Osten</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>,
+                        <date when="1851-10-03">3. Oktober 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D125</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Diplomat Anton Prokesch-Osten empfiehlt Leo Thun erneut den
+                            konvertierten Studenten Dionys Grün, der diesen Brief überbringt. Grün
+                            wurde ihm vom Berliner Dompropst Leopold Pelldram mündlich und
+                            schriftlich empfohlen. Prokesch legt das Empfehlungsschreiben Pelldrams
+                            bei.<lb/>In der Beilage teilt der Propst von St. Hedwig, Leopold
+                            Pelldram, Prokesch-Osten mit, dass der jüdische Student Dionys Grün zum
+                            katholischen Glauben übergetreten sei und nun sein Studium in Wien
+                            fortsetzen wolle. Pelldram würde sich über eine Unterstützung durch
+                            Prokesch-Osten sehr freuen und betont, dass Grün dem Kaiserstaat
+                            sicherlich von Nutzen sein werde.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d125_1">
+                                 an , ,
+                                2. Oktober 1851.</tei:ref>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#prokesch-osten-anton">Anton Prokesch-Osten</rs>
+                    <settlement ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</settlement>
+                    <date when="1851-10-03">3. Oktober 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Geografie</term>
+                    <term>Judentum</term>
+                </index>
+                <p>Berlin, 3. Oktober 1851</p>
+                <p>Hochgeborner Graf,</p>
+                <p>Der <rs type="person" ref="#gruen-dionys">Überbringer</rs> ist ein österreichischer
+                    Unterthan und kürzlich aus dem jüdischen Glauben übergetreten, der mir auf das
+                    Wärmste durch den <rs type="person" ref="#pelldram-leopold">hiesigen katholischen
+                        Probst</rs> mündlich und schriftlich als ein sehr braves und
+                    unterrichtetes Individuum empfohlen wurde. Es ist derselbe Mann, über den ich
+                    vor einigen Monaten zu schreiben die Ehre hatte. Ich lege das eben erhaltene
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d125_1">Schreiben</tei:ref> des Probst bei. Haben Euer Excellenz
+                    die Gnade, ihn freundlich anzuhören und ihn zu ermuntern und zu stärken.</p>
+                <p>Hochachtungsvoll</p>
+                <p>Prokesch-Osten</p>
+                <div type="enclosure" xml:id="D125_1">
+                    <p>Euer Excellenz,</p>
+                    <p>wollen es nicht ungnädig aufnehmen, wenn ich Hochdieselben heute durch die
+                        Mittheilung behellige, daß der israelitische Student <rs type="person" ref="#gruen-dionys">Grün</rs> vorigen Montag das heilige Sakrament
+                        der Taufe mit vieler Rührung empfangen hat und nun in
+                            <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> seine Studien zu vollenden gedenkt. Ich
+                        wiederhole das wohlerwogene ergebenste Geständnis, daß Herr <rs type="person" ref="#gruen-dionys">Grün</rs> zu den schönsten Hoffnungen
+                        berechtiget und einst seinem Vaterlande recht nützlich werden wird. Für die
+                        nächste Zukunft habe ich dem Mehrgenannten die nöthigen Geldmittel
+                        beschafft; aber wenn Euer Excellenz die Gnade haben wollten, demselben ein
+                        empfehlendes Wort nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> hochgeneigtest angedeihen
+                        zu lassen, so würde er Hochdemselben innigst dankbar sein.<lb/>Genehmigen
+                        Euer Excellenz die Versicherung meiner größten Ehrerbietung, mit der ich
+                        verharre als</p>
+                    <p>Euer Excellenz</p>
+                    <p>gehorsamster Diener<lb/>Pelldram<lb/>Propst bei St. Hedwig</p>
+                    <p>Berlin, am 2. October 1851</p>
+                </div>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="prokesch-osten-anton">
+                        <persName>
+                            <surname>Prokesch-Osten</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Graz 1795–1876 Wien</p>
+                            <p>Diplomat, 1834–1849 Gesandter in Athen, 1849–1852 in Berlin, 1853 und 1854 Bundespräsidialgesandter in Frankfurt, 1855 Internuntius, ab 1867 Botschafter in Konstantinopel</p>
+                            <p>http://d-nb.info/gnd/118596713</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118596713</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="gruen-dionys">
+                        <persName>
+                            <surname>Grün</surname>
+                            <forename>Dionys</forename>
+                        </persName>
+                        <note>
+                            <p>Prerov 1819–1896 Prag</p>
+                            <p>1845–47 Studium in Prag, 1849 Hauslehrer in Berlin und Dresden, anschließend neuerlich in Prag, Konversion zum Katholizismus, ab 1853 Gymnasiallehrer</p>
+                            <p>http://d-nb.info/gnd/116887729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116887729</tei:idno>
+                    </person>
+                <person xml:id="pelldram-leopold">
+                        <persName>
+                            <surname>Pelldram</surname>
+                            <forename>Leopold</forename>
+                        </persName>
+                        <note>
+                            <p>Schweidnitz 1810–1867 Trier</p>
+                            <p>Priester, ab 1850 Propst von St. Hedwig in Berlin und fürstbischöflicher Delegat für Brandenburg und Pommern, 1859 Feldpropst der preußischen Armee, 1864 Bischof von Trier</p>
+                            <p>http://d-nb.info/gnd/116074833</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116074833</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d35a02eb49149450fb2fffc6e467eb37">
+                        <placeName>Berlin</placeName>
+                        <placeName type="pref">berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2950159/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

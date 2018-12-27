@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="wattenbach-an-thun-1850-06-22-a3-xxi-d58.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/waldert-an-thun-1854-04-09-a3-xxi-d256.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/weber-an-thun-1853-07-11-a3-xxi-d213.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#wattenbach-wilhelm" role="sender:gelehrter">Wilhelm
+                        Wattenbach</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>,
+                        <date when="1850-06-22">22. Juni 1850</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D58</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Wilhelm Wattenbach erkundigt sich bei Leo Thun, wie es um
+                            seine Berufung nach Österreich bestellt ist. Die Berufung war ihm von
+                            Franz Exner zugesichert worden. Wattenbach erkundigt sich auch deshalb,
+                            weil er in seiner Heimat Schleswig-Holstein eine Einberufung zum
+                            Kriegsdienst erhalten hat und deshalb Gewissheit haben möchte, ob er bis
+                            zum Ende des Jahres mit einer Anstellung in Wien rechnen könne oder
+                            nicht: Im Falle einer Anstellung könne er es nämlich verantworten, der
+                            Einberufung nicht Folge zu leisten. Andernfalls sähe Wattenbach sich
+                            verpflichtet, der Einberufung nachzukommen. Er bittet Leo Thun daher um
+                            eine möglichst rasche Entscheidung.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#wattenbach-wilhelm">Wilhelm Wattenbach</rs>
+                    <settlement ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</settlement>
+                    <date when="1850-06-22">22. Juni 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Universität Wien</term>
+                </index>
+                <p>Euer Excellenz</p>
+                <p>wird ohne Zweifel erinnerlich sein, daß mir im Monat November 1849 von Eurer
+                    Excellenz eine Anstellung in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> um
+                    Ostern 1850 zugesagt wurde. Der Herr Ministerialrath <rs type="person" ref="#exner-franz">Exner</rs> hat mir auf meine Anfrage deshalb im April dieses Jahres
+                    mittheilen lassen, daß die Absicht der Berufung nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> noch unverändert stattfinde, daß aber der Zeitpunkt
+                    noch nicht zu bestimmen sei.<lb/>Wenn nun eine solche Ungewißheit überhaupt
+                    manche Unannehmlichkeit mit sich bringt, so ist jetzt ein Fall eingetreten,
+                    welcher es mir dringend wünschenswerth macht, Gewißheit zu erlangen. Es ist
+                    nämlich jetzt in meiner Heimath, <rs type="place" subtype="region" ref="#place_b20684bddefbc33f6db8d8adbf6bc4e7">Schleswig-Holstein</rs>, die
+                    Altersklasse, welcher ich angehöre, zum Kriegsdienste einberufen. Bliebe ich
+                    hier, so würde ich mich zu stellen haben und würde dann bis zum Ende des
+                    Kriegszustands keine Verpflichtungen gegen einen fremden Staat eingehen
+                    können.<lb/>Nur wenn ich mich infolge der früheren Beredung mit Eurer Excellenz
+                    schon als verpflichtet und sozusagen provisorisch als Oestreicher betrachte,
+                    glaube ich es verantworten zu können, der Einberufung nicht Folge zu leisten und
+                    würde auch wohl bei der Berufung auf diese Verpflichtung keine Schwierigkeiten
+                    zu besorgen haben. Dazu wäre es indessen unumgänglich nothwendig, eine ganz
+                    bestimmte Zusage zu erhalten, daß ich noch vor Ende dieses Jahres eine
+                    Anstellung in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> (unter den früher bestimmten
+                    Bedingungen) zu erwarten habe.<lb/>Indem ich daher Euer Excellenz ehrerbietigst
+                    anheim stelle, zu beschließen, was unter diesen Umständen Eurer Excellenz
+                    angemessen erscheinen wird, bitte ich nur mich von der Entscheidung geneigtest
+                    bald in Kenntnis setzen zu wollen, da ich sonst auf längere Zeit meine
+                    wissenschaftliche Beschäftigung aufgeben müßte und in die Unmöglichkeit versetzt
+                    würde, dem mir in Aussicht gestellten Wirkungskreis in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> meine Thätigkeit zu widmen.<lb/>In
+                    Hoffnung auf eine baldige Erledigung meines Anliegens verharre ich mit der
+                    ehrfurchtsvollsten Hochachtung</p>
+                <p>Euer Excellenz</p>
+                <p>ergebenster Diener<lb/>W. Wattenbach Dr.<lb/>(Berlin, Kanonierstr. 30)</p>
+                <p>Berlin, den 22. Juni 1850</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="wattenbach-wilhelm">
+                        <persName>
+                            <surname>Wattenbach</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Rantzau 1819–1897 Frankfurt</p>
+                            <p>ab 1843 Mitarbeiter bei der Monumenta Germaniae Historica, 1851 Privatdozent an der Universität Berlin, 1855 Provinzialarchivar in Breslau, ab 1862 Prof. an der Universität Heidelberg, ab 1873 Prof. für Historische Hilfswissenschaften an der Universität Berlin</p>
+                            <p>http://d-nb.info/gnd/117151386</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117151386</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="exner-franz">
+                        <persName>
+                            <surname>Exner</surname>
+                            <forename>Franz Serafin</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1802–1853 Padua</p>
+                            <p>1831–1848 Prof. für Philosophie an der Universität Prag, 1848–1851 Ministerialrat im Ministerium für Kultus und Unterricht, ab 1852 Ministerialkommissär für das lombardisch-venetianische Schulwesen in Oberitalien</p>
+                            <p>http://d-nb.info/gnd/116319410</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116319410</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d35a02eb49149450fb2fffc6e467eb37">
+                        <placeName>Berlin</placeName>
+                        <placeName type="pref">berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2950159/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

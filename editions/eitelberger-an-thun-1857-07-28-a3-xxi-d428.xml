@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="eitelberger-an-thun-1857-07-28-a3-xxi-d428.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-06-21-a3-xxi-d420.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1859-10-28-a3-xxi-d522.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#eitelberger-rudolf" role="sender:gelehrter">Rudolf
+                        Eitelberger</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs>,
+                        <date when="1857-07-28">28. Juli 1857</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D428</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Kunsthistoriker Rudolf Eitelberger berichtet erneut über Ruggiero
+                            Bonghi. Zunächst entschuldigt er sich jedoch für seine späte
+                            Rückmeldung. Dann äußert er sich – der Bitte Thuns entsprechend – über
+                            die politische Einstellung Ruggiero Bonghis. Eitelberger wurde von
+                            mehreren Personen, die Bonghi kennen, versichert, dass dieser politisch
+                            unbedenklich sei und weit entfernt von demokratischen Tendenzen stehe.
+                            Eitelberger bemüht sich jedoch, nähere Informationen zu Bonghi zu
+                            erhalten. In der Zwischenzeit sendet er die greifbaren Schriften Bonghis
+                            an Sektionsrat Joseph Mozart.</p>
+                    </msContents>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#eitelberger-rudolf">Rudolf Eitelberger</rs>
+                    <settlement ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</settlement>
+                    <date when="1857-07-28">28. Juli 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Lombardo-Venetien</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Ich bitte zu entschuldigen, daß ich das werthe Schreiben vom 13. Juli erst heute
+                    beantworte. Auf Reisen ist man nicht immer Herr seiner Zeit und seiner Launen,
+                    und so ist es gekommen, daß ich Mitte Juli plötzlich von
+                        <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> nach <rs type="place" subtype="place" ref="#place_5c84ba9da04ce27ecc429452d1d8e467">Ravenna</rs> reiste,
+                    nachdem ich in <rs type="place" subtype="place" ref="#place_0c3c889cb60322b10d890d76a05f816e">Brescia</rs> in einer verlassenen Kirche, die
+                    gegenwärtig als Militärmagazin dient, und nicht ganz mit Unrecht dem
+                    Langobardenfürsten Luitprand zugeschrieben wird, Kapitäle fand, welche eine
+                    entschiedene Verwandtschaft mit den Bauten Ravennas, so weit ich sie damals
+                    kannte, hatten. Theils um meine Wahrnehmung zu verificieren, theils um die
+                    altchristlichen Monumente Ravennas kennen zu lernen, reiste [ich] so schleunig
+                    als möglich über <rs type="place" subtype="place" ref="#place_0baa6458315a6490f3838a891c41ba27">Modena</rs> und
+                        <rs type="place" subtype="place" ref="#place_7014d0181914fb4722b90a49d53f5471">Bologna</rs> nach <rs type="place" subtype="place" ref="#place_5c84ba9da04ce27ecc429452d1d8e467">Ravenna</rs> und kam
+                    heute, nach einem mehr als 8tägigen Aufenthalte in dieser Stadt, die für die
+                    altchristliche Baugeschichte nach <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> die wichtigste
+                    Italiens ist, in <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs> an, wo ich den Brief Euer
+                    Excellenz posta restante fand.<lb/>Ich beeile mich wenigstens einen Theil
+                    desselben sogleich zu beantworten. <rs type="person" ref="#bonghi-ruggiero">Bonghis</rs> Lettere critiche<note xml:id="note_1">Vgl. Ruggiero
+                        Bonghi, Perché la letteratura italiana non sia popolare in Italia, Milano
+                        1856.</note> werde ich im Laufe dieser Woche an Herrn <rs type="person" ref="#mozart-joseph">Sektionsrath Mozart</rs> senden.<lb/>
+                    <rs type="person" ref="#bonghi-ruggiero">Bonghis</rs> Arbeit über
+                        <rs type="person" ref="#">Aristoteles</rs>
+                    <note xml:id="note_2">Ruggiero Bonghi,
+                        Metafisica D'Aristotile. Volgarizzata e commentata, Torino 1854.</note>
+                    konnte ich weder in der Bibliothek Marciana, noch in irgend einem Buchhandel
+                    finden, glaube auch nicht, daß sie in irgend einer öffentlichen Bibliothek oder
+                    Buchhandlung des <rs type="place" subtype="country" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardo-venetianischen
+                        Königreichs</rs> zu finden ist. Wenn es mir einigermaßen möglich ist,
+                    näheres hier über dieses Werk zu erfahren, werde ich es sogleich Herrn <rs type="person" ref="#mozart-joseph">Mozart</rs> mittheilen.<lb/>Was den politischen
+                    Charakter Bonghis betrifft, so habe ich von keiner Seite auch nur das geringste
+                    gehört, was in mir den Verdacht erregen könnte, er gehöre destruktiven
+                    Richtungen an. Im Gegentheil ist mir von Personen, die ihn persönlich genau
+                    kennen, versichert worden, daß sein ganzes Wesen, weit entfernt demokratisch zu
+                    sein, von Hause aus etwas aristokratisch-Vornehmes habe, das sich mit
+                    demokratischen Elementen nicht verträgt. In diesem Moment kann ich nicht
+                    angeben, wo ich diese Freunde <rs type="person" ref="#bonghi-ruggiero">Bonghis</rs>, die ich kennen lernte, treffen kann, ich werde aber
+                    jedenfalls Alles aufbieten, um die Wünsche Eurer Excellenz in möglichst kurzer
+                    Zeit zu befriedigen.<lb/>Ich bitte, die Flüchtigkeit dieser Zeilen zu
+                    entschuldigen. Ich selbst bin von dem letztem Ausfluge nach
+                        <rs type="place" subtype="place" ref="#place_5c84ba9da04ce27ecc429452d1d8e467">Ravenna</rs> in dieser außerordentlich heißen Zeit
+                    todtmüde und wünschte doch, das Schreiben Eurer Excellenz sogleich zu
+                    beantworten, bevor Euer Excellenz <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> verlassen.</p>
+                <p>Mit dem Ausdruck tiefster Ergebenheit<lb/>gehorsamstest<lb/>Eitelberger Prof.</p>
+                <p>Venedig 28. Juli 1857</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="eitelberger-rudolf">
+                        <persName>
+                            <surname>Eitelberger-Edelberg</surname>
+                            <forename>Rudolf</forename>
+                        </persName>
+                        <note>
+                            <p>Olmütz 1817–1885 Wien</p>
+                            <p>ab 1847 Privatdozent für Theorie und Geschichte der bildenden Künste an der Universität Wien, ab 1852 Prof. für Kunstgeschichte an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/116437456</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116437456</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bonghi-ruggiero">
+                        <persName>
+                            <surname>Bonghi</surname>
+                            <forename>Ruggiero</forename>
+                        </persName>
+                        <note>
+                            <p>Neapel 1826–1895 Torre del Creco</p>
+                            <p>Altphilologe, Schriftsteller, Politiker und Journalist, ab 1859 Prof. für altgriechische Sprache an der Universität Pavia, ab 1865 Prof. für Lateinische Literatur an der Universität Florenz, ab 1867 Prof. für Alte Geschichte an der Universität Mailand, 1873–1876 Bildungsminister</p>
+                            <p>http://d-nb.info/gnd/119427060</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119427060</tei:idno>
+                    </person>
+                <person xml:id="mozart-joseph">
+                        <persName>
+                            <surname>Mozart</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1805–1892 Wien</p>
+                            <p>ab 1849 Sektionsrat im Ministerium für Kultus und Unterricht, 1857 Ministerialrat, zunächst Referent für Gymnasialangelegenheiten, dann für die italienischen Mittelschulen und Universitäten, 1849–1863 Mitglied der Redaktion der Zeitschrift für die Österreichischen Gymnasien</p>
+                            <p>http://d-nb.info/gnd/1023724472</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1023724472</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_80c239e539544aa459dc13996638cb2f">
+                        <placeName>Venedig</placeName>
+                        <placeName type="pref">venedig</placeName>
+                        <placeName type="alt">Venedigs</placeName>
+                        <placeName type="alt">Vendig</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.43713 12.33265</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164603/</idno>
+                    </place>
+                <place xml:id="place_d32a635cff5dcc73a609d313801541d4">
+                        <placeName>Verona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4299 10.98444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164527/</idno>
+                    </place>
+                <place xml:id="place_5c84ba9da04ce27ecc429452d1d8e467">
+                        <placeName>Ravenna</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.41344 12.20121</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169561/</idno>
+                    </place>
+                <place xml:id="place_0c3c889cb60322b10d890d76a05f816e">
+                        <placeName>Brescia</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.53558 10.21472</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181554/</idno>
+                    </place>
+                <place xml:id="place_0baa6458315a6490f3838a891c41ba27">
+                        <placeName>Modena</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.64783 10.92539</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3173331/</idno>
+                    </place>
+                <place xml:id="place_7014d0181914fb4722b90a49d53f5471">
+                        <placeName>Bologna</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.49381 11.33875</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181928/</idno>
+                    </place>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

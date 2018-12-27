@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="ranolder-an-thun-1855-12-16-a3-xxi-d358.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran-1852-11-23-a3-xxi-d176.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-dechante-1850-04-02-a3-xxi-d41.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#ranolder-johann" role="sender:kleriker">Johann
+                        Ranolder</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_dee98a409c92d6df15b591129534021e">Veszprém</rs>,
+                        <date when="1855-12-16">16. Dezember 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D358</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bischof von Veszprém, Johann Ranolder, dankt Leo Thun für seine Mühe
+                            bei den Verhandlungen für den Abschluss des Konkordats.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#ranolder-johann">Johann Ranolder</rs>
+                    <settlement ref="#place_dee98a409c92d6df15b591129534021e">Veszprém</settlement>
+                    <date when="1855-12-16">16. Dezember 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Konkordat</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Mit innigsten Dankgefühle ist es allgemein anerkannt, wie Euerer Exzellenz
+                    Frömmigkeit und gottesfürchtige Weisheit zu dem glücklichen Zustandekommen des
+                    von der ganzen katholischen Welt freudigst begrüßten Concordats wesentlich
+                    beigetragen; woher ich zuversichtlich hoffe: Euere Exzellenz werden meine – als
+                    einer der damaligen, in ganz <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
+                    frohlockenden Bischöfe – dem Innersten entquollene Stimme gütigst zu vernehmen
+                    geruhen, wenn ich mir hiemit erlaube, für diese heilbringende Mitwirkung Euerer
+                    Exzellenz in Namen der Mutterkirche innigstgefühlten Dank auszusprechen, und
+                    zugleich Euere Exzellenz, Hochdero gefeierter Name auf dem schönsten Blatte der
+                    Geschichte nunmehr glänzt und bleibend glänzen wird, zu beglückwünschen zu den
+                    Segnungen des Himmels, welche Gott für das seiner Kirche Geleistete Euerer
+                    Exzellenz und Hochdero verehrten Angehörigen sicherlich angedeihen lassen
+                    wird.<lb/>Dieß mein Wunsch. Dieß mein Gebet.<lb/>Genehmigen Euere Exzellenz den
+                    Ausdruck der tiefsten Verehrung, womit ich zu geharren die Ehre habe<lb/>Euerer
+                    Excellenz gehorsamster Diener</p>
+                <p>Johann Ranolder<lb/>Bischof von Veszprim</p>
+                <p>Veszprim, 16. Dezember 1855</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="ranolder-johann">
+                        <persName>
+                            <surname>Ranolder</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Pécs 1806–1875 Veszprém</p>
+                            <p>Priester, 1831–1841 Prof. der Bibelwissenschaften und der orientalischen Sprachen an der theolog. Hochschule in Pécs, 1846 Rektor des Priesterseminars, 1849–1875 Bischof von Veszprém,</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_dee98a409c92d6df15b591129534021e">
+                        <placeName>Wesprim</placeName>
+                        <placeName type="pref">veszprem</placeName>
+                        <placeName type="alt">Weszprim</placeName>
+                        <placeName type="alt">Veszprém</placeName>
+                        <placeName type="alt">Veszprimer</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.09327 17.91149</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3042929/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

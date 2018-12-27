@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="helfert-an-thun-1853-09-29-a3-xxi-d237.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-17-a3-xxi-d233.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/henniger-an-thun-1851-04-26-a3-xxi-d115.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#helfert-joseph-alexander" role="sender:beamter">Joseph
+                        Alexander Helfert</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1853-09-29">29. September 1853</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D237</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Unterstaatssekretär Joseph Alexander Helfert bittet den Minister um
+                            Auskunft in einigen Angelegenheiten und informiert ihn über die
+                            Situation im Ministerium. Zunächst bittet er Thun, möglichst rasch zu
+                            entscheiden, wie in der Frage der Rezension von Vaclav Tomeks Buch
+                            vorzugehen sei. Er befürchtet nämlich, dass Thun seinen Vorschlag und
+                            die bisher getroffenen Vorkehrungen nicht gut heiße. Hinsichtlich der
+                            Vertretung für einen Prüfer in der Kommission für die Realschulen
+                            vertritt Helfert die Ansicht, dass ein solcher Posten nur von einem
+                            Fachmann bekleidet werden könne. Deshalb schlägt er die Professoren
+                            Albert Jäger und Joseph Aschbach vor. Überdies informiert Helfert Thun,
+                            dass der leitende Redakteur der Oberpostamtszeitung ihm versprochen
+                            habe, in Zukunft auf Kritik an den Reformen des Unterrichtswesens und
+                            die Maßnahmen des Ministeriums zu verzichten. Umgekehrt versicherte
+                            Helfert dem Redakteur, nicht gegen die Zeitung, wohl aber gegen deren
+                            Korrespondenten Georg Emanuel Haas mit rechtlichen Schritten vorgehen zu
+                            wollen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D232.</p>
+                        <p>Verweis auf A3 XXI D233.</p>
+                        <p>Verweis auf A3 XXI D227.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1853-09-29">29. September 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Zeitschrift für die österreichischen Gymnasien</term>
+                    <term>Österreichische Geschichte</term>
+                    <term>Realschulen</term>
+                    <term>Presse</term>
+                </index>
+                <p>Euer Exzellenz!</p>
+                <p>Ich möchte recht sehr bitten, mir in Sachen der Gymnasialzeitschrift die
+                    verheißene Weisung möglichst bald zukommen zu lassen. Ich muß aus dem
+                    Stillschweigen Eurer Exzellenz bald fürchten, daß ich keine Genehmigung der von
+                    mir getroffenen Maßregeln hoffen darf, was mich bei dem Umstande, als ich, wie
+                    ich glaube, mit allem Grunde wie mit aller Schonung (nämlich nach vorhergehabter
+                        <hi rend="ul">fruchtloser</hi> mündlicher Vorstellung und ohne die Sache in
+                    die Acten zu nehmen) gegen die <rs type="org" ref="#org_0057">Redaction</rs> vorgegangen bin, für jeden künftigen Fall, wo ich die
+                    Interessen des <rs type="org" ref="#org_0005">Ministeriums</rs> zu verfechten mich veranlaßt fände, sehr beirren und
+                    einschüchtern müßte. Ich erlaube mir daher die Bitte, mich geneigtest aus diesem
+                    Zweifel ehebaldigst reißen zu wollen, indem ich nur noch beifüge, daß das später
+                    von mir eingesandte Concept einer Antikritik von <rs type="person" ref="#tomek-vaclav-vladivoi">Tomek</rs> selbst eine Bestimmung hatte,
+                    die es jetzt in <hi rend="ul">unveränderter</hi> Form nicht wird erfüllen
+                    können, daher ich es mehr nur zur Beurtheilung des einzuhaltenden Gedankenganges
+                    überhaupt geschickt habe.<lb/>Was <rs type="person" ref="#kink-rudolph">Kinks</rs>
+                    Lamento und Bitte pcto. Prüfungscommissärstelle für Realschulen betrifft, so
+                    findet solches <rs type="person" ref="#feil-joseph">Feil</rs>, mit dem ich darüber
+                    sprach, vollkommen begründet. Nach seiner Ansicht könne man füglich die gehörige
+                    Verteilung <hi rend="ul">dieses</hi> Postens nur von einem Professor verlangen,
+                    dessen Pflicht und Beruf es ist mit der Literatur der Wissenschaft in ganzem
+                    Umfange auf gleicher Höhe zu stehen; ein Specialist, was jeder andere, der nicht
+                    Professor immer mehr oder weniger sei, könne nicht ausreichen und laufe Gefahr
+                    und müsse fürchten, sich vor dem gewiß häufig mit der neuesten Literatur
+                    vertrauten Candidaten eine unangenehme Blöße zu geben. Es wären daher, nach
+                        <rs type="person" ref="#feil-joseph">Feils</rs> Ansicht, für diese Stelle nur
+                    zwei Männer in Beachtung zu ziehen: nämlich – da Prof. <rs type="person" ref="#kaiser-johann-nepomuk">Kaiser</rs> nicht in Anschlag zu bringen
+                    und wegen seiner bei jeder Gelegenheit unverhohlen geäußerten antiministeriellen
+                    Gesinnung nicht würdig ist – Prof. <rs type="person" ref="#jaeger-albert">Jäger</rs> und <rs type="person" ref="#aschbach-joseph">Aschbach</rs>.
+                    Da mir aber <rs type="person" ref="#jaeger-albert">Jäger</rs> vielseitig
+                    beschäftigt ist, <rs type="person" ref="#aschbach-joseph">Aschbach</rs> aber wohl
+                    vorerst einer Orientirung in den hiesigen Verhältnissen bedürfen wird, so wäre
+                    vielleicht, wie ich mir unvorgreiflich vorzuschlagen erlaube, ein derartiges
+                    Arrangement zu treffen, daß <rs type="person" ref="#jaeger-albert">Jäger</rs>
+                    vorläufig durch den ersten Curs die Verpflichtung übernähme (er wird jetzt durch
+                        <rs type="person" ref="#aschbach-joseph">Aschbachs</rs> Eintritt ohnedies in
+                    etwas erleichtert), vom zweiten Semester an aber <rs type="person" ref="#aschbach-joseph">Aschbach</rs> definitiv als Prüfungscommissär eintrete.<lb/>In der
+                    Bibel steht geschrieben: Es ist mehr Freude im Himmelreich über einen Sünder,
+                    der Buße thut, denn über neunundneunzig Gerechte, die der Buße nicht bedürfen.
+                    Dieser Tage war <rs type="person" ref="#schoenherr">Schönherr</rs>, Redacteur der
+                    Oberpostamtszeitung (beiläufig gesagt, wegen des <rs type="person" ref="#unger-joseph">Unger</rs> betreffenden Artikels hat das Preßcomité bereits Schritte
+                    gethan) bei mir, zerknirscht und gefügig; bei seiner Anwesenheit aus Anlaß des
+                    Katholikenvereines habe er sich in vielem eines bessern belehrt, die Dinge aus
+                    anderem Auge anzusehen gewöhnt; er sehe ein, sein Correspondent sei zu weit
+                    gegangen; über <rs type="person" ref="#unger-joseph">Ungers</rs> Antiredaction sei
+                    er erst hier besser aufgeklärt worden; er habe bereits nach
+                        <rs type="place" subtype="place" ref="#place_21dba34d74f8b1cb8d42e34579c40946">Augsburg</rs> geschrieben, daß in seiner Abwesenheit
+                    nichts aufgenommen werde; er sei willens überhaupt jetzt bis zur Festsetzung des
+                    Definitivums über österreichische Schul- und Studiensachen nichts mehr einrücken
+                    zu lassen, dagegen gerne bereit, jede vom <rs type="org" ref="#org_0005">Ministerium</rs> ihm
+                    zukommende Aufklärung und Notiz aufzunehmen usw. Gegen dieses Versprechen gab
+                    ich ihm hinwiederum die Versicherung einstweilen jeden gegen die Zeitung (<hi rend="ul">nicht</hi> gegen Dr. <rs type="person" ref="#haas-georg-emanuel">Haas</rs>) zu richtenden Schritt zu unterlassen, was ich umso
+                    leichter thun konnte, als mir inzwischen Nachrichten von der bei der O.
+                    Polizeibehörde diesfalls herrschenden Stimmung zugekommen waren.<lb/>Ich bitte
+                    Eure Exzellenz um gütige Entschuldigung für das im Eingange meines Schreibens
+                    Gesagte. Aber ich fange an kleinmüthig zu werden; seit mir erst heute wieder ein
+                    aus <hi rend="ul">nächster Nähe</hi> über mich gefälltes Urtheil zugetragen
+                    wurde, wozu ich, des aufrichtigsten Wollens und Strebens mir bewußt, nicht den
+                    entferntesten Anlaß gegeben habe und was ich, wenn Euer Exzellenz es wünschen
+                    sollten, nicht ermangeln werde mündlich zur geneigten Kenntnis zu
+                    bringen.<lb/>Genehmigen Eure Exzellenz den Ausdruck der ergebensten Hochachtung
+                    und Verehrung</p>
+                <p>Ihres</p>
+                <p>gehorsamsten<lb/>Helfert</p>
+                <p>Wien, am 29. September 1853</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="helfert-joseph-alexander">
+                        <persName>
+                            <surname>Helfert</surname>
+                            <forename>Josef Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1820–1910 Wien</p>
+                            <p>Historiker und Politiker, ab Okt. 1847 Supplent für römisches und kanonisches Recht an der Universität Krakau, 1848–1860 Unterstaatssekretär im Ministerium für Kultus und Unterricht, ab 1860 leitender Beamter der Sektion Unterricht im Staatsministerium</p>
+                            <p>http://d-nb.info/gnd/11877381X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877381X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="tomek-vaclav-vladivoi">
+                        <persName>
+                            <surname>Tomek</surname>
+                            <forename>Václav Vladivoi</forename>
+                        </persName>
+                        <note>
+                            <p>Königgrätz 1818–1905 Prag</p>
+                            <p>Lehrer bei der Familie Šafařik, ab 1839 bei der Familie Palácký, ab 1850 Prof. für österreichische Geschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/117404845</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117404845</tei:idno>
+                    </person>
+                <person xml:id="kink-rudolph">
+                        <persName>
+                            <surname>Kink</surname>
+                            <forename>Rudolf</forename>
+                        </persName>
+                        <note>
+                            <p>Kufstein 1822–1864 Natters</p>
+                            <p>ab 1847 Beamter im Kreisamt Trient, ab 1848 Privatdozent für vaterländische Geschichte an der Universität Innsbruck, 1851 Berufung ins Ministerium für Kultus und Unterricht, ab Juli 1854 Kultus- und Unterrichtsreferent in Troppau, ab 1855 Ministerialsekretär im Ministerium für Kultus und Unterricht, ab 1856 Statthaltereirat in Triest</p>
+                            <p>http://d-nb.info/gnd/124862748</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/124862748</tei:idno>
+                    </person>
+                <person xml:id="feil-joseph">
+                        <persName>
+                            <surname>Feil</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1811–1862 Wien</p>
+                            <p>ab 1850 Examinator für allgemeine und österr. Geschichte, ab 1851 Ministerialkonzipist im Ministerium für Kultus und Unterricht, ab 1854 Ministerialsekretär</p>
+                            <p>http://d-nb.info/gnd/124456839</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/124456839</tei:idno>
+                    </person>
+                <person xml:id="kaiser-johann-nepomuk">
+                        <persName>
+                            <surname>Kaiser</surname>
+                            <forename>Johann Nepomuk</forename>
+                        </persName>
+                        <note>
+                            <p>Rosenegg b. Steyr 1792–1865 Wien</p>
+                            <p>ab 1820 Prof. für Welt- und österr. Staatengeschichte in Görz, ab 1840 Prof. an der Universität Olmütz, ab 1842 Prof. der Welt- und österr. Staatengeschichte, Diplomatik und Heraldik an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/1012943410</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1012943410</tei:idno>
+                    </person>
+                <person xml:id="jaeger-albert">
+                        <persName>
+                            <surname>Jäger</surname>
+                            <forename>Albert OSB</forename>
+                        </persName>
+                        <note>
+                            <p>Schwaz 1801–1891 Innsbruck</p>
+                            <p>ab 1829 Lehrer am Benediktinergymnasium in Meran, ab 1846 Prof. der Universal- und österr. Staatengeschichte an der Universität Innsbruck, ab 1849 Direktor am Benediktinergymnasium in Meran, ab 1851 Prof. für österr. Geschichte an der Universität Wien, 1854–1869 Direktor des Instituts für Österreichische Geschichtsforschung</p>
+                            <p>http://d-nb.info/gnd/117051845</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117051845</tei:idno>
+                    </person>
+                <person xml:id="aschbach-joseph">
+                        <persName>
+                            <surname>Aschbach</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Höchst am Main 1801–1882 Wien</p>
+                            <p>ab 1823 Lehrer am Gymnasium in Frankfurt, ab 1842 Prof. der Geschichte an der Universität Bonn, 1853–1872 Prof. an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/119059312</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119059312</tei:idno>
+                    </person>
+                <person xml:id="schoenherr">
+                        <persName>
+                            <surname>Schönherr</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Redakteur der Oberpostamtszeitung</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="unger-joseph">
+                        <persName>
+                            <surname>Unger Joseph</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Komorowitz 1828–1913 Wien</p>
+                            <p>1853–1855 Prof. für bürgerliches Recht an der Universität Prag, ab 1855–1871 Prof. an der Universität Wien, 1871–1879 Minister ohne Portefeuille</p>
+                            <p>http://d-nb.info/gnd/11729277X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11729277X</tei:idno>
+                    </person>
+                <person xml:id="haas-georg-emanuel">
+                        <persName>
+                            <surname>Haas</surname>
+                            <forename>Georg Emanuel</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1821–1895 Rom</p>
+                            <p>Publizist und Schriftsteller, Attaché bei der österr. Gesandtschaft in München</p>
+                            <p>http://d-nb.info/gnd/137587724</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/137587724</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_21dba34d74f8b1cb8d42e34579c40946">
+                        <placeName>Augsburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.37154 10.89851</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2954172/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0057">
+                        <orgName>Zeitschrift für die österreichischen Gymnasien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/011157429</idno>
+                    </org>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

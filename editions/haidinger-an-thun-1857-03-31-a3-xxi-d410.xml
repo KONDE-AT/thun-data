@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="haidinger-an-thun-1857-03-31-a3-xxi-d410.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hahn-an-thun-1854-10-01-a3-xxi-d288.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/haidinger-an-thun-1857-04-01-a3-xxi-d411.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#haidinger-wilhelm" role="sender:gelehrter">Wilhelm
+                        Haidinger</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-03-31">31. März 1857</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D410</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Geologe Wilhelm Haidinger bittet Leo Thun um finanzielle
+                            Unterstützung für den erkrankten Botaniker Josef Maly aus Graz.
+                            Haidinger betont, dass sich Maly mit seinen Forschungen stets für sein
+                            Vaterland aufgeopfert habe, nun sei er umgekehrt auf die Hilfe des
+                            Staates angewiesen. Haidinger selbst will Maly auch helfen und als
+                            Direktor der Geographischen Gesellschaft eine Unterstützung dieses
+                            Vereins erwirken. Thun könnte jedoch als Minister dem Professor ein
+                            Gnadengehalt gewähren und damit beweisen, dass Österreich seine
+                            verdienten Persönlichkeiten auch in der Not unterstützt.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Als Beilage ist dem Brief ein gedrucktes Schreiben von Ludwig Heufler
+                            beigelegt, in dem die Lage Josef Malys beschrieben und um Unterstützung
+                            geworben wird.<note xml:id="note_1">Das Schreiben ist hier nicht
+                                transkribiert. Ein Exemplar desselben findet sich in: <ref target="http://www.biodiversitylibrary.org/item/94863#page/79/mode/1up">Botanisches Wochenblatt. Gemeinnütziges Organ für Botanik und
+                                    Botaniker. Gärtner, Oekonomen, Forstmänner, Aerzte, Apotheker
+                                    und Techniker, Nr. 10, 5. März 1857, S. 78–79.</ref>
+                            </note>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#haidinger-wilhelm">Wilhelm Haidinger</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1857-03-31">31. März 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Bittgesuch</term>
+                </index>
+                <p>Eure Excellenz,</p>
+                <p>Hoffnungsreicher kann ich nicht handeln, als indem ich um Erlaubnis bitte Eurer
+                    Excellenz den Ruf um wahre ausgiebige Hilfe für einen um <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> hochverdienten Mann ehrfurchtsvoll
+                    vorlegen zu dürfen.<lb/>Ein edler Menschenfreund, Herr k.k. Sectionsrath
+                        <rs type="person" ref="#heufler-von-hohenbuehel-ludwig">Ritter von
+                    Heufler</rs>, hat sich des Herrn<rs type="person" ref="#maly-josef-karl"> Dr.
+                        Maly</rs> in <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Gratz</rs> in seiner trostlosen Lage
+                    warm angenommen. Das Exemplar seines Circularschreibens, welches mir zukam, habe
+                    ich die Ehre beifolgend ehrfurchtsvoll vorzulegen. Es enthält die Sachlage
+                    besser erörtert, als ich sie hier mit Worten aufzählen könnte.<lb/>Aber das ist
+                    gewiß, daß ein Mann, der ein Leiter in der vaterländischer Wissenschaft ist, ein
+                    Mann, dessen Namen wir im Munde führen, wenn es gilt die Ansprüche <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> auf wissenschaftliches Verdienst zu
+                    begründen, selbst Anspruch hat auf ausgiebige Hilfe von Seiten der
+                    Staatsverwaltung.<lb/>Als Präsident der k.k. geographischen Gesellschaft
+                    beabsichtige ich heute den Gegenstand in derselben zur Sprache zu bringen. Ich
+                    würde nicht wagen dieß zu thun, ohne von meiner gegenwärtigen ergebensten
+                    Vorlage Nachricht zu geben. Unterstützungen können wir nicht gewähren, wenn auch
+                    eine materielle Anerkennung für wissenschaftliches Verdienst aussprechen.
+                    <lb/>Aber Eure Excellenz stehen an der Spitze der Facultäten, zu welchen Herr
+                        <rs type="person" ref="#maly-josef-karl">Dr. Maly</rs> als ausgezeichnetes
+                    Glied gehört, mit dem ausgiebigen Einfluße der demselben in der Gestalt eines
+                    fortlaufenden Gnadengehaltes doch das Herbste der Sorge mildern könnten, das
+                    vielleicht – bei dem Alter und den Gesundheitsverhältnissen – nicht einmal auf
+                    lange Zeit vonnöthen seyn würde!<lb/>Einem wohlwollenden Grafen von Thun war
+                    einst <rs type="person" ref="#maly-josef-karl">Dr. Maly</rs> für seine Promotion
+                    verpflichtet. Möchte es einem andern, welthistorischen, Gliede desselben
+                    erlauchten Hauses, Eurer Excellenz beschieden seyn, ihn am Ende eines für unser
+                    Österreich rühmlichen Lebens dem Mangel zu entreißen, damit er nicht als ein
+                    Beispiel der Schicksale österreichischer Naturforscher in spätern Jahren
+                    aufgeführt werden möge.<lb/>In der Zuversicht der Erfüllung innigster Wünsche
+                    vieler, die selbst gerne helfen würden, wären ihre eigenen Mittel nicht zu sehr
+                    beschränkt, wollen Eure Excellenz den Ausdruck der Gefühle tiefster Ehrfurcht
+                    wohlwollend genehmigen, mit welchen ich die Ehre habe zu seyn</p>
+                <p>Eurer Excellenz unterthänigster Diener<lb/>W. Haidinger</p>
+                <p>Wien, den 31. März 1857</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="haidinger-wilhelm">
+                        <persName>
+                            <surname>Haidinger</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1795–1871 Dornbach b. Wien</p>
+                            <p>Mineraloge und Geologe, bis 1840 Leitung der Porzellanfabrik seiner Brüder in Elbogen a. d. Eger, ab 1840 Leiter der Mineraliensammlung der Hofkammer in Wien, 1849–1866 Direktor der Geologischen Reichsanstalt in Wien</p>
+                            <p>http://d-nb.info/gnd/119435810</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119435810</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="heufler-von-hohenbuehel-ludwig">
+                        <persName>
+                            <surname>Heufler von Hohenbühel</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Innsbruck 1817–1885 Hall i. Tirol</p>
+                            <p>1846–1849 Kreiskommissär in Istrien, ab 1849 Sekretär im Ministerium für Kultus und Unterricht (zuständig für die Reorganisation des Schulwesens in Siebenbürgen),ab 1853 Sektionsrat, ab 1857 Kämmerer</p>
+                            <p>http://d-nb.info/gnd/116953462</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116953462</tei:idno>
+                    </person>
+                <person xml:id="maly-josef-karl">
+                        <persName>
+                            <surname>Maly</surname>
+                            <forename>Josef Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1797–1866 Graz</p>
+                            <p>ab 1824 Arzt in Graz, 1830–32 Supplent der Lehrkanzel für Botanik</p>
+                            <p>http://d-nb.info/gnd/128919981</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/128919981</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

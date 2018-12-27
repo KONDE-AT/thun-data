@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="ficker-an-thun-konzept-1854-05-14-ca200.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-konzept-1854-05-01-ca195.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-konzept-1854-05-29-ca197.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#ficker-julius" role="sender">Julius Ficker</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when="1854-05-14">14. Mai 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Institut für Österreichische
+                                Geschichtsforschung</institution>
+                            <repository>Archiv</repository>
+                            <idno>Nachlass Ficker. Thun, 36</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Der Historiker Julius Ficker bedankt sich für einen Brief von Leo
+                                Thun und dessen Versicherung, sich der Innsbrucker Universität
+                                besonders zuzuwenden. Dieses Versprechen bestärkt Ficker in seinem
+                                Wunsch, in Innsbruck zu bleiben. Bevor er allerdings eine endgültige
+                                Entscheidung treffen wird, möchte sich Ficker mit seiner Mutter
+                                besprechen. Nach diesem Gespräch wird er Thun seinen Entschluss
+                                mitteilen. Bis dahin bittet er den Minister noch um Geduld.</p>
+                        </msContents>
+                        <physDesc>
+                            <p>Eh. Konzept von Julius Ficker.</p>
+                        </physDesc>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when="1854-05-14">14. Mai 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Personalfragen</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Innsbruck, 1854 Mai 14.</p>
+                <p>Euer Exzellenz</p>
+                <p>gnädiges Schreiben vom 9. Mai<note xml:id="note_1">Vgl. den Brief <ref target="thun/thun-korrespondenz/ifoeg/thun-an-ficker-1854-05-09-ca179.xml">Leo Thun an Julius Ficker. Wien, 9. Mai 1854.</ref>
+                    </note> ist mir
+                    zugekommen und indem ich für dieses neue Zeichen des Zutrauens und Wohlwollens
+                    Euer Exzellenz meinen aufrichtigsten Dank sage, mag ich nicht verhehlen, daß der
+                    Gehalt dieses Schreiben überhaupt, wie insbesondere die gnädige Mittheilung der
+                    Absicht Euer Exzellenz, der Hebung der <rs type="org" ref="#org_0020">Innsbrucker Hochschule</rs> Deren besondere Aufmerksamkeit zuwenden zu
+                    wollen, mich in meinem Wunsche, meine bisherige Stellung beibehalten zu können,
+                    nur bestärken konnte und mich zu nochmaliger reiflicher Überlegung der Sache
+                    bestimmen musste.<lb/>Obwohl ich nun nicht verkennen kann, daß für den Fall, daß
+                    ich den erhaltenen Ruf nach <rs type="org" ref="#org_0040">Bonn</rs>
+                    annehmen möchte, Euer Exzellenz daran gelegen sein müsste, diesen meinen
+                    Entschluß möglichst bald in Erfahrung zu bringen, so hoffe ich doch
+                    zuversichtlich, daß Euer Exzellenz es mir nicht übel deuten werden, wenn ich
+                    meine entscheidende Beantwortung Deren gnädigen Schreibens noch um einige Tage
+                    verschiebe. Ich habe nämlich in der folgenden Woche einen Besuch meiner
+                        <rs type="person" ref="#scheffer-boichorst-auguste-amalia">Mutter</rs> zu
+                    erwarten und da, wie ich mir bereits in meinem Schreiben vom 1. des Monats<note xml:id="note_2">Vgl. den Brief Julius <ref target="thun/thun-korrespondenz/ifoeg/ficker-an-thun-konzept-1854-05-01-ca195.xml">Ficker an Leo Thun. Innsbruck, 1. Mai 1854</ref>.</note> zu bemerken
+                    erlaubte, die Wünsche derselben für mich zwar nicht entscheidend, aber doch
+                    vielfach maßgebend sein müssen, so möchte ich diese sich bietende günstige
+                    Gelegenheit nicht versäumen, um mich vor Fassung eines entscheidenden
+                    Entschlusses mit ihr zu besprechen. Indem ich vertraue, daß Euer Exzellenz
+                    diesem Grunde meines Zögerns Deren Anerkennung nicht versagen werde, zeichne
+                    ich</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="ficker-julius">
+                        <persName>
+                            <surname>Ficker</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>Paderborn 1826–1902 Innsbruck</p>
+                            <p>ab 1852 Prof. der Geschichte an der Universität Innsbruck, ab 1863 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/118532863</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118532863</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="scheffer-boichorst-auguste-amalia">
+                        <persName>
+                            <surname>Scheffer-Boichorst</surname>
+                            <forename>Auguste-Amalia</forename>
+                        </persName>
+                        <note>
+                            <p>1804–1877</p>
+                            <p>Mutter von Julius Ficker</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+                <org xml:id="org_0040">
+                        <orgName>Universität Bonn</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36150-1</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

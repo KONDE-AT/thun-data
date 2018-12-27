@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-juelg-1855-01-05-ca807.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-jelacic-1852-04-24-a3-xxi-d164.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-juelg-1855-03-04-ca808.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#juelg-bernhard" role="recipient">Bernhard
+                        Jülg</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1855-01-05">5.
+                        Januar 1855</date>
+                    <note xml:id="note_1">Das Datum auf dem Brief lautet auf
+                        5. Januar 1854, die <ref target="thun/thun-korrespondenz/tetschen/juelg-an-thun-1855-01-08-a3-xxi-d323.xml">Antwort Bernhard Jülgs von 8. Januar 1855</ref> legt aber nahe, dass
+                        Thun sich – kurz nach Jahreswechsel – in der Jahreszahl geirrt
+                    hat.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 346/38-4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun erkundigt sich beim Philologen Bernhard Jülg über den Lehrer
+                            Sigmund Sawczyński, der sich der Slawischen Philologie widmen möchte.
+                            Jülg soll Thun mitteilen, ob er jenen kenne und ob er für das Studium
+                            der slawischen Philologie Begabung zeige. Außerdem bittet Thun Bernhard
+                            Jülg noch um Auskunft über dessen eigene Arbeit in Krakau.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1855-01-05">5.
+                        Januar 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#juelg-bernhard">Bernhard Jülg</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Slawische Philologie</term>
+                    <term>Universität Krakau</term>
+                </index>
+                <p>Wien, den 5. Jänner 1854 [sic! richtig 1855]</p>
+                <p>Werther Herr Professor!</p>
+                <p>
+                    <rs type="person" ref="#sawczynski-sigmund">Sawczyński</rs>, Lehrer am <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> Gymnasium befindet sich hier um sich für
+                    die Lehramtsprüfung vorzubereiten, und zwar zunächst für das
+                    historisch-geographische Gebieth. Er hat mir eben seinen Wunsch zu erkennen
+                    gegeben, seinen Studien die Richtung auf slawische Philologie zu geben, und über
+                    meine Frage ob er sich schon einigermaßen mit vergleichender Sprachwissenschaft
+                    befaßt habe und mit Ihnen in Berührung getreten sei, hat er mir geantwortet,
+                    seine Beschäftigung am Gymnasium habe ihm zwar wenig Muße dazu gelassen, dennoch
+                    habe er sich für ein Kollegium über Sanscrit bei Ihnen gemeldet, dasselbe sei
+                    aber wegen allzu geringer Zahl von Theilnehmern nicht zu Stande gekommen. Ich
+                    bitte Sie mir mitzutheilen, ob Sie Gelegenheit gehabt haben, auf <rs type="person" ref="#sawczynski-sigmund">Sawczynski</rs> aufmerksam zu sein und ob Sie
+                    glauben, daß er Beruf zu linguistischen Studien haben dürfte?</p>
+                <p>Mit aufrichtiger Hochachtung</p>
+                <p>Thun</p>
+                <p>Wenn Sie einige Notizen über Ihre Bestrebungen in <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</rs>
+                    und deren zu hoffende Erfolge beifügen wollen, so werde ich sie mit aufrichtigem
+                    Interesse entgegennehmen.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="juelg-bernhard">
+                        <persName>
+                            <surname>Jülg</surname>
+                            <forename>Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Ringelbach 1825–1886 Innsbruck</p>
+                            <p>1848–1850 Prof. an Lyzeen in Heidelberg, Freiburg und Rastatt, ab 1851 Prof. der klass. Philologie an der Universität Lemberg, ab 1853 Prof. an der Universität Krakau, ab 1863 Prof. an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/117220973</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117220973</tei:idno>
+                    </person>
+                <person xml:id="sawczynski-sigmund">
+                        <persName>
+                            <surname>Sawczyński</surname>
+                            <forename>Sigmund</forename>
+                        </persName>
+                        <note>
+                            <p>*Oleksince 1826</p>
+                            <p>suppl. Prof. für Weltgeschichte und Klassische Philologie an der philosophischen Lehranstalt Tarnow, ab 1850 Prof. am Lyceum in Krakau, 1855 Vorbereitungsstudien für Lehramtsprüfung an der Universität Wien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_4ff55ec41ee84a7b7a80b0b7734e5a6b">
+                        <placeName>Krakau</placeName>
+                        <placeName type="pref">krakau</placeName>
+                        <placeName type="alt">Krakauer</placeName>
+                        <placeName type="alt">Krakau’s</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">jener Stadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.06143 19.93658</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3094802/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

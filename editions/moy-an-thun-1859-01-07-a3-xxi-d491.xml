@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="moy-an-thun-1859-01-07-a3-xxi-d491.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1858-01-28-a3-xxi-d445.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-02-13-a3-xxi-d497.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when="1859-01-07">7. Januar 1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D491</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Ernst von Moy de Sons nimmt die Abberufung des
+                            Oberlandesgerichtsrats Johann Kiechl als Prüfungskommissar zum Anlass,
+                            um sich zur kolportierten Wiedereinführung der Studiendirektoren zu
+                            äußern. Moy ist gegen eine solche Wiedereinführung, da staatliche
+                            Direktoren als Beamte keine Kenntnisse von der Funktionsweise der
+                            Wissenschaft hätten und daher nur den Aufschwung der Wissenschaft an den
+                            Universitäten hemmen würden. Moy empfiehlt stattdessen, den Dekan mit
+                            größeren Vollmachten auszustatten. Schließlich nimmt Moy zur möglichen
+                            Anstellung Karl Thalers als Privatdozent für deutsche Sprache und
+                            Literatur Stellung. Thalers Mutter sei eine Revolutionärin gewesen,
+                            deren Geist im Sohn weiterlebe. Moy rät daher davon ab, Thaler eine
+                            Stelle an einer österreichischen Universität zu verleihen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when="1859-01-07">7. Januar 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Studiendirektoren</term>
+                    <term>Personalfragen</term>
+                    <term>Deutsche Philologie</term>
+                </index>
+                <p>Hochgeborner Herr Graf!<lb/>Hochzuverehrender Herr Minister!</p>
+                <p>Euer Exzellenz haben durch die Abberufung des Oberlandesgerichtsrats <rs type="person" ref="#kiechl-johann">Kiechl</rs> unsere Facultät von einem Drucke
+                    befreit, der wie ein Alp auf ihr lastete und ihr Ansehen von dem Publicum
+                    überhaupt und vor den Studirenden insbesondere schwer compromittirte. Möge
+                    nunmehr nicht der von Studiendirektoren an die Stelle treten! Denn es ist ein
+                    innerer Widerspruch, mit der Leitung einer Anstalt, die zur Entwicklung und
+                    Weiterbildung der Wissenschaft bestimmt ist, praktische Beamte zu betrauen, die
+                    in ihrer gelehrten Bildung, wenn nicht zurückschreiten, doch in der Regel
+                    wenigstens stehen bleiben. Der wissenschaftliche Geist muß dadurch in seinem
+                    Aufschwunge nothwendig gehemmt werden, die Universität als eine bloße
+                    Abrichtungsanstalt für den praktischen Staatsdienst sich darstellen. Dagegen
+                    dürfte der Decan der Facultät mit größeren Vollmachten ausgerüstet und
+                    insbesondere für die Wahrung der gehörigen Strenge bei den rigorosen Prüfungen
+                    verantwortlich gemacht werden.<lb/>Aus einem Rescripte an die philosophische
+                    Facultät habe ich ersehen, daß dem in <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs>
+                    gebildeten jungen <rs type="person" ref="#thaler-karl">von Thaler</rs> ziemlich
+                    bestimmte Aussicht eröffnet ist, hier als Privatdocent für deutsche Sprache und
+                    Literatur auftreten zu dürfen, eine Maßregel, welche durch das Interesse der
+                    Wissenschaft und der Sparsamkeit gleich sehr empfohlen scheint. Ich würde mir
+                    indessen im Gewissen Vorwürfe machen müssen, wenn ich bei dieser Gelegenheit
+                    nicht von der mir gnädigst ertheilten Erlaubnis, mich über die hiesigen
+                    Universitätsverhältnisse frei äußern zu dürfen, Gebrauch machte. Der junge
+                        <rs type="person" ref="#thaler-karl">von Thaler</rs> ist der Sohn eines äußerst
+                    braven, ehrenhaften Beamten, seine Mutter aber ist eine Schriftstellerin, welche
+                    sich im Jahre 1848 als fanatische Anhängerin der Revolution hervorgethan und
+                    ihrem Mann schwere Verlegenheiten bereitet hat. Im Sohne lebt ganz der Geist
+                    seiner Mutter, die auch mit ihm die <rs type="org" ref="#org_0025">Universität Heidelberg</rs> bezogen hat. Er hat sich als Student durch
+                    sein arrogantes Benehmen stets hervorgethan. <rs type="person" ref="#bissingen-cajetan">Graf Bißingen</rs>, der dieses einst persönlich erfahren, könnte, was
+                    ich hier anführe, bezeugen. Die germanistischen Studien eignen sich besonders
+                    dazu, auf das Gemüth der jungen Leute zu wirken. Ich stelle es dem Urtheil Euer
+                    Exzellenz anheim, ob einem solchen Individuum ein Wirkungskreis an einer
+                    österreichischen Universität zu eröffnen sey. Dixi et salvavi animam meam.
+                    Geruhen Euer Exzellenz meine ehrfurchtsvollen Glückwünsche zum neuen Jahr zu
+                    empfangen und genehmigen Hochdieselben den Ausdruck der tiefen Verehrung, womit
+                    ich geharre</p>
+                <p>Euer Exzellenz</p>
+                <p>unterthäniger Diener<lb/>Bon. Moy</p>
+                <p>Innsbruck, den 7. Jänner 1859</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="moy-de-sons-ernst">
+                        <persName>
+                            <surname>Moy de Sons</surname>
+                            <forename>Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>München 1799–1867 Innsbruck</p>
+                            <p>ab 1832 Prof. für Natur- und Staatsrecht an der Universität Würzburg, 1837–1847 Prof. für Staatsrecht an der Universität München, ab 1851 Prof. für Kirchenrecht und Deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/174390033</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/174390033</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="kiechl-johann">
+                        <persName>
+                            <surname>Kiechl</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Sarnthein 1804–1893 Innsbruck</p>
+                            <p>1838–1843 Landrichter in Sarnthein, dann in Passeier, ab 1850 Landesgerichtsrat in Bozen, ab 1854 Oberlandesgerichtsrat in Innsbruck, 1862–1867 Landeshauptmann von Tirol</p>
+                            <p>http://d-nb.info/gnd/140126406</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/140126406</tei:idno>
+                    </person>
+                <person xml:id="thaler-karl">
+                        <persName>
+                            <surname>Thaler</surname>
+                            <forename>Karl von</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1836–1916 Wien</p>
+                            <p>Dramatiker und Publizist</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="bissingen-cajetan">
+                        <persName>
+                            <surname>Bissingen-Nippenburg</surname>
+                            <forename>Cajetan Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Venedig 1806–1890 Schramberg</p>
+                            <p>ab 1848 Statthalter für Tirol und Vorarlberg, ab 1852 gleichzeitig Landeshauptmann, 1855–1860 Statthalter von Venedig</p>
+                            <p>http://d-nb.info/gnd/116195843</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116195843</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+                <place xml:id="place_35ec7062379a5b1e1743de648e2f3809">
+                        <placeName>Heidelberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.40768 8.69079</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2907911/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0025">
+                        <orgName>Universität Heidelberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024349-2</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="attems-an-thun-1855-08-10-a3-xxi-d347e.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/athanaczkovics-an-thun-1854-08-02-a3-xxi-d273.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/attems-an-thun-1859-07-19-a3-xxi-d513.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#attems-ottokar-maria" role="sender:kleriker">Ottokar Maria
+                        Attems</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>, <date when="1855-08-10">10. August 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D347</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bischof von Seckau, Ottokar Maria Attems, berichtet Thun auf seine
+                            Anfrage hin, dass Cornelius Bock den Polizeidirektor Leopold Johann
+                            Sacher-Masoch bei seinem Besuch nicht erwähnt habe. Über den Charakter
+                            von Bock kann er nur sagen, was er von Johann Baptist Weiß gehört habe,
+                            welcher anfangs sehr eingenommen von Bock war, nun aber dessen Charakter
+                            als zweifelhaft schildere.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist im Nachlass von Thun gemeinsam mit weiteren Briefen, die
+                            diese Thematik betreffen, abgelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/schreiner-an-helfert-1855-07-29-a3-xxi-d347.xml">Franz Gustav Schreiner an Joseph Alexander Helfert. Graz, 29./30.
+                                Juli 1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun-1855-08-06-a3-xxi-d347a.xml">Johann Baptist Weiß an Leo Thun. Graz, 6. August
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/thun-an-weiss-1855-08-08-a3-xxi-d347b.xml">Leo Thun an Johann Baptist Weiß. Wien, 8. August
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun-1855-08-08-a3-xxi-d347c.xml">Johann Baptist Weiß an Leo Thun. Graz, 8. August
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun-1855-08-09-a3-xxi-d347d.xml">Johann Baptist Weiß an Leo Thun. Graz, 9. August
+                            1855</ref>.<lb/>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#attems-ottokar-maria">Ottokar Maria Attems</rs>
+                    <settlement ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</settlement>
+                    <date when="1855-08-10">10. August 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Hochgeborner Graf!</p>
+                <p>Eben von einer Diözesanbereisung zurückgekehrt beeile ich mich das
+                    hochverehrliche Schreiben Eurer Excellenz vom 8. dieses [Monats] zu
+                    erwiedern.<lb/>Professor <rs type="person" ref="#bock-cornelius-peter">Bock</rs>,
+                    der mit Professor <rs type="person" ref="#weiss-johann-baptist">Weiß</rs> paar Tage
+                    nach seiner Ankunft zu mir kam, hat des <rs type="person" ref="#sacher-masoch-leopold-johann">Polizeidirektors</rs> mit keiner
+                    Sylbe erwähnt, somit noch viel weniger denselben bei mir verdächtigt. Was aber
+                    den Charakter <rs type="person" ref="#bock-cornelius-peter">Bock’s</rs> betrifft,
+                    so erlaube ich mir Eurer Excellenz zu bemerken, daß Professor <rs type="person" ref="#weiss-johann-baptist">Weiß</rs>, der zwar anfangs ein Verehrer
+                        <rs type="person" ref="#bock-cornelius-peter">Bock’s</rs> war, denselben nicht
+                    von der besten Seite schildert.<lb/>Genehmigen Hochdieselben den Ausdruck meiner
+                    ausgezeichnetsten Hochachtung und innigsten Verehrung, mit der ich geharre</p>
+                <p>Eurer Excellenz ergebenster Diener<lb/>Ottokar Maria<lb/>Graf v. Attems</p>
+                <p>Gratz, 10. August 1855</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="attems-ottokar-maria">
+                        <persName>
+                            <surname>Attems</surname>
+                            <forename>Ottokar Maria</forename>
+                        </persName>
+                        <note>
+                            <p>Graz 1815–1867 Graz</p>
+                            <p>1837–1853 Priester in Seckau, 1853–1867 Bischof von Seckau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bock-cornelius-peter">
+                        <persName>
+                            <surname>Bock</surname>
+                            <forename>Cornelius Peter</forename>
+                        </persName>
+                        <note>
+                            <p>Aachen 1804–1870 Freiburg i. Breisgau</p>
+                            <p>ab 1833 Prof. für Altertumskunde an der Universität Marburg und Brüssel, ab 1858 Ehrenprof. der Universität Freiburg</p>
+                            <p>http://d-nb.info/gnd/116214023</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116214023</tei:idno>
+                    </person>
+                <person xml:id="weiss-johann-baptist">
+                        <persName>
+                            <surname>Weiß</surname>
+                            <forename>Johann Baptist</forename>
+                        </persName>
+                        <note>
+                            <p>Ettenheim 1820–1899 Graz</p>
+                            <p>ab 1844 Lehrer für französische und englische Sprache an der Höheren Bürgerschule in Freiburg, ab 1850 Redakteur der "Freiburger Zeitung", 1853–1891 Prof. für Geschichte an der Universität Graz</p>
+                            <p>http://d-nb.info/gnd/117290629</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117290629</tei:idno>
+                    </person>
+                <person xml:id="sacher-masoch-leopold-johann">
+                        <persName>
+                            <surname>Sacher-Masoch</surname>
+                            <forename>Leopold Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Lemberg 1797–1874 Bruck a. d. Mur</p>
+                            <p>1826–1828 Kreiskommissar in Tarnopol, 1829–1830 in dieser Funktion in Bochnia, 1831–1847 Polizeidirektor von Lemberg, ab 1848 Stadthauptmann in Prag</p>
+                            <p>http://d-nb.info/gnd/139581308</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/139581308</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

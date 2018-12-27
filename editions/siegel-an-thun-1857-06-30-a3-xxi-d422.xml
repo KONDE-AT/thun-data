@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="siegel-an-thun-1857-06-30-a3-xxi-d422.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/sickel-an-thun-1860-10-25-a3-xxi-d623a26.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-11-a3-xxi-d296a.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#siegel-heinrich" role="sender:gelehrter">Heinrich
+                        Siegel</rs> an <rs type="person" ref="#schulte-friedrich" role="recipient">Johann Friedrich Schulte</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_d54f6cc2237a0ee51accd7a92bf76db1">Gießen</rs>,
+                        <date when="1857-06-30">30. Juni 1857</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D422</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Heinrich Siegel bedankt sich für das Angebot, eine
+                            außerordentliche Professur an der Universität Wien übernehmen zu können.
+                            Er nimmt dieses Angebot unter den Bedingungen an, die ihm genannt
+                            wurden. Er bittet jedoch um eine Entschädigung für seine
+                            Übersiedlungskosten.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Dieser Brief ist eine Beilage zu: <ref target="thun/thun-korrespondenz/tetschen/schulte-an-thun-1857-07-04-a3-xxi-d424.xml">Johann Friedrich Schulte an Leo Thun. Prag, 4. Juli
+                            1857.</ref>
+                            <lb/>Der Brief wurde bei der Ordnung des Nachlasses
+                            fälschlicherweise als eigenständiger Brief gewertet.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#siegel-heinrich">Heinrich Siegel</rs>
+                    <settlement ref="#place_d54f6cc2237a0ee51accd7a92bf76db1">Gießen</settlement>
+                    <date when="1857-06-30">30. Juni 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#schulte-friedrich">Johann Friedrich Schulte</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Rechtsgeschichte</term>
+                </index>
+                <p>Verehrter Herr Professor,</p>
+                <p>Ihr Brief vom 24. dieses[?], worin Sie im Auftrage Seiner Excellenz des <rs type="person" ref="#thun-hohenstein-leo">Herrn Unterrichtsministers</rs> mir eine
+                    außerordentliche Professur für deutsches Privatrecht und deutsche Reichs- und
+                    Rechtsgeschichte an der <rs type="org" ref="#org_0018">Universität zu
+                        Wien</rs> antragen, hat mich in die freudigste Stimmung versetzt, und
+                    ich erkläre, daß ich in Folge des so sehr ehrenden Vertrauens, welches Seine
+                    Excellenz zu mir haben, und in Berücksichtigung des in Aussicht gestellten
+                    Wirkungskreises bereit bin, das Amt in der angebotenen Weise und unter den
+                    gestellten Bedingungen nebst einer Entschädigung für die Übersiedlung im Betrage
+                    von 300 fl. anzunehmen.<lb/>Indem ich Sie, verehrter Herr Professor, bitte,
+                    diese meine Erklärung Seiner Excellenz gefälligst mittheilen zu wollen, sage ich
+                    Ihnen für Ihre freundlichen Bemühungen meinen wärmsten Dank und zeichne mit der
+                    ausgezeichnetsten Hochachtung</p>
+                <p>Ihr ergebenster<lb/>Siegel</p>
+                <p>Gießen, 30. Juni 1857</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="siegel-heinrich">
+                        <persName>
+                            <surname>Siegel</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Ladenburg in Baden 1830–1899 Wien</p>
+                            <p>ab 1853 Privatdozent für deutsches Recht an der Universität Gießen, 1857–1897 Prof. für deutsche Reichs- und Rechtsgeschichte und deutsches Privatrecht an der Universität Wien, ab 1863 Mitglied der Akademie der Wissenschaften</p>
+                            <p>http://d-nb.info/gnd/117360384</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117360384</tei:idno>
+                    </person>
+                <person xml:id="schulte-friedrich">
+                        <persName>
+                            <surname>Schulte</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Winterberg 1827–1914 Meran</p>
+                            <p>ab 1854 Privatdozent an der Universität Bonn, 1855 Prof. für Kirchenrecht und deutsche Reichs- und Rechtsgeschichte an der Universität Prag, 1873–1906 Prof. für Kirchengeschichte an der Universität Bonn</p>
+                            <p>http://d-nb.info/gnd/11861133X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11861133X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d54f6cc2237a0ee51accd7a92bf76db1">
+                        <placeName>Giessen</placeName>
+                        <placeName type="pref">Gießen</placeName>
+                        <placeName type="alt">Gießen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.58727 8.67554</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2920512/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="zeithammer-an-thun-1853-04-17-a3-xxi-d201.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/zaboysky-an-thun-1852-11-29-a3-xxi-d177.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-07-08-a3-xxi-d212.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#zeithammer-gregor" role="sender:beamter">Gregor
+                        Zeithammer</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</rs>, <date when="1853-04-17">17. April
+                    1853</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D201</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Gregor Zeithammer, Gymnasialinspektor für Böhmen, weist Leo Thun auf den
+                            Bericht von Johann Kleemann über das Altstädter Gymnasium in Prag hin,
+                            in welchem sein eigenes Urteil über das Gymnasium im Großen und Ganzen
+                            bestätigt werde. Zeithammer betont, dass Kleemann teilweise sogar noch
+                            schlechtere Urteile über die Lehrer gefällt habe als er selbst.
+                            Zeithammer weist aber dennoch auf den guten Willen der meisten Lehrer
+                            hin. Zeithammer empfiehlt die Reorganisation des Gymnasiums, er bittet
+                            aber – um unnötiges Aufsehen zu vermeiden – bis zum Ende des Schuljahres
+                            damit zu warten. Zeithammer beantragt überdies, dass man ab sofort keine
+                            Lehrer aus Böhmen mehr in andere Kronländer versetzen möge, weil schon
+                            jetzt ein Mangel an guten Lehrern in Böhmen herrsche.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D212.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#zeithammer-gregor">Gregor Zeithammer</rs>
+                    <settlement ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</settlement>
+                    <date when="1853-04-17">17. April
+                    1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Böhmen</term>
+                    <term>Altstädter Gymnasium</term>
+                    <term>Sprachenfrage</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>In der Relation des Herrn Sectionsrathes <rs type="person" ref="#kleemann-johann">Kleemann</rs> wird sich wohl das bestätigt finden, was ich vom
+                    <rs type="org" ref="#org_0081">Altstädter Gymnasium</rs> wiederholt
+                    berichtete. Eine Änderung in der Einrichtung desselben findet er nothwendig,
+                    auch hat er einiges Ungünstige über manche Lehrer fallen lassen, da er sich
+                    anderweitig über sie erkundigte. Ich bitte in letzerer Beziehung mit Schonung
+                    vorzugehen, wenn nicht etwas Wichtiges vielleicht in politischer Hinsicht, was
+                    mir nicht betraut ist, gegen sie vorliegt. Sie handelten, was die
+                    Unterrichtssprache anbelangt, nach den bestehenden Vorschriften und im Sinne der
+                    Einrichtung der Lehranstalt. Wird eine andere getroffen, so werden sie sich
+                    gewiß willig fügen.<lb/>Ferner bitte ich zur Vermeidung des Aufsehens die
+                    Änderung mit Beginn des nächsten Schuljahres eintreten zu lassen; doch wollen
+                    Eure Excellenz die neuen Verfügungen bezüglich der Unterrichtssprache früher
+                    bekannt geben, damit die Lectionspläne schon darnach verfaßt und geregelt werden
+                    könnten. Werden über einen oder den andern Punct Auskünfte und Erfahrungen
+                    gewünscht, so wollen Eure Excellenz die meinigen nicht verschmähen, da ich die
+                    Verhältnisse kenne und es – Gott sieht mein Herz – mit der guten Sache redlich
+                    meine.<lb/>Eine dritte Bitte geht dahin, Eure Excellenz wollen gegenwärtig dem
+                        <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Kronlande</rs> keine Lehrkräfte entziehen, weil
+                    wir sonst in die peinlichste Verlegenheit kämen, denn an die Stelle <rs type="person" ref="#klumpar-johann">Klumpars</rs> gab ich den letzten verfügbaren
+                    Philologen, der überdies noch keine Prüfung abgelegt hat.<lb/>Indem ich den
+                    innigsten Dank dafür ausspreche, daß zur nähern Erhebung des Thatbestandes und
+                    zur Revision einiger Lehranstalten ein Ministerialcommissär abgesandt worden,
+                    habe ich die Ehre mit den lautersten Gefühlen unbegrenzter Verehrung und
+                    Dankbarkeit zu verharren</p>
+                <p>Euerer Excellenz</p>
+                <p>unterthänigster<lb/>Gregor Zeithammer</p>
+                <p>Königgrätz, 17. April 1853</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="zeithammer-gregor">
+                        <persName>
+                            <surname>Zeithammer</surname>
+                            <forename>Gregor</forename>
+                        </persName>
+                        <note>
+                            <p>Stekná 1800–1881</p>
+                            <p>Prof. am Gymnasium in Pisek, Prof. am Kleinseitner Gymnasium in Prag, 1850 Gymnasialinspektor für Böhmen</p>
+                            <p>http://d-nb.info/gnd/103366622X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/103366622X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="kleemann-johann">
+                        <persName>
+                            <surname>Kleemann</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Czernowitz 1808–1885 Wien</p>
+                            <p>ab 1840 Professor für Weltgeschichte und Philologie an der phil. Lehranstalt in Görz, später in Laibach, ab 1850 Schulrat und Gymnasialinspektor für Steiermark, Kärnten und Krain, ab 1851 Sektionsrat im Ministerium für Kultus und Unterricht,  ab 1854 Ministerialrat</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="klumpar-johann">
+                        <persName>
+                            <surname>Klumpar</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Chrast 1826–1909 Königgrätz</p>
+                            <p>Gymnasiallehrer, ab 1853 Lehrer für klass. Philologie am Gymnasium in Iglau, ab 1856 Direktor des Gymnasiums in Lugosch, 1858–1861 Prof. in Neuhaus</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_b19bff5a3b79c0971a99eefa36cc1670">
+                        <placeName>Hradec Králové</placeName>
+                        <placeName type="pref">koeniggraetz</placeName>
+                        <placeName type="alt">Königgrätz</placeName>
+                        <placeName type="alt">Königgraz</placeName>
+                        <placeName type="alt">Königingrätz</placeName>
+                        <placeName type="alt">Königgrätz</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.20923 15.83277</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074967/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0081">
+                        <orgName>Altstädter Gymnasium (Prag)</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/401873-4</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

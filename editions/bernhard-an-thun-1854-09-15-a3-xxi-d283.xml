@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="bernhard-an-thun-1854-09-15-a3-xxi-d283.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-wiener-handelsschule-1851-01-26-a3-xxi-d146.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/besprechung-unierte-kirchen-1858-06-16-a3-xxi-d454.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#bernhard-athanasius" role="sender:kleriker">Athanasius
+                        Bernhard</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_32b01a4087e5053899efae50c67b02fb">Neustadt</rs>, <date when="1854-09-15">15. September 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D283</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Abt der Zisterzienserabtei Osek, Athanasius Bernhard, informiert Leo
+                            Thun darüber, dass die apostolische Visitation im Stift Heiligenkreuz
+                            vom 16. bis 20. September dauern wird.</p>
+                    </msContents>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#bernhard-athanasius">Athanasius Bernhard</rs>
+                    <settlement ref="#place_32b01a4087e5053899efae50c67b02fb">Neustadt</settlement>
+                    <date when="1854-09-15">15. September 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Zisterzienser</term>
+                </index>
+                <p>Hochgeborner Graf!<lb/>Euer Excellenz!</p>
+                <p>Dem gütigen Wunsche Euer Excellenz gemäß gebe ich mir die Ehre anzuzeigen, daß am
+                    16. dieses [Monats] im <rs type="org" ref="#org_0107">Stifte
+                        Heiligenkreuz</rs> die apostolische Visitation beginnen und bis 20.
+                    incl. dauern wird.<lb/>Genehmigen Euer Excellenz die aufrichtigsten Ausdrücke
+                    tiefster Verehrung, mit welcher ich die Ehre habe zu seyn</p>
+                <p>Euer Excellenz<lb/>gehorsamster Diener</p>
+                <p>Fr. Athanasius<lb/>Abt zu Ossegg, Visitator und Generalvicar</p>
+                <p>Neustadt am 15. September 1854</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="bernhard-athanasius">
+                        <persName>
+                            <surname>Bernhard</surname>
+                            <forename>Athanasius OCist</forename>
+                        </persName>
+                        <note>
+                            <p>Radonitz 1815–1875 Ossegg</p>
+                            <p>1845–1847 Prof. für Neues Testament am Hausstudium und 1847–1851 am bischöflichen Priesterseminar in Leitmeritz, 1853–1875 Abt der Zisterzienserabtei Ossegg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_32b01a4087e5053899efae50c67b02fb">
+                        <placeName>Wiener Neustadt</placeName>
+                        <placeName type="pref">Neustadt</placeName>
+                        <placeName type="alt">Neustadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.80485 16.23196</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761353/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0107">
+                        <orgName>Stift Heiligenkreuz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/80820-9</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

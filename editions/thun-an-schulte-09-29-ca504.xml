@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-schulte-09-29-ca504.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-safarik-1852-08-26-ca986.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-segesser-1856-10-27-ca567.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#schulte-friedrich" role="recipient:gelehrter">Friedrich
+                        Schulte</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1856-09-29">29. September [1856]</date>
+                    <note xml:id="note_1">Die Datierung auf das Jahr
+                        1856 erfolgt auf Grund einer Bleistiftnotiz auf dem Blatt. Die Ehegesetze
+                        wurden am 8. Oktober 1856 vom Kaiser bewilligt. Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18560004&amp;seite=00000605&amp;size=45">RGBl 185/1856</ref>.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Bayerische Staatsbibliothek</institution>
+                            <repository>Handschriften und Alte Drucke</repository>
+                            <idno>Schulteana 9,1</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun sendet Johann Friedrich Schulte einen Antrag zur Umsetzung
+                                der Ehegesetze des Konkordats. Er bitte Schulte um sein Urteil dazu
+                                und lädt ihn zu einer Besprechung in dieser Frage ein.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date when="1856-09-29">29. September [1856]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#schulte-friedrich">Friedrich Schulte</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Konkordat</term>
+                    <term>Ehefrage</term>
+                </index>
+                <p>den 29. Sept.</p>
+                <p>Werther Herr Professor!</p>
+                <p>beiliegend erhalten Sie den ersten mit Motiven versehenen Antrag zu den
+                    Ehegesetzen. Die [sic!] mit rother Tinte korrigierte Exemplar bezeichnet Phasen
+                    einer zweiten, das Exemplar, das Sie bereits in Händen haben, die einer dritten
+                    Berathung. Wenn Sie morgen zu mir kommen, so bringen Sie mir all' diese
+                    Schriftstücke mit; ich werde Ihnen dann darüber noch einiges mündlich
+                    mittheilen.</p>
+                <p>Hochachtungsvoll</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="schulte-friedrich">
+                        <persName>
+                            <surname>Schulte</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Winterberg 1827–1914 Meran</p>
+                            <p>ab 1854 Privatdozent an der Universität Bonn, 1855 Prof. für Kirchenrecht und deutsche Reichs- und Rechtsgeschichte an der Universität Prag, 1873–1906 Prof. für Kirchengeschichte an der Universität Bonn</p>
+                            <p>http://d-nb.info/gnd/11861133X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11861133X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
+                        <placeName>o. O.</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

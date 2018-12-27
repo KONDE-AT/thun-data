@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-miklosich-02-01-ca799.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1858-05-17-ca1133.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-miklosich-1856-04-25-ca800.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#miklosich-franz" role="recipient">Franz
+                        Miklosich</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--02-01">1. Februar o. J.</date>
+                    <note xml:id="note_1">Franz Miklosich war ab 1854
+                        Vorsitzender der Gymnasialprüfungskommission. Daher ist es wahrscheinlich,
+                        dass der Brief zwischen 1854 und 1860 verfasst wurde.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 139/12-1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet den Philologen und Vorsitzenden der Prüfungskommission
+                            Franz Miklosich um einige Zeugnisse der Gymnasial-Prüfungskommission.
+                            Thun möchte nämlich wissen, wie diese gestaltet sind, bzw. ob man von
+                            diesen deutlich die Leistungen und Fähigkeiten der Geprüften ablesen
+                            könne.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>1. Februar o. J.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#miklosich-franz">Franz Miklosich</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasiallehrer</term>
+                    <term>Lehramtsprüfung</term>
+                    <term>Lehrerausbildung</term>
+                </index>
+                <p>Lieber Herr Professor!</p>
+                <p>Ich bedarf einiger Proben von Zeugnissen der Prüfungskommission für
+                    Gymnasial-Lehramtskandidaten, nur um zu zeigen, wie sie ein deutliches Bild von
+                    dem Bildungszustand der Kandidaten geben. Haben Sie die Güte und lassen Sie mir
+                    etwa 3 Zeugnisse – mit Beziehung auf die drei Gruppen – aus den Akten der
+                    Kommission ausheben, lediglich nach dem Gesichtspunkte, daß sie möglichst
+                    geeignet seien, jenen Zweck zu erreichen, gleichviel übrigens ob das Resultat
+                    Approbazion oder Reprobazion war. Ich werde sie dann hier abschreiben lassen und
+                    sofort zurückstellen.</p>
+                <p>Hochachtungsvoll<lb/>Thun</p>
+                <p>1. Februar</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="miklosich-franz">
+                        <persName>
+                            <surname>Miklosich</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Ljutomer 1813–1891 Wien</p>
+                            <p>1841–1844 Rechtsanwalt, 1849–1886 Prof. für slawische Philologie und Literatur an der Universität Wien, ab 1864 Mitglied des Unterrichtsrats</p>
+                            <p>http://d-nb.info/gnd/119065932</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119065932</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
+                        <placeName>o. O.</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

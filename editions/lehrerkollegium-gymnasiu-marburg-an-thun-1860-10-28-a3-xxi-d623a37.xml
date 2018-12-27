@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="lehrerkollegium-gymnasiu-marburg-an-thun-1860-10-28-a3-xxi-d623a37.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lange-an-thun-1859-04-28-a3-xxi-d503.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-cilli-1860-10-31-a3-xxi-d623a39.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Das Lehrerkollegium des Gymnasiums in Marburg [Maribor] an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5d32722eb37746f42ea031ac604e15aa">Marburg [Maribor]</rs>, <date when="1860-10-28">28. Oktober 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Das Lehrerkollegium des Gymnasiums in Marburg dankt Thun für dessen
+                            Verdienste um das österreichische Gymnasialwesen. Sie loben die Reformen
+                            des Schulwesens, die zu einer Blüte des wissenschaftlichen Lebens in
+                            Österreich geführt haben. Lobend heben sie auch die Reform der
+                            Lehrerausbildung hervor.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.<lb/>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p> Das hoffnungsvolle Aufblühen eines regen wissenschaftlichen Lebens in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> neugestalteten Mittelschulen; die
+                    Heranbildung eines für seinen Beruf tüchtig vorgeschulten, in seiner Wirksamkeit
+                    allseitig kräftig unterstützten Gymnasiallehrerstandes, die sorglichste
+                    Förderung der der Schule und ihren Vertretern im Interesse des Staatswohles
+                    gebührenden Anerkennung – das sind zunächst die Momente, die der Lehrkörper des
+                    k.k. Marburger Gymnasiums, gleichgesinnt mit allen dankbareren Standesgenossen,
+                    in dem Augenblicke sich vergegenwärtigte, als demselben die neuesten weit
+                    reichenden allerhöchsten Reformentschließungen <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> zur Kenntnis kamen.<lb/>Möge es den
+                    ehrfurchtsvoll Unterzeichneten gestattet sein, diesem Gefühle dankbarer
+                    Würdigung der hohen Verdienste Eurer Excellenz um die Pflege vaterländischer
+                    sittlich intellektueller Bildung, deren <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> Geschichte in spätern Jahren noch treu gedenken wird,
+                    in diesen Zeilen wahrhaften Ausdruck zu geben.</p>
+                <p>Adolph Lang<lb/>k.k. Gymnasialdirektor</p>
+                <p>Dr. Rudolf Puff<lb/>Franz Sperka<lb/>Georg Mathiaschitsch Religionslehrer<lb/>Dr.
+                    Adalbert Svoboda<lb/>Jos. Eßl<lb/>Johann Gutscher<lb/>Otto Gehlen<lb/>Carl
+                    Rieck<lb/>Joh. Majciger<lb/>Joseph Schumann<lb/>Ph. Klimscha<lb/>Ant.
+                    Schuidaritsch<lb/>Josef Reitter<lb/>Johann Joha</p>
+                <p>Marburg, am 28. October 1860</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5d32722eb37746f42ea031ac604e15aa">
+                        <placeName>Maribor</placeName>
+                        <placeName type="pref">Marburg [Maribor]</placeName>
+                        <placeName type="alt">Marburg [Maribor]</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.55472 15.64667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4114985-3</idno>
+                        <idno>http://sws.geonames.org/2873759/</idno>
+                        <idno>http://d-nb.info/gnd/4037446-4</idno>
+                        <idno>http://sws.geonames.org/3195506/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

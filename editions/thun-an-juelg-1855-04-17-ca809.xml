@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-juelg-1855-04-17-ca809.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-juelg-1855-03-04-ca808.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-karajan-03-12-ca59.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#juelg-bernhard" role="recipient">Bernhard
+                        Jülg</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1855-04-17">17.
+                        April 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 346/38-6</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bedankt sich bei Bernhard Jülg für dessen Auskünfte über
+                            mögliche Kandidaten zur Besetzung von Stellen an österreichischen
+                            Gymnasien. Thun schreibt dann, ihm sei zu Ohren gekommen, dass Bernhard
+                            Jülg neben seiner Lehrtätigkeit auch für Zeitungen schreibe. Thun hat
+                            gegen eine solche Nebentätigkeit grundsätzlich nichts einzuwenden.
+                            Sollte es allerdings zutreffen, dass – wie kolportiert wird – Jülg auch
+                            im Verborgenen Artikel in ausländischen Zeitungen deponiere, so kann
+                            dies Thun nicht dulden. Er empfiehlt Jülg daher, Heimlichkeiten aller
+                            Art zu unterlassen, um seine Stellung nicht zu gefährden.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1855-04-17">17.
+                        April 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#juelg-bernhard">Bernhard Jülg</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalvermittlung</term>
+                    <term>Gymnasien</term>
+                    <term>Presse</term>
+                </index>
+                <p>Wien, den 17. April 1855</p>
+                <p>Werther Herr Professor!</p>
+                <p>Ich danke Ihnen für die mir ertheilten Auskünfte bezüglich der von mir gesuchten
+                    Gymnasiallehrer. Ich behalte mir vor, Ihre weitere Vermittelung in dieser
+                    Angelegenheit demnächst in Anspruch zu nehmen. Heute veranlaßt mich etwas
+                    anderes an Sie zu schreiben. Wie ich vernehme, befassen Sie sich nebenbei mit
+                    Zeitungskorrespondenzen. Ich habe dagegen im Allgemeinen eben nichts
+                    einzuwenden, zumal ich von Ihnen mit voller Zuversicht erwarten kann, daß Sie
+                    darüber weder Ihren wissenschaftlichen Beruf vernachläßigen, noch dabei den
+                    Grundsätzen untreu sein werden, denen Ihre mir bekannten Überzeugungen
+                    entsprechen. Indes ist zufällig zu meiner Kenntniß gelangt, daß Sie gleichwohl
+                    Dinge schreiben, die Sie nach den bestehenden Vorschriften nicht schreiben
+                    sollten, und daß Sie eben deshalb Ihre Mittheilungen mitunter auf anderen als
+                    dem geraden Weg an ausländische Redakzionen gelangen zu lassen suchen. Sind
+                    diese Angaben richtig, so kann ich dieses Benehmen nicht billigen. Was Sie, ein
+                    von <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> mit dem Unterrichte
+                    der Jugend betrauter Mann, thuen, soll niemals so sein, daß es der Regierung
+                    verheimlicht zu werden braucht. Jede Verheimlichung erzeugt Mißtrauen, und ist
+                    eine halbe Unwahrhaftigkeit oder mindestens ein Fallstrick für die
+                    Wahrhaftigkeit. Deshalb empfehle ich Ihnen recht angelegentlich und wünschte,
+                    daß Sie selbst es als eine Gewissensache ansähen, zu unterlassen, was Sie in
+                    eine schiefe Stellung bringen muß.</p>
+                <p>Mit aufrichtigem Wohlwollen</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="juelg-bernhard">
+                        <persName>
+                            <surname>Jülg</surname>
+                            <forename>Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Ringelbach 1825–1886 Innsbruck</p>
+                            <p>1848–1850 Prof. an Lyzeen in Heidelberg, Freiburg und Rastatt, ab 1851 Prof. der klass. Philologie an der Universität Lemberg, ab 1853 Prof. an der Universität Krakau, ab 1863 Prof. an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/117220973</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117220973</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

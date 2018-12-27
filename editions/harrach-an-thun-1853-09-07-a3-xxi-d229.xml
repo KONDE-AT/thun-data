@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="harrach-an-thun-1853-09-07-a3-xxi-d229.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/handel-an-thun-1855-07-30-a3-xxi-d336a.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-01-a3-xxi-d156a.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#harrach-franz" role="sender">Franz Ernst Harrach</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6633875670659003395962840531a602">Hrádek</rs>, <date when="1853-09-07">7. September 1853</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D229</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der böhmische Grundherr Franz Harrach wendet sich mit der Bitte um
+                            Unterstützung in einer Patronatsfrage an Leo Thun. Die Gemeinde in
+                            Steger hatte um Errichtung eines Kirchengebäudes angesucht. Harrach
+                            erteilte zwar die Patronatseinwilligung, er sah sich damals aufgrund der
+                            unentschiedenen rechtlichen Situation aber außerstande, das neue
+                            Patronat zu übernehmen. Nun wurde mit hohem Erlaß des Ministeriums die
+                            Errichtung des Kirchengebäudes unter dem Patronat des Religionsfonds
+                            bewilligt. Dagegen möchte Harrach aber Berufung einlegen und erklärte
+                            sich nun zur Übernahme bereit, um zu verhindern, dass das seit
+                            Jahrhunderten seiner Familie zustehende Kirchenpatronat verloren ginge.
+                            Er hofft, dass Thun ihn in der Angelegenheit unterstützt.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#harrach-franz">Franz Ernst Harrach</rs>
+                    <settlement ref="#place_6633875670659003395962840531a602">Hrádek</settlement>
+                    <date when="1853-09-07">7. September 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Gemeindeordnung</term>
+                    <term>Verwaltung</term>
+                    <term>Grundentlastung</term>
+                </index>
+                <p>Hochgeborner Graf,</p>
+                <p>Erlauben Euer Excellenz, daß ich eine beim <rs type="org" ref="#org_0005">hohen
+                        Cultusministerium</rs> in Verhandlung befindliche
+                    Patronatsangelegenheit Dero wohlwollenden Aufmerksamkeit empfehle.<lb/>Bei der
+                    meinem Patronate unterstehenden Filialkirche zu <rs type="place" subtype="place" ref="#place_d87ecf2812221b35c14efd3de8dd844d">Steger</rs>
+                    nächst <rs type="place" subtype="place" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</rs> hatte die Gemeinde
+                    um Errichtung einer Localie angesucht und ich habe in Anerkennung der
+                    Wichtigkeit ihrer Beweggründe sowohl zur Dotirung des Localisten als auch zur
+                    Erbauung und Erhaltung des Localistengebäudes aus dem Kirchenvermögen meine
+                    Patronatseinwilligung ertheilt, ihr Gesuch aber um Übernahme dieses neuen
+                    Patronates der Localie, als eben zur Zeit der politischen Wirren gestellt, fand
+                    ich nicht zu gewähren, da ich, wo eben die ganzen Patronatsrechte in Frage
+                    gestellt waren, kein neues Patronatsrecht übernehmen wollte und ich auch die
+                    Unzukömmlichkeiten eines getrennten Patronates der Kirche und der Localie, wenn
+                    auch von einer Person ausgeübt, für die Zukunft befürchtete.<lb/>Mit Erlaß des
+                    <rs type="org" ref="#org_0005">hohen
+                        Ministeriums</rs> vom 28. September vorigen Jahres Z. 15118 wurde die
+                    Errichtung der Localie in <rs type="place" subtype="place" ref="#place_d87ecf2812221b35c14efd3de8dd844d">Steger</rs> jedoch unter dem <hi rend="ul">Patronate des Religionsfondes</hi> bewilligt und meinem
+                    Patronatsamte aufgetragen, wegen Ausmittlung des Bauplatzes usw. die
+                    Einleitungen zu treffen. Gegen diese hohe Entscheidung erlaubte ich mir durch
+                    die k.k. Bezirksinspectorenschaft eine ergebene Vorstellung zu machen und zur
+                    Verhütung der bei getrennten Patronaten unvermeidlichen Anständen auf die
+                    Vereinigung mit dem Kirchenpatronate als integrirenden Theil desselben
+                    anzutragen, indem ich <hi rend="ul">als solches</hi> es zu übernehmen mich
+                    vollkommen bereit erklärte. Ich fand mich um so mehr zu dieser Vorstellung
+                    berufen, als ich in Erfahrung brachte, daß das hohe Consistorium wohl eben in
+                    Betracht der Unzukömmlichkeiten eines getrennten Patronates eben auch die
+                    Vereinigung beider Patronate als ein Ganzes jedoch für den Religionsfond
+                    beantragen soll mit Abnahme des mir zustehenden Kirchenpatronates, gegen welche
+                    Entziehung des seit Jahrhunderten zustehenden Rechtes meiner Familie auf dieser
+                    unserer Fideicommißherrschaft ich mich freilich verwahren müßte.<lb/>Oberwähnten
+                    ergebensten Antrag <hi rend="ul">das Patronat der Localie als einen
+                        integrirenden Theil des mir zustehenden alten Patronatsrechtes über die
+                        Kirche zu erklären</hi>, erlaube ich mir Euer Excellenz wohlwollenden
+                    Aufmerksamkeit zu empfehlen, indem ich die Gelegenheit ergreife, mich mit der
+                    ausgezeichnetsten Hochachtung zu nennen</p>
+                <p>Hochgeborner Graf</p>
+                <p>Dero ergebensten Diener<lb/>F. Graf Harrach</p>
+                <p>Schloß Hradek, 7.9.1853</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="harrach-franz">
+                        <persName>
+                            <surname>Harrach</surname>
+                            <forename>Franz Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1799–1884 Nice</p>
+                            <p>böhm. Adeliger</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6633875670659003395962840531a602">
+                        <placeName>Hrádek</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.21856 15.67555</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074948/</idno>
+                    </place>
+                <place xml:id="place_d87ecf2812221b35c14efd3de8dd844d">
+                        <placeName>Steger</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+                <place xml:id="place_b19bff5a3b79c0971a99eefa36cc1670">
+                        <placeName>Hradec Králové</placeName>
+                        <placeName type="pref">koeniggraetz</placeName>
+                        <placeName type="alt">Königgrätz</placeName>
+                        <placeName type="alt">Königgraz</placeName>
+                        <placeName type="alt">Königingrätz</placeName>
+                        <placeName type="alt">Königgrätz</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.20923 15.83277</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074967/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

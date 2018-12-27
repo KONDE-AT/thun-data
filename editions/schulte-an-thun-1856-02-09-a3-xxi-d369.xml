@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="schulte-an-thun-1856-02-09-a3-xxi-d369.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-04-a3-xxi-d368.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-04-11-a3-xxi-d374.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1856-02-09">9. Februar 1856</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D369</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Johann Friedrich Schulte übermittelt dem Minister die
+                            Erklärung des Lehrers Eduard Goebel, eine Stelle als Gymnasiallehrer in
+                            Österreich annehmen zu wollen. Schulte erklärt die Verzögerung der
+                            Zusage damit, dass Goebel offenbar von verschiedenen Seiten zum Verbleib
+                            in Bonn aufgefordert worden war, insbesondere auch mit Warnungen vor den
+                            zu erwartenden Unannehmlichkeiten in Triest, wo Goebel wirken soll.
+                            Schulte berichtet außerdem, dass er die beiden besten Oberlehrer der
+                            Rheinprovinz für ein Engagement in Österreich begeistern konnte: bei
+                            entsprechenden Bedingungen wären diese vielleicht zu einem Übertritt
+                            nach Österreich bereit. Darüber will er in Kürze mehr schreiben.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#schulte-friedrich">Johann Friedrich Schulte</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when="1856-02-09">9. Februar 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Personalfragen</term>
+                    <term>Preußen</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>bin ich so frei, anliegend die Erklärung<note xml:id="note_1">Die angesprochene
+                        Erklärung ist im Nachlass nicht vorhanden.</note> des <rs type="person" ref="#goebel-eduard">Dr. Goebel</rs> zu übersenden. Hochdieselben
+                    wollen dabei erwägen, daß man auf den <rs type="person" ref="#goebel-eduard">Dr.
+                        Goebel</rs> vielfach einstürmt, um ihn zum Verbleiben in
+                        <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> zu bestürmen, und daß ihn die Entfernung von den
+                    Seinigen, welche bei einem Aufenthalte in <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</rs>
+                    stattfände, sowie das für einen Norddeutschen so höchst ungesunde Klima
+                        <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triests</rs> besorgt machen. Was den anderen
+                    Punkt betrifft, so dürfte wohl derselbe die Erklärung Euer Excellenz
+                    mißverstanden haben. Euer Excellenz das Gesuch des <rs type="person" ref="#goebel-eduard">Dr. Goebel</rs> zu einer definitiven gnädigen Entscheidung ergebenst
+                    anempfehlend, verbleibe ich, unter dem Bemerken, daß vielleicht jedoch unter
+                    etwas anderen Bedingungen, die beiden besten Oberlehrer der Rheinprovinz (Leute
+                    von 31–34 Jahren) sich bereit finden werden, hierher zu kommen, worüber ich
+                    näher berichten werde, in unbegränzter Hochachtung und Verehrung</p>
+                <p>Euer Excellenz<lb/>gehorsamster Diener<lb/>Dr. Schulte</p>
+                <p>Prag den 9. Februar 1856</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="schulte-friedrich">
+                        <persName>
+                            <surname>Schulte</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Winterberg 1827–1914 Meran</p>
+                            <p>ab 1854 Privatdozent an der Universität Bonn, 1855 Prof. für Kirchenrecht und deutsche Reichs- und Rechtsgeschichte an der Universität Prag, 1873–1906 Prof. für Kirchengeschichte an der Universität Bonn</p>
+                            <p>http://d-nb.info/gnd/11861133X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11861133X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="goebel-eduard">
+                        <persName>
+                            <surname>Goebel</surname>
+                            <forename>Eduard</forename>
+                        </persName>
+                        <note>
+                            <p>Hillesheim 1831–1904 Fulda</p>
+                            <p>ab 1855 Lehrer am Gymnasium in Aachen, 1856 Lehrer am Gymnasium in Bonn, 1857–1860 Lehrer am Gymnasium in Salzburg, 1860–1863 Oberlehrer am Apostelgymnasium in Köln, 1863–1897 Direktor des Gymnasiums in Fulda</p>
+                            <p>http://d-nb.info/gnd/1020890657</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1020890657</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_6c1def5820cdde63de0c38dd673de4d6">
+                        <placeName>Bonn</placeName>
+                        <placeName type="alt">Bonna</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.73438 7.09549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2946447/</idno>
+                    </place>
+                <place xml:id="place_4fd4ef3f46418624bcfdb765d2881356">
+                        <placeName>Trieste</placeName>
+                        <placeName type="pref">Triest</placeName>
+                        <placeName type="alt">Triest</placeName>
+                        <placeName type="alt">Triests</placeName>
+                        <placeName type="alt">o. O. [Triest]</placeName>
+                        <placeName type="alt">Triest</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.64953 13.77678</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165185/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

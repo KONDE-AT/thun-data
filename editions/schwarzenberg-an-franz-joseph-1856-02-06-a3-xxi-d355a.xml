@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="schwarzenberg-an-franz-joseph-1856-02-06-a3-xxi-d355a.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1860-10-20-a3-xxi-d623.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schwarzenberg-an-thun-1852-01-01-a3-xxi-d149.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#schwarzenberg-karl" role="sender:beamter">Karl
+                        Schwarzenberg</rs> an Kaiser <rs type="person" ref="#franz-joseph" role="recipient">Franz
+                        Joseph</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when="1856-02-06">6. Februar 1856</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D355</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Militär- und Zivilgouverneur von Siebenbürgen, Karl Schwarzenberg,
+                            übermittelt Kaiser Franz Joseph das Bittgesuch von Bischof Andreas
+                            Schaguna in Betreff der Regelung der Verhältnisse der
+                            griechisch-orthodoxen Kirche in Siebenbürgen. Schwarzenberg erinnert den
+                            Kaiser an die Konferenz in Bad Ischl im vorigen Herbst, als er vom
+                            Kaiser aufgefordert worden war, das Verhältnis dieser Kirche zum Staat
+                            und zu den anderen Religionsgemeinschaften einer Neuordnung
+                            zuzuführen.<lb/>Das Gesuch beinhaltet die Bitten und Wünsche der
+                            griechisch-orthodoxen Kirche in Siebenbürgen. Es erörtert die
+                            wichtigsten Fragen, welche die Stellung und Rechtslage der Kirche in
+                            Siebenbürgen betreffen. Dabei werden die Stellung der Kirche in
+                            Siebenbürgen zum Staat und zu den anderen Kirchen im Land, die
+                            Angelegenheit der gemischten Ehen, die Regulierung der Pfarreien sowie
+                            die Frage der bischöflichen Diözesanlehranstalt behandelt.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Dokument samt Beilage ist im Nachlass gemeinsam mit einem Brief von
+                                <ref target="thun/thun-korrespondenz/tetschen/nur-regesten/schaguna-an-franz-joseph-1857-09-09-a3-xxi-d355.xml">Andreas Schaguna an Kaiser Franz Joseph. Wien, 9. September
+                                1857</ref> abgelegt.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#schwarzenberg-karl">Karl Schwarzenberg</rs>
+                    <settlement ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</settlement>
+                    <date when="1856-02-06">6. Februar 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#franz-joseph">Franz Joseph</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Griechisch-orthodoxe Kirche</term>
+                    <term>Siebenbürgen</term>
+                </index>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="schwarzenberg-karl">
+                        <persName>
+                            <surname>Schwarzenberg</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1802–1858 Wien</p>
+                            <p>1851–1858 Militär- und Zivilgouverneur von Siebenbürgen</p>
+                            <p>http://d-nb.info/gnd/104245352</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104245352</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6244fbb7edb0da394fbfed3800b4c36d">
+                        <placeName>Hermannstadt</placeName>
+                        <placeName type="pref">hermannstadt [Sibiu]</placeName>
+                        <placeName type="alt">Hermannstädter</placeName>
+                        <placeName type="alt">Hermanstadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.8 24.15</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/667268/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

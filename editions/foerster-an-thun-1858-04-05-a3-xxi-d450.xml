@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="foerster-an-thun-1858-04-05-a3-xxi-d450.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-11-04-a3-xxi-d348d.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1859-06-16-a3-xxi-d508.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1858-04-05">5. April 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D450</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Fürstbischof Heinrich Förster informiert Leo Thun über einige
+                            Schwierigkeiten bei der Assistenz von katholischen Geistlichen bei
+                            Trauungen gemischtkonfessioneller Paare. Für diese Fälle wurden erst
+                            kürzlich neue Anordnungen erlassen, deren Umsetzung der Bischof nun in
+                            die Wege leiten wird. Förster schreibt außerdem, dass er den neuen
+                            Lehrplan für Gymnasien demnächst mit seinem Kollegen aus Olmütz
+                            besprechen wird. Außerdem informiert er den Minister darüber, dass er
+                            für Schulschwestern ein Kloster in Johannesberg errichten lässt, damit
+                            diese dort den Mädchenunterricht übernehmen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#foerster-heinrich">Heinrich Förster</rs>
+                    <settlement ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</settlement>
+                    <date when="1858-04-05">5. April 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Mädchenunterricht</term>
+                    <term>Orden</term>
+                </index>
+                <p>Hochgebietender Herr Minister,<lb/>Hochgeborener Herr Graf!</p>
+                <p>Mit gerührtem Herzen beeile ich mich, Eurer Excellenz meinen wärmsten Dank für
+                    das mir überaus schätzbare Wohlwollen auszusprechen, mit welchem Hochdieselben
+                    von Neuem meiner gehorsamsten Bitte für einen Mann entgegen gekommen sind, der
+                    seines katholischen Glaubens wegen Amt und Brod geopfert und in bittere
+                    Verlassenheit gerathen ist. Ich habe den gewesenen Pastor und Schulrektor
+                        <rs type="person" ref="#geisler">Geisler</rs> von Euer Excellenz gnädigen
+                    Absichten in Kenntnis gesetzt und zugleich beauftragt, die weiteren
+                    Verhandlungen dieserhalb selbst fortzuführen.<lb/>Was Euer Excellenz
+                    Schlußbemerkung über die passive Assistenz der Geistlichen in gemischten Ehen
+                    anlangt, so werde ich diese Angelegenheit auf dem amtlichen Wege, auf welchem
+                    sie in Anregung gebracht ist, auch erledigen. Hier wollen mir Euer Excellenz nur
+                    zu bemerken gestatten, daß die passive Assistenz von dem heiligen Stuhle nur
+                    sehr ungern und darum zugelassen ist, damit die Mischehen, bei welchen die
+                    kirchlichen Bedingungen nicht eingegangen werden, wenn sie auch keine erlaubte,
+                    doch giltige Ehen – etsi non licita, tamen valida – seien. Da aber ein
+                    besonderes Breve <rs type="person" ref="#benedikt-XIV">Benedikt des 14.</rs> für
+                        <rs type="place" subtype="region" ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</rs> die matrimonia mixta, wenn sie auch nicht licita
+                    sind, doch auch dann in jener Provinz für valida erklärt, wenn sie nicht coram
+                    parocho propria abgeschlossen sind, und jenes Breve später auch auf die
+                    Rheinprovinz und ganz <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> ausgedehnt worden ist, so hat
+                    die Assistentia passiva in den Herzogthümern <rs type="place" subtype="region" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Troppau</rs>,
+                        <rs type="place" subtype="region" ref="#place_eb98342f44d3c6fb447ad2a3264157f7">Jägerndorf</rs> und <rs type="place" subtype="region" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs> ihre Bedeutung
+                    verloren, und habe ich dieselbe um so mehr erschwert, als die Geistlichen bitter
+                    darüber klagten, daß nach abgeleisteter Assistentia passiva die Trauungen in den
+                    protestantischen Kreisen in der Regel zum Ärger der guten Katholiken mit einer
+                    augenfällig pomphaften Ostentative abgehalten würden. Im Übrigen fühle ich zu
+                    sehr, wie es die Aufgabe und Pflicht der Bischöfe ist, vermeidliche
+                    Verlegenheiten und Unannehmlichkeiten von Euer Excellenz fern zu halten, da der
+                    unvermeidlichen immer noch genug bleiben, als daß ich nicht mit Bereitwilligkeit
+                    Hochdero Wünschen in Allem entgegen kommen sollte, wo es mir möglich und
+                    gestattet ist. Ich werde daher demnächst die Assistentia passiva anordnen und
+                    Eurer Excellenz Kenntnis davon geben.<lb/>Auch ist mir heute der neue
+                    Studienplan zugegangen, und werde ich mich darüber baldigst mit dem Herrn
+                        <rs type="person" ref="#fuerstenberg-friedrich-egon">Fürsterzbischof von
+                        Olmütz</rs> benehmen.<lb/>Nachdem ich die lästige
+                    Staatsanleihungsangelegenheit, die mich gleich bei meinem Bisthumsantritte traf,
+                    glücklich abgewickelt, habe ich schon im vorigen Jahre angefangen, zu
+                        <rs type="place" subtype="place" ref="#place_8b000b8c3ddd9700b95cdddd2ef491bc">Johannesberg</rs> ein Kloster für arme Schulschwestern zu
+                    bauen, welche hier in <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> mit ungemeinem Segen
+                    wirken, und denen ich darum auch dort den Unterricht der weiblichen Jugend
+                    übergeben möchte. Da ich rechtzeitig der kaiserlichen Regierung davon Kenntnis
+                    gegeben und das Kloster auf meine Kosten baue und dotire, so hoffe ich, daß ich
+                    Seitens des Staates keine Schwierigkeiten erfahren werde. Sollte ich noch einige
+                    Jahre leben, so liegt es in meinem Wünschen, ein ähnliches Kloster, aber für
+                    Waisen und Kranke in dem ärmsten Theile meiner ostreichischen Diöcese, in
+                        <rs type="place" subtype="place" ref="#place_163fb009e68a04dc0ef1d258ab53c4e3">Zuckmantel</rs> oder in der Nähe zu bauen und zu dotiren,
+                    und es barmherzigen Schwestern zu übergeben. Ich mache davon Erwähnung, damit
+                    Euer Excellenz daraus ersehen, daß es nicht meine Absicht ist, meine
+                    ostreichischen Bezüge anders als zu Gunsten des ostreichischen Diöcesanantheils
+                    zu verwenden.<lb/>Genehmigen Hochdieselben den Ausdruck der besonderen
+                    Verehrung, mit der ich verharre</p>
+                <p>Euer Excellenz gehorsamer Diener<lb/>Heinrich Förster Bischof</p>
+                <p>Breslau, den 5. April 1858</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="foerster-heinrich">
+                        <persName>
+                            <surname>Förster</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Glogau 1799–1881 Johannesberg</p>
+                            <p>1853–1881 Fürstbischof von Breslau</p>
+                            <p>http://d-nb.info/gnd/11879826X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11879826X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="geisler">
+                        <persName>
+                            <surname>Geisler</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>Pastor und Schuldirektor.</p>
+                            <p/>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="benedikt-XIV">
+                        <persName>
+                            <surname>Benedikt XIV.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Bologna 1675–1758 Rom</p>
+                            <p>1740–1758 Papst</p>
+                            <p>http://d-nb.info/gnd/118655434</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118655434</tei:idno>
+                    </person>
+                <person xml:id="fuerstenberg-friedrich-egon">
+                        <persName>
+                            <surname>Fürstenberg</surname>
+                            <forename>Friedrich Egon</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1813–1892 Hochwald</p>
+                            <p>1853–1892 Erzbischof von Olmütz, ab 1879 Kardinal</p>
+                            <p>http://d-nb.info/gnd/129767638</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/129767638</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_60960432acfa4972c8f13dd89a872920">
+                        <placeName>Breslau</placeName>
+                        <placeName type="alt">Breslauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.10773 17.03533</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7531292/</idno>
+                    </place>
+                <place xml:id="place_67eb2b8d0aab60ec69666532ff9527c9" type="placeName">
+                        <placeName type="pref">Holland</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.25 4.667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4133959-9</idno>
+                    </place>
+                <place xml:id="place_033ae4ddfe8d381fa5ee82ab6aae2833" type="placeName">
+                        <placeName type="pref">Schlesien</placeName>
+                        <placeName type="alt">Schlesiens</placeName>
+                        <location>
+                            <geo decls="#LatLng">51 18</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3066138</idno>
+                    </place>
+                <place xml:id="place_d4ec090cfd48a471d8eadbce16f43c0c">
+                        <placeName>Opava</placeName>
+                        <placeName type="pref">Troppau [Opava]</placeName>
+                        <placeName type="alt">Troppau</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.93866 17.90257</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/1028714-0</idno>
+                        <idno>http://sws.geonames.org/3068927/</idno>
+                    </place>
+                <place xml:id="place_eb98342f44d3c6fb447ad2a3264157f7">
+                        <placeName>Krnov</placeName>
+                        <placeName type="pref">jaegerndorf</placeName>
+                        <placeName type="alt">Jägerndorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08967 17.70385</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3072656/</idno>
+                    </place>
+                <place xml:id="place_a711b0a299433d08b5b1118edfa2808a">
+                        <placeName>Cieszyn</placeName>
+                        <placeName type="pref">Teschen [Cieszyn]</placeName>
+                        <placeName type="alt">Teschens</placeName>
+                        <placeName type="alt">Teschner</placeName>
+                        <placeName type="alt">Teschen</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.74922 18.63178</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/5311974-5</idno>
+                        <idno>http://sws.geonames.org/7532301/</idno>
+                    </place>
+                <place xml:id="place_8b000b8c3ddd9700b95cdddd2ef491bc">
+                        <placeName>Javorník</placeName>
+                        <placeName type="pref">Johannesberg bei Jauernig [Javorník]</placeName>
+                        <placeName type="alt">Johannesberg bei Jauernig</placeName>
+                        <placeName type="alt">Schloss Johannesberg</placeName>
+                        <placeName type="alt">Johannesberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.39077 17.00272</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074398/</idno>
+                    </place>
+                <place xml:id="place_163fb009e68a04dc0ef1d258ab53c4e3">
+                        <placeName>Zlaté Hory</placeName>
+                        <placeName type="pref">Zuckmantel [Zlaté Hory]</placeName>
+                        <placeName type="alt">Zuckmantel</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.2638 17.39602</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3061393/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

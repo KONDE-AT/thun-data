@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-bach-1859-07-08-ca941.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1856-03-23-ca942.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca933.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when="1859-07-08">8. Juli 1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Alexander Bach bei Ministerpräsident Rechberg darauf zu
+                            drängen, dass in der Wiener Zeitung der Waffenstillstand zum Vorfrieden
+                            von Villafranca bekannt gegeben werde. Man müsse verhindern, dass die
+                            österreichische Bevölkerung den Beschluss aus der französischen Presse
+                            erfahre.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</settlement>
+                    <date when="1859-07-08">8. Juli 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerkonferenz</term>
+                </index>
+                <p>Hetzendorf den 8. Juli 859</p>
+                <p>Verehrtester Collega!</p>
+                <p>Soll <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> auch den Waffenstillstand
+                    (was mag der bedeuten?!) aus dem Moniteur erfahren? Ich hoffe es gelingt Ihnen
+                    von <rs type="person" ref="#rechberg-rothenloewen-bernhard">Rechberg</rs> noch
+                    rechtzeitig darüber eine Mittheilung für die Wiener Zeitung zu erzwingen.</p>
+                <p>Ihr ergebener</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bach-alexander">
+                        <persName>
+                            <surname>Bach</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Loosdorf 1813–1893 Unterwaltersdorf</p>
+                            <p>Juli und Okt. 1848 Justizminister, ab Juli 1849 Minister des Innern, 1859–1867 österr. Botschafter im Vatikan</p>
+                            <p>http://d-nb.info/gnd/118651455</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118651455</tei:idno>
+                    </person>
+                <person xml:id="rechberg-rothenloewen-bernhard">
+                        <persName>
+                            <surname>Rechberg</surname>
+                            <forename>Johann Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Regensburg 1806–1899 Schwechat bei Wien</p>
+                            <p>Diplomat, 1843–1847 Gesandter in Rio de Janeiro, 1849 österr. Bevollmächtigter bei der Nationalversammlung in Frankfurt, 1853 Ziviladlatus des Generalgouverneurs in Lombardo-Venetien, seit 1855 Bundespräsidialgesandter in Frankfurt, 1859–1864 österr. Außenminister, 1859–1861 auch Ministerpräsident</p>
+                            <p>http://d-nb.info/gnd/116391154</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116391154</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e3a1571b9091d6d78548ad3b4b159d11">
+                        <placeName>Hetzendorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.165278 16.304167</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

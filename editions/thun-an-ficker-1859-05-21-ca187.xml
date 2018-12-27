@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-ficker-1859-05-21-ca187.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1860-08-31-ca188.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
+                        Ficker</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1859-05-21">21. Mai 1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun informiert Julius Ficker darüber, dass man durch das Ministerium
+                            des Äußeren eine Anfrage an die preußische Regierung gestellt habe, ob
+                            sie damit einverstanden sei, Fickers Dienstjahre an österreichischen
+                            Universitäten anzuerkennen. Thun wird Ficker über das Verfahren auf dem
+                            Laufenden halten. Er bedauert, dass Ficker gesundheitlich angeschlagen
+                            ist.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1859-05-21">21. Mai 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Wien den 21. Mai 1859</p>
+                <p>Geehrter Herr Rector!</p>
+                <p>Ich bin Ihnen für Ihre Mittheilung vom 27. vorigen Monats sehr dankbar. Ich habe
+                    nicht unterlassen, mit Benützung der darin erhaltenen Daten durch das <rs type="org" ref="#org_0091">Ministerium des Äußeren</rs> neuerlich
+                    bei der preußischen Regierung zu reklamieren, nachdem dieselbe vor zwei Jahren
+                    über unsere Anfrage bereits die Zusicherung abgegeben hat, daß der Einrechnung
+                    der an österreichischen Universitäten zugebrachten Zeit nichts entgegenstehe.
+                    Ich bin auf den Erfolg begierig und ersuche Sie, mich von dem was Sie noch
+                    weiter in der Angelegenheit erfahren sollten, auch fernerhin in Kenntnis zu
+                    setzen. Mit Bedauern ersehe ich aus einem neuerlichen Berichte, daß Sie unwohl
+                    sind, ich wünsche angelegentlichst, daß es nichts von Bedeutung sei.</p>
+                <p>Mit ausgezeichneter Hochachtung<lb/>Ihr<lb/>ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="ficker-julius">
+                        <persName>
+                            <surname>Ficker</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>Paderborn 1826–1902 Innsbruck</p>
+                            <p>ab 1852 Prof. der Geschichte an der Universität Innsbruck, ab 1863 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/118532863</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118532863</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0091">
+                        <orgName>Ministerium des Äußeren</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/119828-2</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

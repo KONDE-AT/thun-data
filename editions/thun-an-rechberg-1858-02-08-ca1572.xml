@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-rechberg-1858-02-08-ca1572.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1857-07-21-ca1571.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1860-02-13-a3-xxi-d562.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#rechberg-rothenloewen-bernhard" role="recipient">Bernhard
+                        Rechberg</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1858-02-08">8. Februar 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Haus-, Hof- und Staatsarchiv</repository>
+                        <idno>Sonderbestände Nl Braun 13-6-11-34</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun informiert den Chef der Zivilabteilung des
+                            lombardo-venetianischen Generalgouvernements Bernhard Rechberg über die
+                            Rechtslage für die Zulassung zu den juridischen Staatsprüfungen von
+                            dessen Sohn Alois. Zunächst gratuliert er jedoch, dass sich Alois doch
+                            noch aufraffen konnte, seine Studien abzuschließen. Thun weist Rechberg
+                            auf einige Regelungen hin, die Alois beachten müsse, um zu den Prüfungen
+                            zugelassen zu werden. Zunächst verweist Thun darauf, dass nunmehr die
+                            Reichs- und Rechtsgeschichte obligater Prüfungsgegenstand sei. Für
+                            Alois' Fall von größerer Bedeutung scheint ihm jedoch die Regelung zu
+                            sein, dass jeder Kandidat – um zur zweiten Staatsprüfung zugelassen zu
+                            werden – mindestens drei Semester an einer österreichischen Universität
+                            studieren haben muss. Da Alois nur zwei Semenster vorweisen könne, müsse
+                            er noch ein Semester an einer inländischen Universität inskribieren.
+                            Thun bedauert, dass er von dieser Regelung keine Ausnahme zulassen
+                            dürfe.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Rechtswissenschaften</term>
+                    <term>Staatsprüfungen</term>
+                </index>
+                <p>Wien den 8. Februar 858</p>
+                <p>Verehrtester Freund!</p>
+                <p>Ich hatte schon am Tage vor dem Empfang Ihres Briefes über die Angelegenheit
+                    Ihres Sohnes mit dem Referenten gesprochen. Die Zulassung zur Prüfung in
+                    <rs type="org" ref="#org_0017">Prag</rs> unterliegt keinem Bedenken,
+                    und Sie werden die Erledigung in den nächsten Tagen erhalten. Ich freue mich
+                    herzlich, daß Ihr <rs type="person" ref="#rechberg-alois">Sohn</rs> den nicht
+                    geringen Grad moralischer Kraft entwickelt hat, um dieser Aufgabe noch Herr zu
+                    werden und seine Studien vollenden zu wollen. Seien Sie überzeugt, daß ich es
+                    mir immer zur Freunde[sic!] anrechnen werde, ihn darin so viel es mir noch
+                    möglich ist zu unterstützen.<lb/>Auf zwei Umstände muß ich Sie dabei aufmerksam
+                    machen, die vielleicht unerwartete Schwierigkeiten biethen könnten.<lb/>1) Ihr
+                        <rs type="person" ref="#rechberg-alois">Sohn</rs> hatte v. J. noch die Hoffnung
+                    die nächst bevorstehende Prüfung wenn er sie in <rs type="org" ref="#org_0018">Wien</rs> abgelegt hätte, auf römisches Recht und kanonisches Recht
+                    beschränkt zu sehen, weil v. J. hier aus allerhand Gründen aus der deutschen
+                    Reichs- und Rechtsgeschichte noch nicht geprüft wurde. In <rs type="org" ref="#org_0017">Prag</rs> war schon v. J. dieser Gegenstand der
+                    bestehenden Vorschrift gemäß in die Prüfung einbezogen. Heuer ist er es
+                    ausnahmslos an allen Universitäten und ich kann davon nicht dispensieren. Ich
+                    hoffe sehnlichts, daß ihr Sohn darauf gefasst ist, widrigenfalls wäre das ein
+                    äußerst fataler Umstand, und ich weiß kaum wie darüber hinwegzuhelfen wäre.
+                    <lb/>2) Über die Möglichkeit, junge Leute welche nicht die Studien regelmäßig an
+                    der Universität machen, zu den Staatsprüfungen zuzulassen, dienthen die
+                    bestehenden a.h. Anordnungen zweierlei Modalitäten, es wird nämlich der Ausweis
+                    gefordert entweder daß sie mindestens 3 Semester frequentiert haben oder daß sie
+                    über gewisse Hauptfächer Privatissima bei ordentlichen Professoren besucht
+                    haben. Ihr <rs type="person" ref="#rechberg-alois">Sohn</rs> kann nur zwei
+                    anrechnungsfähige Semester (nämlich die an der <rs type="org" ref="#org_0020">Insprucker Universität</rs> zugebrachten)
+                    ausweisen. Während des 3. (nämlich des hier zugebrachten) trat die Unterbrechung
+                    durch Erkrankung am Typhus ein; es konnte ihm deshalb nicht testiert werden und
+                    zählt nicht. Ich kann nun wohl das Gesetz so deuten, daß ich mich für die
+                    Zulassung zur ersten Prüfung mit den 2 Semestern begnüge, aber nur unter dem
+                    Vorbehalte, daß vor der Zulassung zur 2. Staatsprüfung noch ein Semester an
+                    einer inländischen Fakultät frequentiert werde. Ich fürchte, das passt nicht in
+                    Ihren Plan, und doch weiß ich auch das nicht zu umgehen, selbst dann nicht, wenn
+                    für die Gegenstände der späteren Prüfung wieder zu privatissimis Zuflucht
+                    genommen werden wollte, denn es geht wohl nicht an, die oben angedeuteten
+                    Modalitäten so zu kombinieren, daß jede derselben theilweise zu Anwendung komme.
+                    Es wird natürlich nichts im Wege stehen, daß er – nachdem er noch ein Semester
+                    frequentiert hat, privatissima benütze im Interesse seiner Bildung und dazu
+                    würde sich für die Gegenstände der späteren Prüfungen auch in <rs type="org" ref="#org_0017">Prag</rs> oder <rs type="org" ref="#org_0026">Gratz</rs> Gelegenheit biethen. Nur könnte damit nicht der formellen
+                    Anforderung des Gesetzes genüge geleistet werden, wenn einmal die Zulassung zu
+                    der 1. Prüfung ohne nachgewiesene privatissima nach der anderen Modalität der
+                    Frequentazion durch mindestens 3 Semester geschieht.</p>
+                <p>Herzlich der Ihrige<lb/>Leo Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="rechberg-rothenloewen-bernhard">
+                        <persName>
+                            <surname>Rechberg</surname>
+                            <forename>Johann Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Regensburg 1806–1899 Schwechat bei Wien</p>
+                            <p>Diplomat, 1843–1847 Gesandter in Rio de Janeiro, 1849 österr. Bevollmächtigter bei der Nationalversammlung in Frankfurt, 1853 Ziviladlatus des Generalgouverneurs in Lombardo-Venetien, seit 1855 Bundespräsidialgesandter in Frankfurt, 1859–1864 österr. Außenminister, 1859–1861 auch Ministerpräsident</p>
+                            <p>http://d-nb.info/gnd/116391154</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116391154</tei:idno>
+                    </person>
+                <person xml:id="rechberg-alois">
+                        <persName>
+                            <surname>Rechberg</surname>
+                            <forename>Alois</forename>
+                        </persName>
+                        <note>
+                            <p>1835–1877</p>
+                            <p>Sohn von Johann Bernhard Rechberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0017">
+                        <orgName>Universität Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
+                    </org>
+                <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+                <org xml:id="org_0026">
+                        <orgName>Universität Graz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36157-4</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

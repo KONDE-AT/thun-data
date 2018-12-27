@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="kaiser-an-thun-07-15-a3-xxi-d634f.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/kaiser-an-thun-01-31-a3-xxi-d634.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/kaiser-an-thun-1855-03-01-a3-xxi-d634b.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#franz-joseph" role="sender">Kaiser Franz Joseph</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_26772cb430822468d91f9978930b32cd">Laxenburg</rs>, <date when="--07-15">15. Juli</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D634</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Kaiser sendet Leo Thun den Vortrag des Reichsratspräsidenten
+                            bezüglich der Stellung der Schulräte. Der Kaiser bittet um ein Gespräch
+                            in dieser Sache.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit zehn weiteren
+                            kurzen Mitteilungen des Kaisers unter der Signatur A3 XXI D634.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#franz-joseph">Kaiser Franz Joseph</rs>
+                    <settlement ref="#place_26772cb430822468d91f9978930b32cd">Laxenburg</settlement>
+                    <date>15. Juli</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Schulräte</term>
+                </index>
+                <p>Lieber Graf Thun,</p>
+                <p>Ihrem Wunsche gemäß, sende ich Ihnen beiliegend<note xml:id="note_1">Die Beilage
+                        ist im Nachlass Thuns nicht überliefert.</note> den Vortrag des
+                    Reichsrathspräsidenten über die Stellung der Schulräthe.<lb/>Ich ersuche Sie,
+                    den Gegenstand, wenn Sie den Vortrag gelesen haben, noch mündlich mit mir zu
+                    besprechen.<lb/>Laxenburg, den 15. Juli</p>
+                <p>Franz Joseph</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_26772cb430822468d91f9978930b32cd">
+                        <placeName>Laxenburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.06833 16.35607</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772810/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

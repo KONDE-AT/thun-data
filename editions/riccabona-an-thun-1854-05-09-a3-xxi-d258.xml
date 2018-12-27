@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="riccabona-an-thun-1854-05-09-a3-xxi-d258.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rezension-organisationsentwurf-in-zeitschrift-religio-1851-a3-xxi-d144.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/riccabona-an-thun-1856-10-31-a3-xxi-d391.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Promemoria von <rs type="person" ref="#riccabona-benedikt">Benedikt
+                        Riccabona</rs>, Bischof von Verona, über die Zehentablösung in
+                        Tirol<lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1854-05-09">9. Mai
+                        1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D258</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Der Bischof von Verona, Benedikt Riccabona, kritisiert die
+                                Zehentablösung in Tirol. Er empfindet die Zehentablösung als
+                                ungerecht und ist überzeugt davon, dass sie zu einer Verarmung des
+                                Adels und der Geistlichkeit führen werde. Schon jetzt wurde durch
+                                diese ungerechte Handlung im Volk das Ansehen des Kaisers beschädigt.
+                                Nicht zuletzt führte die Ablösung auch dazu, dass viele geistliche
+                                Anstalten nicht mehr überlebensfähig seien. Riccabona empfiehlt
+                                daher, entweder die Ablösung rückgängig zu machen oder den
+                                Grundherren eine Entschädigung für den entfallenen Zehent zu
+                                verschaffen.</p>
+                        </msContents>
+                        <physDesc/>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Grundentlastung</term>
+                    <term>Tirol</term>
+                    <term>Neoabsolutismus</term>
+                </index>
+                <p>Die Ablösung des Zehentes war und bleibt eine revolutionäre Maßregel, wodurch der
+                    Adel und die Geistlichkeit verarmt werden sollten.<lb/>In diesem Sinne wurde sie
+                    wie überall, so auch in <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
+                    durchgeführt.<lb/>Auch in <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> haben die
+                    Berechtigten einen mehr oder weniger bedeutenden Schaden erlitten. Ich glaube,
+                    man müße annehmen, daß in <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> im Durchschnitte
+                    für die Berechtigten die Hälfte des Einkommens durch die Zehent-Ablösung
+                    verloren gegangen ist.<lb/>Hierüber erhoben sich nun freilich in ganz <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> große Klagen gegen die schreiende Ungerechtigkeit
+                    dieser Ablösung. Weniger laut sind die Klagen im italienischen Antheile <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirols</rs>, nicht etwa weil da die Ablösung mit mehr
+                    Gerechtigkeit vorgenommen wurde, sondern weil man da gewohnt war, den Zehent
+                    unrichtiger als im deutschen Antheile <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirols</rs>
+                    abzuliefern.<lb/>Durch diese Ablösung, so wie sie geschehen ist, sind nun zwei
+                    große Nachtheile für <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> entstanden.<lb/>Der
+                    erste und größte Schaden ist ein <hi rend="ul">moralischer</hi>. Das Tiroler
+                    Volk, welches sonst redlich und bieder ist, hat eine große, öffentliche
+                    Ungerechtigkeit erleben müßen, und da sie zu seinem Vortheile dient, billiget
+                    sie das Volk und sucht sich dadurch zu entschuldigen und zu rechtfertigen, daß
+                    es sagt: "Die Regierung, der Kaiser hat es so befohlen." Durch diese Anschauung
+                    wird der Rechtsinn, und auch die Achtung gegen den Kaiser und dessen Regierung
+                    beim Volke geschwächt.<lb/>Der zweite Nachtheil ist, daß sehr viele [?],
+                    geistliche Pfründe und Wohlthätigkeits-Anstalten dadurch arm wurden, und manche
+                    Pfründen gar nicht mehr bestehen können.<lb/>Nun könnte man die Frage
+                    aufstellen: Wer kann und soll da abhelfen? Wie kann abgeholfen werden?<lb/>Die
+                    Regierung hat die Ablösung angeordnet und gutgeheißen, sie ist also auch
+                    schuldig auf irgend eine Weise die Ungerechtigkeiten, die bei der Durchführung
+                    dieser Maßregel geschehen sind, zu desavouiren. Thut sie das nicht, schweigt sie
+                    zu dieser öffentlichen Spoliation, so erscheint es, als billige sie das
+                    Geschehen. Dadurch würde sie in Tirol an Ansehen viel verlieren. Eine
+                    öffentliche Mißbilligung der Ungerechtigkeit, die bei der Ablösung geschehen
+                    sind, ist eine Nothwendigkeit.<lb/>Schwieriger ist die Beantwortung der zweiten
+                    Frage:<lb/>Dem Schaden, den die Berechtigten durch die Zehent-Ablösung erlitten
+                    haben, kann bloß abgeholfen werden, entweder:<lb/>a) durch die Annullierung des
+                    Ablösungs-Operates und durch die Neubelebung der Zehent-Pflichtigkeit.<lb/>b.
+                    oder dadurch, daß man aus anderen Quellen den Berechtigten einen Schadenersatz
+                    zukommen läßt.<lb/>Das erste Mittel scheint mir nicht mehr anwendbar, denn es
+                    würde große Unzufriedenheit unter dem Volke hervorrufen.<lb/>Es bleibt also blos
+                    das zweite Mittel übrig.<lb/>Wien am 9. Mai 1854</p>
+                <p>Benedikt von Riccabona. Bischof von Verona</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="riccabona-benedikt">
+                        <persName>
+                            <surname>Riccabona von Reichenfels</surname>
+                            <forename>Benedikt</forename>
+                        </persName>
+                        <note>
+                            <p>Cavalese 1807–1879 Trient</p>
+                            <p>1832–1838 Sekretär und Übersetzer bei der päpstlichen Nuntiatur in München, 1840 Pfarrer in Lavis, ab 1842 Erzpriester in Rovereto, ab 1851 Propst in Bozen, 1854–1861 Bischof von Verona, ab 1861 Fürstbischof von Trient</p>
+                            <p>http://d-nb.info/gnd/138333823</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/138333823</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="huebner-an-thun-1855-10-16-a3-xxi-d351.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-1849-12-12-a3-xxi-d18.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-od-a3-xxi-d312.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#huebner-alexander" role="sender:beamter">Alexander
+                        Hübner</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, <date when="1855-10-16">16. Oktober 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D351</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Alexander Hübner, österreichischer Gesandter in Paris, gratuliert Thun
+                            zum Abschluss des Konkordats und zu den Reformen im Bildungswesen. Aus
+                            seiner Sicht sind dies die beiden größten Erfolge dieser Regierung.
+                            Hübner glaubt auch, dass damit die Zeit politischen Argwohns und
+                            polizeilicher Überwachung beendet sei, die bisher die freie Entfaltung
+                            der geistigen Kräfte Österreichs verhindert hatten. Der verstorbene Karl
+                            Ernst von Jarcke hätte diese Entwicklung sehr begrüßt. Hübner versichert
+                            Thun dann, Eduard van der Nüll unterstützen zu wollen, allerdings müsse
+                            bedacht werden, dass Österreichs Kunst in Frankreich weniger angesehen
+                            sei als dessen Industrie. Zuletzt spricht Hübner seine Hoffnung aus,
+                            dass Thuns Bruder Friedrich bei seiner neuen Aufgabe in der Lombardei
+                            Erfolg haben wird.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#huebner-alexander">Alexander Hübner</rs>
+                    <settlement ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</settlement>
+                    <date when="1855-10-16">16. Oktober 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Konkordat</term>
+                    <term>Universität</term>
+                </index>
+                <p/>
+                <p>Geehrtester Herr Minister,</p>
+                <p>Erlauben Euer Excellenz einem Laien Ihnen zu dem großen Umschwunge, der unter
+                    Seiner Majestät Ägide und unter Ihrem unmittelbaren Einflusse heute auf dem
+                    Gebiete der kirchlichen Verhältnisse <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> und auf dem des wissenschaftlichen Unterrichts
+                    vorgeht, seinen wärmsten Glückwunsch darzubringen. Eigentlich gelten diese
+                    Wünsche – die aufgehört haben fromme zu sein – dem großen Vaterland, welches
+                    nunmehr von den Banden befreit wird, mit welchen es politischer Unverstand,
+                    ängstlicher Argwohn nach allen Seiten hin, und die Meinung, mit der Polizei
+                    allein müsse regiert werden, durch beinahe zwei Menschenalter hindurch umfangen
+                    hielten. Von allen großen Dingen, welche unter unseres aller gnädigsten Herrn
+                    Regierung bisher geschehen sind, halte ich die Abschließung des Konkordats und
+                    die Reform unseres Studienwesens in Ihrem Sinne für die wichtigsten und
+                    weittragendsten Maßregeln. Der Staat, der bisher im Zwiespalte mit dem Gewissen
+                    und im Kampf mit den lebendigen Kräften des Geistes gelebt hatte, schließt mit
+                    beiden Frieden, beruhigt jene und gewinnt diese für sich.<lb/>Wie würde sich der
+                    arme <rs type="person" ref="#jarcke-karl-ernst">Jarcke</rs> freuen, könnte er die
+                    erläuternden Artikel der Wiener Zeitung lesen. Ihm hatte der Weg, den wir vor
+                    1848 gingen, das Herz gebrochen. Als die Wiedergeburt <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> begann, siechte er bereits dem Grabe entgegen.
+                        <lb/>
+                    <rs type="person" ref="#nuell-van-der-eduard">Herr van der Nüll</rs>
+                    unterbricht mich hier, und durch ihn erhielt ich die geehrten Zeilen vom 10.
+                    dieses Monats. Euer Excellenz wollen überzeugt sein, daß ich ihn nach Kräften
+                    unterstützen werde. Ich fürchte aber, daß unseren Kunstleistungen, hier minder
+                    unvortheilig beurtheilt als unsere Industrie, ihr Recht nicht widerfahren wird,
+                    wenigstens nicht in vollem Maße. Ich habe hierüber an <rs type="person" ref="#morny-charles">Graf Morny</rs> geschrieben, und werde auch Graf
+                        <rs type="person" ref="#nieuwerkerke-alfred-emilien">Nuiverkerke</rs> günstig
+                    zu stimmen suchen.<lb/>Von Ihrem <rs type="person" ref="#thun-hohenstein-friedrich">Herrn
+                        Bruder</rs> habe ich einen langen und in heiterster Stimmung
+                    geschriebenen Brief aus <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> vor wenigen Tagen
+                    erhalten.<lb/>Meine besten Wünsche begleiten ihn auf seinem Wege. Er ist gewiß
+                    der richtige. Ich fürchte aber, wenn er nicht außerordentlich kräftig
+                    unterstützt wird, daß er ihn schwieriger steiniger und beschwerlicher finden
+                    wird, als er zu glauben scheint. Aber die großen Dinge werden nur im Schweiße
+                    unseres Angesichts erreicht. Per aspera ad astra.<lb/>Verzeihen Sie,
+                    verehrtester Graf, diese Herzensergießung und empfangen Sie die Versicherung der
+                    ausgezeichneten Hochachtung und Verehrung, womit ich verharre</p>
+                <p>Euer Excellenz gehorsamer Diener<lb/>Hübner</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="huebner-alexander">
+                        <persName>
+                            <surname>Hübner</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1811–1892 Eirn</p>
+                            <p>Diplomat, ab 1841 erster Gesandtschaftssekretär in Lissabon, 1844 Übernahme des Generalkonsulats für Sachsen in Leipzig, 1849–1858 österr. Gesandter und bev. Minister in Paris, ab 1857 Botschafter, ab 1859 österr. Gesandter im Vatikan, Aug.–Okt. 1859 Polizeiminister, 1865–1867 Botschafter in Rom</p>
+                            <p>http://d-nb.info/gnd/117045225</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117045225</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="jarcke-karl-ernst">
+                        <persName>
+                            <surname>Jarcke</surname>
+                            <forename>Karl Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>Danzig 1801–1852 Wien</p>
+                            <p>Jurist und politischer Publizist, ab 1825 Prof. für Strafrecht an der Universität Berlin, ab 1832 Rat und Publizist der Staatskanzlei in Wien, enger Berater von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/118775995</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118775995</tei:idno>
+                    </person>
+                <person xml:id="nuell-van-der-eduard">
+                        <persName>
+                            <surname>Nüll</surname>
+                            <forename>Eduard van der</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1812–1868 Wien</p>
+                            <p>Architekt zahlreicher Bauten an der Wiener Ringstraße</p>
+                            <p>http://d-nb.info/gnd/118735691</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118735691</tei:idno>
+                    </person>
+                <person xml:id="morny-charles">
+                        <persName>
+                            <surname>Morny</surname>
+                            <forename>Charles</forename>
+                        </persName>
+                        <note>
+                            <p>Saint Maurice 1811–1865 Paris</p>
+                            <p>Halbbruder von Kaiser Napoleon III., Unternehmer und Kunstsammler, 1851/52 franz. Innenminister, 1854 Präsident des Corps législatif</p>
+                            <p>http://d-nb.info/gnd/170672336</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/170672336</tei:idno>
+                    </person>
+                <person xml:id="nieuwerkerke-alfred-emilien">
+                        <persName>
+                            <surname>Nieuwerkerke</surname>
+                            <forename>Aflred Èmilien</forename>
+                        </persName>
+                        <note>
+                            <p>Paris 1811–1892 Gattaiola bei Lucca</p>
+                            <p>Bildhauer und Kunstsammler, ab 1848 Direktor der staatlichen Museen Frankreichs, ab 1852 Leiter des Pariser Salons, Präsident der Jury der Sektion der Schönen Künste</p>
+                            <p>http://d-nb.info/gnd/117018406</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117018406</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_d32a635cff5dcc73a609d313801541d4">
+                        <placeName>Verona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4299 10.98444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164527/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

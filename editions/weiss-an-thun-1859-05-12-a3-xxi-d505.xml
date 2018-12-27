@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="weiss-an-thun-1859-05-12-a3-xxi-d505.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-09-a3-xxi-d347d.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/wenzig-an-thun-1857-07-05-a3-xxi-d426.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#weiss-johann-baptist" role="sender:gelehrter">Johann Baptist
+                        Weiß</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>, <date when="1859-05-12">12.
+                        Mai 1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D505</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Johann Baptist Weiß übermittelt Leo Thun sein jüngstes
+                            Buch. Weiß kündigt außerdem an, das Manuskript für ein weiteres Buch
+                            demnächst abschließen zu wollen und hofft, es Thun in naher Zukunft
+                            ebenfalls überreichen zu können.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#weiss-johann-baptist">Johann Baptist Weiß</rs>
+                    <settlement ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</settlement>
+                    <date when="1859-05-12">12.
+                        Mai 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Excellenz Herr Minister!<lb/>Hochgebietender gnädiger Herr Graf! </p>
+                <p>In der Beilage erlaube ich mir Ihro Excellenz ein neues Buch von mir
+                    ehrerbietigst vorzulegen.<lb/>Möge diese Arbeit einer guten Aufnahme nicht ganz
+                    unwürdig befunden werden!<lb/>Wenn der Krieg dem Verleger nicht den Muth nimmt,
+                    so hoffe ich, in nicht gar langer Zeit Ihro Excellenz eine Monographie aus der
+                    Geschichte des Mittelalters („Die Angelsachsen, ein Beitrag zur Geschichte
+                    deutscher Stämme und Staaten im Mittelalter“) überreichen zu können. Ich arbeite
+                    seit Jahren daran.<lb/>Ich zeichne in Verehrung</p>
+                <p>Euer Excellenz</p>
+                <p>ergebenster<lb/>Dr. Weiß<lb/>k.k. Prof.</p>
+                <p>Graz, 12. Mai 1859</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="weiss-johann-baptist">
+                        <persName>
+                            <surname>Weiß</surname>
+                            <forename>Johann Baptist</forename>
+                        </persName>
+                        <note>
+                            <p>Ettenheim 1820–1899 Graz</p>
+                            <p>ab 1844 Lehrer für französische und englische Sprache an der Höheren Bürgerschule in Freiburg, ab 1850 Redakteur der "Freiburger Zeitung", 1853–1891 Prof. für Geschichte an der Universität Graz</p>
+                            <p>http://d-nb.info/gnd/117290629</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117290629</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

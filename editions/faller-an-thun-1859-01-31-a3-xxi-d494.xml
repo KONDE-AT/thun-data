@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="faller-an-thun-1859-01-31-a3-xxi-d494.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/evangelisches-pfarramt-villach-an-evangelisches-pfarramt-prag-1850-08-12-a3-xxi-d68.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/farina-an-thun-1853-12-20-a3-xxi-d310.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#faller-clemens" role="sender:kleriker">Clemens
+                        Faller</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</rs>, <date when="1859-01-31">31. Januar 1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D494</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Rektor des Kollegs Stella Matutina in Feldkirch, Clemens Faller,
+                            bittet Leo Thun, den Plan für einen Neubau des Kollegs zu unterstützen.
+                            Die stetig wachsende Schüleranzahl erfordere dringend einen Neubau.
+                            Faller bittet Thun daher, die allerhöchste Entschließung dafür
+                            voranzutreiben.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#faller-clemens">Clemens Faller</rs>
+                    <settlement ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</settlement>
+                    <date when="1859-01-31">31. Januar 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ordensgymnasien</term>
+                    <term>Gesellschaft Jesu</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Mit Freude habe ich den mir zugesandten Brief schleunigst an Pater <rs type="person" ref="#deharbe-joseph">Joseph Deharbe</rs> gelangen lassen. Pater
+                        <rs type="person" ref="#deharbe-joseph">Deharbe</rs> wird nicht säumen auf das
+                    Schreiben nach Verlangen Euer Excellenz zu antworten. Sein gegenwärtiger
+                    Aufenthalt ist <rs type="place" subtype="place" ref="#place_f05bb634bb7db5dab69c443430ae9927">Köln</rs>, Breitestraße Nr. 161.<lb/>Euer
+                    Excellenz bitte ich bei dieser Gelegenheit mir erlauben zu wollen, ein Wort
+                    betreffend den Bau des Gymnasium in <rs type="place" subtype="place" ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</rs> hinzufügen
+                    zu dürfen. Da die Anzahl unserer Schüler jetzt schon so hoch gestiegen ist, daß
+                    wir gezwungen sind, nebst einer Vorbereitungsclasse vier Gymnasialclassen im
+                    Pensionatgebäude zu halten, so kommen wir der Räumlichkeiten wegen, welche für
+                    das Pensionat allein schon nicht zu groß sind, immer mehr in Verlegenheit. Die
+                    Unbequemlichkeiten, welche schon an und für sich aus der Trennung und
+                    Vertheilung der Classen in zwei Gebäude für uns erwachsen; die Schwierigkeiten,
+                    welche sich für die Aufrechthaltung der üblichen Disziplin darbieten; die
+                    Unmöglichkeit, die beabsichtigte Anzahl von Zöglingen in das Pensionat
+                    aufzunehmen und ähnliche hieraus nothwendig sich ergebende Mißstände, welche dem
+                    Zwecke unserer Anstalt jetzt schon hinderlich entgegen stehen und von Jahr zu
+                    Jahr sich mehren würden, haben mich bewogen Euer Excellenz mit dem
+                    unterthänigsten Gesuche anzugehen, uns zu einer allerhöchsten Entschließung für
+                    den baldigen Angriff des bewilligten Neubaues behülflich sein zu wollen. Die
+                    gnädige Huld, durch welche Euer Excellenz uns längst zur größten Dankbarkeit
+                    verpflichtet haben, hat mich zur Stellung dieser Bitte ermuthigt.<lb/>Mit
+                    unterthänigster Hochachtung</p>
+                <p>Euer Excellenz</p>
+                <p>ergebenster Diener<lb/>Clemens Faller</p>
+                <p>Feldkirch, 31. Januar 1859</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="faller-clemens">
+                        <persName>
+                            <surname>Faller</surname>
+                            <forename>Clemens</forename>
+                        </persName>
+                        <note>
+                            <p>1814–1897 San Leopoldo (Brasilien)</p>
+                            <p>1852–1856 Provinzial der deutschen Ordensprovinz, 1856 Gründung des Jesuitenkollegs "Stella Matutina" als Privatgymnasium in Feldkirch, Rektor des Gymnasiums, bis 1864 Generalpräfekt</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="deharbe-joseph">
+                        <persName>
+                            <surname>Deharbe</surname>
+                            <forename>Joseph SJ</forename>
+                        </persName>
+                        <note>
+                            <p>Straßburg 1800–1871 Maria-Laach</p>
+                            <p>Theologe und Katechist, ab 1840 Missionar und Katechet in Köthen, 1845–1847 Prof. der Pastoraltheologie an der Universität Luzern</p>
+                            <p>http://d-nb.info/gnd/117628913</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117628913</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_fef029496b06aa0f5a4468390461f12c">
+                        <placeName>Feldkirch</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.23306 9.6</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2779674/</idno>
+                    </place>
+                <place xml:id="place_f05bb634bb7db5dab69c443430ae9927">
+                        <placeName>Köln</placeName>
+                        <placeName type="alt">Colonia</placeName>
+                        <placeName type="alt">Cöln</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.93333 6.95</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2886242/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

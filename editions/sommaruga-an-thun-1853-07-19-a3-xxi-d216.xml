@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="sommaruga-an-thun-1853-07-19-a3-xxi-d216.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/slavicek-an-thun-1860-10-25-a3-xxi-d623a15.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/speranza-an-thun-1858-09-01-a3-xxi-d447.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#sommaruga-franz-seraph" role="sender:beamter">Franz
+                        Sommaruga</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>[<rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>], <date when="1853-07-19">19. Juli 1853</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D216</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der ehemalige Unterrichtsminister Franz Sommaruga übermittelt Leo Thun im
+                            Auftrag seines Neffen ein Empfehlungsschreiben eines Mailänder Domherrn,
+                            in dem dieser einen mittellosen Priester für ein Kanonikat empfiehlt.
+                            Sommaruga erklärt, den Priester nicht zu kennen, doch sein Neffe habe
+                            ihm versichert, dass es sich bei dem Bewerber um einen würdigen Mann
+                            handle.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Deutsch und Italienisch</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d216_1">Schreiben von Luigi Lupis. Cremona, 14.
+                                Juli 1853</tei:ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#sommaruga-franz-seraph">Franz Sommaruga</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1853-07-19">19. Juli 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Kultus</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Ein Neffe von mir, General <rs type="person" ref="#haen-peter">Baron Haen</rs>, hat
+                    mir das hier ergebenst angeschloßene Empfehlungsschreiben eines Mailänder
+                    Domherrn um eine Abbazia in <rs type="place" subtype="place" ref="#place_986f51a7ad3bed298456ad48d484ebc2">Mantua</rs> mit der Bitte
+                    gesendet, dasselbe an Euere Excellenz zu befördern und mit einem Vorwort zu
+                    begleiten.<lb/>Dem ersteren Ansuchen kann ich mich nicht entziehen. Zur
+                    Begründung eines Vorworts habe ich aber, da ich den Bewerber nicht kenne, nur
+                    die Versicherung meines <rs type="person" ref="#haen-peter">Neffen</rs>, eines
+                    Mannes von Ehre, der den Bewerber als einen sehr würdigen Mann
+                    schildert.<lb/>Überzeugt von dem Gerechtigkeitssinne des Herrn Ministers, daß
+                    das Gesuch dieses geistlichen Würdenträgers die ihm vielleicht gebührende
+                    Würdigung finden werde, verharre ich mit ausgezeichneter Hochachtung</p>
+                <p>Euerer Excellenz</p>
+                <p>ergebener Diener<lb/>Sommaruga</p>
+                <p>Vom Hause, den 19. July 1853</p>
+                <div type="enclosure" xml:id="D216_1">
+                    <p>Illustrissimo e Nobilissimo Signor Conte</p>
+                    <p>„Domanda perdono”</p>
+                    <p>Un povero parroco di campagna ha concorso ad un canonicato in cura d’anime
+                        nella cattedrale di <rs type="place" subtype="place" ref="#place_9a677a8fef077d847cc1d6d558b8630f">Cremona</rs>, e perciò prega Vostra
+                        Illustrissima e Nobilissima Signoria ad averlo presente, onde, dopo d’aver
+                        servito e come parroco pello spazio di 26 anni, e per lo spazio di due anni
+                        e due mesi alle carceri dell’I.R. Tribunale di
+                            <rs type="place" subtype="place" ref="#place_9a677a8fef077d847cc1d6d558b8630f">Cremona</rs> con nomina della Luogotenenza I. e R. di
+                            <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Milano</rs>, possa esser nominato a tal
+                        canonicato da <rs type="person" ref="#franz-joseph">Sua Maestà Apostolica</rs>,
+                        alle Quale per grazia di Dio si mantenne sempre fedelissimo suddito. Il
+                        detto ex parroco senza pensione, che vi annunciò liberamente e
+                        spontaneamente la parrocchia di <rs type="place" subtype="place" ref="#place_a98f4d301d53fc29ec5a138bf9ed2243">Pugnolo</rs> nel distretto
+                        VI. vicariato di <rs type="place" subtype="place" ref="#place_5c79a5022666cf8c33b9b187547344bf">Sospiro</rs>, provincia inferiore di
+                            <rs type="place" subtype="place" ref="#place_9a677a8fef077d847cc1d6d558b8630f">Cremona</rs>; ha 52 anni compiuti; non ha alcun
+                        entrata fissa, altro de Lire 482 aust. dalle carceri; e Lire 290 aust. di
+                        due benefici semplici ottenuti dall’I.R. Luogotenenza, in .. [?] feriali
+                        essendo messo in dupla dal <rs type="person" ref="#novasconi-antonio">Suo
+                            amorosissimo vescovo</rs> prega Vostra Ill. e Nobil. a far buon
+                        opera appo <rs type="person" ref="#franz-joseph">Sua Maestà
+                        apostolica</rs>.<lb/>Ascolti ottimo Signore le preghiere d’un misero
+                        ecclesiastico, confida nella sua protezione, e ne sarà gratissimo e pregherà
+                        sempre Iddio per Lei e pel Suo Monarca.<lb/>Con rispetto e stima profonda si
+                        dichiara</p>
+                    <p>Di Vostra Signoria Illustrissima e Nobilissima</p>
+                    <p>Cremona, di 14. Luglio 1853</p>
+                    <p>Devotissimo Obbligatissimo Servo<lb/>Don Lupis Luigi ex parroco Cappellano
+                        delle Carceri dell’I.R. Tribunale di Cremona</p>
+                </div>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="sommaruga-franz-seraph">
+                        <persName>
+                            <surname>Sommaruga</surname>
+                            <forename>Franz Seraph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1780–1860 Wien</p>
+                            <p>von März 1848–Mai 1848 erster Unterrichtsminister Österreichs, April 1848–Mai 1848 Justizminister</p>
+                            <p>http://d-nb.info/gnd/117509213</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117509213</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="haen-peter">
+                        <persName>
+                            <surname>Haen</surname>
+                            <forename>Peter</forename>
+                        </persName>
+                        <note>
+                            <p>1785–1874</p>
+                            <p>1853 GM, 1860 pensioniert</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="novasconi-antonio">
+                        <persName>
+                            <surname>Novasconi</surname>
+                            <forename>Antionio</forename>
+                        </persName>
+                        <note>
+                            <p>["Castiglione d'Adda 179 –1867 Cremona"]</p>
+                            <p>ab 1850 Bischof von Cremona</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_986f51a7ad3bed298456ad48d484ebc2">
+                        <placeName>Provinz Mantua</placeName>
+                        <placeName type="pref">Mantua</placeName>
+                        <placeName type="alt">Mantua</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.16031 10.79784</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3174051/</idno>
+                    </place>
+                <place xml:id="place_9a677a8fef077d847cc1d6d558b8630f">
+                        <placeName>Cremona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.13325 10.02129</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3177838/</idno>
+                    </place>
+                <place xml:id="place_e30630933146ed8683482de23229fd6a">
+                        <placeName>Milan</placeName>
+                        <placeName type="pref">mailand</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.46416 9.19199</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6542283/</idno>
+                    </place>
+                <place xml:id="place_a98f4d301d53fc29ec5a138bf9ed2243">
+                        <placeName>Pugnolo</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.08332 10.20308</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8952467/</idno>
+                    </place>
+                <place xml:id="place_5c79a5022666cf8c33b9b187547344bf">
+                        <placeName>Sospiro</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.10762 10.15853</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3166343/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

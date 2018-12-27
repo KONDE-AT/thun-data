@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="farina-an-thun-1853-12-20-a3-xxi-d310.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/faller-an-thun-1859-01-31-a3-xxi-d494.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/farina-an-thun-1854-09-09-a3-xxi-d281.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#farina-giovanni-antonio" role="sender:kleriker">Giovanni
+                        Antonio Farina</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs>,
+                        <date when="1854-12-20">20. Dezember 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D310</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bischof von Treviso, Giovanni Farina, bedankt sich bei Leo Thun für
+                            die freundliche Aufnahme seiner Schreiben. Er wünscht dem Minister frohe
+                            Festtage und sendet Glückwünsche für das bevorstehende neue Jahr: Gott
+                            möge Thun dem Staat noch lange erhalten.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Italienisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#farina-giovanni-antonio">Giovanni Antonio Farina</rs>
+                    <settlement ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</settlement>
+                    <date when="1854-12-20">20. Dezember 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Lombardo-Venetien</term>
+                    <term>Gymnasien</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Eccellenza Nobilissima!</p>
+                <p>La bontà somma, con cui Vostra Eccellenza altra volta degnossi di accettare i
+                    miei scritti mi porge animo d’inviarVi il presente co’ miei auguri, e colle
+                    felicitazioni più lusinghiere delle Feste sante, e del nuovo anno. Prego il
+                    Signore, che spanda sull’Eccellenza Vostra Nobilissima le sue grazie più belle,
+                    e lungamente Vi conservi al bene dello Stato e di noi. Vostra Eccellenza si
+                    degni d’aggradire questo mio omaggio, quale attestato di somma venerazione, e di
+                    riguardarmi nell’alto suo compatimento quale suo servo devotissimo,
+                    attaccatissimo, fedelissimo. Ho l’onore di dirmi</p>
+                <p>Di vostra Eccellenza Nobilissima</p>
+                <p>Umilissimo, Devotissimo ossequiosissimo<lb/>Servitore<lb/>+ Giovanni Antonio
+                    Farina<lb/>Vescovo di Treviso</p>
+                <p>Treviso 20. Decembre 1854</p>
+                <p/>
+                <p>&lt;Glückwunsch zum neuen Jahr&gt;<note xml:id="note_1">Notiz von fremder Hand am
+                        unteren Blattrand</note>
+                </p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="farina-giovanni-antonio">
+                        <persName>
+                            <surname>Farina</surname>
+                            <forename>Giovanni Antonio</forename>
+                        </persName>
+                        <note>
+                            <p>Gambellara 1803–1888 Vicenza</p>
+                            <p>1850–1860 Bischof von Treviso, ab 1860 Bischof von Vicenza, 2001 seliggesprochen</p>
+                            <p>http://d-nb.info/gnd/11885402X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11885402X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_9fa41ec12d99720833b10d3a9ab6a5cb">
+                        <placeName>Treviso</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.66673 12.2416</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165201/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

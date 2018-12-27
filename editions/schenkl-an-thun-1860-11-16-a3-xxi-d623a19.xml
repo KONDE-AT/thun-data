@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="schenkl-an-thun-1860-11-16-a3-xxi-d623a19.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schenach-an-thun-1857-04-20-a3-xxi-d414.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schliephake-an-thun-1851-08-12-a3-xxi-d120.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#schenkl-karl" role="sender:gelehrter">Karl Schenkl</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when="1860-11-16">16. November 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der klassische Philologe Karl Schenkl bedankt sich bei Leo Thun für
+                            dessen Unterstützung. Ganz besonders dankt er dem Minister für die
+                            Förderung der philosophischen Fakultät an der Universität Innsbruck.
+                            Schenkl bedauert zwar den Rücktritt Thuns, er zeigt sich jedoch davon
+                            überzeugt, dass das neue Studiensystem so fest verankert ist, dass es
+                            auch zukünftige stürmische Zeiten überstehen wird.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#schenkl-karl">Karl Schenkl</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when="1860-11-16">16. November 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                    <term>Universität Innsbruck</term>
+                </index>
+                <p>Eure Excellenz!<lb/>Hochgeborener Herr Graf!</p>
+                <p>Mögen Eure Excellenz dem Schreiber dieser Zeilen verzeihen, wenn er getrieben von
+                    den Gefühlen seines Herzens es wagt, Hochdenselben seinen innigsten Dank für all
+                    die Wolthaten, welche er aus Dero Hand in so reichem Maße empfangen hat, in
+                    schlichten Worten auszusprechen. Auch noch in der letzten Zeit haben Eure
+                    Excellenz für die Hebung des philosophischen Unterrichtes an der <rs type="org" ref="#org_0020">hiesigen Universität</rs>, für die
+                    Unterstützung des Lehrers wie der Schüler so viel gethan, daß alles, was hier
+                    gedeiht und aufblüht, als Werk von Dero reicher Güte zu betrachten ist. Die
+                    Saat, welche Eure Excellenz ausgesät, kann nicht mehr vergehen; mögen auch noch
+                    so stürmische Zeiten kommen, sie wird immer wieder im frischen Grün aufsprießen
+                    und ihrem hochherzigen Pfleger den verdienten Ehrenplatz in der Geschichte
+                    unseres großen Vaterlandes schaffen.<lb/>Nehmen Eure Excellenz diese schlichten
+                    Zeilen gnädig auf und erhalten mir Ihr gütiges Wolwollen. Mit der Versicherung
+                    meiner unbedingten Hochachtung und innigsten Dankbarkeit</p>
+                <p>Eurer Excellenz<lb/>unterthänigster<lb/>Dr. Karl Schenkl<lb/>k.k. o. ö.
+                    Professor der classischen Philologie an der Universität zu Innsbruck</p>
+                <p>Innsbruck, am 16. November 1860</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="schenkl-karl">
+                        <persName>
+                            <surname>Schenkl</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Brünn 1827–1900 Graz</p>
+                            <p>1851–1858 Lehrer am Gymnasium Prag-Kleinseite, 1858–1863 Prof. für klass. Philologie an der Universität Innsbruck, 1863–1875 Prof. an der Universität Graz, ab 1868 Mitglied der Akademie der Wissenschaften, ab 1875 Prof. an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/117229938</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117229938</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

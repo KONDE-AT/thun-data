@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-exner-08-19-ca78.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-10-ca77.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1849-04-11-ca813.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#exner-franz" role="recipient">Franz
+                        Exner</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="--08-19">19.
+                        August [1850]</date>
+                    <note xml:id="note_1">Das Jahr 1850 ist auf dem Blatt
+                        mit Bleistift verzeichnet. Für die Datierung in das Jahr 1850 spricht auch,
+                        dass der im Brief erwähnte Ludwig Heufler, der erst Ende August 1849 als
+                        Ministerialsekretär in das Ministerium für Kultus und Unterricht gekommen
+                        war, von Frühjahr bis Herbst 1850 eine Inspektionsreise nach Siebenbürgen
+                        unternommen hat. Vgl. dazu die <ref target="thun/thun-korrespondenz/tetschen/heufler-an-thun-1850-04-13-a3-xxi-d44.xml">Briefe Heuflers aus Siebenbürgen</ref>.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 273/47-8</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun berichtet Franz Exner, dass er die Gymnasialinspektoren aus
+                            Böhmen und Galizien zu einer Besprechung eingeladen habe. Thun wünscht,
+                            dass Exner zu dieser Besprechung nicht erscheine, sondern er sich zuerst
+                            von seiner Krankheit erholen solle. Gustav Heider und Karl Diesner seien
+                            ebenfalls erkrankt. Thun teilt Exner außerdem mit, dass er für die
+                            Stelle des Gymnasialinspektors in Kroatien einen geeigneten Kandidaten
+                            gefunden habe. Abschließend wünscht er Exner gute Besserung.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date>19.
+                        August [1850]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#exner-franz">Franz Exner</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasialinspektoren</term>
+                    <term>Böhmen</term>
+                    <term>Galizien</term>
+                    <term>Kroatien</term>
+                </index>
+                <p>Wien, den 19. August</p>
+                <p>Lieber Herr Ministerialrath!</p>
+                <p>Ich habe die Inspektoren aus <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs> und
+                        <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> nebst <rs type="person" ref="#kleemann-johann">Kleemann</rs> und vielleicht <rs type="person" ref="#koren-vinzenz">Koren</rs>[?] auf den 2. kommenden Monats einberufen. Sie will ich
+                    auf keinen Fall früher als den letzten des Monats sehen. Sollten Sie sich
+                    unterfangen früher nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zurückzukehren, so bleibt
+                    Ihnen meine Thüre, so wie die Ihres Bureaus verschloßen. <rs type="person" ref="#heider-gustav">Heider</rs> ist leider krank geworden, so daß ich
+                    ihn nach <rs type="place" subtype="place" ref="#place_8d52cda5b0caaafb17915b780d894888">Gastein</rs> beurlauben mußte, und ich höre mit
+                    Bedauern, daß ihm die ersten Bäder daselbst so wenig gut anschlagen, daß er das
+                    Bett hüthen muß. <rs type="person" ref="#heufler-von-hohenbuehel-ludwig">Heufler</rs> beendet diesen Monat sein Geschäft in
+                        <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, ich weise ihn an, den Rückweg durch die
+                        <rs type="place" subtype="region" ref="#place_1b4b3711df4344d468badf0e1dfc6879">Bukowina</rs> zu nehmen. <rs type="person" ref="#diesner-karl">Diesner</rs> liegt seit Wochen an der Gicht darnieder, und die
+                    ungarischen Angelegenheiten sind dadurch in völlige Stockung gerathen!<lb/>Aus
+                        <rs type="place" subtype="region" ref="#place_46ef149805b1b370596a83886b1e010e">Kroazien</rs> habe ich den projektierten
+                    Gymnasialinspektor – einen Professor der Akademie ebenfalls auf die ersten Tage
+                    kommenden Monats berufen, in der Hoffnung ihn sodann als
+                    Organisierungs-Kommissar benützen zu können.<lb/>Mit dem herzlichen Wunsche, daß
+                    Sie in den Bergen einige genußreiche Tage zubringen, und sich gründlich erholen
+                    werden.</p>
+                <p>Ihr aufrichtig ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="exner-franz">
+                        <persName>
+                            <surname>Exner</surname>
+                            <forename>Franz Serafin</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1802–1853 Padua</p>
+                            <p>1831–1848 Prof. für Philosophie an der Universität Prag, 1848–1851 Ministerialrat im Ministerium für Kultus und Unterricht, ab 1852 Ministerialkommissär für das lombardisch-venetianische Schulwesen in Oberitalien</p>
+                            <p>http://d-nb.info/gnd/116319410</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116319410</tei:idno>
+                    </person>
+                <person xml:id="kleemann-johann">
+                        <persName>
+                            <surname>Kleemann</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Czernowitz 1808–1885 Wien</p>
+                            <p>ab 1840 Professor für Weltgeschichte und Philologie an der phil. Lehranstalt in Görz, später in Laibach, ab 1850 Schulrat und Gymnasialinspektor für Steiermark, Kärnten und Krain, ab 1851 Sektionsrat im Ministerium für Kultus und Unterricht,  ab 1854 Ministerialrat</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="koren-vinzenz">
+                        <persName>
+                            <surname>Koren</surname>
+                            <forename>Vincenz</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>ab 1850 prov. Schulrat für Triest, das Küstenland, Görz und Dalmatien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="heider-gustav">
+                        <persName>
+                            <surname>Heider</surname>
+                            <forename>Gustav</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1819–1897 Wien</p>
+                            <p>ab 1842 Assistent in der Bibliothek der Akademie der bildenden Künste in Wien, 1850–1880 Kunstreferent im Ministerium für Kultus und Unterricht</p>
+                            <p>http://d-nb.info/gnd/10737742X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/10737742X</tei:idno>
+                    </person>
+                <person xml:id="heufler-von-hohenbuehel-ludwig">
+                        <persName>
+                            <surname>Heufler von Hohenbühel</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Innsbruck 1817–1885 Hall i. Tirol</p>
+                            <p>1846–1849 Kreiskommissär in Istrien, ab 1849 Sekretär im Ministerium für Kultus und Unterricht (zuständig für die Reorganisation des Schulwesens in Siebenbürgen),ab 1853 Sektionsrat, ab 1857 Kämmerer</p>
+                            <p>http://d-nb.info/gnd/116953462</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116953462</tei:idno>
+                    </person>
+                <person xml:id="diesner-karl">
+                        <persName>
+                            <surname>Diesner</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Ministerialsekretär im Ministerium für Kultus und Unterricht</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                <place xml:id="place_8d52cda5b0caaafb17915b780d894888" type="placeName">
+                        <placeName type="pref">Gastein</placeName>
+                        <placeName type="alt">Gastein</placeName>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+                <place xml:id="place_46ef149805b1b370596a83886b1e010e" type="placeName">
+                        <placeName type="pref">Kroatien und
+                            Slavonien</placeName>
+                        <placeName type="alt">Croazien</placeName>
+                        <placeName type="alt">Kroatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.25 15.466667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

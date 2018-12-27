@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="stimmungsbericht-rom-1856-05-16-a3-xxi-d381.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stellungnahme-clam-handeslrecht-1854-07-07-a3-xxi-d265.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-ungarn-1856-12-28-a3-xxi-d395.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stimmungsbericht aus Rom<lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when="1856-05-16">16. Mai 1856</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D381</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ein nicht identifizierbarer Autor berichtet über die politische Situation
+                            in Italien und im Vatikan sowie über die Außenpolitik der beiden Länder.
+                            Der Autor ist überzeugt, dass sich der Kirchenstaat zunehmend von
+                            Frankreich abwende und Österreich zuwende. Der Grund hierfür sei die
+                            Annäherung zwischen Graf Cavour und Napoleon III. Außerdem gehe in Rom
+                            das Gerücht um, Napoleon III. wolle den Papst nach Paris bringen, um
+                            dort von diesem zum Kaiser gekrönt zu werden. Der Papst sei dazu
+                            allerdings nicht bereit.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Bericht ist einem nicht erhaltenen Brief entnommen.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Vatikan</term>
+                    <term>Außenpolitik</term>
+                </index>
+                <p>Aus einem Schreiben de dat. <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> 16. Mai 1856</p>
+                <p>Im <rs type="place" subtype="place" ref="#place_24722a1d2a82015c05b6e296a88203bb">Vatikan</rs> geht gegenwärtig eine wichtige Geisteswende vor
+                    sich: die Herzen kehren sich endlich <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zu. Der Mund
+                    spricht noch je nach Umständen. Die Äußerungen, die in <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> über <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> gefallen
+                    sind, haben hier tief verletzt. Man weiß, daß <rs type="person" ref="#napoleon-III">Napoleon</rs> denselben Raum gab. <rs type="person" ref="#cavour-camillo-benso">Cavour</rs> wurde von <rs type="person" ref="#colonna-walewski-alexandre">Walewsky</rs> an den <rs type="person" ref="#napoleon-III">Kaiser</rs> gewiesen. Der Kaiser behielt die
+                    Schrift, welche der Piemontese in Discussion werfen wollte: er ließ den
+                    Grafen ohne Ja <hi rend="ul">und Nein</hi>: er genehmigte also stillschweigend.
+                    Dazu kommt die Entfernung dreier legitimistischer Bischöfe, von denen einer eben
+                    hier weilt. Man weiß hier genau, wie unkirchlich manche Konversation des
+                        <rs type="person" ref="#napoleon-III">französischen Kaisers</rs> mit
+                    gallikanischen Bischöfen und Gelehrten ist. <hi rend="ul">Man traut ihm nicht
+                        mehr.</hi> Neulich erhielt <rs type="person" ref="#pius-IX">Seine
+                        Heiligkeit</rs> die offenbar überspannte Warnung, er möge sich
+                    vorsehen: Napoleon beabsichtige, ihn im Nothfalle aufzuheben und nach
+                        <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> zu ziehen. Der Kaiser habe aus seinem Studium
+                    des Charakters <rs type="person" ref="#pius-IX">Seiner Heiligkeit</rs> die
+                    Zuversicht gewonnen, von <rs type="person" ref="#pius-IX">Pio IX</rs>, wenn er ihn
+                    einmal in <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> habe, die Krönung zu erlangen. Von dieser
+                    geheimen Warnung wissen nur Wenige. <rs type="person" ref="#pius-IX">Pio IX</rs>
+                    ist durchaus nicht geneigt, nach <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> zu reisen, und am
+                    allerwenigsten, die Krönung zu vollziehen. Schon bei den ersten Anträgen und
+                    Begehrungen dieser Art hatte <rs type="person" ref="#hohenlohe-schillingfuerst-gustav">Fürst Hohenlohe</rs> den guten Einfall, jenen vortrefflichen
+                        Aufsatz<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=n0nhaaaacaaj&amp;dq=d%c3%b6llinger+kaiserw%c3%bcrde&amp;hl=de&amp;source=gbs-navlinks-s">Ignaz Döllinger, Betrachtungen über die Frage der Kaiser-Krönung,
+                            München 1853</ref>.</note> der historisch-politischen Blätter, der die
+                    Bedeutung der Kaiserwürde entwickelte, in das Italienische zu übersetzen und
+                        <rs type="person" ref="#pius-IX">Seiner Heiligkeit</rs> vorzulesen. <rs type="person" ref="#pius-IX">Pio IX </rs>war davon sehr ergriffen und der Eindruck
+                    jener Worte <rs type="person" ref="#doellinger-ignaz">Döllingers</rs> war ein
+                    bleibender.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="napoleon-III">
+                        <persName>
+                            <surname>Napoleon III.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Paris 1808–1873 Chislehurst b. London</p>
+                            <p>1848–1852 franz. Staatspräsident, 1852–1870 Kaiser der Franzosen</p>
+                            <p>http://d-nb.info/gnd/118586416</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118586416</tei:idno>
+                    </person>
+                <person xml:id="cavour-camillo-benso">
+                        <persName>
+                            <surname>Cavour</surname>
+                            <forename>Camillo Benso</forename>
+                        </persName>
+                        <note>
+                            <p>Turin 1810–1861 Turin</p>
+                            <p>Politiker, ab 1852 Premierminiser von Sardinien, erster Ministerpräsident des Königreiches Italien</p>
+                            <p>http://d-nb.info/gnd/118668900</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118668900</tei:idno>
+                    </person>
+                <person xml:id="colonna-walewski-alexandre">
+                        <persName>
+                            <surname>Colonna-Walewski</surname>
+                            <forename>Alexandre Florian Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Walewice 1810–1868 Straßburg</p>
+                            <p>Sohn Napoleons, 1833–1837 Dienst in der franz. Armee, ab 1837 Schriftsteller und Journalist, ab 1840 franz. Diplomat, 1855–1863 Außenminister</p>
+                            <p>http://d-nb.info/gnd/11877106X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877106X</tei:idno>
+                    </person>
+                <person xml:id="pius-IX">
+                        <persName>
+                            <surname>Pius IX.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Senigallia 1792–1878 Rom</p>
+                            <p>Papst von 1846–1878</p>
+                            <p>http://d-nb.info/gnd/118594729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118594729</tei:idno>
+                    </person>
+                <person xml:id="hohenlohe-schillingfuerst-gustav">
+                        <persName>
+                            <surname>Hohenlohe-Schillingsfürst</surname>
+                            <forename>Gustav</forename>
+                        </persName>
+                        <note>
+                            <p>Rothenburg an der Fulda 1823–1896 Rom</p>
+                            <p>ab 1850 päpstlicher Geheimkämmerer, ab 1857 Titularerzbischof von Edessa, ab 1866 Kardinal</p>
+                            <p>http://d-nb.info/gnd/116955422</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116955422</tei:idno>
+                    </person>
+                <person xml:id="doellinger-ignaz">
+                        <persName>
+                            <surname>Döllinger</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Bamberg 1799–1890 München</p>
+                            <p>ab 1823 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum in Aschaffenburg, ab 1826 Prof. für Kirchengeschichte und Kirchenrecht an der Universität München</p>
+                            <p>http://d-nb.info/gnd/118526243</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118526243</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_24722a1d2a82015c05b6e296a88203bb">
+                        <placeName>Staat der Vatikanstadt</placeName>
+                        <placeName type="pref">vatikan</placeName>
+                        <placeName type="alt">Vatican</placeName>
+                        <placeName type="alt">Vatikan</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.90225 12.4533</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164670/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_19cb29505c294db5ca9190ea93447e98" type="placeName">
+                        <placeName type="pref">Italy</placeName>
+                        <placeName type="pref">Italien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027833-5</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

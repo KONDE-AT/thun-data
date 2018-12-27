@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-laube-1857-10-29-ca818.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-karajan-03-12-ca59.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-laube-1858-09-22-ca820.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#laube-heinrich" role="recipient">Heinrich
+                        Laube</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-10-29">29. Oktober 1857</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 165/73-2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet den Direktor des Burgtheaters, Heinrich Laube, um den
+                            Text eines Lustspiels. Seine Verwandten möchten sich nämlich auf dem
+                            Land mit dem Stück erheitern, Thun konnte den Text des gewünschten
+                            Stücks jedoch nicht finden.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1857-10-29">29. Oktober 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#laube-heinrich">Heinrich Laube</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term/>
+                </index>
+                <p>Wien, den 29. Oktober 1857</p>
+                <p>Werther Herr Direktor!</p>
+                <p>Verwandte von mir wollen sich auf dem Lande, wenn auch nicht mit dramatischer
+                    Kunst, so doch mit einer Dilettanten-Komödie unterhalten und haben mich deshalb
+                    gebethen, ihnen schleunigst "Er ist nicht eifersüchtig!"<note xml:id="note_1">Gemeint ist: <ref target="http://books.google.at/books?id=c3suaaaayaaj&amp;hl=de&amp;source=gbs-navlinks-s">Alexander Elz, Er ist nicht eifersüchtig.</ref>
+                    </note> zu verschaffen.
+                    Vergeblich habe ich mich deshalb an <rs type="person" ref="#wallishausser-johann-baptist">Wallishauser</rs> gewendet, und wage es deshalb abermals Ihre Güte
+                    mit der Bitte in Anspruch zu nehmen, ob Sie mir wohl dieses Lustspiel für einige
+                    Wochen aus Ihrem Archive leihen wollten. Könnten Sie etwa gar die
+                    ausgeschriebenen Rollen zugleich anvertrauen, so wäre ich Ihnen um so
+                    dankbarer.</p>
+                <p>Mit ausgezeichneter Hochachtung</p>
+                <p>Ihr<lb/>ergebener<lb/>Graf Leo Thun</p>
+                <p>Ich bitte aber nicht etwa die Rollen <hi rend="ul">erst abschreiben</hi> zu
+                    lassen, denn meine Sendung soll wo möglich morgen schon abgehen.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="laube-heinrich">
+                        <persName>
+                            <surname>Laube</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Sprottau 1806–1884 Wien</p>
+                            <p>Dramatiker und Theaterleiter, 1848/49 Mitglied der Frankfurter Nationalversammlung, ab 1849 Direktor des Burgtheaters</p>
+                            <p>http://d-nb.info/gnd/118570080</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118570080</tei:idno>
+                    </person>
+                <person xml:id="wallishausser-johann-baptist">
+                        <persName>
+                            <surname>Wallishausser</surname>
+                            <forename>Johann Baptist III.</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1831–1904 Düsseldorf</p>
+                            <p>Besitzer der gleichnamigen Wiener Buchhandlung und Druckerei</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

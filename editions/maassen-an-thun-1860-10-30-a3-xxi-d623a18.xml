@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="maassen-an-thun-1860-10-30-a3-xxi-d623a18.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1860-04-18-a3-xxi-d576.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/macher-ueber-dydynskische-stiftung-1860-09-22-a3-xxi-d613.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#maassen-friedrich" role="sender:gelehrter">Friedrich
+                        Maassen</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>, <date when="1860-10-30">30. Oktober 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Friedrich Maassen dankt Leo Thun für seine Arbeit als
+                            Minister. Ganz besonders bedankt er sich beim scheidenden Minister für
+                            das Vertrauen, das dieser in ihn gesetzt habe und er bedauert, dass er
+                            bisher so wenig getan habe, um dieses auch zu verdienen. Er versichert
+                            Thun jedoch, dass er alles daran setzen werde, das Vertrauen durch
+                            Leistung zu rechtfertigen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#maassen-friedrich">Friedrich Maassen</rs>
+                    <settlement ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</settlement>
+                    <date when="1860-10-30">30. Oktober 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Eure Excellenz!</p>
+                <p>Eure Excellenz haben denen, welchen die Ehre zu Theil geworden ist, unter
+                    Hochdero Fahnen zu dienen, stets die Gunst gewährt, das Verhältnis zu ihrem
+                    theuren Führer zugleich als ein persönliches aufzufassen, gegründet auf das
+                    Verständnis der Ideen und der Ziele Eurer Excellenz. Dieser Gedanke giebt mir
+                    den Muth zu meinem gegenwärtigen ehrfurchtsvollsten Schreiben.<lb/>Eure
+                    Excellenz haben seit dem Tage, wo ich meine erste Bitte Hochihnen vortragen
+                    durfte, bis zu dem Moment, wo Hochdieselben von der obersten Leitung des
+                    Unterrichts zurückgetreten sind, so zahlreiche und so große Beweise von Hochdero
+                    huldvollen Gesinnungen mir gegeben, daß ich mich auf das Tiefste beschämt fühle,
+                    wenn ich bedenke, wie wenig ich gethan habe, um diese Auszeichnung zu verdienen.
+                    <lb/>Fügen Eure Excellenz zu der alten noch die neue Huld, die Versicherung zu
+                    genehmigen, daß bis zu meinem letzten Hauche die Dankbarkeit in meinem Herzen
+                    nicht erlöschen wird und daß es für mich niemals ein größeres Ziel geben kann,
+                    als die Anerkennung Eurer Excellenz in meinem fernern Wirken zu verdienen.
+                    <lb/>In den Gefühlen dankbarster Ehrerbietung und unbegränzter Hochachtung
+                    verharre ich als</p>
+                <p>Eurer Excellenz<lb/>gehorsamster Diener<lb/>Fr. Maaßen</p>
+                <p>Gratz, 30. October 1860</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="maassen-friedrich">
+                        <persName>
+                            <surname>Maassen</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Wismar 1823–1900 Innsbruck</p>
+                            <p>1849 journalistische Tätigkeit, 1851 Konversion zum Katholizismus, ab 1855 Prof. für Römisches Recht an der Universität Pest, ab 1857 Prof. an der Universität Innsbruck, ab 1860 Prof. für Römisches und Kirchenrecht an der Universität Graz</p>
+                            <p>http://d-nb.info/gnd/116620056</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116620056</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

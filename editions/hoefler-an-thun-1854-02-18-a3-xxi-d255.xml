@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="hoefler-an-thun-1854-02-18-a3-xxi-d255.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1853-12-02-a3-xxi-d242.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1854-11-18-a3-xxi-d300.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1854-02-18">18. Februar 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D255</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Der Historiker Constantin Höfler informiert den Minister über die
+                                Leistungen von einigen Lehramtskandidaten, die kürzlich von der
+                                Prüfungskommission in Prag geprüft worden sind. Unter den Geprüften
+                                ragen besonders Anton Zeithammer und Dionys Grün hervor. Höfler ist
+                                überzeugt, dass beide hervorragende Lehrer abgeben würden,
+                                allerdings bittet er Leo Thun, den beiden genannten Kandidaten ein
+                                Reisestipendium nach Berlin zu gewähren. Dort könnten die Studenten
+                                nämlich bei Carl Ritter studieren und dessen Methoden vor Ort
+                                kennenlernen und diese dann nach Österreich importieren. Zuletzt
+                                spricht sich Höfler lobend über die Lehramtsprüfungen aus und
+                                bezeichnet sie als eine gute Möglichkeit, dass sich junge Männer
+                                auszeichnen können.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin">Constantin Höfler</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when="1854-02-18">18. Februar 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Lehramtsprüfung</term>
+                    <term>Gymnasien</term>
+                    <term>Seminar</term>
+                    <term>Universität Prag</term>
+                    <term>Geografie</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Euer Excellenz!<lb/>Hochgeborener Herr Graf!<lb/>Hochgebietender Herr
+                    Staatsminister!</p>
+                <p>Der besonders glückliche Ausgang der letzten Prüfung der Lehramtscandidaten für
+                    Geschichte ermächtigt mich in dem Interesse der Wissenschaft mich an Euer
+                    Excellenz gnädigste Fürsorge zu wenden und, soweit ich es wagen darf,
+                    Hochdenselben das Geschick des einen oder anderen zu gnädigster Berücksichtigung
+                    zu empfehlen.<lb/>Es befinden sich unter den Candidaten, welche <rs type="person" ref="#tomek-vaclav-vladivoi">Prof. Tomek</rs> und ich examinirten,
+                        <rs type="person" ref="#gruen-dionys">Dionys Grün</rs>, dem wir in jener vollen
+                    Übereinstimmung, welche überhaupt unter uns herrscht, die Note der Auszeichnung,
+                    und <rs type="person" ref="#zeithammer-anton">Anton Zeithammer</rs>, Sohn des
+                        <rs type="person" ref="#zeithammer-gregor">k.k. Schulrathes</rs>, dem wir für
+                    sein frisches wissenschaftliches Streben besondere Anerkennung zukommen ließen.
+                    Ersterer, von welchem <rs type="person" ref="#tomek-vaclav-vladivoi">Prof.
+                        Tomek</rs> urtheilte, er würde jedem Gymnasium zur Zierde gereichen
+                    und dessen mündlicher Vortrag so ausgezeichnet war, daß <rs type="person" ref="#tomek-vaclav-vladivoi">Tomek</rs> und <rs type="person" ref="#zimmermann-robert">Zimmermann</rs> ihm öffentlich erklärten, sie
+                    bedauerten, daß die gesetzliche Frist nicht gestatte, ihm länger zuzuhören,
+                    befindet sich in sehr mißlichen Verhältnissen, während es doch in hohem Grade
+                    wünschenswerth wäre, daß ihm Gelegenheit gegeben würde, sich in der Geschichte
+                    noch weiter auszubilden. Ich weiß nun nicht, ob ich unter Berufung auf die
+                    erwähnten Zeugnisse, denen ich das gleiche des Herrn Generalgroßmeisters
+                    beigesellen kann, Euer Excellenz bitten darf, dem Lehramtscandidaten <rs type="person" ref="#gruen-dionys">Dionys Grün</rs> bis zur Erlangung einer Anstellung
+                    eine Unterstützung zu seiner weiteren Ausbildung gnädigst gewähren zu
+                    wollen.<lb/>Da es aber in der Natur der Bitten liegt, nicht allein, sondern in
+                    Gesellschaft zu erscheinen, erlaube ich mir Euer Excellenz in Betreff des
+                        <rs type="person" ref="#zeithammer-anton">Anton Zeithammer</rs> mit einer
+                    anderen unterthänigen Bitte zu belästigen. Der berühmte Geograph <rs type="person" ref="#ritter-carl">Ritter</rs> liest im nächsten Semester über
+                    Geographie von Europa. Euer Excellenz wissen nun am Besten zu würdigen, daß eine
+                    gute Methode das Vortrefflichste ist, was ein Schüler von seinem Lehrer lernen
+                    kann; daß diese sich nur aus dem mündlichen Vortrage nicht aus den Schriften
+                    lernen läßt, für die österreichischen Schulen aber wohl in hohem Grade zu
+                    wünschen wäre, daß die Rittersche Methode durch Schüler des Meisters selbst in
+                    die Schulen hinüber geleitet werden möchte. Euer Excellenz ersehen, wohin die
+                    Spitze meines unmaßgeblichen Gesuches geht. <rs type="person" ref="#zeithammer-anton">Anton Zeithammer</rs> ist sehr frisch und strebsam, eifrig und
+                    fleißig, von seinem Talente, von seinem Fleiße wie von seinen Gesinnungen das
+                    Schönste zu hoffen; ein Reisestipendium, welches ihm die Gnade Euer Excellenz
+                    verschaffen würde, würde für die Unterrichtsanstalten, an welchen <rs type="person" ref="#zeithammer-anton">Zeithammer</rs> einst zu wirken hätte,
+                    überreiche Zinsen tragen.<lb/>Mögen mir Euer Excellenz nicht zürnen, daß ich es
+                    wagte, Euer Excellenz mit diesen Bitten zu behelligen! Allein mir sind die
+                    Candidaten, welche sich durch besonderen Fleiß und besondere Kenntnisse
+                    bemerkbar machen, so in das Herz gewachsen, daß ich sie wie meine eigenen Kinder
+                    betrachte; nichts anderes als dieses Gefühl und die gewonnene wissenschaftliche
+                    Überzeugung von der Brauchbarkeit und Tüchtigkeit der unmaßgeblich Empfohlenen
+                    haben mir den Muth gegeben, mich geradezu an die Gnade Euer Excellenz zu wenden.
+                    Das schwierige Examen der Lehramtscandidaten bringt bei besten Talenten und
+                    edleren Naturen einen eigenen geistigen Durchbruch zustande; sie müssen ihr
+                    Wissen concentriren, um gehörig davon Rechenschaft geben zu können; sie lernen
+                    die Lücken kennen und die Begierde sie auszufüllen steigert sich mit dieser
+                    Erkenntniß. Ihnen in diesem moralisch und scientifisch entscheidenden
+                    Lebensmomente Gelegenheit zu verschaffen sich weiter auszubilden, halte ich für
+                    ungemeinen Gewinn. Die Professoren der Physik, Astronomie etc. haben Adjuncten,
+                    wodurch es tüchtigen jungen Leuten möglich wird sich in diesen Fächern noch
+                    weiter auszubilden. In der Geschichte und Geographie ist Vorbereitung, ehe man
+                    zum Lehren kommt, gewiß ebenso nothwendig wie bei den erwähnten Fächern; ja das
+                    Quellenstudium erfordert vielleicht eine noch größere. Wir haben in <rs type="org" ref="#org_0017">Prag</rs> kein historisches Seminar; umso
+                    entschuldbarer dürfte daher ein Gesuch sein, das nach dem wissenschaftlichen
+                    Standpunkte und den Bedürfnissen zweier junger Männer eingerichtet ist, von
+                    denen Euer Excellenz gewiß Dank und Freude erleben werden.<lb/>Ich habe die Ehre
+                    zu verharren in unterthänigster Ehrerbietung<lb/>Euer Excellenz</p>
+                <p>unterhänigst gehorsamster Diener<lb/>Constantin Höfler</p>
+                <p>Prag, 18. Februar 1854</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="hoefler-karl-adolf-constantin">
+                        <persName>
+                            <surname>Höfler</surname>
+                            <forename>Karl Adolf Constantin</forename>
+                        </persName>
+                        <note>
+                            <p>Memmingen 1811–1897 Prag</p>
+                            <p>ab 1836 Privatdozent für Geschichte an der Universität München, ab 1839 Prof. an der Universität München, 1847 Zwangspensionierung, ab 1847 Kreisarchivar in Bamberg, ab 1852 Prof. für allgemeine Geschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/118774654</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118774654</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="tomek-vaclav-vladivoi">
+                        <persName>
+                            <surname>Tomek</surname>
+                            <forename>Václav Vladivoi</forename>
+                        </persName>
+                        <note>
+                            <p>Königgrätz 1818–1905 Prag</p>
+                            <p>Lehrer bei der Familie Šafařik, ab 1839 bei der Familie Palácký, ab 1850 Prof. für österreichische Geschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/117404845</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117404845</tei:idno>
+                    </person>
+                <person xml:id="gruen-dionys">
+                        <persName>
+                            <surname>Grün</surname>
+                            <forename>Dionys</forename>
+                        </persName>
+                        <note>
+                            <p>Prerov 1819–1896 Prag</p>
+                            <p>1845–47 Studium in Prag, 1849 Hauslehrer in Berlin und Dresden, anschließend neuerlich in Prag, Konversion zum Katholizismus, ab 1853 Gymnasiallehrer</p>
+                            <p>http://d-nb.info/gnd/116887729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116887729</tei:idno>
+                    </person>
+                <person xml:id="zeithammer-anton">
+                        <persName>
+                            <surname>Zeithammer</surname>
+                            <forename>Anton Ottokar</forename>
+                        </persName>
+                        <note>
+                            <p>Pisek 1832–1919</p>
+                            <p>1855 Gymnasiallehramtsprüfung, bis 1856 Präfekt an der Theresianischen Ritterakademie in Wien, ab 1856 Lehrer für Geschichte in Agram, 1861 Lehrer am Altstädter Gymnasium in Prag, ab 1868 journalistische Tätigkeit</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="zeithammer-gregor">
+                        <persName>
+                            <surname>Zeithammer</surname>
+                            <forename>Gregor</forename>
+                        </persName>
+                        <note>
+                            <p>Stekná 1800–1881</p>
+                            <p>Prof. am Gymnasium in Pisek, Prof. am Kleinseitner Gymnasium in Prag, 1850 Gymnasialinspektor für Böhmen</p>
+                            <p>http://d-nb.info/gnd/103366622X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/103366622X</tei:idno>
+                    </person>
+                <person xml:id="zimmermann-robert">
+                        <persName>
+                            <surname>Zimmermann</surname>
+                            <forename>Robert</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1824–1898 Prag</p>
+                            <p>Sohn von Johann August Zimmermann, ab 1849 Prof. für Philosophie an der Universität Olmütz, 1852–1861 Prof. an der Universität Prag, 1861–1895 Prof. für Philosophie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/118528408</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118528408</tei:idno>
+                    </person>
+                <person xml:id="ritter-carl">
+                        <persName>
+                            <surname>Ritter</surname>
+                            <forename>Carl</forename>
+                        </persName>
+                        <note>
+                            <p>Quedlinburg 1779–1859 Berlin</p>
+                            <p>ab 1798 Hauslehrer in Frankfurt a. Main, 1819 Lehrer am Frankfurter Gymnasium, ab 1820 Prof. für Geographie an der Universität Berlin</p>
+                            <p>http://d-nb.info/gnd/11860130X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11860130X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0017">
+                        <orgName>Universität Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

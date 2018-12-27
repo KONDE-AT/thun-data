@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="neumann-an-thun-1851-04-13-a3-xxi-d113.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/neumann-an-thun-1850-09-21-a3-xxi-d71.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/nonnen-an-kaiserin-1854-06-16-a3-xxi-d320h.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#neumann-leopold" role="sender:gelehrter">Leopold
+                        Neumann</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1851-04-13">13. April 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D113</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leopold Neumann, Professor für Völkerrecht und Statistik an der
+                            Universität Wien, berichtet Leo Thun von seiner Unterredung mit dem
+                            türkischen Kommissär, Kemal Effendi, der sich über das österreichische
+                            Studienwesen informierte. Neumann hat ihm so weit als möglich die
+                            wesentlichen Elemente des österreichischen Bildungssystems erklärt.
+                            Neumann betont, dass Kemal Effendi an den Ausführungen Neumanns
+                            lebhaftes Interesse gezeigt habe. Effendi bat außerdem, die ihm
+                            versprochenen Gesetzestexte nach Konstantinopel nachzusenden, da er
+                            Österreich in Kürze verlassen müsse.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#neumann-leopold">Leopold Neumann</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1851-04-13">13. April 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Bildungssystem</term>
+                    <term>Österreich</term>
+                    <term>Osmanisches Reich</term>
+                </index>
+                <p>Excellenz!</p>
+                <p>
+                    <rs type="person" ref="#kemal-effendi">Kiamil [Kemal] Effendi</rs>, welcher in Folge
+                    von Briefen, die er gestern aus <rs type="place" subtype="place" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</rs> erhalten hat, bereits morgen (Montag) seine
+                    Rückreise antritt, bedauert sehr aus diesem Grunde die hiesigen Cabinette und
+                    Collegien nicht mehr besehen zu können. Er erstattet seinen verbindlichsten Dank
+                    für die ihm von Eurer Excellenz gewidmete Aufmerksamkeit und bittet, die ihm
+                    versprochenen sämmtlichen Gesetze und Réglements über das österreichische
+                    Studienwesen der ottomanischen Bothschaft für ihn gefälligst übermitteln zu
+                    wollen. Ich hatte mit ihm eine sehr lange Unterredung, in welcher ich mich
+                    bemühte, so viel seine ziemlich oberflächliche Kenntnis der französischen
+                    Sprache und noch mehr seine trotz aller Reisen ganz eigenthümliche
+                    Anschauungsweise es mir möglich machten, ihm die Grundzüge unserer
+                    Schuleinrichtungen verständlich zu machen. Er schien lebhaftes Interesse an
+                    meinen Mittheilungen zu finden, machte mehrere Aufzeichnungen und bath mich, mir
+                    von <rs type="place" subtype="place" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</rs> aus durch seinen
+                    der französischen Sprache vollkommen kundigen Secretär in der Folge schreiben zu
+                    dürfen, worauf ich natürlich meine Bereitwilligkeit, ihm jede gewünschte
+                    Aufklärung geben zu wollen, erklärte. Schließlich stellte er mich noch dem
+                        <rs type="person" ref="#arif-mehmet-effendi">Bothschafter</rs> vor, und wir
+                    schieden als die besten Freunde. Solchergestalt entledigte ich mich, so viel es
+                    die Umstände zuließen, des mir gewordenen Auftrages gegenüber von dem
+                    verehrlichen Herrn Inspecteur général des écoles de l’Empire ottoman und
+                    verharre dies berichtend</p>
+                <p>Euer Excellenz</p>
+                <p>ehrfurchtsvoll ergebenster Diener<lb/>L. Neumann</p>
+                <p>Wien, 13.4.1851</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="neumann-leopold">
+                        <persName>
+                            <surname>Neumann</surname>
+                            <forename>Leopold</forename>
+                        </persName>
+                        <note>
+                            <p>Zaleszczyki 1811–1888 Bozen</p>
+                            <p>ab 1840 Prof. für Diplomatik und Statistik an der Theresianischen Ritterakademie in Wien, ab 1847 Vorlesungen über Neuere Staatengeschichte an der Universität Wien, ab 1849 Prof. für diplomatische Staatengeschichte und europäisches Völkerrecht an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/118587293</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118587293</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="kemal-effendi">
+                        <persName>
+                            <surname>Kiamil Effendi</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>osman. Diplomat und Gelehrter</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="arif-mehmet-effendi">
+                        <persName>
+                            <surname>Arif Mehmet Effendi</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>1850–1855 Gesandter des Osmanischen Reichs in Wien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_5a73d22c67f3af236f91499bf068c1d5">
+                        <placeName>Istanbul</placeName>
+                        <placeName type="pref">Konstantinopel</placeName>
+                        <placeName type="alt">Constantinople</placeName>
+                        <placeName type="alt">Constantinopel</placeName>
+                        <placeName type="alt">Konstantinopel</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.01384 28.94966</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/745044/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

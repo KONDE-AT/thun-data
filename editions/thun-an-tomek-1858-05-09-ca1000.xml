@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-tomek-1858-05-09-ca1000.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1855-07-20-ca998.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-unbekannt-1851-04-03-ca1207.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#tomek-vaclav-vladivoi" role="recipient">Václav Vladivoi
+                        Tomek</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1858-05-09">9.
+                        Mai 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Tschechisches Nationalmuseum [Archiv Národního
+                            muzea]</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Tomek</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun erklärt dem Historiker Václav Tomek, warum er nur die
+                            Professoren Johann Heinrich Löwe und Georg Bippart und nicht auch ihn
+                            befördert hat. Thun führt vor allem die finanzielle Lage der Monarchie
+                            als Grund an. Thun nennt gleichzeitig auch die Gründe, warum er Bippard
+                            und Löwe befördert hat. Bei beiden gab es triftige Gründe, die bei Tomek
+                            fehlen. Er bittet Tomek um Geduld und versichert ihm, dass er zum
+                            richtigen Zeitpunkt dessen Beförderung vorantreiben werde. Thun bedankt
+                            sich für Tomeks Aufrichtigkeit. Thun gesteht, dass er in seinem
+                            Ministerium nicht ohne Einschränkungen herrschen kann.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1858-05-09">9.
+                        Mai 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#tomek-vaclav-vladivoi">Václav Vladivoi Tomek</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Prag</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Wien den 9. Mai 858</p>
+                <p>Werther Herr Professor!</p>
+                <p>Sie thun mir Unrecht, wenn Sie glauben, es liege ein Mangel an gutem Willen, und
+                    Anerkennung Ihrer Verdienste, oder wenigstens in einem Übersehen, daß zwei Ihrer
+                    Kollegen früher als Sie zu o. Prof. befördert wurden. Mit voller Wahrheit kann
+                    ich versichern, daß der Gedanke an Ihre Ansprüche mir unablaßig gegenwärtig
+                    und daß es mir ein wahres Anliegen ist, denselben gerecht zu werden. Was mir
+                    allein im Wege steht, habe ich Ihnen gesagt. Die finanzielle Frage wird leider
+                    immer noch nicht so behandelt, daß es sich nur einfach darum handelt, ob einige
+                    hundert Gulden mehr auf Besoldungen verwendet werden dürfen, sondern ich muß von
+                    Fall zu Fall Gründe geltend machen, aus welchen sich die Schlussfolgerung ziehen
+                    läßt, daß eben die bei <rs type="person" ref="#franz-joseph">S. Maj.</rs> zu
+                    beantragende Mehrauslage nicht länger verschoben werden könne und unzweifelhaft
+                    gerechtfertiget sei. Bei <rs type="person" ref="#loewe-johann-heinrich">Prof.
+                        Löwe</rs> kommen mir allerhand äußere Umstände zu Hilfe um den
+                    Widerspruch des <rs type="person" ref="#bruck-karl-ludwig">Finanzministers</rs> zu
+                    beseitigen, der dringende Wunsch des <rs type="person" ref="#schwarzenberg-friedrich">Cardinals</rs> eben ihn für Philosophie in <rs type="org" ref="#org_0017">Prag</rs> festzuhalten <note xml:id="note_1">Vgl. hierzu den Brief <ref target="thun/thun-korrespondenz/tetschen/schwarzenberg-an-thun-1857-12-19-a3-xxi-d437.xml">Friedrich Schwarzenberg an Leo Thun, 19. Dezember 1857.</ref>
+                    </note>
+                    etc.; bei <rs type="person" ref="#bippart-georg">Prof. Bippard</rs> konnte ich
+                    geldtend machen, daß die Stelle die er bekleidet, schon einmal <rs type="person" ref="#lange-ludwig">einem anderen</rs> als ord. Professor mit höheren
+                    Bezügen mit a.h. Beschluss zugesprochen war, welcher aber dann zurücktrat, daß
+                    die Nothwendigkeit zweier ord. Professuren für klass. Philologie unbestreitbar
+                    ist, und bereits a.h. Ortes anerkannt war, daß ich also durch den Umstand
+                        <rs type="person" ref="#bippart-georg">B.</rs> dennoch nur als a.o. Prof.
+                    gewonnen zu haben, im Interesse des Staatsschatzes gehandelt habe, und die
+                    Zuerkennung des höheren Gehaltes nach mehrj. Dienstleistung also nicht von dem
+                    Standpunkte aus angefochten werden könne. Leider fehlt es mir zu Ihren Gunsten
+                    an <hi rend="ul">solchen</hi> Argumenten, nachdem neben Ihnen 2 ord. Prof. der
+                    Geschichte stehen. Wenn ich Ihre persönlichen Verdienste geltend mache, so wird
+                    mir zuversichtlich eingewendet werden, ich solle Sie an eine Univ. versetzen, wo
+                    Mangel an Lehrkräften für Geschichte ist; und damit wäre weder Ihnen noch der
+                    Sache gedient. Ich sage das nicht um etwa daraus zu folgern, daß ich keine
+                    Hoffnung für Sie habe, ehe einer der ord. Prof. der Geschichte in <rs type="org" ref="#org_0017">Prag</rs> von seinem Posten abtritt, sondern
+                    nur um Ihnen erklärlich zu machen, welche Bedenken mir entgegenstehen, und um wo
+                    möglich zu bewirken, daß Sie wenigstens an der Aufrichtigkeit meiner Ihnen
+                    gegebenen Versicherung nicht zweifeln. Ich weiß sehr wohl, welche Gründe dafür
+                    sprechen, Sie zum ord. Prof. in <rs type="org" ref="#org_0017">Prag</rs>
+                    zu befördern, und diese Gründe liegen mir gar sehr am Herzen. Ich werde sie auch
+                    geltend machen; würde ihnen aber den schlechtesten Dienst erweisen, wenn ich es
+                    eher versuchte, als bis ich mit Zuversicht erwarten kann, es mit Erfolg thun zu
+                    können. Ihre öster. Geschichte wird mir hoffentlich dabei wesentliche Dienste
+                    leisten, allein ich muß noch einige andere Umstände wahrnehmen, ehe ich davon
+                    Gebrauch machen kann. So bitte ich Sie denn lieber Professor, verlieren Sie
+                    nicht den Muth. Wer sich einer schwierigen Aufgabe gewidmet hat und dabei weder
+                    rechts noch links schauend, nach eigener Überzeugung vorwärts geht, hat immer
+                    größere Schwierigkeiten zu überwinden, als wer sein Benehmen nach anderen
+                    Rücksichten einrichtet, aber es kann eben jede wahrhaft gute Sache nur durch
+                    große Selbstaufopferung gefördert werden. Manche wenn ich so zu Ihnen spräche,
+                    würden wohl sagen: das ist eine sonderbare Rede für den öster. Min. des Unt.
+                    einem Mann gegenüber, dessen Leistungen seinen Intenzionen in vollem Maaße
+                    entsprachen! Allein ich habe nicht die Prätension, Ihnen zu dessen Charakter und
+                    Diskrezion ich volles Vertrauen habe, zu verhehlen, was Ihnen ohnehin
+                    begreiflich sein muß, daß ich auch in meinem <rs type="org" ref="#org_0005">Dep.</rs> kein
+                    allmächtiger Minister bin. Auch ich rechne mich zu denen, die ohne rechts und
+                    links zu schauen, nach eigener Überzeugung vorwärts gehen und lasse mir die
+                    Folgen davon gefallen. Das ermächtiget mich, denjenigen, denen ich Vertrauen
+                    schenke, von Geduld und Ausdauer zu sprechen, und dadurch auch von Ihnen einen
+                    hohen Grad von Vertrauen in Anspruch zu nehmen.</p>
+                <p>Mit aufrichtigen Gefühlen</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="tomek-vaclav-vladivoi">
+                        <persName>
+                            <surname>Tomek</surname>
+                            <forename>Václav Vladivoi</forename>
+                        </persName>
+                        <note>
+                            <p>Königgrätz 1818–1905 Prag</p>
+                            <p>Lehrer bei der Familie Šafařik, ab 1839 bei der Familie Palácký, ab 1850 Prof. für österreichische Geschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/117404845</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117404845</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="loewe-johann-heinrich">
+                        <persName>
+                            <surname>Loewe</surname>
+                            <forename>Johann Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1808–1892 Prag</p>
+                            <p>ab 1838 Prof. für Philosophie am Lyzeum in Salzburg, ab 1851 Prof. für Philosophie an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/159584345</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/159584345</tei:idno>
+                    </person>
+                <person xml:id="bruck-karl-ludwig">
+                        <persName>
+                            <surname>Bruck</surname>
+                            <forename>Karl Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Elberfeld 1798–1860 Wien</p>
+                            <p>1848 Mitglied der Frankfurter Nationalversammlung und Bevollmächtigter der österr. Regierung beim Reichsverweser, 1848–1851 Handelsminister, 1853–1855 österr. Internuntius in Konstantinopel, 1855–1860 Finanzminister, 1860 Selbstmord, Gründer des Österr. Lloyd</p>
+                            <p>http://d-nb.info/gnd/118857401</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118857401</tei:idno>
+                    </person>
+                <person xml:id="schwarzenberg-friedrich">
+                        <persName>
+                            <surname>Schwarzenberg</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1809–1885 Wien</p>
+                            <p>1836 Fürsterzbischof von Salzburg, ab 1842 Kardinal, ab 1850 Erzbischof von Prag</p>
+                            <p>http://d-nb.info/gnd/118763024</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118763024</tei:idno>
+                    </person>
+                <person xml:id="bippart-georg">
+                        <persName>
+                            <surname>Bippart</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Berka 1816–1892</p>
+                            <p>1842–1846 Direktor einer Privatschule in Eisenach, 1850 Prof. für klass. Philologie an der Universität Jena, 1852 Prof. für klass. Philologie an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/116188634</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116188634</tei:idno>
+                    </person>
+                <person xml:id="lange-ludwig">
+                        <persName>
+                            <surname>Lange</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Hannover 1825–1885 Leipzig</p>
+                            <p>ab 1850 Bibliotheksassistent, 1853–1859 Prof. für klass. Philologie an der Universität Prag, 1859–1871 Prof. an der Universität Gießen, ab 1871 Prof. an der Universität Leipzig</p>
+                            <p>http://d-nb.info/gnd/104123184</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104123184</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0017">
+                        <orgName>Universität Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
+                    </org>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

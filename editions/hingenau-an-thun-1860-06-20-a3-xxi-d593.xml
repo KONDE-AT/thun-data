@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="hingenau-an-thun-1860-06-20-a3-xxi-d593.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hingenau-an-thun-1860-05-11-a3-xxi-d583.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-farina-1860-02-11-a3-xxi-d561.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#hingenau-otto" role="sender:gelehrter">Otto
+                        Hingenau</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>o. O., <date when="1860-06-20">20. Juni
+                    1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D593</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Professor für Bergrecht an der Universität Wien, Otto Hingenau,
+                            übersendet dem Minister ein von Franz Foetterle verfasstes Gutachten,
+                            welches zur Orientierung bei der Gestaltung des Budgets für die
+                            Geologischen Reichsanstalt dienen soll. Gleichzeitig teilt er Thun mit,
+                            dass die geplante Fusionierung der Geologischen Reichsanstalt mit der
+                            Akademie der Wissenschaften auch in Deutschland diskutiert werde und Leo
+                            Thun bzw. die Geistlichkeit als Urheber der Zusammenlegung angesehen
+                            würden. Hingenau schreibt abschließend, dass er für Beratungen, wie die
+                            Zusammenlegung praktisch erfolgen könnte, zur Verfügung stehe.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Die im Brief erwähnte Beilage könnte das Gutachten über den Fortbestand
+                            der Geologischen Reichsanstalt von Franz Foetterle. Wien, 15. Juni 1860,
+                            sein. Dieses Gutachten ist im Nachlass unter <ref target="thun/thun-korrespondenz/tetschen/gutachten-gegen-aufloesung-geologische-reichsanstalt-von-foetterle-1860-06-19-a3-xxi-d591.xml">A3 XXI D591</ref> abgelegt.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#hingenau-otto">Otto Hingenau</rs>
+                    <date when="1860-06-20">20. Juni
+                    1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geologische Reichsanstalt</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Wie beiliegende Abschrift zeigt, macht die Annexirung der <rs type="org" ref="#org_0055">geologischen Reichsanstalt</rs> bereits
+                    Eindruck in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs>, leider, wie die angeröthelte Stelle
+                    vermuthen läßt, wird sie <hi rend="ul">Ihnen</hi> oder der Geistlichkeit
+                    zugemuthet, da sie doch von ganz anderer Seite ausgegangen ist. Ich halte es für
+                    meine Pflicht, Ihnen diesen Brief so wie jenes kleine Mémoire zu übersenden,
+                    welches Bergrath <rs type="person" ref="#foetterle-franz">Fötterle</rs>, der
+                    einzige der noch anwesenden Geologen, auf Ersuchen der Reichsräthe Baron
+                        <rs type="person" ref="#reyer-constantin">Reyer</rs> und <rs type="person" ref="#mayr-von-melnhof-franz">von Mayer</rs> denselben zur Orientirung
+                    für die Budgetfrage mitgetheilt hat.<note xml:id="note_1">
+                        <ref target="thun/thun-korrespondenz/tetschen/gutachten-gegen-aufloesung-geologische-reichsanstalt-von-foetterle-1860-06-19-a3-xxi-d591.xml">Dabei handelt es sich wohl um das Gutachten über den Fortbestand der
+                            Geologischen Reichsanstalt von Franz Foetterle, Wien, 15. Juni
+                            1860.</ref>
+                    </note> Ich habe Prof. <rs type="person" ref="#schroetter-franz-ferdinand">Schrötter</rs> sondirt, der als
+                    Generalsecretär der <rs type="org" ref="#org_0015">Academie der
+                        Wissenschaften</rs> nicht ohne Einfluß ist. Er hat eine ziemlich
+                    praktische Idee, um die allerhöchste Entschließung mit den Interessen der <hi rend="ul">Sache</hi> in Einklang zu bringen und ich wünschte, daß es in
+                    ähnlicher Art gelingen möge. Ein trauriges Zeugnis für unsere <rs type="org" ref="#org_0015">Academie</rs> ist es aber, daß der
+                    bloße Gedanke mit ihr vereinigt zu werden, als identisch mit <hi rend="ul">Vernichtung</hi> angesehen werden kann!! Und sie ist im Grunde doch besser
+                    als ihr Ruf!<lb/>Verzeihen Euer Excellenz, daß ich Sie mit derlei belästige,
+                    aber es könnte denn doch sein, daß Sie für sich Notiz davon nehmen wollten.</p>
+                <p>Euere Excellenz</p>
+                <p>ergebenster<lb/>Otto Hingenau</p>
+                <p>20. Juny [1]860</p>
+                <p>Ich fahre eben nach Kalksburg, komme aber abends nach Hause, daher ich eventuell
+                    zur Disposition stehe.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="hingenau-otto">
+                        <persName>
+                            <surname>Hingenau</surname>
+                            <forename>Otto Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Triest 1818–1872 Wien</p>
+                            <p>Jurist, 1840–1843 an der Bergakademie in Schemnitz, ab 1843 am Berggericht in Kuttenberg, 1845 am Oberbergamt in Leoben, ab 1846 bei der Hofkammer in Münz- und Bergwesen in Wien, ab 1848 als Bergsubstitut in Brünn, ab 1850 prov. Berghauptmann in Brünn, 1850–1865 Prof. des Bergrechts und der Nationalökonomie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/116896736</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116896736</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="foetterle-franz">
+                        <persName>
+                            <surname>Foetterle</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Mramotitz 1823–1876 Wien</p>
+                            <p>1847–1849 bergtechnischer Praktikant in Gmunden, ab 1849 bei der geologischen Reichsanstalt, ab 1856 Bergrat, ab 1867 erster Chefgeologe</p>
+                            <p>http://d-nb.info/gnd/179491075</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/179491075</tei:idno>
+                    </person>
+                <person xml:id="reyer-constantin">
+                        <persName>
+                            <surname>Reyer</surname>
+                            <forename>Constantin</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Mitglied des Reichsrates</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="mayr-von-melnhof-franz">
+                        <persName>
+                            <surname>Mayr von Melnhof</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Leoben 1810–1889 Leoben</p>
+                            <p>Industrieller, Mitglied des Reichsrat</p>
+                            <p>http://d-nb.info/gnd/137125526</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/137125526</tei:idno>
+                    </person>
+                <person xml:id="schroetter-franz-ferdinand">
+                        <persName>
+                            <surname>Schrötter</surname>
+                            <forename>Franz Ferdinand</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1736–1780 Wien</p>
+                            <p>Jurist und Historiker, Prof. an der Universität Wien, Begründer der österreichischen Staatsrechtslehre</p>
+                            <p>http://d-nb.info/gnd/11709899X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11709899X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0055">
+                        <orgName>k.k. geologische Reichsanstalt</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/37287-0</idno>
+                    </org>
+                <org xml:id="org_0015">
+                        <orgName>kaiserliche Akademie der Wissenschaften</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/110494894X</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

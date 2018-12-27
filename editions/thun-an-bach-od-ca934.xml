@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-bach-od-ca934.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca933.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca936.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</rs>, <date when="1850">[1850]</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Alexander Bach um eine Unterredung.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</settlement>
+                    <date>[1850]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerkonferenz</term>
+                </index>
+                <p>Verehrtester Collega!</p>
+                <p>Als ich heute Ihre Rückkehr aus der "Korrespondenz" erfuhr, wollte ich Sie eben
+                    um eine Unterredung – etwa heute Abend ersuchen. Nachdem mir nun – erst jetzt –
+                    Ihre Zeilen von gestern Früh zukommen, sende ich Ihnen beiliegend die
+                    gewünschten Akten. – Ist heute <rs type="org" ref="#org_0004">Ministerrath</rs>
+                    so werden die einschlägigen Fragen dabei ohnehin der Erörterung unterzogen
+                    werden müssen. Im Allgemeinen haben wir uns neulich schon verständigt. Sollte
+                    heute noch kein <rs type="org" ref="#org_0004">Ministerrath</rs> sein, – ich
+                    habe noch keine Einladung erhalten, – so bitte ich Sie mir sagen zu lassen, ob
+                    ich Sie Abends etwa zwischen 8 und 9 Uhr aufsuchen kann? Ich hoffe der Ausflug
+                    hat Ihnen gut angeschlagen.</p>
+                <p>Der Ihrige<lb/>Thun</p>
+                <p>Montag 12 Uhr.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bach-alexander">
+                        <persName>
+                            <surname>Bach</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Loosdorf 1813–1893 Unterwaltersdorf</p>
+                            <p>Juli und Okt. 1848 Justizminister, ab Juli 1849 Minister des Innern, 1859–1867 österr. Botschafter im Vatikan</p>
+                            <p>http://d-nb.info/gnd/118651455</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118651455</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0004">
+                        <orgName>Ministerrath</orgName>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

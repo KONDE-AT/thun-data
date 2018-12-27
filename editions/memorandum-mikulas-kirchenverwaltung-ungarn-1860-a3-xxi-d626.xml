@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-errichtung-ostadriatisches-kuestenkronland-od-a3-xxi-d655.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-neueinteilung-superintendenzen-1860-a3-xxi-d627.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen
+                    Kirchen in Ungarn<lb/>o. D. [1860]</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D626</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Sektionsrat Johann Mikulas schildert die Schwierigkeiten bei der
+                            Umsetzung des Patents vom 1. September 1859 und schlägt einige Maßnahmen
+                            vor, wie das Patent trotzdem umgesetzt werden kann. Zunächst betont er,
+                            dass das Patent in einer krisenhaften Zeit mit dem Ziel erlassen worden
+                            ist, die Situation in Ungarn zu beruhigen und gleichzeitig die
+                            evangelischen Kirchen stärker an die Krone zu binden. Die radikalen
+                            magyarischen Kräfte in Ungarn hatten das Patent daher abgelehnt und
+                            durch falsche Aussagen diskreditiert. Das Ministerium für Kultus und
+                            Unterricht war stets darum bemüht, die Kirchen einzubeziehen, um den
+                            Eindruck zu verhindern, das Gesetz sei oktroyiert worden. Aus diesem
+                            Grund war auch die Abhaltung von Distriktualkonventen erlaubt worden. Im
+                            Nachhinein hatte sich diese Erlaubnis jedoch als Fehler herausgestellt,
+                            da die oppositionellen Kräfte die Konvente zur Agitation gegen das
+                            Patent benutzten. Mikulas nennt einige der führenden Gegner des Patents.
+                            Schließlich verweist Mikulas auf die Erfolge des Ministeriums. Hierzu
+                            zählt er, dass es dem Ministerium gelungen ist, eine Gruppe von
+                            Anhängern für das Patent zu gewinnen. Außerdem konnten in zahlreichen
+                            Komitaten die Gemeinden neu organisiert werden. Abschließend äußert
+                            Mikulas seine Überzeugung, dass der Widerstand gegen das Patent
+                            letztlich nachlassen wird. Daher empfiehlt er, die Umsetzung des Patents
+                            konsequent fortzusetzen und keine Kompromisse einzugehen. Er plädiert
+                            außerdem dafür, die widerständigen Superintendenten und Senioren
+                            abzusetzen und im Gegenzug die loyalen Kräfte zu fördern. Ein wichtiger
+                            Schritt wäre aus seiner Sicht außerdem, das Referat für evangelische
+                            Schulfragen einem protestantischen Referenten zu übertragen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Ungarn</term>
+                    <term>Protestanten</term>
+                    <term>Protestantenpatent</term>
+                </index>
+                <p/>
+                <p>&lt;Promemoria von Mikulas&gt;<note xml:id="note_1">Eh. Notiz von Leo
+                        Thun.</note>
+                </p>
+                <p>Das allerhöchste Patent, welches in der evangelischen Kirchenverwaltung <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarns</rs> eine mit <hi rend="ul">strenger Ordnung</hi>
+                    gepaarte Freiheit zu begründen und die evangelische Kirche enger an den Staat
+                    anzuschließen beabsichtigt, ist nach einer großen Katastrophe, nach einer
+                    gewaltigen Bewegung der Geister in Ungarn, zu einer Zeit erschienen, wo die
+                    gefährlichsten Elemente noch in Gährung sich befanden, wo die kühnsten
+                    Erwartungen eines Umschwunges noch keine handgreifliche Täuschung erfahren haben
+                    und wo selbst die besseren Elemente an das Programm vom August 1859 sanguinische
+                    Hoffnungen knüpften, die nicht zur Erfüllung gelangt sind, und wohl auch nicht
+                    in Erfüllung gehen können. Nothwendigerweise mußte das kaiserliche Patent vom 1.
+                    September zu einer solchen Zeit von der ganzen großen Parthei, die auf ein
+                    selbstständiges, von der Centralgewalt möglichst unabhängiges, völlig
+                    magyarisiertes <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> speculiert, mit Schreck
+                    und Widerstreben entgegengenommen werden, denn es lag am Tage, daß durch diese
+                    kaiserliche Gabe, ein großer und höchst einflußreicher Theil der Bevölkerung
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarns</rs> befriedigt und für die
+                    Centralregierung gewonnen werden konnte. Je liberaler z. Th. der Inhalt dieses
+                    Patentes und der Verordnung vom 2. September vorigen Jahres ist, und je
+                    sichtbarer das Wohlwollen an vielen Orten im In- und Ausland zu Tage trat, mit
+                    dem jene kaiserliche That begrüßt wurde, desto eifriger that sich die von der
+                    ersten Betäubung sich erholende "nationale Partei" in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> - ohne Unterschied der Konfession – zusammen und bot,
+                    selbst von verbrecherischen Handlungen nicht zurückschreckend, alles mögliche
+                    auf, um die durch das Patent angebahnte Versöhnung zu vereiteln und das
+                    Mißtrauen, den Argwohn und die Unzufriedenheit des Volkes noch zu steigern. War
+                    unter solchen Constellationen die rasche und energische Durchführung des neuen,
+                    großentheils und provisorischen Gesetzes, im Oktober 1859 wohl möglich? Diese
+                    Frage mag bejahend oder verneind beantwortet werden, doch ist sie nunmehr eine
+                    müßige geworden, und es wird sich ebendarum damit kein praktischer Staatsmann
+                    befassen wollen. Sehr begreiflich war jedoch das Bestreben des <rs type="org" ref="#org_0005">Ministeriums</rs>, die
+                    Ausführung des allerhöchsten Patentes im weitesten Umfange der freien Thätigkeit
+                    oder Mitwirkung der evangelischen Kirchenkonvente selbst anheim zu stellen, weil
+                    ja die Besorgnis nicht ferne lag, man werde sonst im In- und Auslande das
+                    Septembergesetz als ein octroyiertes, die Autonomie der evangelischen Kirche
+                    vernichtendes verschreien. Denn in der That, nur die <hi rend="ul">Unmöglichkeit</hi>, ohne Herstellung eines provisorisch geordneten
+                    Zustandes die Synode mit Aussicht auf irgend einen Erfolg zusammentreten zu
+                    lassen, läßt die Verordnung vom 2. September im Großen und Ganzen als
+                    gerechtfertigt erscheinen. Noch bedenklicher wurde die Aktion der Regierung
+                    dadurch, daß die in subtilen Rechtsbegriffen nicht gewandte und die Noth der
+                    Umstände nicht übersehende evangelische Bevölkerung die Redlichkeit der Absicht
+                    leicht mißkennen konnte, weil die Regierung aus der seit 68 Jahren bewiesenen
+                    Passivität in den evangelischen Sachen heraustrat und zu einer dem Volke ganz
+                    neuen, überraschenden, unerhörten und für unmöglich gehaltenen Aktivität
+                    überging. Diese Rücksichten haben wohl die Regierung bewogen, die
+                    Distriktualkonvente auf der Basis eines durch das allerhöchste Patent behobenen
+                    Zustandes unbeschränkt und ohne vorherige Vorkehrungen – die doch nothwendig
+                    gewesen wären – zusammentreten und berathen zu lassen. Die Folgen sind bekannt.
+                    Die Opposition fand in diesen Konventen den Archimedespunkt, aus welchem das
+                    Volk bearbeitet, die Agitation organisiert, der Terrorismus in Thätigkeit
+                    gesetzt werden konnte. In diesen Konventen, die im Namen aller ohne Ausnahme
+                    gegen die Septembererlasse protestierten, fand man das wirksamste Mittel, die
+                    öffentliche Meinung und die Presse irrezuleiten, zu demoralisieren und gegen die
+                    Regierung zu kehren. Über den Erfolg erfreut wurden nun allenthalben und um
+                    jeden Preis Konvente gehalten, um "einen solchen öffentlichen Skandal
+                    hervorzubringen, der in ganz Europa ruchbar werde" und wer sich dem Willen der
+                    tobenden Fraktion nicht fügte, wurde moralisch gemißhandelt, besudelt und wie
+                        <rs type="person" ref="#bathory-gabriel">Báthori</rs> in <rs type="place" subtype="place" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Nagy
+                        Körös</rs> verfolgt.<lb/>So standen die Sachen im December, als das
+                        <rs type="org" ref="#org_0005"/>
+                    sich zu jener Abhilfe entschloß, die in der Verordnung vom 10. Jänner<note xml:id="note_2">Vgl. RGBl. 4/1860.</note> laufenden Jahres ihren Ausdruck
+                    gefunden hat. Diese Verordnung sammt Instruktion verfolgte sichtbar die
+                    folgenden Zwecke:<lb/>1. muß ein entschiedener Beweis dafür gegeben werden, daß
+                    die Regierung nicht schwanke, die Septembergesetze nicht aufgebe, sondern
+                    dieselben energisch durchzuführen entschlossen sei;<lb/>2. muß die Zusicherung
+                    ertheilt werden, daß die Verordnung vom 2. September nur Übergang, nur Brücke zu
+                    normalen Zuständen sei, die durch die Synoden abgebrochen wird, – mit anderen
+                    Worten, das Octroy muß desavouiert werden;<lb/>3. muß mit Nachdruck erwiesen
+                    werden, daß man es mit der Verheißung eines guten, naturgemäßen, evangelischen
+                    Kirchenregimentes ehrlich meine; daß die "Concessionen" nicht bloße
+                    Spiegelfechterei seien, daß man nicht täuschen und hinterher verführen, sondern
+                    redlich Wort halten werde.<lb/>4. muß die organisierte Opposition, die kompakte
+                    Fraktion, die sich durch die Konvente ausgebildet hatte, desorganisiert,
+                    zersetzt, zerbröckelt werden, ohne das Kirchenregiment unmöglich zu machen und
+                    ohne die Heranbildung von Centralpunkten, um die sich die besseren Elemente, die
+                    erst zu sammeln, ja erst zu schaffen waren, schaaren sollten, aus dem Auge zu
+                    verlieren;<lb/>5. muß die Koordinierung von unten nach aufwärts stufenweise
+                    betrieben werden, so daß die Phasen, welche die Organisierung durchmachen soll,
+                    vom Ministerium bestimmt, und nach Umständen abgekürzt oder in die Länge
+                    hinausgeschoben werden können; endlich<lb/>6. müssen die Unterbehörde angehalten
+                    werden, von dem Flunkern abzulassen, und mit Verständnis der Verhältnisse unter
+                        <hi rend="ul">wirklicher</hi> Leitung der Regierung zu wirken.<lb/>Wenn
+                    diese Hauptzwecke in der Verordnung vom 10/1 nicht klar genug hervortreten, so
+                    ist nicht außer Acht zu lassen, daß diese Vorschrift das Endergebnis eines
+                    Kompromisses ist. Doch ist der Geist, in dem seither die evangelische Frage
+                    behandelt wird, jenen Zwecken stets dienstbar gewesen.<lb/>Es ließ sich
+                    vorhersehen und ist auch in der That eingetroffen, daß die Fraktion jedes Mittel
+                    in Anwendung bringen werde, um die Wirksamkeit jener Verordnung zu lähmen. List
+                    und Gewalt wurden in Bewegung gesetzt. Zu allererst wurde in allen Kreisen das
+                    Gerücht, als positive Thatsache verbreitet, daß die Regierung sich gegenüber
+                    Seiner Kaiserlichen Majestät in großer Verlegenheit befinde, weil am
+                    Allerhöchsten Orte die Ansicht vorwalte, daß man sich mit den Führern der
+                    Opposition um jeden Preis verständigen müsse. Die Zeitungen brachten daher die
+                    Notiz, daß man der Widerrufung des Allerhöchsten Patentes stündlich
+                    entgegensehen dürfe. Hiedurch erschreckt verzagten unzählige Anhänger des
+                    Gesetzes und weigerten sich an das Werk der Koordinierung Hand anzulegen. Andere
+                    waren durch vorher gefaßte Konventsbeschlüsse umso mehr eingeschüchtert, als
+                    sich immer weiter die Kunde verbreitete, daß gerade diejenigen Männer, die in
+                    den Konventen (zu <rs type="place" subtype="place" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolz</rs> und <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>) verbrecherischen Widerstand gegen das Gesetz
+                    zum Beschluß erhoben hatten, in der Deputation, ja sogar an der Spitze der
+                    Deputation sich befinden, welche in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> um Widerrufung
+                    des Gesetzes petitionierte und angeblich an hohen und höchsten Stellen äußerst
+                    huldreich und leutselig empfangen wurde. Am höchsten steigerte sich die Noth,
+                    als es offenkundig wurde, daß die Führer der Deputation zum zweitenmale nach
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> sich begaben, angeblich um eine Verständigung
+                        <hi rend="ul">bezüglich</hi> des Patentes, nicht auf Grundlage desselben,
+                    herbeizuführen.<lb/>Der Ministerialerlass vom 5. Februar konnte den Kern dieses
+                    Factums nicht in Abrede stellen, und durfte nur die Beruhigung gewähren, daß es
+                    sich (vorderhand) nur um Modifikationen der Durchführung handle. Es mußte sonach
+                    Anlaß gesucht oder – genommen werden, um die beunruhigten Gemüthes wirksamer zu
+                    beschwichtigen. Dies geschah zu allererst mittelst privater Beantwortung der von
+                    vielen Seiten hieher gelangenden Anfragen. Hiedurch aufgeklärt und ermuthigt
+                    fassten nicht wenige evangelische Senioren sich das Herz, und trugen bei Seiner
+                    Apostolischen Majestät ihre allerunterthänigsten Bitten um Aufrechterhaltung des
+                    kaiserlichen Patents und der Verordnung vom 2. September schriftlich vor. Andere
+                    erschienen persönlich in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, um sich tröstliche
+                    Information zu holen und dann zu Hause in guter Richtung Propaganda zu machen.
+                    Die allerunterthänigsten Majestätsgesuche legten dem <rs type="org" ref="#org_0005"/>
+                    hinwieder[?] die Verpflichtung auf, den wahren Sachverhalt nochmals im
+                    Circularerlasse zu beleuchten. Inzwischen sind auch die Pauschalien durch die
+                    Gnade Seiner Majestät flüssig gestellt worden, welche Thatsache ebenfalls in der
+                    Ansicht bestärken mußte, daß die Regierung – ungeachtet der gegentheiligen
+                    Versicherungen der Agitatoren und besonders des Protestans egyházi és iskolai
+                    lap – doch entschlossen sei, die Verheißungen zu verwirklichen. Als nun die
+                    Opposition einsah, daß ihre Zänke den erhofften Erfolg nicht haben, so ergriff
+                    sie das Mittel der offenen Aneiferung zum Widerstand, der Bedrohung und der
+                    Verfolgung. Es wurden demnach von <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> aus Sendschreiben,
+                    "Orientierungsschreiben" nach allen Gegenden verbreitet – enthaltend die
+                    Weisung, daß der Widerstand potenciert werden müsse, daß man die Verordnung der
+                    Regierung nicht annehmen, nicht verlautbaren, nicht befolgen dürfe. Wer es
+                    demnach thäte, wurde und wird, mit Hinweisung auf Konventsbeschlüsse, als
+                    Eidbrüchiger und Verräther seines kirchlichen Amtes verlustig erklärt. Daß dies
+                    nicht leere Drohung ist, beweist das Schicksal des reformierten Coadjutors,
+                    Curators, <rs type="person" ref="#szentpaly-ladislaus">Ladislaus von
+                    Szentpaly</rs>, des reformierten Pfarrers in
+                        <rs type="place" subtype="place" ref="#place_8f244eef35ba8f636d2ad56d0a0fb674">Börvely</rs> und des lutherischen Pfarrers [?] in
+                        <rs type="place" subtype="place" ref="#place_333462b4b3c732b0e23792ec5d9fca55">Nyíregyháza</rs> u.a. Das Ministerium hat für alle diese
+                    Umtriebe und Gewaltthätigkeiten unwiderlegliche Beweise hergestellt, und hat
+                    rastlos dahin gestrebt, daß einer solchen Agitation, zumal wenn sie – wie im
+                    Stuhlbezirk <rs type="place" subtype="place" ref="#place_a403c190ba77debc8762a40bd4fe8987">Margita</rs>, in
+                        <rs type="place" subtype="place" ref="#place_75a38b27f4e31f98f3e1168d84f98703">Békés</rs> und an andern Orten durch Emissare betrieben
+                    wird, kräftigst entgegengetreten werde. Jedoch ist der Erfolg ein den gerechten
+                    Erwartungen nicht entsprechender. Denn wiewohl das <rs type="org" ref="#org_0013">Justizministerium</rs>, die
+                    Staatsantwaltschaft und die Gerichtsbehörden, mit äußerst wenigen Ausnahmen.
+                    (Prozeß gegen Ráday etc. in <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>) die verbrecherischen
+                    Handlungen mit rastlosem Eifer und mit der rühmlichsten Berufstreue der Ahndung
+                    zuführen, so liegt es gleichwohl in der vorgeschriebenen Procedur, daß die
+                    Angeklagten und Verurtheilten die Vollstreckung des Straferkenntnisses sehr weit
+                    hinausschieben können, so daß bis auf den heutigen Tage noch kein einziges
+                    Straferkenntnis zum Vollzug gelangt ist. Ein Umstand der die Agitation
+                    außerordentlich ermuthigt. Die Gerichtsbehörden klagen jedoch auch über die
+                    Langsamkeit und Lauheit der politischen Organe und es kann nicht verschwiegen
+                    werden, daß diese Organe an vielen Orten nicht nur der guten Sache sich nicht
+                    annehmen, sondern sogar gegen die Regierung agitieren, wie der Stuhlrichter
+                    Szártko in B. Csaba, der Bürgermeister Tregjas und Stuhlrichter Tatás in
+                    Nyíregyháza, ja selbst der dortige Komitatsvorstand Göeröri [?], oder wie die
+                    Montanbeamten in <rs type="place" subtype="place" ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</rs>. Weiters ist nicht mit
+                    Stillschweigen zu übergehen, daß die Administratoren der lutherischen
+                    Superindentenzen eine vollständige Apathie an den Tag legten, ja zum Theil gegen
+                    das allerhöchste Patent wirkten, und daß die reformierten Superintendenten
+                    insgesammt im Zustande der vollsten Auflehnung gegen die Autorität des Staates
+                    sich befinden. Auch darf nicht vergessen werden, daß die politischen Zeitungen,
+                    die meistens von Wühlerei leben, insgesammt gegen die Regierung Chores machten.
+                    Doch alle diese Journale wurden an Bosheit, Lüge und Forschheit vom Protestans
+                    egyházi és iskolai lap überboten, an dessen Spitze der getaufte und
+                    magyarisierte Jude Moritz Bloch (<rs type="person" ref="#ballagi-maurus">Ballagi</rs>) in Gesellschaft eines <rs type="person" ref="#szekacs-josef">Szekács</rs> und eines <rs type="person" ref="#toeroek-paul">Török</rs>
+                    steht. Wenn man sich von der brandstifterischen Thätigkeit dieses Blattes einen
+                    Begriff machen will, so sehe man z.B. die Nr. 8 1860 durch, – man lese den
+                    Leitartikel von <rs type="person" ref="#lonyay-meinhardt">Meinhard Lónyay</rs>,
+                    dann die Notiz aus <rs type="place" subtype="place" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debrezin</rs> über die dem
+                    Senior <rs type="person" ref="#balogh-peter">Peter Balogh</rs> dargebrachten
+                    Ovationen, die Notiz aus <rs type="place" subtype="place" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburg</rs> über
+                    den dortigen Gustav Adolf Verein, die Nachrichten aus
+                        <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> über die Beschlüsse der Kirchengemeinde, die
+                    Empfehlung der "Geschichte Ungarns" von dem flüchtigen Bischof Dr. <rs type="person" ref="#horvath-michael">Michael Horváth</rs>. Oder man nehme die neueste
+                    Nr. 13 zur Hand, in der man eine schwungvolle Darstellung der bei Baron
+                        <rs type="person" ref="#pronay-gabriel">Gabriel Prónay</rs> in
+                        <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> stattgefundenen, gegen das Patent gerichteten
+                    Demonstration, und eine prahlerische Darstellung der Wichtigkeit und des Glanzes
+                    finden wird, welche die Redaktion dem unter Vorsitz des <rs type="person" ref="#lonyay-meinhardt">Lónyay Menyhért</rs> am 29. März in
+                        <rs type="place" subtype="place" ref="#place_75a38b27f4e31f98f3e1168d84f98703">Békés</rs> abzuhaltenden, auf das nachdrücklichste <hi rend="ul">verbotenen</hi>, reformierten Senioratskonvents beimißt. Solche
+                    Artikel, Notizen, und Frechheiten erscheinen in der periodischen Presse, in der
+                    Stadt <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, ungeahndet, unbeanstandet!!<lb/>Dies ist nur
+                    eine cursorische Darstellung der enormen Schwierigkeiten, die das <rs type="org" ref="#org_0005">Cultusministerium</rs> zu
+                    überwinden hat.<lb/>Und welche Kräfte standen ihm zu Gebote? Es hatte und hat
+                    mit keiner einzigen Zeitung zu disponieren, hat keinen einzigen evangelischen
+                    Referenten zur Verfügung, so daß die evangelischen Schulangelegenheiten bis
+                    heute im katholischen Departement belassen werden mußten, es hat keinen Gulden
+                    um die Aufklärung des irregeleiteten, mit tollen Gerüchten vergifteten Volkes zu
+                    fördern, oder um denjenigen, die lediglich im Interesse der Regierung enorme
+                    pekuniäre Verlußte erleiden (wie <rs type="person" ref="#hornyanszky-viktor">Hornyánszky</rs>) eine Entschädigung zu gewähren, oder ihnen, wenn
+                    Sie im Interesse der Regierung reisen (wie <rs type="person" ref="#hornyanszky-viktor">Hornyánszky</rs>, <rs type="person" ref="#hurban-josef">Hurban</rs> und
+                    eventuell <rs type="person" ref="#kuzmany-karl">Kuzmány</rs>) die Kosten zu
+                    vergüten.<lb/>Was hat das <rs type="org" ref="#org_0005">Ministerium</rs> demnach seit December vorigen Jahres ungeachtet
+                    dessen geleistet, daß – wie ein jeder der die Augen hoffen hält, sehen muß –,
+                        <rs type="place" subtype="place" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> im moralischen Sinne, ja sogar mehr als in
+                    diesem Sinne, durch und durch verwühlt[?], verhetzt und systematisch
+                    revolutioniert ist?<lb/>Das Ministerium hat sich zunächst die Unterstützung der
+                    einflußreichsten evangelischen Männer und Organe <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs>, eines <rs type="person" ref="#schenkel-daniel">Schenkl</rs>, <rs type="person" ref="#">Stephani</rs>, <rs type="person" ref="#zimmermann-karl">Zimmermann</rs>, <rs type="person" ref="#lechler-gotthard">Lechler</rs>, <rs type="person" ref="#hoffmann-wilhelm">Hofmann</rs> etc. der Darmstädter allgemeinen Kirchenzeitung, der
+                    neuen evangelischen Kirchenzeitung, der neuen evangelischen Kirchenzeitung in
+                        <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs> (Organ des Bundes), des badischen
+                    Kirchenblattes usw. derart zu sichern gewußt, daß obwohl durch ganz
+                        <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> das tiefste Mißtrauen gegen <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> verbreitet ist, die evangelische
+                    Presse Deutschlands dennoch <hi rend="ul">bis heute</hi> für die Absichten des
+                        <rs type="org" ref="#org_0005">Ministeriums</rs>
+                    thätig ist.<lb/>Das Ministerium hat ferner bewirkt, daß das Evangelische
+                    Wochenblatt in <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> fest und unverrückt für das Patent
+                    einsteht.<lb/>Daß Männer wie <rs type="person" ref="#kolbenheyer-moritz">Kolbenheyer</rs>, <rs type="person" ref="#bauhofer-andreas">Bauhofer</rs>, Válka [?], die früher zur äußersten Linken gehörten,
+                    nunmehr offen für die Regierung sich aussprechen; daß <rs type="person" ref="#hornyanszky-viktor">Hornyanszky</rs>, <rs type="person" ref="#szeberinyi-johann">Johann Szeberinyi</rs> und besonders Pfarrer
+                        <rs type="person" ref="#podhradsky-josef">Josef von Podhradsky</rs> in
+                        <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> Abhandlungen schrieben, die zur Durchführung des
+                    Patentes unberechenbares beitragen, und schon in mehr als 12.000 Exemplaren
+                    verbreitet sind; daß durch direkte Einwirkung des <rs type="org" ref="#org_0005">Ministeriums</rs> eine
+                    slawische evangelische Kirchenzeitung in <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> gegründet
+                    ist, (ein Unternehmen, das sonst <hi rend="ul">immer</hi> fehlschlug) die
+                    zahlreichen Abnehmer findet, und bisher in <hi rend="ul">jeder</hi> Nummer Dank,
+                    Segen und Unterthanentreue für den so gütigen und so edlen Kaiser athmet. Das
+                    Ministerium hat unter den Evangelischen der Regierung eine geschlossene und
+                    disziplinierte Partei geschaffen, die unter Verfolgungen und den Dornen eines
+                    wahren Martyriums standhaft zu ihm steht, und gegen die Revolution und den
+                    Magyarismus beharrlich Fronte macht.<lb/>Frage: ist es wohl der Regierung seit
+                    1848 in irgend einer Sache gelungen, sich eine Partei zu bilden, und wenn diese
+                    auch nur aus 50 Männern hätte bestehen sollen?<lb/>Das <rs type="org" ref="#org_0005"/> hat eine
+                    energische Leitung der lutherischen Superintendenzen <rs type="place" subtype="place" ref="#place_0501e2c4b485250398d1888c0183d808">Verbasz</rs> [Vrbas], <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburg</rs>, <rs type="place" subtype="place" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperies</rs> [Prešov],
+                        <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> hergestellt und hat Vorkehrungen getroffen, in
+                    dieser Richtung ohne Säumnis weiter vorzugehen.<lb/>Das <rs type="org" ref="#org_0005"/> hat das
+                    Vertrauen auf die Festigkeit und das Wohlwollen der Regierung gehoben und
+                    dadurch bewirkt, daß unter den allerschwierigsten Umständen das Werk der
+                    Koordinierung sehr bedeutende Fortschritte machte.<lb/>Welche?<lb/>In der
+                        <rs type="place" subtype="place" ref="#place_0501e2c4b485250398d1888c0183d808">Neu Verbászer</rs> Superintendenz sind bis 17.
+                    März, mit Ausnahme von 2, alle übrigen Gemeinden koordiniert gewesen. Die
+                    Organisierung der Seniorate und der Superintendenz steht in 2–3 Wochen
+                    bevor.<lb/>Die <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendenz
+                    zählt 11 Seniorate.<lb/>Das <rs type="place" subtype="region" ref="#place_ae5cb88e76362d21758aaa31b40e5bb3">Arver</rs> ist mit allen 12
+                    Gemeinden bereits vollständig koordiniert, das <rs type="place" subtype="place" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptauer</rs> [Liptov] zählt 13 Gemeinden wovon nach <hi rend="ul">amtlichen</hi> Berichten – 6 schon <hi rend="ul">längst</hi> koordiniert
+                    waren.<lb/>Das <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Stadtseniorat
+                    zählt 3 Gemeinden, hiervon ist 1 koordiniert.<lb/>Das <rs type="place" subtype="region" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs> hat 21 Gemeinden, wovon 19 und
+                    bereits auch das Seniorat koordiniert ist.<lb/>Das <rs type="place" subtype="region" ref="#place_db7bb6884294b5d58ba1c38b5d593888">Bacser</rs> hat 5 Gemeinden, hiervorn sind 2 koordiniert, und demnächst
+                    wird Leverz nachfolgen.<lb/>Das <rs type="place" subtype="region" ref="#place_8d3cabcc7c52722a2f5924dcd90b01c6">Trencsiner</rs>
+                    zählt 14 Gemeinden, von diesen sind 9 längst koordiniert<lb/>das <rs type="place" subtype="region" ref="#place_b0178c876040518dcb1b994bb586f39d">Thuróczer</rs> 12, wovon 6, nach anderen Nachrichten 7
+                    koordiniert.<lb/>Das <rs type="place" subtype="region" ref="#place_f54e0f65118d0e897c7ab8d9b1140234">Honther</rs> 30, wovon nach
+                    amtlichen Berichten 17, nach anderen Nachrichten 25 koordiniert sind.<lb/>Das
+                        <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Comitatsseniorat zählt 15
+                    Gemeinden, von denen 13 koordiniert.<lb/>Das <rs type="place" subtype="region" ref="#place_f90a9311387c69b31f948405b0a6777b">Neográder</rs> 41, von denen laut Registern nur 4, laut Mittheilungen
+                    aber 21 koordiniert sind.<lb/>Das <rs type="place" subtype="region" ref="#place_5ad7de84a84805746cf4d7f7f90cdbff">Sohler</rs> zählt 20
+                    Gemeinden, von denen – nach Angaben des Seniorats – bisher 14 vollständig
+                    koordiniert sind.<lb/>Sieht man aber von den Privatmittheilungen gänzlich ab,
+                    und zieht man nicht in Betracht, daß die Anzeigen sich immer um 3 Wochen
+                    verspäten, so ist doch vollkommen sichergestellt, daß die Regierung in den
+                    Senioraten <rs type="place" subtype="region" ref="#place_ae5cb88e76362d21758aaa31b40e5bb3">Arvas</rs>, <rs type="place" subtype="region" ref="#place_2cfe62b9921fa114fb63229c0241dafc">Neutra</rs>, <rs type="place" subtype="region" ref="#place_8d3cabcc7c52722a2f5924dcd90b01c6">Trerczin</rs>, <rs type="place" subtype="region" ref="#place_f54e0f65118d0e897c7ab8d9b1140234">Hont</rs>,
+                    Comitat <rs type="place" subtype="region" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburg</rs>, <rs type="place" subtype="region" ref="#place_5ad7de84a84805746cf4d7f7f90cdbff">Sohl</rs>, die überwiegende Majorität hat, daß <rs type="place" subtype="region" ref="#place_b0178c876040518dcb1b994bb586f39d">Thurócz</rs>, <rs type="place" subtype="region" ref="#place_9441d7d7d74728b472c3b4f72fb3dcdd">Liptau</rs> und selbst <rs type="place" subtype="region" ref="#place_f17c90bf404977cc1b7165e1ca91b2a1">Bacs</rs>
+                    sich neutralisieren. Folglich ist die Regierungsmajorität im schlechtesten Falle
+                    wie 6 zu 2. In der <rs type="place" subtype="place" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperieser</rs> Superintendenz sind 7
+                    Seniorate:<lb/>Im Klein-Honthes sind von 15 – 7. Nach anderer Mittheilung 8
+                    koordiniert.<lb/>Im Siebenbergstädter mit 1 Ausnahme alle,<lb/>Im
+                        <rs type="place" subtype="region" ref="#place_09d5b0c9a323c6bb4a933c9d8ead9166">Gömöres</rs> von 40 Gemeinden bisher 17.<lb/>Im <rs type="place" subtype="region" ref="#place_f55254df8a847e9285fc46ba3e42fa8b">Sáros-Zempliner</rs> von 19 Gemeinden 4.<lb/>Im 13 Städter
+                    von 15 – 2.<lb/>Im Seniorate der 6 Freistädte und in Subkarpatischen bisher
+                    keine.<lb/>Man kann jedoch darauf mit Sicherheit rechnen, daß wo einmal der
+                    Anfang gemacht ist, der Fortschritt immer zunehmen wird. Denn die einzelnen
+                    Pfarrer und Gemeinden erwägen sehr genau die Umstände und die Stimmung bevor sie
+                    an die Koordinierung Hand anlegen. Es steht daher zu erwarten, daß vier
+                    Seniorate, d.h. die Majorität der Superintendenz auf der Seite der Regierung
+                    stehen werden. Dies in einer Superintendenz, welche im Käsmarker Konvente so
+                    einhellig und einstimmig gegen das Patent protestiert hat!!<lb/>In den übrigen 3
+                    lutherischen Superintendenzen dagegen sind die Fortschritte zwar nicht so
+                    erfreulich, aber es sind doch immerhin Fortschritte. So sind in der <rs type="place" subtype="region" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburger</rs>
+                    <hi rend="ul">bisher</hi> koordiniert.<lb/>Die Freistadt
+                        <rs type="place" subtype="place" ref="#place_f5e265d607cb720058fc166e00083fe8">Rust</rs>.<lb/>Im <rs type="place" subtype="place" ref="#place_dee98a409c92d6df15b591129534021e">Veszprimer</rs> [Veszprém] Seniorate 4 Gemeinden, – auch
+                        <rs type="place" subtype="place" ref="#place_f6485bf868724d28d5c86117ae8e3adc">Oberschützen</rs>, <rs type="place" subtype="place" ref="#place_aa2b10ccf3b646e0b88925144c07b6c9">Pinkafeld</rs> und
+                        <rs type="place" subtype="place" ref="#place_f6aa495e34977404dfb971393cdba2b7">Alhau</rs>.<lb/>Im <rs type="place" subtype="place" ref="#place_5b102f0c1880d8390d1a5b8f6868c51e">Ober-Eisenburger</rs> [?], im Mitteleisenburger Hodos, im
+                    Ober-Oedenburger <hi rend="ul">alle</hi>.<lb/>Im Sämeghes Ligrád [?].<lb/>In der
+                    Pester Superintendenz die slawische Gemeinde in <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>,
+                    dann <rs type="place" subtype="place" ref="#place_d4dd361519676af4280e8accc235d3ba">Egyháza</rs> und <rs type="place" subtype="place" ref="#place_50f75150380b0cde9d36a31aa701cce5">Tordas</rs>.<lb/>In
+                    der <rs type="place" subtype="place" ref="#place_d7f804208c8417bfc76a3b058c98a5f2">Szarvaser</rs> Superintendenz bisher 6
+                    Gemeinden.<lb/>Es muß jedoch ausdrücklich bemerkt werden, daß jeder Tag diese
+                    Berechnung zu Gunsten der Regierung verändert.<lb/>Unter den Reformierten machte
+                    die Koordinierung bisher geringe Fortschritte. Außer den Gemeinden in der
+                    Militärgrenze und im <rs type="place" subtype="place" ref="#place_52d08ce39e6c067f42a0366f2239f7c8">Neu-Satzer</rs> [Novi Sad]
+                    Kreise sind nur wenige, wie [?], <rs type="place" subtype="place" ref="#place_a2579de70254b8fbc9116eb8a259e612">Medina</rs> sporadisch
+                    konstituiert.<lb/>Das aber ist nicht zu verkennen, daß die Reformierten sich
+                    bereits auf die Defensive beschränkt sehen.<lb/>Was hat nun nothwendig und
+                    dringend zu geschehen, um den Sieg zu sichern?<lb/>1. Man lasse sich ja nicht
+                    dazu bewegen, die Fristen der Verordnung vom 10/1 zu verlängern, denn dadurch
+                    würde der schwer hergestellte Glaube an die Festigkeit der Regierung gänzlich
+                    erschüttert werden.<lb/>2. Man lasse alle Folgen jener Verordnungen unbedingt
+                    eintreten.<lb/>3. Man verhindere allenthalben und um jeden Preis die fernere
+                    Abhaltung von Superintendential-Konventen nach der alten Eintheilung und
+                    Zusammensetzung.<lb/>4. Man löse in sofern es praktisch möglich ist, auch die
+                    Senioralkonvente, die verboten sind, auf.<lb/>5. Man untersage nicht absolut und
+                    im allgemeinen die Lokalkonvente, sondern warte noch ab, wie sich die Agitation
+                    gestalten werde.<lb/>6. Man schiebe die notorischen Aufwiegler von ihrem
+                    Tummelplatz ab, und weise den agitierenden Advokaten einen anderen Sprengel
+                    an.<lb/>7. Man dulde nicht, daß die Rebellion, die sich hinter dem Altar
+                    versteckt, unbestraft ihr Geschäft treibe, im Gegentheil man bestrafe
+                    unverzüglich diejenigen Senioren und Superintendenten, die sich gegen die
+                    Staatsgewalt offen auflehnen. Im Falle sie dabei beharren, enthebe man sie ihres
+                    Amtes.<lb/>8. Man setze diejenigen kaiserlichen Beamten ab, die mit den
+                    Agitatoren gemeinsame Sache machen.<lb/>9. Man setze den Wühlereien der
+                    Zeitungen, besonders des egyházi és iskolai lap ein Ziel, und begründe je eher
+                    ein magyarisches Kirchenblatt mit loyaler Tendenz in
+                        <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>-<rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs>.<lb/>10. Man
+                    schütze, entschädige und belohne diejenigen, die für die Regierung leiden, Opfer
+                    bringen und sich abmühen.<lb/>11. Man kräftige das Nationalgefühl der Slawen und
+                    Deutschen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, weil sie gegen die Revolution
+                    wirken.<lb/>12. Man stelle jährlich mindestens 10.000 Gulden dem <rs type="org" ref="#org_0005"/> C &amp; M
+                    zur Verfügung, um jene Zwecke zu fördern, Reisekosten zu bestreiten
+                    usw.<lb/>Spart man in diesem Momente oder betreibt man die Dinge lau, so wird
+                    man den 300.j[ährigen] Prozess gegen <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> verlieren, und
+                    man würde einmal wenn es zu spät sein wird, 100 Millionen gern opfern um das
+                    Geschehene ungeschehen zu machen.<lb/>13. Man bringe die Kirchenfrage im
+                    Consistorialsprengel und bei den Evangelischen A.C. in
+                        <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> binnen 4 Wochen zur Lösung.<lb/>14. Man
+                    übergebe die evangelischen Cultus und Schulangelegenheiten überall und
+                    ausnahmslos evangelischen Referenten.<lb/>Warum?<lb/>Erstens darum, weil man
+                    ein Referat verstehen muß, wenn man es nicht zum öffentlichen Skandal führen
+                    will, wie die Erfahrung beweiset. Es fällt niemandem ein, sich durch den
+                    Schuster einen Frack nähen zu lassen, und doch würde diese Probe weit besser
+                    ausfallen, als das Referat in Evangelicis, das sich in unkundigen Händen
+                    befindet. Wer dies niederschreibt, darf die Beweise, wenn sie gefordert würden,
+                    nicht schuldig bleiben. Ein höchst wichtiger Faktor der Koordinierung ist das
+                    Schulwesen, aber man muß den Hebel bewegen können. Man glaubt, daß man
+                    verläßlichere, loyalere Referenten hat, wenn man nicht Protestanten dazu
+                    anstellt. Man irrt sich aber groß, und man ernthet durch diese Saat nur
+                    Compromission.<lb/>Zweitens aber und hauptsächlich darum, weil Seine Majestät
+                    der Kaiser feierlich die Zusage gemacht haben, das evangelische Referat in
+                    evangelische Hände allergnädigst niederlegen zu wollen. <hi rend="ul">Nur</hi>
+                    auf diese Zusage vertrauend ist das evangelische <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs>,
+                    und jene Partei, zu der auch der Verfasser dieses flüchtigen Memorandum's
+                    gehört, für die Septembergesetze in die Schranken getreten. Geht sie nicht in
+                    Erfüllung so bleibt dort und hier nichts übrig als <hi rend="ul">offen</hi> zu
+                    erklären, daß man bona fide geglaubt habe, aber getäuscht worden sei. Denn man
+                    weiß es hüben wie drüben, daß die Septembererlasse 1859 für die Protestanten
+                    decidierte Nachtheile bringen, wenn jenes Versprechen nicht in Erfüllung geht.
+                    Es hätte dieses Wort schon im Herbste eingelöst werden sollen, dann stünde es
+                    mit der Koordinierung anders, und die Anfänge des Gesetzes befänden sich nicht
+                    in der bittersten Verlegenheit. Man wartete aber und wartet noch dum defluat
+                    amnis und setzt sich der Gefahr tagtäglich aus, vom evangelischen
+                        <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> in der öffentlichen Meinung <hi rend="ul">vernichtet</hi> zu werden. Man schickt diejenigen, die für die
+                    Nichtbefolgung des Patentes sprechen, ins Gefängnis, dispensiert sich aber
+                    selbst von der Respektierung des selbst gebrachten Gesetzes. Man rechtfertigt
+                    den Prof. L. der zu H. sagte: "Beweisen sie mir, daß die Regierung ein einziges
+                    mal Wort gehalten hat, und ich verpflichte mich Ihnen alles zu glauben." Wer
+                    kann aber die Regierung zwingen, ihren eigenen Vortheil zu wahren? Niemand. Sie
+                    kann ihr Versprechen unerfüllt lassen, sie kann sogar über den Häuptern
+                    derjenigen, die ihre ganze Reputation für sie in die Schanze geschlagen haben,
+                    der Opposition die Hand zum Frieden reichen und ihre Anhänger und Diener zu
+                    "Sündenböcken" stempeln. Das würde unstreitig eine Beruhigung von heute auf
+                    morgen gewähren. Allein nicht der schärfsten Fernsicht wird es dann gelingen, in
+                    der Zukunft einen Zeitpunkt zu entdecken, wo man geneigt sein würde, nochmal
+                    Glauben zu schenken.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="bathory-gabriel">
+                        <persName>
+                            <surname>Báthory</surname>
+                            <forename>Gabriel</forename>
+                        </persName>
+                        <note>
+                            <p>1589–1613</p>
+                            <p>1608–1613 Fürst von Siebenbürgen</p>
+                            <p>http://d-nb.info/gnd/118966480</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118966480</tei:idno>
+                    </person>
+                <person xml:id="szentpaly-ladislaus">
+                        <persName>
+                            <surname>Szentpaly</surname>
+                            <forename>Ladislaus</forename>
+                        </persName>
+                        <note>
+                            <p>*1792)</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="ballagi-maurus">
+                        <persName>
+                            <surname>Ballagi</surname>
+                            <forename>Maurus</forename>
+                        </persName>
+                        <note>
+                            <p>1815–1891 Pest</p>
+                            <p>Prof. der Theologie an der Universität Pest, Redakteur des "Protestantischen Kirchen- und Schulblattes"</p>
+                            <p>no gnd provided</p>
+                            <p>(eigentlich Moritz Bloch)</p>
+                        </note>
+                    </person>
+                <person xml:id="szekacs-josef">
+                        <persName>
+                            <surname>Székács</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Drosháza 1809–1876 Pest</p>
+                            <p>evang. Pfarrer, ab 1837 Prediger der evang. Pfarrgemeinde in Pest, Förderer des Schulwesens</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="toeroek-paul">
+                        <persName>
+                            <surname>Török</surname>
+                            <forename>Paul</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>reformierter Superintendent</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="lonyay-meinhardt">
+                        <persName>
+                            <surname>Lónyay</surname>
+                            <forename>Meinhardt</forename>
+                        </persName>
+                        <note>
+                            <p>1822–1884</p>
+                            <p>Adeliger und Politiker, ab 1843 Mitglied des ungar. Landtags, 1848 Unterstaatssekretär im Finanzministerium, ab 1867 Finanzminister</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="balogh-peter">
+                        <persName>
+                            <surname>Balogh</surname>
+                            <forename>Peter</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Superintendent in Ungarn</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="horvath-michael">
+                        <persName>
+                            <surname>Horváth</surname>
+                            <forename>Michael</forename>
+                        </persName>
+                        <note>
+                            <p>Szentes 1809–1878 Karlovy Vary</p>
+                            <p>Historiker und Theologe, 1844 Prof. der ungarischen Sprache und Literatur am Theresianum in Wien, ab 1848 Bischof von Csanád</p>
+                            <p>http://d-nb.info/gnd/117011568</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117011568</tei:idno>
+                    </person>
+                <person xml:id="pronay-gabriel">
+                        <persName>
+                            <surname>Prónay</surname>
+                            <forename>Gabriel</forename>
+                        </persName>
+                        <note>
+                            <p>*1812</p>
+                            <p>Generalinspektor der evangelischen Kirche in Ungarn</p>
+                            <p>http://d-nb.info/gnd/136351190</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/136351190</tei:idno>
+                    </person>
+                <person xml:id="hornyanszky-viktor">
+                        <persName>
+                            <surname>Hornyánszky</surname>
+                            <forename>Viktor</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Redakteur und Zeitungsherausgeber</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="hurban-josef">
+                        <persName>
+                            <surname>Hurban</surname>
+                            <forename>Jozef Miloslav</forename>
+                        </persName>
+                        <note>
+                            <p>Beckov 1817–1888 Hlboké b. Senica</p>
+                            <p>Schriftsteller, Journalist und Politiker, erster Vorsitzender des ersten Slowakischen Nationalrats und einer der Anführer des Slowakischen Aufstandes 1848/49</p>
+                            <p>http://d-nb.info/gnd/119552639</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119552639</tei:idno>
+                    </person>
+                <person xml:id="kuzmany-karl">
+                        <persName>
+                            <surname>Kuzmány</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Brezno 1806–1866 Turčianske Teplice</p>
+                            <p>ab 1829 Lehrer am evang. Gymnasium in Kežmarok, 1830–1832 Pfarrer in Zvolen, 1832–1849 Pfarrer in Banská Bystrica, 1849–1863 Prof. für Praktische Theologie und Kirchenrecht an der evang.-theol. Lehranstalt in Wien, ab 1860 Superintendent in Preßburg</p>
+                            <p>http://d-nb.info/gnd/121675211</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/121675211</tei:idno>
+                    </person>
+                <person xml:id="schenkel-daniel">
+                        <persName>
+                            <surname>Schenkel</surname>
+                            <forename>Daniel</forename>
+                        </persName>
+                        <note>
+                            <p>Därgelen 1813–1885 Heidelberg</p>
+                            <p>protest. Theologe, 1849–1851 Prof. an der Universität Basel, ab 1851 Prof. an der Universität Heidelberg</p>
+                            <p>http://d-nb.info/gnd/117229202</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117229202</tei:idno>
+                    </person>
+                <person xml:id="zimmermann-karl">
+                        <persName>
+                            <surname>Zimmermann</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Darmstadt 1803–1877 Darmstadt</p>
+                            <p>protest. Theologe, großherzoglicher hessischer Hofprediger</p>
+                            <p>http://d-nb.info/gnd/102964890</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102964890</tei:idno>
+                    </person>
+                <person xml:id="lechler-gotthard">
+                        <persName>
+                            <surname>Lechler</surname>
+                            <forename>Gotthard Viktor</forename>
+                        </persName>
+                        <note>
+                            <p>Reichenbach 1811–1888 Leipzig</p>
+                            <p>1858–1888 Prof. für Kirchengeschichte an der Universität Leipzig</p>
+                            <p>http://d-nb.info/gnd/116850566</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116850566</tei:idno>
+                    </person>
+                <person xml:id="hoffmann-wilhelm">
+                        <persName>
+                            <surname>Hoffmann</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Leonberg 1806–1873 Württemberg</p>
+                            <p>evang. Theologe, ab 1843 Prof. der Theologie an der Universität Basel, dann Prof. des Alten Testaments an der Universität Tübingen, ab 1852 Hof- und Domprediger in Berlin, ab 1855 Brandenburger Domherr</p>
+                            <p>http://d-nb.info/gnd/118552465</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118552465</tei:idno>
+                    </person>
+                <person xml:id="kolbenheyer-moritz">
+                        <persName>
+                            <surname>Kolbenheyer</surname>
+                            <forename>Moritz</forename>
+                        </persName>
+                        <note>
+                            <p>Bielitz 1810–1884 Ödenburg</p>
+                            <p>evang. Pfarrer und Schulinspektor</p>
+                            <p>http://d-nb.info/gnd/130213470</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/130213470</tei:idno>
+                    </person>
+                <person xml:id="bauhofer-andreas">
+                        <persName>
+                            <surname>Bauhofer</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="szeberinyi-johann">
+                        <persName>
+                            <surname>Szeberinyi</surname>
+                            <forename>Johann Michael</forename>
+                        </persName>
+                        <note>
+                            <p>Schemnitz 1825–1915 Wien</p>
+                            <p>evang. Priester, ab 1849 Pfarrer in mehreren ungarischen Städten, ab 1863 Prof. für Praktische Theologie und Kirchenrecht an der evang.-theol. Fakultät der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/1033567744</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1033567744</tei:idno>
+                    </person>
+                <person xml:id="podhradsky-josef">
+                        <persName>
+                            <surname>Podhradsky</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Skalitz 1823–1915 Svetozarevo</p>
+                            <p>evang. Theologe, Zeitungsredakteur und Schriftsteller</p>
+                            <p>http://d-nb.info/gnd/140446389</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/140446389</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_99c830657e6832ddfe8ea32dfa875ae1">
+                        <placeName>Nagykőrös</placeName>
+                        <placeName type="pref">nagykoeroes</placeName>
+                        <placeName type="alt">Köröser</placeName>
+                        <placeName type="alt">Körös</placeName>
+                        <placeName type="alt">N[agy] Körös</placeName>
+                        <placeName type="alt">Nagy Körös</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.03419 19.77857</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3047651/</idno>
+                    </place>
+                <place xml:id="place_af35ec026fddf9c8c4ecda002507bd0e">
+                        <placeName>Miskolc</placeName>
+                        <placeName type="pref">miskolc</placeName>
+                        <placeName type="alt">Miskolcz’er</placeName>
+                        <placeName type="alt">Miskolcz</placeName>
+                        <placeName type="alt">Miskolczer</placeName>
+                        <placeName type="alt">Miskolz</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.1 20.78333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/717582/</idno>
+                    </place>
+                <place xml:id="place_fc3a4fb327706ca2220500871d60b94b">
+                        <placeName>Pest megye</placeName>
+                        <placeName type="pref">Pest</placeName>
+                        <placeName type="alt">Pesth</placeName>
+                        <placeName type="alt">Pesther</placeName>
+                        <placeName type="alt">Pester</placeName>
+                        <placeName type="alt">Pest</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.41667 19.33333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046431/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_8f244eef35ba8f636d2ad56d0a0fb674">
+                        <placeName>Berveni</placeName>
+                        <placeName type="pref">Börvely</placeName>
+                        <placeName type="alt">Börvely</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.75 22.46667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/684980/</idno>
+                    </place>
+                <place xml:id="place_333462b4b3c732b0e23792ec5d9fca55">
+                        <placeName>Nyíregyháza</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.95539 21.71671</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/716935/</idno>
+                    </place>
+                <place xml:id="place_a403c190ba77debc8762a40bd4fe8987">
+                        <placeName>Municipiul Marghita</placeName>
+                        <placeName type="pref">marghita</placeName>
+                        <placeName type="alt">Margita</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.34534 22.33452</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/673815/</idno>
+                    </place>
+                <place xml:id="place_75a38b27f4e31f98f3e1168d84f98703">
+                        <placeName>Békés</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.76667 21.13333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/722439/</idno>
+                    </place>
+                <place xml:id="place_792be515410368f1ac3c6e58ea01814c">
+                        <placeName>Banská Štiavnica</placeName>
+                        <placeName type="pref">Schemnitz [Banská Štiavnica]</placeName>
+                        <placeName type="alt">Schemnitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.44858 18.91003</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/500808-6</idno>
+                        <idno>http://sws.geonames.org/3061184/</idno>
+                    </place>
+                <place xml:id="place_ae8effcf53078ebe204e349a55546ca8">
+                        <placeName>Debrecen</placeName>
+                        <placeName type="pref">Debrezin [Debrecen]</placeName>
+                        <placeName type="alt">Debreczin</placeName>
+                        <placeName type="alt">Debrecziner</placeName>
+                        <placeName type="alt">Debrezin</placeName>
+                        <placeName type="alt">Debreczin</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.53333 21.63333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/721472/</idno>
+                    </place>
+                <place xml:id="place_3fee8f40fc84defe84941d8f76b4c59a">
+                        <placeName>Sopron</placeName>
+                        <placeName type="pref">Ödenburg [Sopron]</placeName>
+                        <placeName type="alt">Ödenburger</placeName>
+                        <placeName type="alt">Ödenburg</placeName>
+                        <placeName type="alt">Oedenburger</placeName>
+                        <placeName type="alt">Oedenburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.68501 16.59049</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3045190/</idno>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_d35a02eb49149450fb2fffc6e467eb37">
+                        <placeName>Berlin</placeName>
+                        <placeName type="pref">berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2950159/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_0501e2c4b485250398d1888c0183d808" type="placeName">
+                        <placeName type="pref">vrbas</placeName>
+                        <placeName type="alt">Verbasz</placeName>
+                        <placeName type="alt">Neu Verbászer</placeName>
+                        <placeName type="alt">Neu-Verbaßer</placeName>
+                        <placeName type="alt">Neuverbaster</placeName>
+                        <placeName type="alt">Neu-Verbaß</placeName>
+                    </place>
+                <place xml:id="place_494eccfffbfff4c93f6e601ab346a3cf">
+                        <placeName>Okres Bratislava I</placeName>
+                        <placeName type="pref">Preßburg [Bratislava]</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Presburg</placeName>
+                        <placeName type="alt">Preßburger</placeName>
+                        <placeName type="alt">Presburger</placeName>
+                        <placeName type="alt">Pressburger</placeName>
+                        <placeName type="alt">Pressburg</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">Preßburgs</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.14653 17.10584</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8986283/</idno>
+                    </place>
+                <place xml:id="place_e5853e90ec28ed86c205d8d6502aa3a9" type="placeName">
+                        <placeName type="pref">Eperies [Prešov]</placeName>
+                        <placeName type="alt">Prešov</placeName>
+                        <placeName type="alt">d'Eperies</placeName>
+                        <placeName type="alt">Eperieser</placeName>
+                        <placeName type="alt">Eperies’er</placeName>
+                        <placeName type="alt">Eperieser</placeName>
+                        <placeName type="alt">Eperies</placeName>
+                    </place>
+                <place xml:id="place_7e94e843694214e6576aabc0a94a5291">
+                        <placeName>Komitat Liptau</placeName>
+                        <placeName type="pref">komitat-liptau</placeName>
+                        <placeName type="alt">Liptau</placeName>
+                        <placeName type="alt">Liptauer</placeName>
+                        <placeName type="alt">Liptauer Comitate</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.081111 19.618056</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4460465-8</idno>
+                    </place>
+                <place xml:id="place_d856324689e6964c27e3903e6f63a34e">
+                        <placeName>Komitat Neutra</placeName>
+                        <placeName type="alt">Neutra</placeName>
+                        <placeName type="alt">Neutraer Seniorate</placeName>
+                        <placeName type="alt">Neutraer</placeName>
+                        <placeName type="alt">Ober- und Unter-Neutra</placeName>
+                        <placeName type="alt">Neutraer Comitate</placeName>
+                        <placeName type="alt">Comitat de Neutra</placeName>
+                        <placeName type="alt">Comitate de Neutra</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.314722 18.0875</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4843030-4</idno>
+                    </place>
+                <place xml:id="place_8d3cabcc7c52722a2f5924dcd90b01c6">
+                        <placeName>Trenčín District</placeName>
+                        <placeName type="pref">Trentschin [Trenčín]</placeName>
+                        <placeName type="alt">Trentschiner</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.8952 18.04264</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3057139/</idno>
+                    </place>
+                <place xml:id="place_f90a9311387c69b31f948405b0a6777b">
+                        <placeName>Nógrád</placeName>
+                        <placeName type="pref">neograd</placeName>
+                        <placeName type="alt">Neograd</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.90852 19.04806</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3047356/</idno>
+                    </place>
+                <place xml:id="place_2cfe62b9921fa114fb63229c0241dafc">
+                        <placeName>Nitra</placeName>
+                        <placeName type="pref">Neutra</placeName>
+                        <placeName type="alt">Neutra</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30763 18.08453</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3058531/</idno>
+                    </place>
+                <place xml:id="place_f5e265d607cb720058fc166e00083fe8">
+                        <placeName>Rust</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.80122 16.67158</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2766939/</idno>
+                    </place>
+                <place xml:id="place_dee98a409c92d6df15b591129534021e">
+                        <placeName>Wesprim</placeName>
+                        <placeName type="pref">veszprem</placeName>
+                        <placeName type="alt">Weszprim</placeName>
+                        <placeName type="alt">Veszprém</placeName>
+                        <placeName type="alt">Veszprimer</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.09327 17.91149</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3042929/</idno>
+                    </place>
+                <place xml:id="place_f6485bf868724d28d5c86117ae8e3adc">
+                        <placeName>Oberschützen</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.36061 16.19356</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7871621/</idno>
+                    </place>
+                <place xml:id="place_aa2b10ccf3b646e0b88925144c07b6c9" type="placeName">
+                        <placeName type="pref">Pinkafeld</placeName>
+                        <placeName type="alt">Pinkafeld</placeName>
+                    </place>
+                <place xml:id="place_f6aa495e34977404dfb971393cdba2b7">
+                        <placeName>allhau</placeName>
+                        <placeName type="alt">Alhau</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+                <place xml:id="place_5b102f0c1880d8390d1a5b8f6868c51e">
+                        <placeName>Vasvár</placeName>
+                        <placeName type="pref">Eisenburg</placeName>
+                        <placeName type="alt">Ober-Eisenburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.04928 16.79954</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3043033/</idno>
+                    </place>
+                <place xml:id="place_d4dd361519676af4280e8accc235d3ba">
+                        <placeName>Egyháza</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+                <place xml:id="place_50f75150380b0cde9d36a31aa701cce5">
+                        <placeName>Tordas</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.34401 18.75253</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3043800/</idno>
+                    </place>
+                <place xml:id="place_d7f804208c8417bfc76a3b058c98a5f2">
+                        <placeName>Szarvas</placeName>
+                        <placeName type="pref">szarvas</placeName>
+                        <placeName type="alt">Szarvaser</placeName>
+                        <placeName type="alt">Szárvaser</placeName>
+                        <placeName type="alt">Szarvas’er</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.86667 20.55</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/715466/</idno>
+                    </place>
+                <place xml:id="place_52d08ce39e6c067f42a0366f2239f7c8">
+                        <placeName>Novi Sad</placeName>
+                        <placeName type="pref">novi-sad</placeName>
+                        <placeName type="alt">Neusatz</placeName>
+                        <placeName type="alt">Neu-Satzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.25167 19.83694</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3194360/</idno>
+                    </place>
+                <place xml:id="place_a2579de70254b8fbc9116eb8a259e612">
+                        <placeName>Medina</placeName>
+                        <location>
+                            <geo decls="#LatLng">24.46861 39.61417</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/109223/</idno>
+                    </place>
+                <place xml:id="place_8fa012f3d7caecd67c332e0f803e0a5c" type="placeName">
+                        <placeName type="pref">ofen</placeName>
+                        <placeName type="alt">Ofner</placeName>
+                        <placeName type="alt">Ofen</placeName>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+                <org xml:id="org_0013">
+                        <orgName>k.k. Justizministerium (Österreich)</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/39547-X</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

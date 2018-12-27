@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-stein-1854-03-24-ca851.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-stein-05-29-ca853.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tarnoczy-1860-11-21-ca844.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#stein-lorenz" role="recipient">Lorenz von
+                    Stein</rs>
+                    <lb/>o. O., <date when="1854-03-24">24. März [1854]</date>
+                    <note xml:id="note_1">Die Datierung in das Jahr 1854 ergibt sich aus der im Brief
+                        angesprochenen Berufung Steins an die Wiener Universität.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Schleswig Holsteinische Landesbibliothek</institution>
+                        <idno>Cb102.4.02:05</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun teilt dem Nationalökonomen Lorenz Stein mit, dass der Kaiser ihn
+                            zum Professor an der Universität Wien ernannt hat.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date when="1854-03-24">24. März [1854]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#stein-lorenz">Lorenz von Stein</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                </index>
+                <p>Werther Herr Professor!</p>
+                <p>Ich freue mich Ihnen vorläufig mittheilen zu können, daß <rs type="person" ref="#franz-joseph">Seine Majestät</rs> Sie zum Professor der
+                    politischen Ökonomie an der <rs type="org" ref="#org_0018">Wiener
+                        Universität</rs> ernannt hat.</p>
+                <p>Hochachtungsvoll<lb/>Thun</p>
+                <p>24/3</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="stein-lorenz">
+                        <persName>
+                            <surname>Stein</surname>
+                            <forename>Lorenz</forename>
+                        </persName>
+                        <note>
+                            <p>Borby bei Eckernförde 1815–1890 Hadersdorf-Weidlingau</p>
+                            <p>1846–1852 Prof. für Staatswissenschaften an der Universität Kiel, 1855–1885 Prof. der Staatswissenschaften an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/118617281</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118617281</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listOrg>
+                <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

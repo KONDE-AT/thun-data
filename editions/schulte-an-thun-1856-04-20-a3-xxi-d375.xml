@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="schulte-an-thun-1856-04-20-a3-xxi-d375.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-04-11-a3-xxi-d374.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-06-02-a3-xxi-d380.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1856-04-20">20. April 1856</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D375</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Johann Friedrich Schulte äußert sich zu einigen Personalfragen
+                            und teilt dem Minister in Auszügen den Inhalt eines Briefes von
+                            Friedrich Wilhelm Ritschl mit:<lb/>Ritschl schrieb ihm, dass er vom Tod
+                            Karl Grysars gelesen habe und sich dadurch an die Gespräche zwischen ihm
+                            und Schulte in Karlsbad erinnerte, in denen sie über Kandidaten für
+                            einen Lehrstuhl der klassischen Philologie in Österreich sprachen. Durch
+                            den Tod von Grysar sei diese Frage nun freilich wieder akut. Zunächst
+                            müsse sich der Minister aber entscheiden, ob man einen erfahrenen
+                            Professor oder eine Nachwuchskraft nach Wien berufen wolle. In der
+                            ersten Kategorie seien unter den katholischen Philologen nur Karl Halm
+                            und Karl Ludwig Urlichs denkbar. Ritschl glaube jedoch, dass beide ihre
+                            Stellen nicht aufgeben werden. Wolle man einen jungen Philologen
+                            berufen, empfehle Ritschl an erster Stelle seinen Schüler Johannes
+                            Vahlen, der sich trotz seines geringen Alters bereits große Verdienste
+                            erworben habe. Ritschl äußere sich außerdem positiv über die Berufung
+                            der Lehrer Franz Pauly und Eduard Goebel.<lb/>Schulte ergänzt dazu, dass
+                            auch er nur Gutes von Vahlen gehört habe, er ihn jedoch persönlich nicht
+                            kenne. Schulte glaubt außerdem auch Franz Winiewski aus Münster als
+                            möglichen Kandidaten empfehlen zu können. Schulte schreibt schließlich,
+                            dass er sich im Laufe des Sommers noch zu weiteren Kandidaten für das
+                            Gymnasiallehramt äußern werde. Vorerst müsse er allerdings noch
+                            zusätzliche Informationen zu einigen Kandidaten einholen und warnenden
+                            Hinweisen nachgehen. Zuletzt empfiehlt er den Juristen Eduard Buhl aus
+                            Prag für eine Professur an einer kleineren Universität der
+                            Monarchie.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#schulte-friedrich">Johann Friedrich Schulte</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when="1856-04-20">20. April 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                    <term>Klassische Philologie</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Euer Excellenz</p>
+                <p>wollen gnädigst gestatten, daß ich Denselben von dem Folgenden Mittheilung mache,
+                    in der Absicht, nicht meinerseits die Schuld zu tragen, Hochderselben einen
+                    Dieselben sehr interessirenden Gegenstand vorzuenthalten.<lb/>Unterm 16. dieses
+                        Monats<note xml:id="note_1">Dieser Brief ist im Nachlass von Johann
+                        Friedrich Schulte erhalten. Bayrische Staatsbibliothek,
+                        Handschriftenabteilung. Schulteana 23,14.</note> schreibt mir der Geheime
+                    Regierungsrath und Prof. der klassischen Philologie aus <rs type="org" ref="#org_0040">Bonn</rs>, <rs type="person" ref="#ritschl-friedrich-wilhelm">Dr. Ritschl</rs>, von
+                        <rs type="place" subtype="place" ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</rs> also:</p>
+                <p>"Während ich hier gerade noch die letzten Ferientage verlebe, werde ich durch die
+                    Zeitungsnachricht von dem unerwarteten Tode des <rs type="person" ref="#grysar-karl">Prof. Grysar</rs> überrascht und dadurch lebhaft in Gedanken
+                    zurückversetzt in die mancherlei Gespräche, die wir in
+                        <rs type="place" subtype="place" ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</rs> führten und an die bei diesem Anlaß wieder
+                    anzuknüpfen Sie mir wohl gestatten. Auf wen wird man sein Auge werfen, um einen
+                    so schönen Wirkungskreis würdig, und ich darf hinzusetzen mit noch mehr Aussicht
+                    auf eingreifenden Erfolg, auszufüllen? Die Wahl unter den gewiegten Philologen
+                    katholischer Confession ist nicht groß. Will man einen älteren Mann von schon
+                    fertigem Rufe, so ist dagegen nichts zu sagen; in diesem Falle wüßte ich kaum
+                    einen Dritten als entweder <rs type="person" ref="#halm-karl-felix">Halm</rs> in
+                    <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> oder <rs type="person" ref="#urlichs-karl-ludwig">Urlichs</rs> in <rs type="org" ref="#org_0064">Würzburg</rs>, – wenn sie gehen, was mir sehr zweifelhaft ist. Wollen
+                    Sie aber einen genannt haben, der gewiß geht und an dem <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> nach meiner innigsten und
+                    gewissenhaftesten Überzeugung eine ganz vorzügliche Erwerbung machen würde, so
+                    ist das der <rs type="person" ref="#vahlen-johannes">Dr. Vahlen</rs> (Privatdozent)
+                    in <rs type="org" ref="#org_0040">Bonn</rs>, einer der 3 bis 4
+                    ausgezeichnetesten Philologen, die ich seit zwei Decennien unter meinen Augen
+                    habe heranwachsen sehen; ein trefflicher Docent; in der litterarischen Welt
+                    durch seine sehr tüchtige Leistung „Ennianae poesis reliquiae“ bereits aufs
+                    Rühmlichste bekannt und anerkannt; übrigens nicht minder Gräcist als Latinist,
+                    besonders versirt in Aristotelischen Studien, wovon er auch kürzlich im
+                    „Rheinischen Museum“ eine schöne Probe gegeben hat. Selbst aufs Tüchtigste
+                    geschult, gäbe er die sichere Bürgschaft, wieder eine tüchtige Schule zu machen
+                    und Ihrem Staate junge Kräfte zuzuziehen, deren es noch in so reichlichem Maaße
+                    bedarf, um dem Bedürfnisse der Schulen zu genügen. Ich darf es dreist wagen, in
+                    diesem Falle für den Erfolg meine ganze philologische Ehre zum Pfande
+                    einzusetzen.“<lb/>„Können und wollen Sie nun in dieser Beziehung wirken, so soll
+                    mich das nicht minder als um des jungen Mannes willen, auch um der
+                    philologischen Studien willen von Herzen freuen. Wo nicht, so habe ich hiermit
+                    gethan, was zu unterlassen ich für ein Unrecht gehalten hätte und tröste mich
+                    mit meiner guten Absicht."<lb/>Im weiteren Verlaufe lobt <rs type="person" ref="#ritschl-friedrich-wilhelm">Prof. Ritschl</rs>
+                    <rs type="person" ref="#pauly-franz">Dr. Pauly</rs> und <rs type="person" ref="#goebel-eduard">Goebel</rs> ausnehmend und fügt hinzu, daß noch
+                    gleich gute Kräfte in der Rheinprovinz sein [sic!].</p>
+                <p>Euer Excellenz werden gewiß bei diesem Inhalte des Briefes, und weil ich
+                    überzeugt bin, daß man mich in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> anfeindete, wollte
+                    ich keinen Gebrauch davon machen, die Mittheilung gnädigst entschuldigen. Auch
+                    ich habe von <rs type="person" ref="#vahlen-johannes">Dr. Vahlen</rs>
+                    wissenschaftlich nur Gutes gehört, kenne ihn persönlich nicht, da er erst nach
+                    mir sich in <rs type="org" ref="#org_0040">Bonn</rs> habilitirt hat, weiß
+                    aber, daß er Katholik ist und habe im Übrigen nichts Nachtheiliges über
+                    denselben vernommen. Daß <rs type="person" ref="#pauly-franz">Dr. Pauly</rs> auch
+                    für den Katheder ebenso geeignet ist, glaubt gewiß auch <rs type="person" ref="#ritschl-friedrich-wilhelm">Prof. Ritschl</rs>. Zu den zwei
+                    älteren ließe sich übrigens mit vollem Rechte noch <rs type="person" ref="#winiewski-franz">Prof. Dr. Winiewski</rs> in
+                        <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs>, einer der talentvollsten Schüler von
+                        <rs type="person" ref="#boeckh-august">Böckh</rs>, beifügen; der, wie ich von
+                    Vielen weiß, auch ein sehr guter Docent ist, eine Eigenschaft, welche dem sonst
+                    schätzbaren <rs type="person" ref="#ritter-franz">Prof. Ritter</rs> in <rs type="org" ref="#org_0040">Bonn</rs> gänzlich abgeht.<lb/>Euer Excellenz
+                    erlaube ich mir schließlich noch die ganz ergebenste Mittheilung, daß ich zwar
+                    noch mehrere sehr ausgezeichnete Leute aus der Rheinprovinz für Gymnasien
+                    empfehlen könnte und glaube, daß Euer Excellenz vielleicht von anderer Seite
+                    werden angegangen werden, daß mir aber von 3–6 derartige moralisch verwerfliche
+                    Thatsachen als gewiß bekannt sind, die freilich Wenige kennen, daß es großer
+                    Vorsicht bedarf. Diejenigen, deren Integrität ich kenne, werde ich im Laufe des
+                    Sommers (und im August persönlich) zu gewinnen suchen; sollte ich auf irgend
+                    eine Weise die Bewerbung eines Verdächtigen erfahren, so gebe ich Euer Excellenz
+                    mein Wort darauf, dieselben sofort aufmerksam zu machen.<lb/>Geruhen Euer
+                    Excellenz den Ausdruck tiefster Hochachtung und Dankbarkeit entgegenzunehmen und
+                    gestatten gnädigst, daß ich den <rs type="person" ref="#buhl-eduard">Dr. Buhl</rs>
+                    Euer Excellenz Gnade bestens empfehle, da derselbe ein ernstes Streben bekundet
+                    und für eine kleine Universität meines Erachtens wohl eine Professur ausfüllen
+                    könnte.</p>
+                <p>Hochgeborner Herr Graf!<lb/>Euer Excellenz<lb/>gehorsamster<lb/>Dr. Schulte </p>
+                <p>Prag, den 20. April 1856</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="schulte-friedrich">
+                        <persName>
+                            <surname>Schulte</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Winterberg 1827–1914 Meran</p>
+                            <p>ab 1854 Privatdozent an der Universität Bonn, 1855 Prof. für Kirchenrecht und deutsche Reichs- und Rechtsgeschichte an der Universität Prag, 1873–1906 Prof. für Kirchengeschichte an der Universität Bonn</p>
+                            <p>http://d-nb.info/gnd/11861133X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11861133X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="ritschl-friedrich-wilhelm">
+                        <persName>
+                            <surname>Ritschl</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Großvargula 1806–1876 Leipzig</p>
+                            <p>1829–1833 Prof. für klassische Philologie an der Universität Halle, 1833–1839 Prof. an der Universität Breslau, 1839–1865 Prof. an der Universität Bonn, 1865–1876 Prof. an der Universität Leipzig</p>
+                            <p>http://d-nb.info/gnd/118745441</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118745441</tei:idno>
+                    </person>
+                <person xml:id="grysar-karl">
+                        <persName>
+                            <surname>Grysar</surname>
+                            <forename>Karl Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Leudersdorf 1801–1856 Wien</p>
+                            <p>ab 1824 Lehrer am Gymnasium in Köln, ab 1850 Prof. für klass. Philologie an der Universität Wien und Mitdirektor des philologisch-historischen Seminars</p>
+                            <p>http://d-nb.info/gnd/172500702</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/172500702</tei:idno>
+                    </person>
+                <person xml:id="halm-karl-felix">
+                        <persName>
+                            <surname>Halm</surname>
+                            <forename>Karl Felix</forename>
+                        </persName>
+                        <note>
+                            <p>München 1809–1882 München</p>
+                            <p>1839–1846 Lehrer am Gymnasium und Prof. am Lyzeum in Speyer, 1846–1849 Lehrer am Gymnasium in Hadamar (Nassau), 1849–1856 Rektor des Maximiliangymnasium in München, ab 1856 Prof. für klass. Philologie an der Universität München, gleichzeitig Direktor der königl. Hof- und Staatsbibliothek</p>
+                            <p>http://d-nb.info/gnd/100158463</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100158463</tei:idno>
+                    </person>
+                <person xml:id="urlichs-karl-ludwig">
+                        <persName>
+                            <surname>Urlichs</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Osnabrück 1813–1889 Würzburg</p>
+                            <p>1835–1840 Hauslehrer in Rom, 1847–1855 Prof. für Klassische Philologie an der Universität Greifswald, 1848–1852 Mitglied des Preußischen Abgeordnetenhauses, ab 1855 Prof. für Klassische Philologie und Ästhetik an der Universität Würzburg</p>
+                            <p>http://d-nb.info/gnd/119010224</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119010224</tei:idno>
+                    </person>
+                <person xml:id="vahlen-johannes">
+                        <persName>
+                            <surname>Vahlen</surname>
+                            <forename>Johannes</forename>
+                        </persName>
+                        <note>
+                            <p>Bonn 1830–1911 Berlin</p>
+                            <p>ab 1856 Prof. der Klassischen Philologie an der Universität Breslau, 1858 Prof. an der Universität Freiburg, 1858–1874 Prof. an der Universität Wien, 1874–1905 Prof. der Klassischen Philologie an der Universität Berlin</p>
+                            <p>http://d-nb.info/gnd/117325279</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117325279</tei:idno>
+                    </person>
+                <person xml:id="pauly-franz">
+                        <persName>
+                            <surname>Pauly</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Düren 1827–1885</p>
+                            <p>ab 1851 Lehrer für klassische Sprachen an verschiedenen Gymnasien in Deutschland, 1856 Lehrer am Gymnasium in Pressburg, ab 1857 Lehrer am akademischen Gymnasium in Prag</p>
+                            <p>http://d-nb.info/gnd/116066881</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116066881</tei:idno>
+                    </person>
+                <person xml:id="goebel-eduard">
+                        <persName>
+                            <surname>Goebel</surname>
+                            <forename>Eduard</forename>
+                        </persName>
+                        <note>
+                            <p>Hillesheim 1831–1904 Fulda</p>
+                            <p>ab 1855 Lehrer am Gymnasium in Aachen, 1856 Lehrer am Gymnasium in Bonn, 1857–1860 Lehrer am Gymnasium in Salzburg, 1860–1863 Oberlehrer am Apostelgymnasium in Köln, 1863–1897 Direktor des Gymnasiums in Fulda</p>
+                            <p>http://d-nb.info/gnd/1020890657</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1020890657</tei:idno>
+                    </person>
+                <person xml:id="winiewski-franz">
+                        <persName>
+                            <surname>Winiewski</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Thorn 1802–1874 Münster</p>
+                            <p>ab 1838 Prof. der klass. Philologie an der Universität Gießen, ab 1853 Direktor des philologischen Seminars</p>
+                            <p>http://d-nb.info/gnd/100703496</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100703496</tei:idno>
+                    </person>
+                <person xml:id="boeckh-august">
+                        <persName>
+                            <surname>Böckh</surname>
+                            <forename>August</forename>
+                        </persName>
+                        <note>
+                            <p>Karlsruhe 1785–1867 Berlin</p>
+                            <p>Prof. für klass. Philologie an der Universität Heidelberg, 1811 Prof. an der Universität Berlin</p>
+                            <p>http://d-nb.info/gnd/118808850</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118808850</tei:idno>
+                    </person>
+                <person xml:id="ritter-franz">
+                        <persName>
+                            <surname>Ritter</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Medebach 1803–1875</p>
+                            <p>1833–1875 Prof. für klassische Philologie an der Universität Bonn</p>
+                            <p>http://d-nb.info/gnd/119065932</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119065932</tei:idno>
+                    </person>
+                <person xml:id="buhl-eduard">
+                        <persName>
+                            <surname>Buhl</surname>
+                            <forename>Eduard</forename>
+                        </persName>
+                        <note>
+                            <p>1825–1883</p>
+                            <p>Rechtsphilosoph, 1858–1870 Prof. der deutschen Rechtsgeschichte und des deutschen Privatrechts an der Universität Krakau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_9974545279455eb03bf50b1b1b4d7fea">
+                        <placeName>Wiesbaden</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08258 8.24932</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2809346/</idno>
+                    </place>
+                <place xml:id="place_11a4764afdf4fd27fe76a91244b49852">
+                        <placeName>Karlsbad</placeName>
+                        <placeName type="pref">karlsbad</placeName>
+                        <placeName type="alt">Carlsbad</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.23271 12.87117</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3073803/</idno>
+                    </place>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_610dc3a15bda751de4d4c52373b2620f">
+                        <placeName>Münster</placeName>
+                        <placeName type="pref">muenster</placeName>
+                        <placeName type="alt">Munster</placeName>
+                        <placeName type="alt">meiner Vaterstadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.96236 7.62571</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867543/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0040">
+                        <orgName>Universität Bonn</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36150-1</idno>
+                    </org>
+                <org xml:id="org_0064">
+                        <orgName>Universität Würzburg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36189-6</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

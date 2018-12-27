@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="foerster-an-thun-1855-09-10-a3-xxi-d348.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/flir-an-thun-1858-07-29-a3-xxi-d462.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-10-11-a3-xxi-d348c.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#wilhelm-andreas" role="sender:beamter">Andreas
+                        Wilhelm</rs> an <rs type="person" ref="#kink-rudolph" role="recipient">Rudolph
+                        Kink</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</rs>, <date when="1855-09-15">15. September 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D348</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Schulrat Andreas Wilhelm berichtet über die Situation am Gymnasium in
+                            Teschen. Zunächst bestätigt er, dass die im beigelegten anonymen
+                            Schreiben geschilderten Zustände am Teschener Gymnasium der Wahrheit
+                            entsprechen. Er hat dies auch dem Unterrichtsminister bereits
+                            mitgeteilt, allerdings hat er Thun verschwiegen, dass der Ruf des
+                            Klerus' in Teschen seit Jahren sehr schlecht sei. Eine Aufklärung
+                            diverser Verbrechen von Priestern sei dort nie erfolgt. Eine Ursache,
+                            warum der Zustand sich in der Vergangenheit weiter verschlimmerte, war
+                            die Milde und Gutgläubigkeit des verstorbenen Bischofs Diepenbrock.
+                            Wilhelm empfiehlt daher, mehr Laien für den Lehrberuf zu gewinnen. In
+                            der Folge berichtet er von seinen übrigen Amtsgeschäften und äußert sich
+                            zufrieden darüber. Besonders hebt er eine neue Disziplinarvorschrift für
+                            den Krakauer Schulbezirk hervor, die er entworfen hat und die aus seiner
+                            Sicht eine Verbesserung der Disziplin ermöglichen wird.<lb/>In der
+                            Beilage schildert ein anonymer Schreiber die Situation am Teschener
+                            Gymnasium. Er prangert insbesondere die Sittenlosigkeit des Direktors
+                            an, der trotz seines geistlichen Standes seit Jahren mit einer Frau
+                            zusammenlebe. Ebenso würden andere geistliche Lehrer Beziehungen zu
+                            Frauen unterhalten. Dies alles sei öffentlich bekannt, werde aber vom
+                            bischöflichen Kommissar wohlwollend ignoriert.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist gemeinsam mit weiteren Briefen, die dieselbe Thematik
+                            betreffen, abgelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun-1855-09-15-a3-xxi-d348.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 10. September
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun-1855-09-15-a3-xxi-d348a.xml">Andreas Wilhelm an Leo Thun. Krakau, 15. September
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun-1855-10-11-a3-xxi-d348c.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 11. Oktober
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun-1855-11-04-a3-xxi-d348d.xml">Heinrich Förster an Leo Thun. Breslau, 4. November 1855</ref>.</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d348b_1">Anonymes Schreiben</tei:ref> aus Teschen, in
+                            dem die Situation am dortigen Gymnasium geschildert wird.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#wilhelm-andreas">Andreas Wilhelm</rs>
+                    <settlement ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</settlement>
+                    <date when="1855-09-15">15. September 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#kink-rudolph">Rudolph Kink</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Schulräte</term>
+                </index>
+                <p>Hochverehrter Herr und Freund!</p>
+                <p>Ich stelle das <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d348b_1">anonyme Schreiben</tei:ref> über die
+                    Verhältnisse in <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs> zurück und muß leider den Inhalt
+                    desselben bestätigen; wie ich dies auch <rs type="person" ref="#thun-hohenstein-leo">Seiner Excellenz</rs>
+                    <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun-1855-09-15-a3-xxi-d348a.xml">heute berichtet</ref>
+                    <note xml:id="note_1">Vgl. Andreas Wilhelm an Leo
+                        Thun, 15. September 1855.</note>habe. Was ich jedoch in dem Schreiben an
+                        <rs type="person" ref="#thun-hohenstein-leo">Seine Excellenz</rs> zu sagen mich
+                    scheute, erlaube ich mir hier beizufügen.<lb/>Die Teschner Geistlichkeit hat
+                    seit lange nicht den besten Ruf. Von dem vor einigen Jahren verstorbenen
+                        <rs type="person" ref="#oppolsky-mathias">Generalvicar Oppolski</rs> nennt man
+                    noch heute ein mehr als äquivokes Sprichwort, das derselbe öffentlich im Munde
+                    geführt haben soll. Der jetzige Generalvicar <rs type="person" ref="#helm-anton">Helm</rs>, ein sehr achtbarer Biedermann, aber ohne Kraft zur
+                    Selbstständigkeit, daher geleitet von Andern, schrieb im Jahre 1848 an einen
+                    Deputierten in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, er möge für Aufhebung des
+                    Cölibates alles aufbieten; denn nur durch Bewilligung der Ehe sei es möglich,
+                    diesen Stand aus der tiefen moralischen Versunkenheit zu retten. <lb/>Man
+                    erzählt noch über andere Individuen in <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs> manches,
+                    das ich übergehe. Nur zwei – ich bitte um Entschuldigung für den Ausdruck –
+                    Scheusale muß ich nennen, die beiden <rs type="person" ref="#potiorek-andreas">Potiorek</rs>, die in <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs> altbekannten
+                    Päderasten. Der eine, gewesener Hauptschuldirector, starb vor einem Jahre; ob
+                    der andre, ebenfalls Priester, noch lebt, weiß ich nicht; nur so viel kann ich
+                    sagen, daß er vor einem Jahre durch schamlos unzüchtige Reden öffentlich
+                    Ärgernis gab, und daß er vor mehreren Jahren in <rs type="place" subtype="place" ref="#place_b3798be58d0947c0e4f64ac8c2e089d4">Friedeck</rs>
+                    [Frýdek] in Correction war und während der Correction sein Verbrechen forttrieb.
+                    Das ist die geistliche Aufsicht.<lb/>Ein anderes Beispiel geistlicher Strenge
+                    kann ich bei dieser Gelegenheit nicht übergehen. Vor vier Jahren kam von dem
+                    Stadtvorstande in <rs type="place" subtype="place" ref="#place_88328f9ea6c9ff9c5f30c97148b40c2c">Bennisch</rs> [Horní Benešov] ein Gesuch an
+                    die Landesschulbehörde um Entfernung des dortigen Katecheten, der 15jährige
+                    Mädchen auf sein Zimmer kommen ließ und sich mit ihnen einsperrte, um sie, wie
+                    er sagte, genauer in der Religion zu unterrichten. Alles war schriftlich
+                    nachgewiesen, die feurigsten Correspondenzen, freilich von „Liebe in Christo“
+                    beigeschlossen. Das Consistorium, dem wir die Sache zuschickten, gab dieselbe an
+                    den Dechant in <rs type="place" subtype="place" ref="#place_27e782d2631b9521a8d30904f1677c18">Freudenthal</rs> [Bruntál], dieser an den
+                    Pfarrer in <rs type="place" subtype="place" ref="#place_88328f9ea6c9ff9c5f30c97148b40c2c">Bennisch</rs>, der nachmittags nie nüchtern ist.
+                    Der Pfarrer berichtete gut, der Dechant ihm nach, das Consistorium gab uns gar
+                    keine Antwort; und der Kaplan blieb in <rs type="place" subtype="place" ref="#place_88328f9ea6c9ff9c5f30c97148b40c2c">Bennisch</rs> und trieb
+                    sein Unwesen fort. Die Stadt war in großer Aufregung. Zum Glück entführte dieser
+                    Kaplan bald darauf ein Mädchen, und zwar mit den Pferden des Pfarrers. Man
+                    setzte ihm nach und holte ihn zurück; dabei hatte er die Pferde des Pfarrers zu
+                    Grunde gerichtet, und hierüber aufgebracht trat der Pfarrer gegen ihn auf. Nun
+                    wurde er nach Römerstadt versetzt; kam aber von dort noch zur Nachtzeit herüber
+                    auf Bestellungen in einem Walde, bis mehrere Bürger von Bennisch öffentlich
+                    verlauten ließen, daß sie ihm auflauern würden. Nun erst hatte die Sache ein
+                    Ende.<lb/>Der <rs type="person" ref="#diepenbrock-melchior">selige Cardinal</rs>
+                    glaubte jedem Geistlichen aufs Wort. Diesem Vertrauen verdankte das katholische
+                    Gymnasium in <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs> eine schwere Verläumdung durch den
+                    Director <rs type="person" ref="#krauss-josef">Krauß</rs>. Auch von <rs type="person" ref="#gabriel-philipp">Gabriel</rs> habe ich keine bessere Meinung. Als
+                    einmal (was öfters geschah) an der Wand im Gymnasialgebäude über ihn und jene
+                    Lehrer, welche sich zu Hausinstructoren im Cselesta’schen Convicte verwenden
+                    ließen, etwas aufgeschrieben war; sprach er aufgebracht vor dem Lehrkörper, er
+                    werde sich an den Bischof wenden, da er von <rs type="place" subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Troppau</rs> keine
+                    Unterstützung zu erwarten habe. Er meint es mit dem Gymnasium nicht redlich; nur
+                    seine Person ausgezeichnet und bewundert zu sehen, ist sein Streben. Er wäre an
+                    ein Gymnasium zu versetzen, das nicht specifisch-katholisch, ich meine, direct
+                    einem evangelischen gegenüber gestellt ist.<lb/>Von Klostergeistlichen, welche
+                    an Gymnasien angestellt waren, hat man überhaupt schon manche bedauerliche
+                    Beispiele. Ich habe davon zwei erlebt, von meinen Vorgängern in
+                        <rs type="place" subtype="place" ref="#place_7e075e3a2f9d18e970715aa1851dc619">Tarnow</rs> und in <rs type="place" subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Troppau</rs>.<lb/>Die
+                    Jugend schaut zu, durchblickt alles und schweigt. Das Publicum thut dasselbe;
+                    denn es weiß, daß jeder Versuch, gegen ein solches Beispiel aufzutreten, selbst
+                    mit den unwiderlegbarsten Beweisen, nur auf das Haupt des Klägers zurückfallen
+                    würde.<lb/>Die Lehren der Geistlichen hatten, das kann ich aus meiner Erfahrung
+                    als Schüler und Lehrer sagen, seit je weit weniger Gewicht als die aus dem Munde
+                    eines weltlichen; denn der Geistliche sprach ja, so drängte sichs auf, pro domo.
+                    Darum dringe ich bei jeder Gelegenheit auf die gewißenhafteste Pflichterfüllung
+                    durch Lehre und Beispiel; was um so notwendiger ist, je weniger die Beispiele
+                    der Geistlichen entsprechen.<lb/>Ich komme nun zu meinen Amtsverhältnissen. Der
+                    Geschäftsgang geht ohne Hemmnis, bis auf die in der schwerfälligen Einrichtung
+                    der Registratur liegenden Hemmnisse. Vor kurzem wurde ich mit allerlei
+                    distrahierenden rein ökonomischen Stücken gemartert, namentlich Bausachen,
+                    Mietzins und dergleichen. Ich mußte Tage verlieren mit Suchen und Nachfragen. Da
+                    bot sich eine gute Gelegenheit, bei welcher Gelegenheit mir der Referent
+                    zusicherte, künftig mit derlei Dingen mich zu verschonen; ich erbot mich
+                    dagegen, die Reiseparticularien zu übernehmen, auch wegen der schnelleren
+                    Erledigung.<lb/>Zu Anfange dieses Monates rettete ich durch Zufall und festes
+                    Auftreten das Rzeszower Gymnasium vor Zerrüttung und die Landesregierung vor
+                    Compromittierung. Der Rzeszower Kreisvorsteher hatte über einen Bericht des
+                    Kreisarztes, daß in den meisten Dörfern des Kreises die Cholera noch herrsche
+                    (in der Stadt aber erloschen sei), angetragen: den Anfang des Schuljahres auf
+                    den 15. October zu verlegen. Der Erlaß, daß die Schulen am 1. October anzufangen
+                    haben, war von dem Hofrate (in Abwesenheit Seiner Excellenz) schon approbiert;
+                    zufällig erfuhr ich davon. Ich gieng zum Hofrate, machte aufmerksam daß, wenn es
+                    schon dabei bliebe, obwol die Schulen am 1. September eröffnet sein mußten (es
+                    war am 2. September), die Anzeige nebst meinen Gegengründen an das hohe
+                    Ministerium zu erstatten sei. Es wurde endlich beschlossen, nach
+                        <rs type="place" subtype="place" ref="#place_68cfca455813f0246a4ab2ec0d81d117">Rzeszow</rs> zu telegraphieren: wie der Stand der Cholera
+                    sei, wie viele Schüler beisammen seien. Den andern Tag kam, wie befohlen war,
+                    die Antwort. Ich siegte.<lb/>In der Sitzung am 13. dieses Monates habe ich
+                    meinen Entwurf eines Disciplinargesetzes für die Gymnasien des Krakauer
+                    Verwaltungsgebietes vorgetragen. Da wir keinen Fond zur Bestreitung der
+                    Druckkosten haben, wird, so wurde vom Hofrate angeordnet, das Disciplinargesetz
+                    in diesen Tagen dem hohen Ministerium mit der Bitte um Vorschuß und Veranlassung
+                    des Druckes in der Ärarialdruckerei vorgelegt werden. Ich schmeichle mir, nicht
+                    daß es vollkommen sei, aber daß darin die Mängel der bisher erschienenen
+                    Disciplinarvorschiften vermieden sein dürften.<lb/>Die schriftlichen Geschäfte
+                    für <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> führe ich, als wenn ich in
+                        <rs type="place" subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Troppau</rs> wäre; wodurch viel Zeit und Schreiberei
+                    erspart wird. Was die Ernennung eines Volksschulinspectors betrifft, sollte
+                    nicht ein Schulmann in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> sich finden? Ohnehin dürfte die
+                    Kenntnis des Böhmischen für denselben notwendiger sein als die des Polnischen,
+                    weil man das Böhmische im ganzen slavischen Schlesien versteht, nicht so das
+                    Polnische.<lb/>Man hat von hieraus, im Auftrage Seiner Excellenz des <rs type="person" ref="#halbhuber-von-festwill-anton">Herrn Präsidenten</rs>, um meine
+                    Enthebung von den schlesischen Volksschulen angesucht; dies geschah aber nicht
+                    etwa auf meinen Wunsch, vielmehr gegen denselben; denn ich bemerkte, daß das
+                    hohe Ministerium von selbst nicht säumen werde, die Stelle in
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> zu besetzen, wenn der geeignete Mann gefunden
+                    sein werde.<lb/>Ich geharre mit dem Ausdruck der vollkommensten Hochachtung</p>
+                <p>Eurer Hochwolgeboren ergebenster Diener<lb/>Andr. Wilhelm</p>
+                <p>Krakau den 15. September 1855</p>
+                <div type="enclosure" xml:id="D348b_1">
+                    <p>Euer Excellenz!<lb/>Hochgeborner Graf!</p>
+                    <p>Im Vertrauen auf Hochderselben allseitig bewährten Sinn für alles Gute, Wahre
+                        und Schöne glauben wir es wagen zu dürfen, nachstehendes der hohen
+                        Berücksichtigung Euer Excellenz vorzulegen:<lb/>So zufrieden die katholische
+                        Bevölkerung <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschens</rs> war, als im Jahre
+                        1850/51 das hiesige katholische Gymnasium zu einem Obergymnasium erhoben
+                        wurde, so mißmutig sind jetzt manche Ältern [sic!], die in der Lage sind,
+                        ihre Kinder gerade dieser Lehranstalt anvertrauen zu müssen. Denn indem wir
+                        gerne zugestehen, daß es im Lehrkörper dieser Anstalt einige ehrenhafte
+                        Individuen gibt, die nach jeder Richtung hin der studierenden Jugend als
+                        nachahmungswürdige Muster vorleuchten; so gibt es dennoch wiederum andere,
+                        über deren moralische Haltung im Publikum eine ungünstige Meinung Grund
+                        gewonnen hat. Hieher gehört zuerst der provisorische Direktor <rs type="person" ref="#gabriel-philipp">Gabriel</rs>. Bald nach seinem Eintreffen
+                        aus <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> im Jahre 1851/52 kam ihm ein Frauenzimmer
+                        nach, die er als eine verwandte Witwe ausgab und als seine Vertraute
+                        behandelte. Auf einmal aber wurde es in Teschen bekannt, daß jene Person
+                        ihren Gatten, einen bejahrten Beamten, namens <rs type="person" ref="#sniehota-carl">Sniehota</rs> – er starb erst mit Ende des Jahres 1853 in
+                            <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> – verlassen und dem kräftigeren Augustiner,
+                        mit dem sie schon in <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> lange in gutem
+                        Einvernehmen war, nachgezogen ist.<lb/>Ungeachtet diesem Augustiner und
+                        provisorischen Direktor durch mündliche Mittheilungen und Pasquille bekannt
+                        wurde, daß das Publikum von seinem Verhältnis mit jener Frau Kenntnis habe,
+                        so lebt er dennoch bis jetzt im vertrauten Umgange mit ihr, ja er handelte
+                        unbegreiflicher Weise noch so unüberlegt, daß er im Gespräche mit Anderen,
+                        insbesondere mit dem hiesigen evangelischen Gymnasiallehrer Burkhard zu
+                        dessen größtem Erstaunen über den Cölibat sich unumwunden dahin aussprach:
+                        „Derselbe sei nur im Allgemeinen, des Prinzips wegen geboten, keineswegs
+                        aber für den Einzelnen bindend.“<lb/>Das Beispiel des provisorischen
+                        Direktors fand bald traurige Nachahmung. So mußte im Jahre 1852 auf
+                        Veranlassung des Gymnasialinspektors der Nebenlehrer <rs type="person" ref="#janota-eugeniusz">Janota</rs>, Weltpriester der Tarnower
+                        Diözese, gegenwärtig am <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs>
+                        Gymnasium, seine hochschwangere Konkubine von <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs>
+                        wegschaffen; so weiß man, daß der Katechet des Obergymnasiums, <rs type="person" ref="#bitta-josef">Bitta</rs>, Weltpriester der Olmützer
+                        Erzdiözese, fürstbischöflicher Konsistorialrat der Breslauer Diözese und
+                        Stiftspriester im Elisabethiner-Convente in Teschen, die Nonne Franziska in
+                        sein Zimmer gelockt, dieselbe, als sie von der wachsamen Oberin
+                        herausgefordert wurde, verläugnet, und sie dann erst herausgegeben hat, als
+                        die Oberin drohend auftrat; so wurde, was dem <rs type="org" ref="#org_0005">hohen Ministerium des
+                            Cultus und Unterrichts</rs> selbst wol bekannt ist, 1854 der
+                        Supplent Kapinus, Weltpriester der Breslauer Diözese, des Ehebruches
+                        angeklagt; so ist es bekannt, daß der Lehrer <rs type="person" ref="#danel-franz">Danel</rs>, Weltpriester der Breslauer Diözese, lange Zeit mit
+                        einer Feldwebelswitwe intimen Umgang pflegte und die Bekanntschaft mit ihr
+                        auch jetzt noch unterhält, wiewol selbe nicht mehr in Teschen ist; endlich
+                        weiß man auch noch, daß der Katechet des Untergymnasiums, <rs type="person" ref="#sobetzky-leopold">Sobetzky</rs>, Weltpriester der Breslauer
+                        Diözese, eine hiesige Ehefrau in Abwesenheit deren Gemals [sic!] zum großen
+                        Ärgernis der übrigen Hausgenossen dieser Frau frequentirt.<lb/>Alle derlei
+                        Skandale werden von dem eigentlichen religiös-sittlichen Wächter Teschens,
+                        dem fürstbischöflichen Ordinariatskommissär des Teschner katholischen
+                        Gymnasiums und Pfarrer <rs type="person" ref="#paduch-joseph">Joseph
+                            Paduch</rs> mit voller Sympathie übersehen, indem er selbst,
+                        wiewol schon 68 Jahre alt, noch immer nicht mit Forderungen respective der
+                        Paternität verschont bleibt, und zum Belege dessen erst vor nicht langer
+                        Zeit einer seiner Kapläne, namens <rs type="person" ref="#michalek">Michalek</rs>, der zur
+                        Abwehrung einer derartigen Sustentationsforderung mit dem Stocke in der Hand
+                        seinem Prinzipale im Pfarrgebäude behilflich sein zu können wähnte, dafür
+                        von dem Postulanten arg gemißhandelt wurde.<lb/>Wie unerquicklich und
+                        trostlos sind nicht derlei Ereignisse! Deshalb bitten wir hochachtungsvoll
+                        um der Religion, der Sittlichkeit und des Wohles unserer Jugend willen, Euer
+                        Excellenz wollen diesen Übelständen nach hohem Ermessen zu begegnen geruhen.
+                        Wir sind hochachtungsvoll</p>
+                    <p>Euer Excellenz und Hochgeboren<lb/>innigste Verehrer<lb/>Religions- und
+                        Jugendfreunde</p>
+                </div>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="wilhelm-andreas">
+                        <persName>
+                            <surname>Wilhelm</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>*Egerland 1801</p>
+                            <p>1838 Lehrer in Tarnow, ab 1841 Präfekt des Gymnasiums, ab 1847 Präfekt des Gymnasiums in Troppau, ab 1850 schlesischer Gymnasial- u. Volksschulinspektor (Schulrat), ab 1855 auch Schulrat in Krakau, ab 1860 Inspektor der Mittelschulen in Mähren und Schlesien</p>
+                            <p>http://d-nb.info/gnd/119057832</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119057832</tei:idno>
+                    </person>
+                <person xml:id="kink-rudolph">
+                        <persName>
+                            <surname>Kink</surname>
+                            <forename>Rudolf</forename>
+                        </persName>
+                        <note>
+                            <p>Kufstein 1822–1864 Natters</p>
+                            <p>ab 1847 Beamter im Kreisamt Trient, ab 1848 Privatdozent für vaterländische Geschichte an der Universität Innsbruck, 1851 Berufung ins Ministerium für Kultus und Unterricht, ab Juli 1854 Kultus- und Unterrichtsreferent in Troppau, ab 1855 Ministerialsekretär im Ministerium für Kultus und Unterricht, ab 1856 Statthaltereirat in Triest</p>
+                            <p>http://d-nb.info/gnd/124862748</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/124862748</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="oppolsky-mathias">
+                        <persName>
+                            <surname>Oppolsky</surname>
+                            <forename>Mathias (Matthäus)</forename>
+                        </persName>
+                        <note>
+                            <p>(1800–1870</p>
+                            <p>Pfarrer in Bielitz, 1842–1850 Generalvikar für den österr. Anteil der Diözese Breslau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="helm-anton">
+                        <persName>
+                            <surname>Helm</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>1786–1870</p>
+                            <p>Pfarrer von Teschen, ab 1822 Erzpriester, ab 1850 Generalvikar für den österr. Anteil der Diözese Breslau, ab 1853 Titulardomherr</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="potiorek-andreas">
+                        <persName>
+                            <surname>Potiorek</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Direktor bei der Kreishauptschule und Stiftskaplan bei den Elisabethinerinnen in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="diepenbrock-melchior">
+                        <persName>
+                            <surname>Diepenbrock</surname>
+                            <forename>Melchior</forename>
+                        </persName>
+                        <note>
+                            <p>Bocholt 1798–1853 Schloss Johannesberg/Schlesien</p>
+                            <p>1845–1853 Fürstbischof von Breslau</p>
+                            <p>http://d-nb.info/gnd/118678302</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118678302</tei:idno>
+                    </person>
+                <person xml:id="krauss-josef">
+                        <persName>
+                            <surname>Krauss</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>*Hünfeld 1826–1881</p>
+                            <p>Lehrer am Gymnasium an der Apostelkirche in Bonn</p>
+                            <p>http://d-nb.info/gnd/124302009</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/124302009</tei:idno>
+                    </person>
+                <person xml:id="gabriel-philipp">
+                        <persName>
+                            <surname>Gabriel</surname>
+                            <forename>Philipp</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>bis 1851/52 Lehrer am Gymnasium in Brünn, dann Direktor des katholischen Obergymnasiums in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="halbhuber-von-festwill-anton">
+                        <persName>
+                            <surname>Halbhuber v. Festwill</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1809–1886</p>
+                            <p>ab 1839 Präsidialsekretär des böhmischen Landesguberniums, ab 1849 Ministerialrat im Ministerium des Innern, 1853–1860 Landespräsident von Schlesien, 1860–1862 Leiter der niederösterreichischen Statthalterei, 1864/65 Zivilkommissar in Schleswig-Holstein</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="sniehota-carl">
+                        <persName>
+                            <surname>Sniehota</surname>
+                            <forename>Carl</forename>
+                        </persName>
+                        <note>
+                            <p>† 1853</p>
+                            <p>Beamter in der Provinzial-Staatsbuchhaltung in Brünn</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="janota-eugeniusz">
+                        <persName>
+                            <surname>Janota</surname>
+                            <forename>Eugeniusz Arnold</forename>
+                        </persName>
+                        <note>
+                            <p>Auschwitz 1823–1878 Lemberg</p>
+                            <p>ab 1847 Vikar in verschiedenen Pfarrgemeinden, 1850–1852 Lehrer am kath. Obergymnasium in Teschen, ab 1852 Lehrer am Gymnasium der Heiligen Anna in Krakau, ab 1871 Prof. für deutsche Sprache und Literatur an der Universität Lemberg</p>
+                            <p>http://d-nb.info/gnd/119419513</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119419513</tei:idno>
+                    </person>
+                <person xml:id="bitta-josef">
+                        <persName>
+                            <surname>Bitta</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Weltpriester der Diözese Breslau, Katechet am katholischen Obergymnasium in Teschen, Stiftspriester im Elisabethiner-Konvikt, fürstbischöflicher Generalvikariats- und Ehegerichtsrat in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="danel-franz">
+                        <persName>
+                            <surname>Danel</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Weltpriester der Diözese Breslau, Lehrer am Gymnasium in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="sobetzky-leopold">
+                        <persName>
+                            <surname>Sobetzky</surname>
+                            <forename>Leopold</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Priester, Lehrer am katholischen Gymnasium in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="paduch-joseph">
+                        <persName>
+                            <surname>Paduch</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pfarrer, fürstbischöflicher Ordinariatskommissär in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="michalek">
+                        <persName>
+                            <surname>Michalek</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Kaplan</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4ff55ec41ee84a7b7a80b0b7734e5a6b">
+                        <placeName>Krakau</placeName>
+                        <placeName type="pref">krakau</placeName>
+                        <placeName type="alt">Krakauer</placeName>
+                        <placeName type="alt">Krakau’s</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">jener Stadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.06143 19.93658</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3094802/</idno>
+                    </place>
+                <place xml:id="place_a711b0a299433d08b5b1118edfa2808a">
+                        <placeName>Cieszyn</placeName>
+                        <placeName type="pref">Teschen [Cieszyn]</placeName>
+                        <placeName type="alt">Teschens</placeName>
+                        <placeName type="alt">Teschner</placeName>
+                        <placeName type="alt">Teschen</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.74922 18.63178</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/5311974-5</idno>
+                        <idno>http://sws.geonames.org/7532301/</idno>
+                    </place>
+                <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+                        <placeName>Frankfurt-Eckenheim</placeName>
+                        <placeName type="pref">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt am Main</placeName>
+                        <placeName type="alt">Francfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4093156-0</idno>
+                    </place>
+                <place xml:id="place_b3798be58d0947c0e4f64ac8c2e089d4">
+                        <placeName>Friedeck</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+                <place xml:id="place_88328f9ea6c9ff9c5f30c97148b40c2c">
+                        <placeName>Horní Benešov</placeName>
+                        <placeName type="pref">Bennisch</placeName>
+                        <placeName type="alt">Bennisch</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.96682 17.60262</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3075451/</idno>
+                    </place>
+                <place xml:id="place_27e782d2631b9521a8d30904f1677c18">
+                        <placeName>Bruntál</placeName>
+                        <placeName type="pref">Freudenthal</placeName>
+                        <placeName type="alt">Freudenthal</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.98844 17.4647</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3078545/</idno>
+                    </place>
+                <place xml:id="place_d4ec090cfd48a471d8eadbce16f43c0c">
+                        <placeName>Opava</placeName>
+                        <placeName type="pref">Troppau [Opava]</placeName>
+                        <placeName type="alt">Troppau</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.93866 17.90257</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/1028714-0</idno>
+                        <idno>http://sws.geonames.org/3068927/</idno>
+                    </place>
+                <place xml:id="place_7e075e3a2f9d18e970715aa1851dc619">
+                        <placeName>Tarnów</placeName>
+                        <placeName type="alt">Tarnower</placeName>
+                        <placeName type="alt">Tarnow</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.01381 20.98698</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/757026/</idno>
+                    </place>
+                <place xml:id="place_68cfca455813f0246a4ab2ec0d81d117">
+                        <placeName>Rzeszów</placeName>
+                        <placeName type="alt">Rzeszow</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.04132 21.99901</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/759734/</idno>
+                    </place>
+                <place xml:id="place_033ae4ddfe8d381fa5ee82ab6aae2833" type="placeName">
+                        <placeName type="pref">Schlesien</placeName>
+                        <placeName type="alt">Schlesiens</placeName>
+                        <location>
+                            <geo decls="#LatLng">51 18</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3066138</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                <place xml:id="place_0c51d4343a81db10484268ad1f1b2500">
+                        <placeName>Brno</placeName>
+                        <placeName type="pref">Brünn [Brno]</placeName>
+                        <placeName type="alt">Brünn</placeName>
+                        <placeName type="alt">Brünner</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.19522 16.60796</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3078610/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

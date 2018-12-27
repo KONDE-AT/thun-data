@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="szoeyeny-an-thun-1860-04-21-a3-xxi-d577.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/szoegyeny-an-thun-1860-04-26-a3-xxi-d578.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/taaffe-an-thun-1850-02-15-a3-xxi-d34.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#szoegyeny-marich-ladislaus" role="sender:beamter">Ladislaus
+                        Szögyény</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>o. O., <date when="1860-04-21">21. April
+                        1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D577</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ladislaus Szögyény bittet Leo Thun, beim Kaiser die Begnadigung von
+                            Eduard Zsedényi, der wegen Agitation gegen das Protestantenpatent zu
+                            einer achtmonatigen Gefängnisstrafe verurteilt wurde, zu erwirken. Er
+                            betont dazu die bisherige Treue Zsedényis und erklärt, dass dieser aus
+                            falschem religiösen Eifer gehandelt habe. Er ist aber überzeugt, dass er
+                            der Regierung in Zukunft treue Dienste leisten werde. Eine Verurteilung
+                            würde die Durchführung des Protestantenpatents erschweren.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#szoegyeny-marich-ladislaus">Ladislaus Szögyény</rs>
+                    <date when="1860-04-21">21. April
+                        1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Ungarn</term>
+                    <term>Protestanten</term>
+                    <term>Protestantenpatent</term>
+                </index>
+                <p>Hochgeborner Graf!</p>
+                <p>Euer Exzellenz hatten die Güte, neulich zu erwähnen, daß wenn es in der
+                    protestantischen Angelegenheit zu einer erwünschten Ausgleichung käme, die gegen
+                    Einzelne im Zuge befindlichen strafgerichtlichen Schritte aufgehoben werden
+                    dürften. Dahin gehört wohl auch vorzüglich, daß die bereits gefällten Urtheile
+                    einstweilen nicht in Vollzug gesetzt werden. Nun hat aber <rs type="person" ref="#zsedenyi-eduard">Herr v. Zsedényi</rs> eben heute vom <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschauer</rs> [Košice] Amtsgerichte die Zustellung des
+                    gegen ihn gefällten oberstgerichtlichen Urtheiles mit dem Auftrage erhalten,
+                    sich übermorgen nach <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> zu begeben, um dort seine
+                    Strafe zu beginnen.<lb/>Nach den Äußerungen, die ich von Eurer Exzellenz über
+                        <rs type="person" ref="#zsedenyi-eduard">Zsedényi</rs> zu vernehmen die Ehre
+                    hatte, wäre es fruchtlos Sie davon überzeugen zu wollen, daß ihm, den
+                    dynastischesten, monarchischesten Manne, der sein ganzes Leben lang für die
+                    Rechte des Thrones gekämpft hat, nichts mehr ferne liegen könnte als eine
+                    Widersetzlichkeit[?] gegen die Befehle seines kaiserlichen Herrn – und daß ihn
+                    daher nur unstatthafter religiöser Eifer zu dem fräglichen [?] Verhalten
+                    verleitet haben konnte. Ich beschränke mich nun darauf zu bemerken, daß die
+                    Nachricht von der Verhaftung <rs type="person" ref="#zsedenyi-eduard">Zsedényis</rs>, welche sich wie ein Lauffeuer im ganzen Lande
+                    verbreiten wird, den günstigen Eindruck der gestrigen allerhöchsten Erlässe
+                    wesentlich paralysieren werde und daß dadurch auch die Ausgleichung der
+                    protestantischen Verwicklungen nicht unbedeutend erschwert sei.<lb/>
+                    <rs type="person" ref="#zsedenyi-eduard">Zsedényi</rs> hat noch vorgestern an den
+                    Superintendential [?] in <rs type="place" subtype="place" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs>
+                    geschrieben und gerathen, um Erlaubnis zur Abhaltung des Districtualconventes
+                    einzuschreiten. Blieb dies auch ohne Erfolg, so beweiset es doch die gute
+                    Gesinnung des Mannes.<lb/>Ich fühle mich verpflichtet, die hohe Aufmerksamkeit
+                    Eurer Exzellenz auf diese Umstände mit der Bitte zu lenken, im Interesse der
+                    guten Sache und zur Hebung der hochherzigen Absichten <rs type="person" ref="#franz-joseph">Seiner Majestät des Kaisers für Ungarn</rs>, die
+                    allerhöchste Begnadigung desselben bei <rs type="person" ref="#franz-joseph">Seiner
+                        Majestät</rs> noch bevor <rs type="person" ref="#zsedenyi-eduard">Zs[edényi]</rs>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> verläßt, zu erwirken. <rs type="person" ref="#franz-joseph">Seine Majestät</rs> sichere sich durch einen solchen Akt kaiserlicher
+                    Großmuth die Dankbarkeit eines braven, ausgezeichneten Mannes, welcher der
+                    Regierung noch wesentliche Dienste zu leisten in der Lage sein wird.<lb/>Dixi et
+                    salvavi animam.<lb/>Empfangen Sie den Ausdruck meiner ausgezeichneten
+                    Hochachtung, mit der ich die Ehre habe zu sein</p>
+                <p>Euer Excellenz</p>
+                <p>gehorsamster Diener<lb/>Ladislaus Szögyény </p>
+                <p>21.4.[1]860</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="szoegyeny-marich-ladislaus">
+                        <persName>
+                            <surname>Szögyény-Marich</surname>
+                            <forename>Ladislaus</forename>
+                        </persName>
+                        <note>
+                            <p>Pest 1806–1893</p>
+                            <p>ab 1844 Chef der Studien- und Zensurkommission in Ofen, ab 1848 Hofrat bei der ungarischen Hofkanzlei, ab 1860 Vizekanzler der ungarischen Hofkanzlei, Mitglied des Reichsrates</p>
+                            <p>http://d-nb.info/gnd/1019704195</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1019704195</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="zsedenyi-eduard">
+                        <persName>
+                            <surname>Zsedényi</surname>
+                            <forename>Eduard</forename>
+                        </persName>
+                        <note>
+                            <p>Leutschau 1803–1879 Pest</p>
+                            <p>ab 1845 Hofrat und Referent bei der ungarischen Hofkanzlei, 1859 zu einer achtmonatigen Gefängnisstrafe wegen Agitation gegen das Protestantenpatent für Ungarn verurteilt</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_dd51fef1ae0877c04e8b4e19eddbabd5">
+                        <placeName>Košice</placeName>
+                        <placeName type="pref">Kaschau</placeName>
+                        <placeName type="alt">Kaschau</placeName>
+                        <placeName type="alt">Kaschauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.71395 21.25808</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/724443/</idno>
+                    </place>
+                <place xml:id="place_ae8effcf53078ebe204e349a55546ca8">
+                        <placeName>Debrecen</placeName>
+                        <placeName type="pref">Debrezin [Debrecen]</placeName>
+                        <placeName type="alt">Debreczin</placeName>
+                        <placeName type="alt">Debrecziner</placeName>
+                        <placeName type="alt">Debrezin</placeName>
+                        <placeName type="alt">Debreczin</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.53333 21.63333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/721472/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

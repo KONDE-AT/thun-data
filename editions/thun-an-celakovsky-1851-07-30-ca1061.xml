@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-celakovsky-1851-07-30-ca1061.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-celakovsky-1850-11-16-ca1058.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-de-luca-02-01-ca642.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#celakovsky-frantisek-ladislav" role="recipient">Frantisek
+                        Ladislaus Čelakovšký</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1851-07-30">30. Juli 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Tschechisches Literaturarchiv [Literární archiv Památníku
+                            národního písemnictví]</institution>
+                        <repository>Nachlass Čelakovšký</repository>
+                        <idno>250/42</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun freut sich, dass der Slawist Frantisek Čelakovský den an ihn
+                            herangetragenen Auftrag zur Zusammenstellung eines Lesebuchs für die
+                            Gymnasien übernehmen wird. Thun zeigt sich überzeugt davon, dass
+                            Čelakovšký ein Werk schaffen werde, das den Bedürfnissen der
+                            tschecho-slowakischen Jugend vollkommen gerecht werde.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Tschechisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1851-07-30">30. Juli 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#celakovsky-frantisek-ladislav">Frantisek Ladislaus Čelakovšký</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Schulbücher</term>
+                    <term>Nationalismus</term>
+                </index>
+                <p>Eure Hochwürden!<lb/>Vážený Pane!</p>
+                <p>S potěšením vyrozuměl jsem z listu Vašeho ochotu, s níž jste se v úlohu skrze
+                    školního radu Venziga jménem mým na Vašnost vzloženou uvázati ráčili; i koje se
+                    pevnou důvěrou, že z rukou Vašich vyjde dílo, které dokonale vyhoví potřebám
+                    naší mládeže československé. Přeji Vašnosti všelikého k němu zdaru.<lb/>Ve Vídni
+                    dne 30. Července 1851.</p>
+                <p>Vašnosti<lb/>povolný<lb/>h. Leo Thun.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="celakovsky-frantisek-ladislav">
+                        <persName>
+                            <surname>Čelakovský</surname>
+                            <forename>František Ladislav</forename>
+                        </persName>
+                        <note>
+                            <p>Strakonice 1799–1852 Prag</p>
+                            <p>1841–1849 Prof. für slawische Sprachen an der Universität Breslau, ab 1849 Prof. an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/119409275</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119409275</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

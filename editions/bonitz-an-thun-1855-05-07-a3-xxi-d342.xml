@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="bonitz-an-thun-1855-05-07-a3-xxi-d342.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/blum-an-rauscher-1854-08-23-a3-xxi-d277.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1855-07-30-ca1012.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#bonitz-hermann" role="sender:gelehrter">Hermann
+                        Bonitz</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1855-05-07">07. Mai 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D342</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Hermann Bonitz übermittelt Minister Thun den Abdruck eines Aufsatzes aus
+                            der jüngsten Ausgabe der Zeitschrift für die österreichischen Gymnasien.
+                            In dem Aufsatz hat Bonitz, wie von Thun einmal mündlich angeregt, die
+                            Frage behandelt, wie sinnvoll eine neuerliche Modifikation des
+                            Gymnasiallehrplanes wäre. Der Aufsatz war schon abgeschlossen, als ihm
+                            Ministerialrat Kleemann vertrauensvoll den Auftrag erteilt hatte, eben
+                            diese Frage in einem Gutachten zu behandeln. Der besagte Aufsatz kann
+                            nun aber als ein solches Gutachten angesehen werden, allerdings konnte
+                            er die von Kleemann mitgelieferten Stellungnahmen der Schulräte nicht
+                            mehr in den Aufsatz einbauen. Diese hätten jedoch nichts Wesentliches an
+                            seinem Urteil geändert.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#bonitz-hermann">Hermann Bonitz</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1855-05-07">07. Mai 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Lehrplan</term>
+                    <term>Schulräte</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>In einer Unterredung, deren Euere Excellenz mich huldreichst würdigten, fanden
+                    Euere Excellenz es angemessen, daß die Frage über die Modification des
+                    Gymnasiallehrplans für die philosophische Propädeutik und das Lateinische in der
+                    Gymnasialzeitschrift discutirt werde. In diesem Aufsatze des so eben
+                    erschienenen Doppelheftes (IV und V. Heft) <note xml:id="note_1">Vgl. <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10617371-5">Hermann Bonitz, Über die Änderung des Gymnasiallehrplanes für das
+                            Lateinische und die philosophische Propädeutik auf Grundlage der a.h.
+                            Bestimmungen vom 6. Dec. 1854, in: Zeitschrift für die österreichischen
+                            Gymnasien, 1855/6, S. 337–369.</ref>
+                    </note> habe ich versucht meine aus
+                    wiederholter Überlegung hervorgegangene Überzeugung darzulegen, und wage es
+                    Euerer Excellenz beiliegend einen Abdruck davon zu hochgeneigter Kenntnisnahme
+                    ehrerbietigst zu unterbreiten. Als der beiliegende Aufsatz bereits zum Drucke
+                    fertig war, erhielt ich von Herrn Ministerialrath <rs type="person" ref="#kleemann-johann">Kleemann</rs> den vertrauensvollen Auftrag, mich
+                    über diesen Gegenstand gutachtlich zu äußern; durch den beiliegenden Aufsatz,
+                    obwohl er ohne den Gedanken an einen solchen Auftrag abgefaßt ist, hoffe ich
+                    demselben entsprochen zu haben. Die mir gleichzeitig mitgetheilten Gutachten der
+                    Herren Schulräthe habe ich erst nach Beendigung des Druckes meines Aufsatzes
+                    lesen können, jedoch keinen Anlass gefunden, daß ich irgend etwas in den von mir
+                    dargelegten Ansichten geändert wünschte. Einige anderweite Bemerkungen, zu denen
+                    die mitgetheilten Gutachten führen, habe ich schriftlich an Herrn
+                    Ministerialrath <rs type="person" ref="#kleemann-johann">Kleemann</rs> eingereicht.
+                    Gestatten Euere Excellenz den Ausdruck der tiefsten Ehrerbietung von</p>
+                <p>Euerer Excellenz unterthänigstem Diener<lb/>H. Bonitz</p>
+                <p>Wien, 7. Mai 1855</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="bonitz-hermann">
+                        <persName>
+                            <surname>Bonitz</surname>
+                            <forename>Hermann</forename>
+                        </persName>
+                        <note>
+                            <p>Langensalza 1814–1888 Berlin</p>
+                            <p>1842–1849 Lehrer am Gymnasium in Stettin, 1849–1867 Prof. für klass. Philologie an der Universität Wien, ab 1867 Direktor des Gymnasiums zum Grauen Kloster und Direktor des Königlichen pädagogischen Seminars für gelehrte Schulen in Berlin</p>
+                            <p>http://d-nb.info/gnd/11905938X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11905938X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="kleemann-johann">
+                        <persName>
+                            <surname>Kleemann</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Czernowitz 1808–1885 Wien</p>
+                            <p>ab 1840 Professor für Weltgeschichte und Philologie an der phil. Lehranstalt in Görz, später in Laibach, ab 1850 Schulrat und Gymnasialinspektor für Steiermark, Kärnten und Krain, ab 1851 Sektionsrat im Ministerium für Kultus und Unterricht,  ab 1854 Ministerialrat</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

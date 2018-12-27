@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="helfert-an-thun-1853-08-23-a3-xxi-d226.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1850-11-a3-xxi-d77.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-08-27-a3-xxi-d228.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#helfert-joseph-alexander" role="sender:beamter">Joseph
+                        Alexander Helfert</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1853-08-23">23. August 1853</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D226</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Unterstaatssekretär Joseph Alexander Helfert kommt dem Auftrag des
+                            Ministers nach, über Julius Galba, der von 1848 bis 1850 als Dozent für
+                            Verfassungspolitik an der Universität Wien lehrte, Bericht zu erstatten.
+                            Im zweiten Teil des Briefs schlägt Helfert drei Kandidaten für eine
+                            nicht näher bezeichnete Stelle im Zivil- und Militärgouvernement in
+                            Ungarn vor und bittet Thun diesbezüglich um dessen Weisungen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1853-08-23">23. August 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                    <term>Habilitation</term>
+                    <term>Ungarn</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>
+                    <rs type="person" ref="#galba-julius">Galba</rs> war <hi rend="ul">vor</hi> dem
+                    Jahre 1848 im öffentlichen Lehr- und Erziehungsfache angestellt, nämlich als
+                    Juristenpräfect in der <rs type="org" ref="#org_0016">k.k.
+                        Theresianischen Ritterakademie</rs>, hat im Jahre 1848, unterm 1. und
+                    12. April vom Minister <rs type="person" ref="#sommaruga-franz-seraph">Sommaruga</rs> die Befugnis erhalten, öffentliche Vorträge an der
+                    <rs type="org" ref="#org_0018">Universität</rs> über <hi rend="ul">Verfassungspolitik</hi> halten zu dürfen, welche Befugnis ihm mit
+                    Ministerialerlaß vom 19. August 1850 Z. 6687 "mit Dispens von einer weitern
+                    Probe seiner Befähigung" über die warme Befürwortung des Professorencollegiums
+                    und Universitätsconsistoriums auf die <hi rend="ul">Verwaltungspolitik</hi>
+                    ausgedehnt wurde, worauf aber schon unterm 1. December 1850 24/g.[?] ihm die
+                    Befugnis entzogen wurde. Hiermit glaube ich dem diesfälligen mir hinterlassenen
+                    Auftrage nachgekommen zu sein.<lb/>Was die Personalvorschläge an das Civil- und
+                    Militärgouvernement für <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> betrifft, so stellt sich die
+                    Sache so, daß die Secretäre einer wie der andere sich für den Antrag unter
+                    hundert Entschuldigungen bedanken und ich nehme mir daher die Freiheit, folgende
+                    Namen der geneigten Beachtung zu empfehlen und mir die hohe Weisung darüber zu
+                        erbitten:<lb/>
+                    <rs type="person" ref="#dargun-august">Dargun</rs>, der gewiß
+                    lieber nach <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> als Statthaltereirath wie nach
+                        <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs> ginge und vielfache Geschäftsroutine
+                        besitzt;<lb/>
+                    <rs type="person" ref="#strobach-friedrich">Strobach</rs>, der
+                    bereits in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> und <rs type="place" subtype="place" ref="#place_104b5ac4af06263707f5418d171ffe3d">Agram</rs> gedient
+                    und sich hiermit mit Rücksicht auf den Umstand, daß er mit dem Bureau des
+                    stylistisch <hi rend="ul">gar nicht</hi> zu befriedigenden Referenten in jenes
+                    des <hi rend="ul">kaum</hi> zu befriedigenden kam und trotzdem des letzteren
+                    volle Anerkennung sich allmälig zu erringen gewußt hat, einer derartigen
+                    Verantwortung kaum in geringeren Grade als Conzipist würdig und vertrauenswerth
+                    darstellen dürfte; <lb/>
+                    <rs type="person" ref="#hermann">Hermann</rs> aus
+                        <rs type="place" subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Troppau</rs>, Statthaltereiconzipist, bei dem höchstens
+                    die noch zu kurze Dienstzeit Bedenken gegen eine so gewaltige Beförderung
+                    erregen dürfte.<lb/>Ich erbitte mir die diesmal vergessene hohe Weisung
+                    rücksichtlich der Briefschaften. Im Vertrauen auf die im vorigen Jahre erhaltene
+                    Ermächtigung habe ich einen von <rs type="person" ref="#gruenne-karl-ludwig">FML
+                        Grünne</rs> angelangten Brief eröffnet, der den Empfang des Schreibens
+                    Eurer Excellenz bestätigt, über den Erfolg der eingelegten Vorstellung aber noch
+                    kein Prognosticon stellen zu können sich erklärt.<lb/>Mit den ergebensten
+                    Wünschen für das glücklichste Gedeihen der angetretenen Badesaison erlaube ich
+                    mir mich zu zeichnen</p>
+                <p>Eurer Excellenz</p>
+                <p>gehorsamster Diener<lb/>Helfert</p>
+                <p>Wien, am 23. August 1853</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="helfert-joseph-alexander">
+                        <persName>
+                            <surname>Helfert</surname>
+                            <forename>Josef Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1820–1910 Wien</p>
+                            <p>Historiker und Politiker, ab Okt. 1847 Supplent für römisches und kanonisches Recht an der Universität Krakau, 1848–1860 Unterstaatssekretär im Ministerium für Kultus und Unterricht, ab 1860 leitender Beamter der Sektion Unterricht im Staatsministerium</p>
+                            <p>http://d-nb.info/gnd/11877381X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877381X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="galba-julius">
+                        <persName>
+                            <surname>Galba</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>*Graz 1821</p>
+                            <p>bis 1848 Juristenpräfekt an der theresianischen Ritterakademie, ab 1848 Dozent für Verfassungspolitik an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/135669146</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/135669146</tei:idno>
+                    </person>
+                <person xml:id="sommaruga-franz-seraph">
+                        <persName>
+                            <surname>Sommaruga</surname>
+                            <forename>Franz Seraph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1780–1860 Wien</p>
+                            <p>von März 1848–Mai 1848 erster Unterrichtsminister Österreichs, April 1848–Mai 1848 Justizminister</p>
+                            <p>http://d-nb.info/gnd/117509213</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117509213</tei:idno>
+                    </person>
+                <person xml:id="dargun-august">
+                        <persName>
+                            <surname>Dargun</surname>
+                            <forename>August</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Gubernialsekretär, ab 1853 Statthaltereirat in Krakau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="strobach-friedrich">
+                        <persName>
+                            <surname>Strobach</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Ministerialkonzipist im Ministerium für Kultus und Unterricht, Statthaltereirat und Studienreferent in Linz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="hermann">
+                        <persName>
+                            <surname>Hermann</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Statthaltereikonzipist</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="gruenne-karl-ludwig">
+                        <persName>
+                            <surname>Grünne</surname>
+                            <forename>Karl Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1808–1884 Baden</p>
+                            <p>General, Aug. 1848 Obersthofmeister von Franz Joseph, Okt. 1848 GM, Dez. 1848 Generaladjutant von Franz Joseph, 1850 FML</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+                <place xml:id="place_104b5ac4af06263707f5418d171ffe3d">
+                        <placeName>Zagreb</placeName>
+                        <placeName type="pref">Agram [Zagreb]</placeName>
+                        <placeName type="alt">Agramer</placeName>
+                        <placeName type="alt">Agrams</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.81444 15.97798</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186886/</idno>
+                        <idno>http://d-nb.info/gnd/4108914-5</idno>
+                    </place>
+                <place xml:id="place_d4ec090cfd48a471d8eadbce16f43c0c">
+                        <placeName>Opava</placeName>
+                        <placeName type="pref">Troppau [Opava]</placeName>
+                        <placeName type="alt">Troppau</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.93866 17.90257</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/1028714-0</idno>
+                        <idno>http://sws.geonames.org/3068927/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0016">
+                        <orgName>k.k. Theresianische Ritterakademie</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/5005464-8</idno>
+                    </org>
+                <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

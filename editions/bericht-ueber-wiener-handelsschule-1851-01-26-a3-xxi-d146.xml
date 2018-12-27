@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="bericht-ueber-wiener-handelsschule-1851-01-26-a3-xxi-d146.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-situation-katholische-kirche-galizien-1850-a3-xxi-d88.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bernhard-an-thun-1854-09-15-a3-xxi-d283.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht über die Handelsschule in Wien von <rs type="person" ref="#haferl-josef">Josef
+                        Haferl</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1851-01-26">26. Januar [1851?]<note xml:id="note_1">Im Nachlass wurde der Bericht ohne
+                            weitere Erklärung in das Jahr 1851 datiert.</note>
+                    </date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D146</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Konzipist im Unterrichtsministerium, Josef Haferl, berichtet über die
+                            Gremialhandelsschule in Wien. Die Schule wurde im Jahr 1849 von der
+                            Wiener Handelskammer als private Stiftung gegründet und soll Lehrlingen
+                            aus dem Bereich des Handels die Möglichkeit bieten sich weiterzubilden.
+                            Damit steht die Schule in einer Reihe mit anderen Schulen, die als
+                            Ergänzung zu den Volksschulen und den Gymnasien gegründet worden sind.
+                            In Deutschland gibt es solche und ähnliche Schulen seit mehr als 40
+                            Jahren, auch in Österreich folgte man mit der Gründung der Realschulen
+                            und den technischen Instituten diesem Beispiel und hatte großen Erfolg
+                            damit. Die Wiener Gremialhandelsschule besteht derzeit aus vier Klassen,
+                            unterrichtet wird sonntagnachmittags. Der Unterricht ist für alle
+                            Lehrlinge verpflichtend. Haferl berichtet dann von den guten Ergebnissen
+                            der bisherigen Jahresprüfungen und betont, dass sich damit auch der
+                            Erfolg der Schule zeige. Abschließend spricht er seine Hoffnung aus,
+                            dass man auch in anderen Städten dem Wiener Beispiel folgen werde.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Handelsschulen</term>
+                    <term>Wien</term>
+                </index>
+                <p>Wien, den 26. Jän.</p>
+                <p>Dem Bedürfnisse einer tieferen und mehrseitigen Bildung, als die Volks- und
+                    Elementarschulen gewähren können, haben die sogenannten Mittelschulen ihre
+                    Entstehung zu verdanken.<lb/>Der höhere Bürgerstand kann sich mit dem Maß von
+                    Kenntnissen, wie es dem Landmann und dem Kleingewerbebürger genügen kann, nicht
+                    begnügen, und so entstanden neben den Gymnasien und Volksschulen schon vor 40
+                    und mehreren Jahren in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs>, wie in
+                        <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>, <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <rs type="place" subtype="place" ref="#place_21dba34d74f8b1cb8d42e34579c40946">Augsburg</rs> usw. Schulen, in welchen
+                    außer den Sprachen Geographie, Geschichte, Mathematik, Naturgeschichte und
+                    Naturlehre, Technologie usw. gelehrt wurden.<lb/>Diese Schulen, obwohl von der
+                    gelehrten Welt von allen Seiten befeindet, haben sich aber nicht nur behauptet,
+                    sondern ihre Zahl hat sich in neuester Zeit beträchtlich vermehrt, ein Beweis,
+                    daß ihr Bedürfnis kein eingebildetes, sondern ein in der Natur begründetes war
+                    und daß sie das leisten, was man von ihnen zu erwarten berechtigt war.<lb/>Auch
+                    in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> hat die Staatsverwaltung, ferner die
+                    Landstände von <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>,
+                        <rs type="place" subtype="region" ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</rs>, <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und
+                        <rs type="place" subtype="region" ref="#place_600b5215fe55383381a2d9aca7dec16c">Schlesien</rs> durch Errichtung
+                    von technischen Instituten und damit verbundenen Realschulen diesem Bedürfnisse
+                    zu entsprechen gesucht und neben diesen Mittelschulen entstanden nach und nach
+                    auch solche, die ihre Entstehung einzelnen Gemeinden oder Körperschaften, ja
+                    sogar Stiftungen einzelner Personen zu verdanken haben.<lb/>Zu dieser Klasse
+                    gehört die Gremialhandelsschule in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>. Sie wurde im
+                    Jahr [1]849 von dem hiesigen Handelsgremium aus eigenen Mitteln gegründet und
+                    nach Bestätigung ihrer Statuten am 18. März [1]849 zum ersten Male
+                    eröffnet.<lb/>Der Unterricht, der in dieser Handelsschule ertheilt wird, umfaßte
+                    ursprünglich 3 Klassen, die aber vor kurzem zum Behufe eines zweckmäßigeren
+                    Unterrichtes auf 4 erweitert wurden. Für diese 4 Klassen bestehen nach den
+                    Statuten dieser Gremialhandelsschule 4 Sectionen, von denen bereits 3 Sectionen
+                    eröffnet sind.<lb/>Die Unterrichtsgegenstände sind: Religion, Schönschreiben,
+                    kaufmännischer Styl und Correspondenz, kaufmännische Arithmetik, Münz-, Maß- und
+                    Gewichtkunde und Arbitragerechnung, Handelsgeographie, Waarenkunde, Wechselrecht
+                    und kaufmännische Buchhaltung.<lb/>Das Lehrpersonale ist sowohl bezüglich der
+                    Zahl als Auswahl der Individuen von der Oberleitung der Schule mit gleicher
+                    Munifizenz und Einsicht gewählt. An der Spitze desselben steht ein
+                    Direktor.<lb/>Der Unterricht wird an Sonntagen nachmittags von 3 bis halb 6 Uhr
+                    ertheilt und es sind alle Lehrlinge verpflichtet ihm ohne Unterbrechung
+                    beizuwohnen; jedem Commis aber steht es frei gegen einen Jahresbeitrag von 3 fl
+                    daran theilzunehmen.<lb/>Die Leitung des Unterrichtes in allen Klassen und
+                    Sectionen liegt dem Direktor ob.<lb/>Zur Aufrechthaltung der Ordnung und
+                    Disziplin dienen die trefflichen Controllseinrichtungen, denen zufolge die
+                    Senioren, Repräsentanten und Mitglieder des bürgerlichen Handelsgremiums
+                    abwechselnd während der Lehrstunden die Oberaufsicht führen.<lb/>Die Schülerzahl
+                    betrug im ersten Schuljahr im Jahr [1]849 932, worunter sich 177 Commis
+                    befanden.<lb/>Im Schuljahr [1]850 stieg die Schülerzahl auf 940. Die
+                    Jahresprüfungen werden immer im Monat Dezember öffentlich abgehalten.<lb/>Die
+                    erste Prüfung, die am 8. Dez. [1]849 abgehalten wurde, gab ein günstiges
+                    Resultat, was um so mehr anerkannt werden mußte, wenn man die Kürze des
+                    Bestandes dieser Schule berücksichtigte. Es wurden 39 Schüler mit Prämien
+                    betheilt und 28 erhielten das Accessit.<lb/>Die zweite öffentliche Prüfung aber,
+                    die am 15. Dez. [1]850 im Sophienbadsaale stattfand, lieferte noch günstigere
+                    Resultate, denn es wurden 82 Schüler mit Prämien belohnt und 47 erhielten das
+                    Accessit. Die Prämien bestehen in werthvollen, nützlichen und lehrreichern
+                    Büchern.<lb/>Dieses günstige Resultat, das diese Handelsschule in so kurzer Zeit
+                    bereits lieferte, ist dem Eifer der Lehrer, unter denen <rs type="person" ref="#ditscheiner-josef-alois">Ditscheiner</rs> besonders zu erwähnen
+                    ist, ferner den eifrigen und umsichtigen Direktor <rs type="person" ref="#nigris-philipp">Nigris</rs> und ganz besonders den unermüdlichen, keine Kosten und
+                    Opfer scheuenden Vorstehern <hi rend="ul">
+                        <rs type="person" ref="#duck-anton">A[nton]
+                            Duck</rs> und <rs type="person" ref="#bearzi-angelo">A[ngelo]
+                            Bearzi</rs>
+                    </hi> zu verdanken.<lb/>Jeder, der dieser Prüfung
+                    beiwohnte, muß die Überzeugung geschöpft haben, daß diese Gremialhandelsschule
+                    eine wahre Pflanzschule für den Handelsstand ist und daß der Saame, den diese
+                    Schule ausstreut, in weiteren Kreisen seine segensreichen Früchte tragen wird.
+                    Den Gründern dieser Anstalt müssen aber alle Menschenfreunde den wärmsten Dank
+                    zollen für ihre mit so viel Mühe und Kosten verbundenen Anstrengungen, wodurch
+                    es ihnen gelang eine Schule ins Leben zu rufen, die die Jugend des
+                    Handelsstandes mit jener Bildung erfüllt, welche sie in ihrem künftigen
+                    speziellen Berufe als Vermittler zwischen Produzenten und Consumenten und bei
+                    den sich täglich erweiternden Kreisen des Handelswesens so sehr benöthigt. Möge
+                    diese nützliche und segensreiche Anstalt wie in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> auch an anderen Orten die verdiente Nachahmung finden!</p>
+                <p>Haferl</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="haferl-josef">
+                        <persName>
+                            <surname>Haferl</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Ministerialkonzipist im Ministerium für Kultus und Unterricht</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="ditscheiner-josef-alois">
+                        <persName>
+                            <surname>Ditscheiner</surname>
+                            <forename>Josef Alois</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Vizedirektor und Prof. an der Gremialhandelsschule in Wien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="nigris-philipp">
+                        <persName>
+                            <surname>Nigris</surname>
+                            <forename>Philipp</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Direktor der Gremialhandelsschule in Wien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="duck-anton">
+                        <persName>
+                            <surname>Duck</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Gründer der Gremialhandelsschule des Wiener Kaufmannstandes</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="bearzi-angelo">
+                        <persName>
+                            <surname>Bearzi</surname>
+                            <forename>Angelo</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Kaufmann und Gründer der Gremialhandelsschule des Wiener Kaufmannstandes</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_d35a02eb49149450fb2fffc6e467eb37">
+                        <placeName>Berlin</placeName>
+                        <placeName type="pref">berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2950159/</idno>
+                    </place>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+                <place xml:id="place_21dba34d74f8b1cb8d42e34579c40946">
+                        <placeName>Augsburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.37154 10.89851</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2954172/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                <place xml:id="place_b5e9e75db151e1fff33838003e5fa591" type="placeName">
+                        <placeName type="pref">Steiermark</placeName>
+                        <placeName type="alt">Stiria</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.25 15.333333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4057092-7</idno>
+                    </place>
+                <place xml:id="place_fc9c3a7e02f8a9d5ed9033b572285243" type="placeName">
+                        <placeName type="pref">Mähren</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 17</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/64402-X</idno>
+                    </place>
+                <place xml:id="place_600b5215fe55383381a2d9aca7dec16c" type="placeName">
+                        <placeName type="pref">Östreichisch
+                            Schlesien</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.275 17.715278</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/63720-8</idno>
+                    </place>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

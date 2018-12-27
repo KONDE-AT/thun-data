@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="strobach-an-thun-1860-10-24-a3-xxi-d623a11.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stlaukal-an-thun-1853-04-16-a3-xxi-d200.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#strobach-friedrich" role="sender:beamter">Friedrich Strobach,
+                            <rs type="person" ref="#stifter-adalbert" role="sender:beamter">Adalbert
+                            Stifter</rs>
+                    </rs> und <rs type="person" ref="#kurz-johann" role="sender:beamter">Johann Kurz</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when="1860-10-24">24.
+                        Oktober 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die Schulräte Adalbert Stifter und Johann Kurz sowie der Studienreferent
+                            Friedrich Strobach bedanken sich bei Leo Thun für dessen Wirken als
+                            Unterrichtsminister. Sie bedauern dessen Rücktritt sehr, zumal während
+                            Thuns Amtszeit bedeutendes für das Unterrichtswesen in Österreich
+                            geleistet worden sei. Sie hoffen, dass das Erreichte die bevorstehenden
+                            turbulenten Zeiten überstehen wird.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#strobach-friedrich">Friedrich Strobach,</rs>
+                    <rs type="person" ref="#stifter-adalbert">Adalbert Stifter</rs>
+                    <rs type="person" ref="#kurz-johann">Johann Kurz</rs>
+                    <settlement ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</settlement>
+                    <date when="1860-10-24">24.
+                        Oktober 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Linz, den 24. Oktober 1860</p>
+                <p>Euere Excellenz!</p>
+                <p>In dem Augenblicke, wo Euere Excellenz von der in der Geschichte des
+                    Unterrichtswesens <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs>
+                    Epoche machenden Leitung des <rs type="org" ref="#org_0005">Unterrichtsministeriums</rs> abtreten, drängt es die Gefertigten, den
+                    tiefgefühlten Dank für die Huld auszusprechen, welche Euere Excellenz ihnen seit
+                    einer Reihe von Jahren ununterbrochen zu widmen die Gnade hatten, und wofür die
+                    Gefertigten keine andere Erwiderung fanden, als die gewissenhafte Erfüllung der
+                    von Euerer Excellenz ihnen klar vorgezeichneten Pflichten und die treue
+                    Anhänglichkeit an die verehrte Person Euerer Excellenz. Wenn sich mit dem Danke,
+                    den wir hier niederzulegen uns erlauben, ein Gefühl lebhaften Schmerzes und der
+                    Trauer mischt, so gilt dies Gefühl dem Scheiden eines Mannes, der dem
+                    Unterrichtswesen <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> zu seinem
+                    jetzigen hohen Standpunkte verholfen, der seinen Untergebenen stets ein
+                    leuchtendes Beispiel redlichen Eifers und ehrenhafter Gesinnung war. Möge das
+                    von Euerer Excellenz geschaffene, mit Erfolg gekrönte Unterrichtssystem auch die
+                    jetzige, so bewegte Zeit überdauern, und möge Euerer Excellenz für Ihr ganzes
+                    Leben die Genugthuung gewährt sein, sich an dessen Früchten zu erfreuen.<lb/>Den
+                    Gefertigten gestatten aber Euere Excellenz die Versicherung unbegrenzter
+                    dankbarer Verehrung und nie verlöschender persönlicher Anhänglichkeit, mit
+                    welcher sie zeichnen als Euer Hochgeboren</p>
+                <p>treuergebene Diener<lb/>Friedr. Strobach<lb/>Adalbert Stifter<lb/>Johann
+                    Kurz<lb/>
+                </p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="strobach-friedrich">
+                        <persName>
+                            <surname>Strobach</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Ministerialkonzipist im Ministerium für Kultus und Unterricht, Statthaltereirat und Studienreferent in Linz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="stifter-adalbert">
+                        <persName>
+                            <surname>Stifter</surname>
+                            <forename>Adalbert</forename>
+                        </persName>
+                        <note>
+                            <p>Oberplan/Böhmen 1805–1868 Linz</p>
+                            <p>Schriftsteller, Pädagoge, 1848 Übersiedlung nach Linz, 1850 Schulrat und Inspektor der Volksschulen Oberösterreichs, 1853 Konservator für Oberösterreich</p>
+                            <p>http://d-nb.info/gnd/118618156</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118618156</tei:idno>
+                    </person>
+                <person xml:id="kurz-johann">
+                        <persName>
+                            <surname>Kurz</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>prov. Direktor des Gymnasiums in Marburg, ab 1853 Schulrat in Salzburg und Oberösterreich</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_907e6aad95b11593946e28f6e29860aa">
+                        <placeName>Linz</placeName>
+                        <placeName type="pref">linz</placeName>
+                        <placeName type="alt">Linzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30639 14.28611</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772400/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

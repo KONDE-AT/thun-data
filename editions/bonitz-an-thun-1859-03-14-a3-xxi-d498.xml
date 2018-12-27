@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="bonitz-an-thun-1859-03-14-a3-xxi-d498.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-11-02-a3-xxi-d473.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1859-10-19-a3-xxi-d521.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#bonitz-hermann" role="sender:gelehrter">Hermann
+                        Bonitz</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1859-03-14">14. März 1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D498</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Philologe Hermann Bonitz übersendet Leo Thun ein Exemplar der
+                            Gymnasialstatistik für das Jahr 1858 und fügt noch kurze Bemerkungen
+                            über die Klassifikation und das Schulgeld hinzu. Bonitz bittet Thun,
+                            auch seine beiliegende Besprechung über die Lehrergehälter in Preußen
+                            anzusehen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: Besprechung des Centralblattes für die gesammte
+                            Unterrichts-Verwaltung in Preußen aus der Zeitschrift für die
+                            österreichischen Gymnasien 10 (1859), S. 260–262.</p>
+                        <p>Verweis auf A3 XXI D463.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#bonitz-hermann">Hermann Bonitz</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1859-03-14">14. März 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Lehramt</term>
+                    <term>Gehaltsfragen</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Gestatten Euere Excellenz, daß ich beifolgend ein Exemplar der so eben erst im
+                    Drucke beendigten Gymnasialstatistik für 1858 ehrerbietigst überreiche.<note xml:id="note_1">Vgl. Gustav Adolph Schimmer, Statistik der Lehranstalten des
+                        österreichischen Kaiserstaates für die Studienjahre 1851–1857. Gymnasien und
+                        andere Mittelschulen (Mittheilungen aus dem Gebiete der Statistik 7), 4.
+                        Heft, 1858.</note> Von der einige Ergebnisse der statistischen Notizen
+                    zusammenfassenden Vorrede hat ein Abschnitt – Nr. II, Lehrer – Euere Excellenz
+                    bereits vor dem Drucke vorgelegen. Außerdem erlaube ich mir noch auf zwei Puncte
+                    der Vorrede hinzuweisen, welche der Beachtung Euerer Excellenz nicht unwerth
+                    sein dürften.<lb/>S. VI. Classification. Die moralische Bedeutung des hier mit
+                    absichtlicher Schonung und Zurückhaltung berichteten Übelstandes ist größer, als
+                    es für den ersten Blick scheinen möchte. Abhilfe ist, nach meiner Überzeugung,
+                    nicht aus Erlässen zu erwarten, sondern von dem persönlichen Charakter der
+                    Directoren, also mittelbar von der glücklichen Wahl bei Besetzung dieser äußerst
+                    wichtigen Stellen.<lb/>S. VII und VIII. Schulgeld. Euere Excellenz werden
+                    sogleich bemerken, in welch genauem Zusammenhange diese Erörterung mit dem
+                    Inhalte der von mir ehrerbietigst unterbreiteten Denkschrift<note xml:id="note_2">
+                        <ref target="thun/thun-korrespondenz/tetschen/bonitz-an-thun-1858-07-a3-xxi-d463.xml">Vgl. Hermann Bonitz an Leo Thun, Juli 1858.</ref>
+                    </note> steht. Dürfte
+                    ich vielleicht bitten, daß Euere Excellenz dazu noch die Notizen vergleichen
+                    möchten, welche ich in dem kürzlich erschienenen dritten Hefte 1859 der
+                    Gymnasialzeitschrift S. 261 über Vorgänge in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> gegeben habe.<note xml:id="note_3">Diese liegen dem Brief
+                        bei. Siehe auch Hermann Bonitz, Besprechung: Centralblatt für die gesammte
+                        Unterrichts-Verwaltung in Preußen, Berlin 1859, in: Zeitschrift für die
+                        österreichischen Gymnasien 10 (1859), S. 260–262.</note>Wo es sich um die
+                    Anerkennung handelt, daß eine eben bestehende Systemisirung von Gehalten nicht
+                    ausreiche und um Abhilfe des Mangels mit möglichst geringer Belastung der
+                    Staatscasse, da verdient gewiß das Verfahren eines Staates Beachtung, bei
+                    welchem das streng haushälterische Wesen ein vornehmlicher Charakterzug
+                    ist.<lb/>Genehmigen Euere Excellenz den Ausdruck meiner vollkommensten
+                    Ehrerbietung.</p>
+                <p>Euer Excellenz</p>
+                <p>unterthänigster<lb/>H. Bonitz</p>
+                <p>Wien, 14. März [18]59</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="bonitz-hermann">
+                        <persName>
+                            <surname>Bonitz</surname>
+                            <forename>Hermann</forename>
+                        </persName>
+                        <note>
+                            <p>Langensalza 1814–1888 Berlin</p>
+                            <p>1842–1849 Lehrer am Gymnasium in Stettin, 1849–1867 Prof. für klass. Philologie an der Universität Wien, ab 1867 Direktor des Gymnasiums zum Grauen Kloster und Direktor des Königlichen pädagogischen Seminars für gelehrte Schulen in Berlin</p>
+                            <p>http://d-nb.info/gnd/11905938X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11905938X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_4427d8d4fd794c37826d3259a6a9ff53" type="placeName">
+                        <placeName type="pref">Preußen</placeName>
+                        <placeName type="alt">Preussen</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4047194-9</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

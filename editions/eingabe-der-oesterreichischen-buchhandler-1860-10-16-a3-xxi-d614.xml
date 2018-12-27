@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="eingabe-der-oesterreichischen-buchhandler-1860-10-16-a3-xxi-d614.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/effenberger-an-thun-1853-11-12-a3-xxi-d240.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/einteilung-superintendenzen-od-a3-xxi-d486.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#lechner-rudolf" role="sender">Rudolf Lechner</rs> und
+                        <rs type="person" ref="#gerold-moritz" role="sender">Moritz Gerold</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun
+                        </rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1860-10-16">16.
+                        Oktober 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D614</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Verein österreichischer Buchhändler bittet Leo Thun, ein Gesuch an
+                            Polizeiminister Adolph Thierry zu unterstützen. In diesem fordert der
+                            Verein die Aufhebung der Revisionsämter sowie eine Neufassung der
+                            Presseordnung mit einer Reform des Zensurwesens und eine Überarbeitung
+                            der Liste der verbotenen Bücher. Die Verleger argumentieren damit, dass
+                            das bestehende Gesetz unzeitgemäß und vielfach willkürlich sei. Sie
+                            glauben auch, dass eine effiziente Kontrolle des Gesetzes durch den
+                            gewachsenen internationalen Austausch unmöglich geworden sei. Außerdem
+                            sind sie der Ansicht, dass das österreichische Pressegesetz mit jenem
+                            des Deutschen Bundes nicht vereinbar sei. Die Vertreter des Vereins
+                            betonen, dass der österreichische Buchhandel durch das jetzige Gesetz
+                            daran gehindert werde, erfolgreich zu arbeiten und damit auch dem Staat
+                            zu dienen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: Gedruckte Petition des Vereins der österreichischen Buchhändler
+                            an Polizeiminister Adolph Thierry. Wien, 24. September 1860.<note xml:id="note_1">Die Petition wurde hier nicht
+                            transkribiert.</note>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Buchhandel</term>
+                    <term>Zensur</term>
+                </index>
+                <p>Euer Excellenz</p>
+                <p>Die hohe Wichtigkeit, welche die Auflösung der Revisionsämter für den gesammten
+                    Oesterreichischen Buchhandel hat, veranlasst uns Euer Excellenz die Eingabe
+                    welche der Verein der oesterreichischen Buchhändler am 13. des Septembers
+                    Excellenz dem Herrn <rs type="person" ref="#thierry-adolph">Polizei-Minister</rs>
+                    über diese Angelegenheit überreichten zur hohen Kenntnißname mit der Bitte um
+                    gnädige Unterstützung ganz ergebenst vorzulegen.</p>
+                <p>Wien, am 16. Oktober 1860</p>
+                <p>Rudolf Lechner<lb/>Moritz Gerold</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="lechner-rudolf">
+                        <persName>
+                            <surname>Lechner</surname>
+                            <forename>Rudolf</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1822–1895 Wien</p>
+                            <p>Verleger, 1856–1859 zweiter Vorsitzender des Vereins der öster. Buchhändler, ab 1859 Vorsitzender des Vereins</p>
+                            <p>http://d-nb.info/gnd/101314612</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101314612</tei:idno>
+                    </person>
+                <person xml:id="gerold-moritz">
+                        <persName>
+                            <surname>Georld</surname>
+                            <forename>Moriz</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1815–1884 Wien</p>
+                            <p>Verlagsbuchhändler und -drucker, Sohn von Carl Gerold, ab 1855 Inhaber des väterlichen Geschäfts</p>
+                            <p>http://d-nb.info/gnd/133265455</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/133265455</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="thierry-adolph">
+                        <persName>
+                            <surname>Thierry</surname>
+                            <forename>Adolph</forename>
+                        </persName>
+                        <note>
+                            <p>Kuttenberg 1803–1866 Wiesbaden</p>
+                            <p>1859–1860 österreichischer Polizeiminister</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

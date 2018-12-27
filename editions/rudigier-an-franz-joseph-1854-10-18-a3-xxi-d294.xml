@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="rudigier-an-franz-joseph-1854-10-18-a3-xxi-d294.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ruben-an-thun-1852-01-13-a3-xxi-d153.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#rudigier-franz-joseph" role="sender:kleriker">Franz Joseph
+                        Rudigier</rs> an <rs type="person" ref="#franz-joseph" role="recipient">Kaiser
+                        Franz Joseph</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when="1854-10-18">18. Oktober 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D294</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bischof von Linz, Franz Joseph Rudigier, unterbreitet dem Kaiser ein
+                            schriftliches Promemoria über das Gerücht, dass der Gustav-Adolf-Verein
+                            den Ankauf des Stiftes Engelszell plane. Dem Gerücht zufolge plane der
+                            Verein dort ein Seminar zur Ausbildung protestantischer Missionare zu
+                            errichten. Der Bischof erörtert anschließend einige Gründe, die für den
+                            Wahrheitsgehalt des Gerüchtes sprechen. Der kolportiere Plan ist aus der
+                            Sicht des Bischofs außerdem ein weiteres Anzeichen dafür, dass der
+                            Gustav-Adolf-Verein verstärkt von Bayern aus nach Österreich dränge.
+                            Der Bischof betont dann, dass er und die Gemeinde Engelhartszell sich
+                            über die Zusicherung des Kaisers, eine solche Gründung verhindern zu
+                            wollen, sehr gefreut haben. Rudigier versichert dem Kaiser, dass er
+                            alles tun werde, um die Gläubigen in seiner Diözese zu treuen Untertanen
+                            zu erziehen.<lb/>Beigelegt ist ein Brief des Mandatars des Besitzers des
+                            Stiftes an den Gärtner desselben. Der Gärtner wird darin aufgefordert
+                            sich zu äußern, ob er – sollte der geplante Verkauf des Stiftes erfolgen
+                            – im Dienste des Stiftes, und damit des Gustav-Adolf-Vereins, bleiben
+                            oder nach Mondsee versetzt werden möchte.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d294_1">Abschrift eines Briefes von A. Eschborn an
+                                den Gärtner des Stiftes Engelszell. Engelszell, 29. September
+                                1854</tei:ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#rudigier-franz-joseph">Franz Joseph Rudigier</rs>
+                    <settlement ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</settlement>
+                    <date when="1854-10-18">18. Oktober 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#franz-joseph">Kaiser Franz Joseph</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Protestanten</term>
+                    <term>Zisterzienser</term>
+                </index>
+                <p>Z. 110/Pr.</p>
+                <p>Eure Kaiserlich Königlich<lb/>Apostolische Majestät!<lb/>Allergnädigster Kaiser
+                    und Herr!</p>
+                <p>Da Eure Majestät in der Audienz am 12. dieses Monates mir allergnädigst
+                    erlaubten, über den Gegenstand, den ich Allerhöchstdenselben an jenem Tage
+                    vortrug, Eurer Majestät ein Promemoria zu überreichen, so wage ich dieses in
+                    tiefster Ehrfurcht in Folgendem zu thun.<lb/>Es liegen sehr beachtenswerthe,
+                    beinahe unzweifelhafte Anzeigen vor, daß das ehemalige <rs type="org" ref="#org_0102">Cisterzienserstift Engelszell</rs>, am rechten
+                    Ufer der Donau bei ihrem Eintritte in das österreichische Gebieth gelegen,
+                    nunmehr eine Besitzung des baierischen Reichsrahtes <rs type="person" ref="#wrede-karl-theodor">Fürsten Wrede</rs>, an den <rs type="org" ref="#org_0103">Gustav-Adolph-Verein</rs> verkauft, und von
+                    diesem alldort eine Pflanzschule für protestantische Missionäre angelegt werden
+                    soll.<lb/>Meine allerunterthänigste und angelegenste Bitte ging nun dahin, Eure
+                    Majestät wollen, wenn etwa der Ankauf dieser Besitzung durch den gedachten
+                    <rs type="org" ref="#org_0103">Verein</rs> nicht verhindert werden
+                    könne, wenigstens die Errichtung der Pflanzschule für protestantische Missionäre
+                    alldort nicht bewilligen.<lb/>Eure Majestät geruthen in frommer und weiser
+                    Würdigung der Nachtheile, welche eine solche Anstalt mitten in einem ganz
+                    katholischen Landestheile der Kirche und dem Staate bringen würden, mich mit der
+                    bestimmten Erklärung zu erfreuen, daß die Errichtung einer solchen Anstalt nie
+                    bewilligt werden könne, und daß es vielleicht auch noch möglich sei, den
+                    projektirten Ankauf selbst zu verhindern – eine Erklärung, die überall, wo ich
+                    sie mittheilte, Freude erweckte, und namentlich in der Gemeinde
+                        <rs type="place" subtype="place" ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</rs>, der ich sie sogleich nach meiner Ankunft
+                    in Linz eröffnete, große Freude erweckt haben wird, nachdem dieselbe durch die
+                    Kunde über das fragliche Projekt sehr konsternirt gewesen war.<lb/>Die Gründe
+                    für das wirkliche Vorhandensein dieses – beim ersten Anblick unwahrscheinlichen
+                    – Projektes sind:<lb/>1. das Schreiben des General-Mandatars <rs type="person" ref="#wrede-karl-theodor">des Fürsten Wrede</rs>, <rs type="person" ref="#eschborn-a">Dr. Eschborn</rs>, an den <rs type="person" ref="#strobl">fürstlichen Hofgärtner Strobl</rs> in Engelszell <note xml:id="note_1">Vgl. die <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d294_1">Beilage zu diesem
+                        Brief</tei:ref>.</note>, das mir bei Gelegenheit der kanonischen Visitation zu
+                        <rs type="place" subtype="place" ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</rs> am 30. vorigen und 1. dieses Monates in
+                    Originali gezeigt wurde, und auch in diesem Augenblicke in Originali vor mir
+                    liegt.<lb/>Ich unterbreite gehorsamst davon eine Abschrift.<lb/>2. dem hiesigen
+                    landschäftlichen Concipisten und Referenten bei der
+                    Grundentlastungsfonds-Direktion, <rs type="person" ref="#edelbacher-joseph">Joseph
+                        Edelbacher</rs>, der von dem oberwähnten <rs type="person" ref="#eschborn-a">General-Mandatar</rs> zu Verhandlungen mit dem <rs type="org" ref="#org_0104">Stifte Schlägel</rs> wegen des Verkaufes der
+                    Besitzung Engelszell aufgestellt worden war, ist, wie ich aus dem Munde seines
+                    Bruders, des hiesigen Landesgerichtsrathes <rs type="person" ref="#edelbacher">Edelbacher</rs>, weiß, von dem genannten Mandateur jüngst vor 2 bis 3
+                    Wochen, aufgegeben worden, die Verhandlungen mit <rs type="org" ref="#org_0104">Schlägel</rs> abzubrechen, mit dem Beisatze, der <rs type="person" ref="#wrede-karl-theodor">Fürst</rs> wolle seine Besitzung an den
+                    <rs type="org" ref="#org_0103">Gustav-Adolph-Verein</rs>
+                    verkaufen.<lb/>3. Was dieses Projekt ferner wenigstens wahrscheinlich macht,
+                    wenn auch nicht beweiset, ist der Umstand, daß der <rs type="org" ref="#org_0103">Gustav-Adolph-Verein</rs> sicherem Vernehmen
+                    nach seit Jahren große Summen für protestantische Cultuszwecke in
+                        <rs type="place" subtype="region" ref="#place_f4333826b9c5251a45388331b1911f53">Oberösterreich</rs> verwendet, und auf Erlangung eines
+                    protestantischen Tempels in <rs type="place" subtype="place" ref="#place_32bcc08cf92b6fbbdcd91c75cb3814a2">Passau</rs> auch aus der Ursache
+                    ein sehr großes Gewicht legt, weil er von dort auf das nahe
+                        <rs type="place" subtype="region" ref="#place_f4333826b9c5251a45388331b1911f53">Oberösterreich</rs> herüberzuwirken hofft. Der Bauplatz zum
+                    Tempel in <rs type="place" subtype="place" ref="#place_32bcc08cf92b6fbbdcd91c75cb3814a2">Passau</rs> ist bereits angekauft, und die
+                    königliche Bewilligung zum Bau ertheilt. Die Nähe zwischen
+                        <rs type="place" subtype="place" ref="#place_32bcc08cf92b6fbbdcd91c75cb3814a2">Passau</rs> und <rs type="place" subtype="place" ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</rs> ist
+                    unter diesen Umständen ein neuer Grund, das Projekt wahrscheinlich, aber auch
+                    ein neuer Grund, es sehr gefährlich zu finden.<lb/>Ich setze nur noch bei, daß
+                    dem Bezirksamte und dem Steueramte in <rs type="place" subtype="place" ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</rs> die
+                    Wohnungsmiethe von dem <rs type="person" ref="#wrede-karl-theodor">Fürsten</rs>
+                    bereits gekündet ist.<lb/>Nach allem dem ist kaum zu zweifeln, daß das fragliche
+                    Projekt wirklich besteht, und daß es zudem bald ausgeführt werden sollte. Um so
+                    größer und inniger ist mein Dank gegen Eure Majestät, den allergnädigsten
+                    Schutzherren der Kirche, für das kaiserliche Wort, wonach die Errichtung eines
+                    protestantischen Seminars in <rs type="org" ref="#org_0102">Engelszell</rs> nie bewilligt werden wird. Dieses hohe Wort ist mir
+                    ein neuer Sporn, mein Amt treu und freudig zu verwalten, um der katholischen
+                    Kirche in <rs type="place" subtype="region" ref="#place_f4333826b9c5251a45388331b1911f53">Oberösterreich</rs> treue Kinder und eben dadurch Eurer
+                    Majestät treue, mit Gut und Blut ergebene Unterthanen zu erziehen.<lb/>Gott
+                    erhalte und segne Eure Majestät!<lb/>Ich ersterbe in der allertiefsten
+                    Ehrfurcht</p>
+                <p>Eurer Majestät<lb/>Treugehorsamster<lb/>Franz Joseph Rudigier,<lb/>Bischof</p>
+                <p>Linz den 18. Oktober 1854.</p>
+                <div type="enclosure" xml:id="D294_1">
+                    <p>Ad N. 110 Pr.<lb/>Abschrift</p>
+                    <p>Herrn Hofgärtner Strobl, Engelszell</p>
+                    <p>Der Unterzeichnete als <rs type="person" ref="#eschborn-a">General-Mandatar</rs>
+                        Seiner Durchlaucht des Herrn Reichsrathes <rs type="person" ref="#wrede-karl-theodor">Fürsten Wrede zu Ellingen</rs> soll Sie als fürstlichen Diener
+                        von Nachfolgendem in Kenntnis setzen:<lb/>Nachdem die seither mit dem
+                            <rs type="person" ref="#lebschy-dominik">Herrn Prälaten des Klosters
+                                Schlägl</rs> geführten Verkaufsunterhandlungen über <rs type="org" ref="#org_0102">Engelszell</rs> zu keinem erheblichen
+                        Resultate geführt haben, so soll nunmehr das vom protestantischen <rs type="org" ref="#org_0103">Gustav-Adolph-Verein</rs> gemachte
+                        Anerbieten, <rs type="org" ref="#org_0102">Engelszell</rs> kaufen zu
+                        wollen, und daselbst eine Pflanzschule für protestantische Missionäre, die
+                        zugleich in Ökonomie und Bierbrauerei unterrichtet werden sollen, anzulegen.
+                        Nachdem der Herr Direktor <rs type="person" ref="#hillebrand">Prof.
+                            Hillebrand</rs> zu <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> der
+                        diesseitigen Vorstellung ungeachtet, daß an der Gränze von <rs type="place" subtype="region" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</rs> in dieser österreichischen erzkatholischen
+                        Region eine solche Anstalt leicht dem einen oder anderen Theile zum Ärgernis
+                        werden könnte, darauf besteht, daß mit seinem Bevollmächtigten, der in
+                        diesen Tagen eintreffen wird, der Kauf abgeschlossen werden soll, so gebe
+                        ich Ihnen hievon Nachricht, um innerhalb drei Tagen von Ihnen die Erklärung
+                        zu erhalten, ob Sie als Hofgärtner mit an diese <rs type="org" ref="#org_0103">Missionsgesellschaft</rs> übergeben, oder
+                        im fürstlichen Dienste verbleiben und nach <rs type="place" subtype="place" ref="#place_6fff0c87148a112e9c5de8c71add2bc7">Mondsee</rs>
+                        zur Gärtnerei versetzt werden wollen, versteht sich in gleicher Eigenschaft
+                        und Besoldung. Mit freundlichem Gruß</p>
+                    <p>Ihr ergebenster Diener<lb/>Ad. Eschborn m/p</p>
+                    <p>Engelszell 29. September 1854</p>
+                </div>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="rudigier-franz-joseph">
+                        <persName>
+                            <surname>Rudigier</surname>
+                            <forename>Franz Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Partenen 1811–1884 Linz</p>
+                            <p>kath. Priester, 1839 Prof. für Kirchengeschichte und Kirchenrecht, später auch für Moraltheologie und Erziehungslehre am Seminar in Brixen, 1845–1848 Spiritualdirektor am Frintaneum in Wien, 1850 Domherr und Seminarregens in Brixen, ab 1852 Bischof von Linz</p>
+                            <p>http://d-nb.info/gnd/118750135</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118750135</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="wrede-karl-theodor">
+                        <persName>
+                            <surname>Wrede</surname>
+                            <forename>Carl Theodor</forename>
+                        </persName>
+                        <note>
+                            <p>Heidelberg 1797–1871 Linz</p>
+                            <p>Regierungsrat in Bayern</p>
+                            <p>http://d-nb.info/gnd/117427888</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117427888</tei:idno>
+                    </person>
+                <person xml:id="eschborn-a">
+                        <persName>
+                            <surname>Eschborn</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>1805–1879</p>
+                            <p>Advokat aus München, Verteter von Fürst Wrede</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="strobl">
+                        <persName>
+                            <surname>Strobl</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Hofgärtner in Engelszell</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="edelbacher-joseph">
+                        <persName>
+                            <surname>Edelbacher</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Beamter bei der Statthalterei in Linz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="edelbacher">
+                        <persName>
+                            <surname>k_A</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="lebschy-dominik">
+                        <persName>
+                            <surname>Lebschy</surname>
+                            <forename>Dominik O.Praem.</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1799–1884 Stift Schlägl</p>
+                            <p>Abt von Stift Schlägl, 1861–1868 Landeshauptmann von Oberösterreich</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="hillebrand">
+                        <persName>
+                            <surname>Hillebrand</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Groß Düngen 1788–1871 Bad Soden am Taunus</p>
+                            <p>1822–1850 Prof. der Philosophie an der Universität Gießen, zugleich Direktor des dortigen Gymnasiums</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_907e6aad95b11593946e28f6e29860aa">
+                        <placeName>Linz</placeName>
+                        <placeName type="pref">linz</placeName>
+                        <placeName type="alt">Linzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30639 14.28611</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772400/</idno>
+                    </place>
+                <place xml:id="place_f89f5a18425bb95587ff97109a4b976e">
+                        <placeName>Engelhartszell</placeName>
+                        <placeName type="pref">Engelszell</placeName>
+                        <placeName type="alt">Engelszell</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.50626 13.73205</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4085581-8</idno>
+                        <idno>http://sws.geonames.org/2780072/</idno>
+                    </place>
+                <place xml:id="place_32bcc08cf92b6fbbdcd91c75cb3814a2">
+                        <placeName>Passau</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.5665 13.43122</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2855328/</idno>
+                    </place>
+                <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+                        <placeName>Frankfurt-Eckenheim</placeName>
+                        <placeName type="pref">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt am Main</placeName>
+                        <placeName type="alt">Francfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4093156-0</idno>
+                    </place>
+                <place xml:id="place_5afc76bc69955ce317651a3dc1dbb0d6" type="placeName">
+                        <placeName type="pref">Baviera</placeName>
+                        <placeName type="alt">Bayern</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.949444 11.395</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4005044-0</idno>
+                    </place>
+                <place xml:id="place_6fff0c87148a112e9c5de8c71add2bc7">
+                        <placeName>Mondsee</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.85648 13.34908</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2771277/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0102">
+                        <orgName>Cisterzienserstift Engelszell</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1224816-2</idno>
+                    </org>
+                <org xml:id="org_0103">
+                        <orgName>Gustav-Adolph-Verein</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                <org xml:id="org_0104">
+                        <orgName>Stift Schlägl</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2002080-6</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

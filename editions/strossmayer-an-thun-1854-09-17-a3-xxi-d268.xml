@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/strobach-an-thun-1860-10-24-a3-xxi-d623a11.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stumpf-an-thun-1858-09-19-a3-xxi-d470.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#strossmayer-joseph" role="sender:kleriker">Joseph
+                        Strossmayer</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6f861448f4b387a81831495aed4acb74">Đakovo</rs>,
+                        <date when="1854-09-17">17. September 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D268</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p/>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Bischof von Đakovo, Joseph Strossmayer, empfiehlt den Priester und
+                            Abt Venceslaus Soics als Nachfolger für den kürzlich verstorbenen
+                            Bischof von Krk. Soics sei vollkommen für das Amt geeignet.
+                            Informationen über den Priester könne man im Kollegium St. Augustin
+                            erhalten, das er – gemeinsam mit Strossmayer – besucht hat.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#strossmayer-joseph">Joseph Strossmayer</rs>
+                    <settlement ref="#place_6f861448f4b387a81831495aed4acb74">Đakovo</settlement>
+                    <date when="1854-09-17">17. September 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Ich habe aus den Zeitungen entnommen, daß der <rs type="person" ref="#bozanic-bartol">Bischof von der Insel Veglia</rs> gestorben sei. Wiewohl ich
+                    überzeugt bin, daß mehrere sehr würdige Männer zu dieser erledigten
+                    Bischofsstelle vorgeschlagen werden, so bin ich doch so frei, die Aufmerksamkeit
+                    Eurer Excellenz auf einen Priester zu lenken, der mir zu der besagten hohen
+                    Stelle ganz besonders berufen zu sein scheint. Es ist dies <rs type="person" ref="#soics-venzelaus">Venceslaus Soics</rs>, Priester der Zenger
+                    Diöcese, Bukaraner Domherr, Abt und zugleich in Bukari Pfarrer, Doctor der
+                    Theologie, ein sehr frommer, eifriger, gelehrter und beredter Priester. Er war
+                    gleichzeitig mit mir in dem höheren <rs type="org" ref="#org_0090">Bildungsinstitute
+                        zu St. Augustin</rs>. Er war einer der ausgezeichnetsten Priester
+                    seiner Zeit im Institute und hat in den Annalen der gedachten Anstalt ein
+                    überaus lobenswerthes Andenken hinterlassen, wie sich Eure Excellenz sehr leicht
+                    überzeugen können aus den Protocollen des Institutes und selbst von den älteren
+                    der Directoren, z.B. von dem gegenwärtigen Bischof von St. Pölten <rs type="person" ref="#feigerle-ignaz">Feigerle</rs> und von dem ältesten Direktor
+                        <rs type="person" ref="#widmer-bartolomaeus">Wiedmer</rs>. Er spricht vollkommen gut italienisch,
+                    deutsch, slavonisch und lateinisch. Ich bitte übrigens recht sehr diesen meinen
+                    Schritt entschuldigen zu wollen, der aus dem reinsten Gewissen hervorgeht und
+                    aus der Absicht der Kirche und dem Staate zu nützen.<lb/>Genehmigen Eure
+                    Excellenz den Ausdruck meiner ausgezeichnetsten Hochachtung, mit der ich zu
+                    geharren die Ehre habe<lb/>Eurer Excellenz</p>
+                <p>unterthänigster Diener<lb/>Joseph Georg Stroßmaier<lb/>Bischof</p>
+                <p>Diakovo, den 17. September 1854</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="strossmayer-joseph">
+                        <persName>
+                            <surname>Strossmayer</surname>
+                            <forename>Josip Juraj</forename>
+                        </persName>
+                        <note>
+                            <p>Osijek 1815–1905 Djakovo</p>
+                            <p>1849–1905 Bischof von Djakovo, Bosnien und Syrmien, 1851 apostolischer Administrator für Serbien, 1860–1873 Führer der kroatischen Volkspartei im ungarischen Landtag</p>
+                            <p>http://d-nb.info/gnd/118799185</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118799185</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bozanic-bartol">
+                        <persName>
+                            <surname>Bozanich</surname>
+                            <forename>Bartholomäus</forename>
+                        </persName>
+                        <note>
+                            <p>Verbenico 1798–1854 Krk</p>
+                            <p>1839–1854 Bischof von Krk (Veglia)</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="soics-venzelaus">
+                        <persName>
+                            <surname>Soics</surname>
+                            <forename>Venceslaus</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Priester</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="feigerle-ignaz">
+                        <persName>
+                            <surname>Feigerle</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Biskupstwo b. Olmütz 1795–1863 Ochsenburg</p>
+                            <p>1828 erster Rektor der neuerrichteten Universität Olmütz, ab 1829 Prof. an der Universität Wien, 1847 Rektor der Universität Wien, ab 1840 Hof- und Burgpfarrer, Vorsteher des Augustineums, Beichtvater des Kaisers, 1851–1863 Bischof von St. Pölten</p>
+                            <p>http://d-nb.info/gnd/116436433</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116436433</tei:idno>
+                    </person>
+                <person xml:id="widmer-bartolomaeus">
+                        <persName>
+                            <surname>Widmer</surname>
+                            <forename>Bartholomäus</forename>
+                        </persName>
+                        <note>
+                            <p>Krainburg 1802–1883 Laibach</p>
+                            <p>1827 zum Priester geweiht, ab 1838 dritter, später zweiter Studiendirektor im Höheren Weltpriesterinstitut St. Augustin in Wien (Frintaneum), 1859–1872 Bischof von Laibach</p>
+                            <p>http://d-nb.info/gnd/157919714</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/157919714</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6f861448f4b387a81831495aed4acb74" type="placeName">
+                        <placeName type="pref">Đakovo</placeName>
+                        <placeName type="alt">Đakovo</placeName>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0090">
+                        <orgName>k.k. Priesterbildungs-Institut zum hl. Augustin</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/400016-X</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

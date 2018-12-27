@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-franz-an-thun-1853-07-21-a3-xxi-d218.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-02-28-a3-xxi-d193.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-07-25-a3-xxi-d220.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-franz-anton" role="sender:verwandter">Franz
+                        Thun</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs>, <date when="1853-07-21">21. Juli 1853</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D218</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Franz Thun bittet seinen Bruder Leo um Verlängerung seines Urlaubs. Er
+                            befindet sich mit seiner Familie zur Kur in Italien und hat vom Arzt
+                            seiner Frau erfahren, dass der Zustand seiner Gattin eine Verlängerung
+                            des Kuraufenthaltes nötig mache. Er versichert seinem Bruder, dass eine
+                            längere Abwesenheit von Wien sich nicht negativ auf seine Arbeit
+                            auswirken werde. Insbesondere in der Angelegenheit der Votivkirche werde
+                            ein zweiwöchiger Aufschub nicht schaden. Gleichzeitig ist Franz Thun
+                            zuversichtlich und hofft, noch einige Arbeiten vor Ort erledigen zu
+                            können, wie etwa die Ausarbeitung des Plans zur Reform des
+                            Zeichenunterrichts sowie der Architektenausbildung an den Akademien der
+                            Künste in Venedig und Mailand. Für die Reform der letzteren ist es nach
+                            Ansicht von Thun notwendig, neue Professoren zu gewinnen. Franz erwähnt
+                            auch, dass er während seiner Inspektionsreise in Lombardo-Venetien
+                            zahlreiche interessante Bekanntschaften gemacht habe, die für die Reform
+                            noch förderlich sein könnten. Abschließend schreibt er, dass sie Leo
+                            Thuns Frau Caroline besucht haben, die sehr heiter wirkte und bei der
+                            die Kur sehr gut anzuschlagen schien. Franz hofft, dass dies auch bei
+                            seiner Frau der Fall sein wird.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-franz-anton">Franz Thun</rs>
+                    <settlement ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</settlement>
+                    <date when="1853-07-21">21. Juli 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Akademie der bildenden Künste Mailand</term>
+                    <term>Akademie der bildenden Künste Venedig</term>
+                    <term>Familie Thun-Hohenstein</term>
+                    <term>Lombardo-Venetien</term>
+                    <term>Personalfragen</term>
+                    <term>Venedig</term>
+                    <term>Votivkirche</term>
+                </index>
+                <p>Vendig, am 21. July 1853</p>
+                <p>Lieber Leo,</p>
+                <p>Vorgestern abend hierher zurückgekehrt, hat sich heute unser Schicksal
+                    entschieden. Schon <rs type="person" ref="#jaksch-anton">Jaksch</rs>, <rs type="person" ref="#schroff-karl-damian">Schroff</rs> und <rs type="person" ref="#oppolzer-johann">Oppolzer</rs> haben 6 Wochen als die kürzeste
+                    Zeit des Gebrauchs des Seebades angegeben und beigesetzt, wir sollen bleiben,
+                    solange als nur [?] möglich – dann aber jedenfalls zur Stärkung der Nerven die
+                    Rückreise durch <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> machen. Die 8 Wochen seit
+                    unserer Ankunft sind nun Sonntag den 24. d. aus – eine Woche davon konnte aus
+                    natürlicher Ursache nicht gebadet werden. Heute erklärte mir nun der Arzt, er
+                    fände es bei dem wirklich nicht undenklichen Zustande von <rs type="person" ref="#thun-hohenstein-magdalena">Lenas</rs> Nerven absolut nothwendig,
+                    daß wir unseren Aufenthalt um 2 Wochen verlängern – d. i. bis zum 7. August. Das
+                    würde dann auch unsere Rückkunft um 2 Wochen hinausschieben, so daß wir, statt
+                    Mitte, erst Ende August zurückkehrten! Da muß ich nun vor Allem deine
+                    Bewilligung erbitten! Ich gestehe dir, daß mir viel daran liegt, da bei
+                        <rs type="person" ref="#thun-hohenstein-magdalena">Lenas</rs> Nervenzustand <hi rend="ul">kann</hi> ich sie mit den Kleinen allein nicht reisen lassen. Kann
+                    ich also nicht solange ausbleiben, so bliebe nichts übrig, als nach dem Ende der
+                    Kuhr durch <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>, statt etwas in der Gebirgsluft zu verweilen,
+                    nach Hause <hi rend="ul">zu eilen</hi>! Rücksichtlich der Ministerialgeschäfte
+                    glaube ich wird eine etwas längere Abwesenheit nicht viel schaden – die
+                    italienische Sache läßt du mir wohl bis dahin liegen – ich komme dann wenigstens
+                    vollkommen instruirt und mit meinen Projecten ganz im Reinen zurück. Auch hoffe
+                    ich <hi rend="ul">hier</hi> noch meinen Bericht auszuarbeiten und dann ihn
+                    vielleicht vor meiner Rückkunft einzuschicken! Die einzige Sache, die <hi rend="ul">vielleicht</hi> Schwierigkeit macht, scheint mir mein Präsidium in
+                    dem Comite zum Entwurf des Concurs[?] für die Votivkirche. Zugleich bin ich aber
+                    überzeugt, daß gerade in dieser Angelegenheit ein Aufschub von <hi rend="ul">14
+                        Tagen</hi> gar nichts schaden wird. Sollte selbst Anfang August die Sache so
+                    weit gediehen sein, so könnte ja der <rs type="person" ref="#ferdinand-maximilian-erzherzog">Erzherzog</rs> den Erlaß um die
+                    paar Tage aufschieben! Mit der <hi rend="ul">Arbeit</hi> sind wir dann so in
+                    wenigen Tagen fertig und das Unternehmen selbst wird so Jahre brauchen, bis es
+                    vollendet ist. Könntest du nicht mit dem Erzherzog sprechen? <lb/>Ich hoffe von
+                    dieser Reise unendlichen Gewinn für meine Stellung überhaupt und für die
+                    Behandlung der italienischen Angelegenheiten insbesondere! Fleißig war ich fast
+                    über meine Kräfte, sodaß ich ganz <hi rend="ul">erschöpft</hi> hierher
+                    zurückkehrte und ein paar Tage zur körperlichen Erholung brauche. Ich glaube
+                    aber alles, was die Academie, den Zeichenunterricht und die Architectenbildung
+                    betrifft, ganz gründlich kennengelernt zu haben und habe überdies ganz kostbare
+                    persönliche Bekanntschaften gemacht und mich auch in dieser Beziehung für alle
+                    Fälle vorbereitet. Ich hoffe schon hier mein Project für die Reorganisirung des
+                    Zeichenunterrichts und die Architectelbildung [sic!] an der Academie wie an der
+                    Universität auszuarbeiten. In letzterer Beziehung ist vor Allem ein ganz
+                    tüchtiger Professor an der Academie nothwendig – den von <rs type="person" ref="#nava-ambrogio">Nava</rs> und der Academie vorgeschlagenen
+                        <rs type="person" ref="#besia-gaetano">Besia</rs> halte ich für <hi rend="ul">durchaus</hi> unfähig, der Architectur einen neuen Aufschwung zu geben –
+                    ich habe mir alles, was er ausgeführt und projektirt hat zu allen Arbeiten
+                    seiner Schüler zeigen lassen. Er kann gar nichts als ewig die Säulenordnungen
+                        <rs type="person" ref="#palladio-andrea">Palladios</rs> kopieren – was gerade
+                    der Grund des Verfalls der Architektur bis zu ihrem jetzigen elenden Standpunkte
+                    ist und hat von den einzig wahren Prinzipien der Baukunst wohl die fernste Idee.
+                    Es ist allerdings hart für ihn, wenn er nach 35jährigem Adjunktendienst nicht
+                    den Professorengehalt erhalte – aber ich halte es für eine Gewissenssache, die
+                    Zukunft der Jugend solchen Händen anzuvertrauen! Freilich ist noch ein Mittel,
+                    denn der Statthalter trägt an, zwei Professoren zu ernennen, einen für den
+                    Ingenieur-Architecten (<rs type="person" ref="#besia-gaetano">Besia</rs>), einen
+                    für den Künstlerarchitekten (<rs type="person" ref="#cavallari-francesco">Cavallari</rs>). Diese Abtheilung ist <hi rend="ul">ganz</hi>
+                    unmotivirt. Dagegen wäre es erwünscht, einen Professor für die Construction (i.
+                    e. alles, was Stabilität bedingt) und einen für den künstlerischen Theil zu
+                    haben. Für den ersteren Theil wäre <rs type="person" ref="#besia-gaetano">Besia</rs> ganz gut – ob aber der Finanzminister 2 Professoren
+                    passiert, ist etwas anderes!<lb/>Verzeihe diese 2 Blätter – die [?] hat mir aber
+                    auf die 2. Hälfte des 1. Blatts Dinte gegossen, so daß ich nicht fortschreiben
+                    konnte, sondern ein anderes Blatt nehmen mußte.<lb/>Beifolgende Bittschrift hat
+                    mir der Director des Veterinarinstituts in <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>
+                    übergeben – er bittet dich um [?] seine Angaben nachtragen zu lassen. Da ich
+                    wohl erst nach deiner Abfahrt nach <rs type="place" subtype="place" ref="#place_11a4764afdf4fd27fe76a91244b49852">Carlsbad</rs> ankomme, so schicke ich sie lieber. Der Umstand:
+                    Bruder des Ministers zu sein, hat mir hie und da geholfen – mich aber auch [?]
+                    Augenblicke gekostet. Als ich in <rs type="place" subtype="place" ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</rs> war die <hi rend="ul">Architekturschule</hi> zu besuchen, ließ der Rector Magnificus in
+                    der Aula alle 40 Professoren in großem Kostüm ausrücken und stellte mir in
+                    Circle (wie dem Kaiser!) nach einer langen Anrede jeden einzeln vor! <lb/>
+                    <hi rend="ul">Über mein Gesuch um verlängerten Urlaub läßt du mir wohl etwa
+                        durch [?] Antwort zukommen?</hi>
+                    <lb/>
+                    <rs type="person" ref="#thun-hohenstein-caroline">Caroline</rs> habe ich
+                    gestern früh besucht, aber waren wir mit ihr im Mondschein in den zauberhaften
+                    Gallerien des Dogenpalastes! Sie ist sehr heiter, von allem entzückt und die
+                    Kuhr scheint ihr gut anzuschlagen! Gebe der Himmel, daß dies auch bei <rs type="person" ref="#thun-hohenstein-magdalena">meiner Frau</rs> der Fall sei!
+                    <lb/>Meinen herzlichen Dank für deine Freundlichkeit für meine Buben – du hast
+                    mit der Nachmittagstour nicht nur sie, sondern auch uns – besonders meine liebe,
+                    gerade nicht verwöhnte Lena ganz glücklich gemacht, da der Gedanke, daß – wenn
+                    sie nicht wär – die Kinder mehr Liebe fänden, nur zu oft eine Quelle des Kummers
+                    ist.</p>
+                <p>Von ganzer Seele</p>
+                <p>Dein</p>
+                <p>Franz</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-franz-anton">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Franz Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1809–1870 Prag</p>
+                            <p>1850–1861 Kunstreferent im Ministerium für Kultus und Unterricht, Präsident der Gesellschaft patriotischer Kunstfreunde für Böhmen, Bruder von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/12992816X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/12992816X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="jaksch-anton">
+                        <persName>
+                            <surname>Jaksch von Wartenhorst</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Wartenberg 1810–1887 Schloss Lohowa b. Tuschkau</p>
+                            <p>ab 1845 Prof. und Vorstand der II. med. Klinik in Prag, 1845–1881 Vorstand der I. med. Klinik</p>
+                            <p>http://d-nb.info/gnd/117610909</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117610909</tei:idno>
+                    </person>
+                <person xml:id="schroff-karl-damian">
+                        <persName>
+                            <surname>Schroff</surname>
+                            <forename>Karl Damian</forename>
+                        </persName>
+                        <note>
+                            <p>Kratzau 1802–1887 Graz</p>
+                            <p>ab 1830 Prof. der Theoretischen Medizin für Wundärzte in Olmütz, ab 1835 Prof. an der Universität Wien, ab 1850 Prof. für Allgemeine Pathologie und Pharmakologie</p>
+                            <p>http://d-nb.info/gnd/104299967</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104299967</tei:idno>
+                    </person>
+                <person xml:id="oppolzer-johann">
+                        <persName>
+                            <surname>Oppolzer</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Gratzen 1808–1871 Wien</p>
+                            <p>Arzt, ab 1841 Prof. an der Universität Prag, 1848 Prof. an der Universität Leipzig, ab 1850 Prof. der med. Klinik an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/117139270</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117139270</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-magdalena">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Magdalena</forename>
+                        </persName>
+                        <note>
+                            <p>1810–1899 Prag</p>
+                            <p>geb. König, Gattin von Franz Thun</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="ferdinand-maximilian-erzherzog">
+                        <persName>
+                            <surname>Ferdinand Maximilian</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1832–1867 Queretaro</p>
+                            <p>Erzherzog von Österreich, 1857–1859 Vizekönig von Lombardo-Venetien, 1864–1867 als Maximilian I. Kaiser von Mexiko, jüngerer Bruder von Kaiser Franz Joseph I.</p>
+                            <p>http://d-nb.info/gnd/118579363</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118579363</tei:idno>
+                    </person>
+                <person xml:id="nava-ambrogio">
+                        <persName>
+                            <surname>Nava</surname>
+                            <forename>Ambrogio</forename>
+                        </persName>
+                        <note>
+                            <p>Mailand 1791–1862 Mailand</p>
+                            <p>Architekt und Maler, ab 1853 Direktor der Accademia di Belle Arti di Brera in Mailand</p>
+                            <p>http://d-nb.info/gnd/101919867</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101919867</tei:idno>
+                    </person>
+                <person xml:id="besia-gaetano">
+                        <persName>
+                            <surname>Besia</surname>
+                            <forename>Gaetano</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Architekt, Prof. an der Akademie der schönen Künste in Mailand</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="palladio-andrea">
+                        <persName>
+                            <surname>Palladio</surname>
+                            <forename>Andrea</forename>
+                        </persName>
+                        <note>
+                            <p>Padua 1508–1580 Vicenza</p>
+                            <p>Architekt</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="cavallari-francesco">
+                        <persName>
+                            <surname>Cavallari</surname>
+                            <forename>Francesco Saverio</forename>
+                        </persName>
+                        <note>
+                            <p>Palermo 1800–1896</p>
+                            <p>Architekt und Archäologie</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-caroline">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Caroline</forename>
+                        </persName>
+                        <note>
+                            <p>1822–1898 Bad Ischl</p>
+                            <p>geb. Clam-Martinic, ab 1847 Gattin von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_80c239e539544aa459dc13996638cb2f">
+                        <placeName>Venedig</placeName>
+                        <placeName type="pref">venedig</placeName>
+                        <placeName type="alt">Venedigs</placeName>
+                        <placeName type="alt">Vendig</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.43713 12.33265</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164603/</idno>
+                    </place>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+                <place xml:id="place_e30630933146ed8683482de23229fd6a">
+                        <placeName>Milan</placeName>
+                        <placeName type="pref">mailand</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.46416 9.19199</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6542283/</idno>
+                    </place>
+                <place xml:id="place_11a4764afdf4fd27fe76a91244b49852">
+                        <placeName>Karlsbad</placeName>
+                        <placeName type="pref">karlsbad</placeName>
+                        <placeName type="alt">Carlsbad</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.23271 12.87117</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3073803/</idno>
+                    </place>
+                <place xml:id="place_180ab0761158b959facf0feae6115c4e">
+                        <placeName>Pavia</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.19205 9.15917</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3171366/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

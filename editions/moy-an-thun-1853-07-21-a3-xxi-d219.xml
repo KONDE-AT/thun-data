@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="moy-an-thun-1853-07-21-a3-xxi-d219.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-04-05-a3-xxi-d161.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-07-19-a3-xxi-d270.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when="1853-07-21">21. Juli 1853</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D219</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Professor Ernst Moy de Sons informiert Leo Thun über die Situation an der
+                            Innsbrucker Universität. Zunächst bedankt er sich aber bei Leo Thun für
+                            dessen Spende zum Bau eines Grabmonuments für einen nicht näher
+                            benannten Mann. Anschließend geht er auf die schlechte Ausstattung der
+                            Innsbrucker Universitätsbibliothek ein: diese habe zwar einen kostbaren
+                            Zuwachs aus Karl Ernst Jarckes Nachlass erhalten, doch die Bibliothek
+                            bedürfe einer nachhaltigen staatlichen Unterstützung, um ihren Nutzen
+                            voll entfalten zu können. Moy glaubt, dass eine gut ausgestattete
+                            Bibliothek auch das Fehlen von Professoren teilweise kompensieren könne.
+                            Moy zeigt sich erfreut über die von Thun in Aussicht gestellte Berufung
+                            von Ignaz Vinzenz Zingerle, dem Moy nichts sehnlicher wünsche, als aus
+                            der Nähe von Adolf Pichler wegzukommen. Schließlich geht Moy auf sein
+                            eigenes Schaffen ein: Er arbeitet derzeit an einem Buch, das die
+                            Möglichkeiten einer Rechtsphilosophie auf katholischer Grundlage
+                            ausloten will. Er hofft, dass er mit Ende des Jahres den ersten Band
+                            fertig haben wird und das Werk in der Staatsdruckerei erscheinen wird
+                            können. An der Innsbrucker Universität hat er bisher Rechtsphilosophie
+                            noch nicht vorgetragen, da er nicht in Konkurrenz zu Johannes Schuler
+                            treten wollte. Abschließend äußert er sich zu seinem Kollegen Georg
+                            Schenach, den er als einen Mann von tiefer katholischer Überzeugung
+                            bezeichnet, der sich gründlich in die moderne Philosophie eingearbeitet
+                            habe.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when="1853-07-21">21. Juli 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Rechtsphilosophie</term>
+                    <term>Universitätsbibliothek</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Euer Exzellenz,</p>
+                <p>haben mir durch Ihre gütigen Zeilen vom 18. dies[es Monats] eine große Freude
+                    bereitet und mich zu lebhaftem Danke verpflichtet. Mittels der von Euer
+                    Exzellenz beigesteuerten 120 fl CM hebt sich nun der Ertrag unserer Sammlung auf
+                    830 fl CM und noch ist mit Ausnahme Ihres Beitrages nichts von
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, wie auch nichts von
+                        <rs type="place" subtype="place" ref="#place_0baa6458315a6490f3838a891c41ba27">Modena</rs>, von <rs type="place" subtype="place" ref="#place_42dc29389d6318f0fe5b21396ce73b22">Turin</rs> und
+                        <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, wohin auch Einladungen gegangen sind, dabei.
+                    Ich habe vorläufig um 300 fl CM eine Arcade für die Leiche unseres seligen
+                    Freundes auf dem hiesigen Gottesacker gekauft; den Entwurf des Monuments werden
+                    wir erst fertigen lassen, wenn wir genau die Mittel kennen über die wir zu dem
+                    Zwecke verfügen können.<lb/>Sehr dankbar bin ich Euer Exzellenz für das, was Sie
+                    in Betreff der <rs type="org" ref="#org_0020">hiesigen
+                        Universität</rs> mir zu sagen die Güte hatten. Manche meiner
+                    Wahrnehmungen haben mich in der Überzeugung bestärkt, daß sie vortrefflich
+                    gelungen und geeigenschaftet wäre, um auf die öffentliche Meinung sowohl in
+                        <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> als in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> einen
+                    großen und heilsamen Einfluß zu üben. Der Zuwachs, den die hiesige Bibliothek
+                    durch die Schenkung aus <rs type="person" ref="#jarcke-karl-ernst">Jarckes</rs>
+                    Nachlaß gewommen, ist überaus kostbar, für mich insbesondere von unschätzbarem
+                    Werthe; aber, wie Euer Exzellenz sehr weise bemerken, das Bedürfnis einer
+                    nachhaltigen Staatsunterstützung ist dadurch nicht beseitigt. Ich halte dafür,
+                    daß zur Hebung einer Universität dies die conditio sine qua non und das
+                    allererste Erfordernis ist; denn damit allein läßt sich der wissenschaftliche
+                    Geist an derselben wecken und pflegen, damit bilden sich Lehrkräfte, und eine
+                    tüchtige Bibliothek zieht Leute von wissenschaftlichem Streben an, wenn auch am
+                    Orte nicht hinreichend imponirende Lehrkräfte vorhanden sind, um sie zu fesseln.
+                    Es ist ein wohlfeileres und sichereres Mittel eine Universität allmälig zu heben
+                    als die Berufung großer auswärtiger Celebritäten. Euer Exzellenz Andeutung in
+                    Bezug auf <rs type="person" ref="#zingerle-ignaz-vinzenz">Vinzenz Zingerle</rs> hat
+                    mich sehr erfreut, zumal ich dem wackeren, aber allzugemüthlichen und
+                    phantasiereichen jungen Mann nichts Besseres wünschen kann, als daß er aus der
+                    Nähe des Herrn <rs type="person" ref="#pichler-adolf">Adolph Pichler</rs>
+                    wegkomme.<lb/>Was Euer Exzellenz in Bezug auf die Rechtsphilosophie bemerken,
+                    habe ich längst gefühlt und deshalb angefangen, ein Buch darüber auf
+                    katholischer Grundlage auszuarbeiten. Der allgemeine Theil und ein großer Theil
+                    des Privatrechts sind bereits fertig und ich hoffe, es soll in Bezug auf
+                    Einfachheit der Anlage und Klarheit der Darstellung seinem Zwecke entsprechen.
+                    Ende dieses [Monats] gehe ich nach <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, um die dortigen Bibliotheken dafür zu benützen und bis
+                    Ende des Jahres längstens hoffe ich mit dem ersten Bande fertig zu werden.
+                    Dieser soll, nebst dem allgemeinem Theile und dem Privatrechte, das Kirchenrecht
+                    enthalten. Im zweiten Bande wird das Staats- und Völkerrecht und die Geschichte
+                    der Rechtsphilosophie dargestellt werden.<note xml:id="note_1">Gemeint ist:
+                        Ernst Moy de Sons, Grundlinien einer Philosophie des Rechts vom katholischen
+                        Standpunkt (2 Bd.), 1854 und 1857.</note>
+                    <lb/>Wenn das Werk im Verlage der
+                    k.k. Staatsdruckerei erscheinen könnte, wäre es mir sehr erwünscht. Ich wage
+                    aber nicht, in der Hinsicht einen Antrag zu stellen. Vielleicht ist mir’s
+                    vergönnt, bei Gelegenheit der Versammlung der katholischen Vereine in
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> Euer Exzellenz meine Aufwartung zu machen und
+                    dann Näheres über meine Arbeit mitzutheilen.<lb/>Von den Vorträgen des <rs type="person" ref="#schenach-georg">Prof. Schenach</rs> über Rechtsphilosophie kann
+                    ich speciell nichts Näheres sagen; aber <rs type="person" ref="#schenach-georg">Schenach</rs> ist ein Mann von tiefer katholischer Überzeugung; hat
+                    sich in die moderne Philosophie gründlich einstudirt und besitzt, wie ihm
+                    allgemein nachgerühmt wird, die Gabe einer außerordentlichen Klarheit. Indessen,
+                    um in der Rechtsphilosophie dem heutigen Bedürfnisse zu genügen, muß man meiner
+                    Ansicht nach Jurist seyn. Ich habe mich nicht entschließen können, hier
+                    Rechtsphilosophie zu dociren, weil ich um keinen Preis mit <rs type="person" ref="#schuler-johannes">Prof. Schuler</rs> in Collision kommen
+                    möchte.<lb/>Genehmigen Euer Exzellenz den Ausdruck der tiefsten Verehrung, womit
+                    ich verharre</p>
+                <p>Hochderen</p>
+                <p>unterthänigster Diener<lb/>Fhr. v. Moy de Sons</p>
+                <p>Innsbruck, den 21. Juli 1853</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="moy-de-sons-ernst">
+                        <persName>
+                            <surname>Moy de Sons</surname>
+                            <forename>Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>München 1799–1867 Innsbruck</p>
+                            <p>ab 1832 Prof. für Natur- und Staatsrecht an der Universität Würzburg, 1837–1847 Prof. für Staatsrecht an der Universität München, ab 1851 Prof. für Kirchenrecht und Deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/174390033</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/174390033</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="jarcke-karl-ernst">
+                        <persName>
+                            <surname>Jarcke</surname>
+                            <forename>Karl Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>Danzig 1801–1852 Wien</p>
+                            <p>Jurist und politischer Publizist, ab 1825 Prof. für Strafrecht an der Universität Berlin, ab 1832 Rat und Publizist der Staatskanzlei in Wien, enger Berater von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/118775995</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118775995</tei:idno>
+                    </person>
+                <person xml:id="zingerle-ignaz-vinzenz">
+                        <persName>
+                            <surname>Zingerle</surname>
+                            <forename>Ignaz Vinzenz</forename>
+                        </persName>
+                        <note>
+                            <p>Meran 1825–1892 Innsbruck</p>
+                            <p>1848–1858 Lehrer am akademischen Gymnasium in Innsbruck, 1858 Leiter der Universitätsbibliothek Innsbruck, 1859–1890 Prof. für deutsche Sprache und Literatur an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/11557039X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11557039X</tei:idno>
+                    </person>
+                <person xml:id="pichler-adolf">
+                        <persName>
+                            <surname>Pichler</surname>
+                            <forename>Adolf</forename>
+                        </persName>
+                        <note>
+                            <p>Erl 1819–1900 Innsbruck</p>
+                            <p>1848 Supplent für Naturgeschichte an der Universität Innsbruck, ab 1851 Lehrer am Gymnasium in Innsbruck, ab 1867 Prof. für Mineralogie und Geologie an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/118742353</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118742353</tei:idno>
+                    </person>
+                <person xml:id="schenach-georg">
+                        <persName>
+                            <surname>Schenach</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Innsbruck 1810–1859 Innsbruck</p>
+                            <p>1833 Priesterweihe, 1843–1857 Prof. der Philosophie an der Universität Innsbruck, 1857–1860 Prof. der Philosophie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/117210935</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117210935</tei:idno>
+                    </person>
+                <person xml:id="schuler-johannes">
+                        <persName>
+                            <surname>Schuler</surname>
+                            <forename>Johannes</forename>
+                        </persName>
+                        <note>
+                            <p>Matrei in Tirol 1800–1859 Innsbruck</p>
+                            <p>1828–1848 Redakteur des „Bothen für Tirol und Vorarlberg“, 1831–1852 ständ. Archivar in Innsbruck, ab 1849 Prof. für Rechtsphilosophie an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/117130842</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117130842</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_0baa6458315a6490f3838a891c41ba27">
+                        <placeName>Modena</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.64783 10.92539</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3173331/</idno>
+                    </place>
+                <place xml:id="place_42dc29389d6318f0fe5b21396ce73b22">
+                        <placeName>Turin</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.07049 7.68682</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165524/</idno>
+                    </place>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

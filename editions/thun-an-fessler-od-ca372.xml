@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-fessler-od-ca372.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-od-ca82.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1854-04-04-ca177.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#fessler-joseph" role="recipient:gelehrter">Joseph
+                        Fessler</rs>
+                    <lb/>o. O., o. D. [1860?]<note xml:id="note_1">Ein
+                        mögliches Indiz für die Datierung kann Leo Thuns Hinweis auf Fesslers
+                        Forschungen zu Urban VIII. sein. Fessler hat sich im Zuge seiner Forschungen
+                        zu den kirchlichen Feiertagen mit Urban VIII., der 1642 mit der Bulle
+                        "Universa per orbem" die Zahl der kirchlichen Feiertage festgelegt hatte,
+                        beschäftigt. Vgl. dazu Joseph Fessler, Ueber die abgeschafften Feiertage und
+                        die Mess-Application an denselben, Innsbruck 1860.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Diözesanarchiv St. Pölten</institution>
+                            <repository>Bistum St. Pölten, Bischöfe, Akten</repository>
+                            <idno>Nachlass Feßler, 7</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun übersendet Joseph Fessler einen nicht näher bezeichneten
+                                Bericht und lädt ihn zu einer Besprechung ein. Dabei soll Fessler
+                                über seine Forschungen zu Urban VIII. berichten.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date/>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#fessler-joseph">Joseph Fessler</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kirchengeschichte</term>
+                </index>
+                <p>Sonntag</p>
+                <p>Hochwürdiger Herr!</p>
+                <p>Ich glaube es wird Sie interessieren, den anliegenden Bericht samt Einlage<note xml:id="note_2">
+                        <p>Die Beilage ist nicht überliefert.</p>
+                    </note> zu lesen.
+                    Ich wäre Ihnen dankbar, wenn Sie dann die Güte haben wollen, mich zu besuchen,
+                    indem ich mit Ihnen über die Entdeckungen bezüglich <rs type="person" ref="#urban-VIII">Urban VIII</rs> zu sprechen wünsche. Sie finden mich – wenn sie bis
+                    dahin schon Zeit gefunden haben zu der Lectüre, heute Abend von 8 Uhr an, oder
+                    etwa morgen früh vor dem feierlichen Gottesdienst oder zwischen 9 und 1/2 11
+                    oder morgen Abend von 6 Uhr an.</p>
+                <p>Mit Hochachtung Ihr ergebener</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="fessler-joseph">
+                        <persName>
+                            <surname>Fessler</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Lochau 1813–1872 St. Pölten</p>
+                            <p>ab 1841 Dozent des Kirchenrechts und der Kirchengeschichte am Priesterseminar in Brixen, ab 1852 Prof. der Kirchengeschichte an der Universität Wien, ab 1856 Prof. des Kirchenrechts an der Universität Wien, ab 1862 Generalvikar und Weihbischof von Vorarlberg, ab 1864 Bischof von St. Pölten</p>
+                            <p>http://d-nb.info/gnd/187122733</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/187122733</tei:idno>
+                    </person>
+                <person xml:id="urban-VIII">
+                        <persName>
+                            <surname>Urban VIII.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Florenz 1568–1644</p>
+                            <p>1623–1644 Papst</p>
+                            <p>http://d-nb.info/gnd/118625586</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118625586</tei:idno>
+                    </person>
+            </listPerson>
+        </back>
+    </text>
+</TEI>

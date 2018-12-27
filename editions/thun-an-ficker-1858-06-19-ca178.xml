@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-ficker-1858-06-19-ca178.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-09-ca186.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1859-05-21-ca187.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
+                        Ficker</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1858-06-19">19. Juni 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bedankt sich bei Julius Ficker dafür, dass er Informationen über
+                            Gottfried Muys einholen wird. Er versichert Ficker auch, dass er für die
+                            Berufung von Tobias Wildauer Sorge tragen werde. Die schlechte Rezension
+                            einer Arbeit Wildauers wird diesem nicht schaden, da es offensichtlich
+                            sei, dass dieselbe von persönlichen Gefühlen beeinflusst war.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D464.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1858-06-19">19. Juni 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Universität Lemberg</term>
+                    <term>Universität Innsbruck</term>
+                    <term>Philosophie</term>
+                </index>
+                <p>Wien, den 19. Juni 1858</p>
+                <p>Werther Herr Professor!</p>
+                <p>Da Sie so freundlich sind, sich hierzu anzubiethen, so nehme ich Ihre Vermittlung
+                    um über <rs type="person" ref="#muys-gottfried">Dr. Muys</rs> genauere
+                    Erkundigungen einzuholen mit vielem Dank an.<lb/>Wegen <rs type="person" ref="#wildauer-tobias">Wildauer</rs> seien Sie ohne Sorge, die
+                        Rezension<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=e6onaaaayaaj&amp;hl=de&amp;source=gbs-navlinks-s">Alfred Ludwig, Platon's Protagoras mit Einleitungen und Anmerkungen von
+                            Ed. Jahn, Wien, C. Gerold's Sohn, 1857, in: Zeitschrift für die
+                            Österreichischen Gymnasien, Bd. 8, 1857, S. 212–217</ref>.</note> soll
+                    ihm gewiss nicht schaden, und ich werde seiner nicht vergessen. Ich begreife
+                    sehr wohl, daß sie in <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Inspruck</rs>
+                    [Innsbruck] übles Blut gemacht hat, obwohl ich aber nicht glaube, daß sie so
+                    übel gemeint war. Der <rs type="person" ref="#ludwig-alfred">Verfasser</rs>, ein
+                    sehr tüchtiger und bescheidener junger Mensch, ist ein Mitschüler von <rs type="person" ref="#jahn-eduard">Jahn</rs> und hat es ohne Zweifel deshalb höher
+                    aufgenommen, daß seiner Arbeit<note xml:id="note_2">Gemeint ist: Eduard Jahn,
+                        Platon's Protagoras, mit Einleitung und Anmerkungen, Wien 1857.</note> kaum
+                    Erwähnung geschah, als es namentlich in Berücksichtigung der ihm unbekannten,
+                    und leider durch meine Schuld nicht aufklärbaren Geschichte des Manuskriptes
+                    gerechtfertigt ist.</p>
+                <p>Mit aufrichtiger Hochachtung<lb/>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="ficker-julius">
+                        <persName>
+                            <surname>Ficker</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>Paderborn 1826–1902 Innsbruck</p>
+                            <p>ab 1852 Prof. der Geschichte an der Universität Innsbruck, ab 1863 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/118532863</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118532863</tei:idno>
+                    </person>
+                <person xml:id="muys-gottfried">
+                        <persName>
+                            <surname>Muys</surname>
+                            <forename>Gottfried</forename>
+                        </persName>
+                        <note>
+                            <p>Krefeld 1828–1898 Laibach</p>
+                            <p>Historiker, ab 1853 Privatdozent an der Universität Bonn, ab 1855–1859 Prof. an der Universität Lemberg, ab 1865 Kustos der Lyzeal-Bibliothek in Lublin</p>
+                            <p>http://d-nb.info/gnd/102072353</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102072353</tei:idno>
+                    </person>
+                <person xml:id="wildauer-tobias">
+                        <persName>
+                            <surname>Wildauer</surname>
+                            <forename>Tobias</forename>
+                        </persName>
+                        <note>
+                            <p>Fügen 1825–1898 Innsbruck</p>
+                            <p>ab 1850 Lehrer für Latein und Griechisch am akademischen Gymnasium Innsbruck, ab 1857 Supplent der philosophischen Lehrkanzel an der Universität Innsbruck, 1858–1896 Prof. der Philosophie und Ästhetik an der Univ. Innsbruck, 1873–1897 Mitglied im Reichsrat</p>
+                            <p>http://d-nb.info/gnd/117379735</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117379735</tei:idno>
+                    </person>
+                <person xml:id="ludwig-alfred">
+                        <persName>
+                            <surname>Ludwig</surname>
+                            <forename>Alfred</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1832–1912 Prag</p>
+                            <p>Indologe und Sprachwissenschaftler, ab 1860 Prof. der klass. Philologie und vergleichenden Sprachkunde an der Universität Prag, Schüler von Hermann Bonitz</p>
+                            <p>http://d-nb.info/gnd/118973061</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118973061</tei:idno>
+                    </person>
+                <person xml:id="jahn-eduard">
+                        <persName>
+                            <surname>Jahn</surname>
+                            <forename>Eduard</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Schulbuchautor und Lehrer am Gymnasium in der Kleinseite in Prag</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

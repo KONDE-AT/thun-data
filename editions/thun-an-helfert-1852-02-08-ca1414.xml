@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-helfert-1852-02-08-ca1414.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1851-04-08-ca1413.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
+                    <lb/>o. O., <date when="1852-02-08">o. D. [8. Februar
+                        1852]</date>
+                    <note>Das Datum ist am oberen Blattrand vermerkt. Der im Brief
+                        erwähnte <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18520206&amp;seite=4&amp;zoom=33">Ball</ref> fand am 8. Februar 1852 statt.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Joseph Alexander Helfert ihn auf dem Slawenball zu
+                            entschuldigen, da er schon zu einem anderen Ball eingeladen worden
+                            ist.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date when="1852-02-08">o. D. [8. Februar
+                        1852]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                </index>
+                <p>Ich vermuthe Sie gehen auf den Slawenball. In diesem Fall bitte ich Sie den
+                    Ausschüßen mein Bedauern auszudrücken, daß ich durch eine andere Einladung und
+                    den Drang der Geschäfte, der mir zwei Bälle an einem Abend doch des Guten zu
+                    viel sein läßt, verhindert bin zu erscheinen.</p>
+                <p>Ihr<lb/>ergebenster<lb/>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="helfert-joseph-alexander">
+                        <persName>
+                            <surname>Helfert</surname>
+                            <forename>Josef Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1820–1910 Wien</p>
+                            <p>Historiker und Politiker, ab Okt. 1847 Supplent für römisches und kanonisches Recht an der Universität Krakau, 1848–1860 Unterstaatssekretär im Ministerium für Kultus und Unterricht, ab 1860 leitender Beamter der Sektion Unterricht im Staatsministerium</p>
+                            <p>http://d-nb.info/gnd/11877381X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877381X</tei:idno>
+                    </person>
+            </listPerson>
+        </back>
+    </text>
+</TEI>

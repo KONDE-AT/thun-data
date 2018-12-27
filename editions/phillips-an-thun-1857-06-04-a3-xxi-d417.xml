@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="phillips-an-thun-1857-06-04-a3-xxi-d417.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1856-03-14-a3-xxi-d372.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1858-11-24-a3-xxi-d474.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-06-04">4. Juni 1857</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D417</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist George Phillips empfiehlt dem Minister einen Lehrer für
+                            englische Sprache. Dabei handelt es sich um Richard Raby, der sich um
+                            die Stelle des Lehrers der englischen Sprache an der Prager Universität
+                            sowie am dortigen Polytechnikum bewirbt. Der Mann stammt aus England, er
+                            lebt aber seit Jahren in München, nachdem er durch einen Bankrott seiner
+                            Bank sein ganzes Vermögen eingebüßt hat. Raby ist Katholik, von
+                            einwandfreiem Leumund und beherrscht die deutsche Sprache vollkommen.
+                            Vor Jahren hat er sich außerdem durch eine Biografie von Papst Hadrian
+                            IV. ausgezeichnet.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#phillips-george">George Phillips</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1857-06-04">4. Juni 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Universität Prag</term>
+                </index>
+                <p>Hochgeborner Herr Graf<lb/>Euer Excellenz</p>
+                <p>wollen zu Gnaden halten, wenn ich, durch viele Bitten angegangen, es wage
+                    Hochdemselben einen Mann zu geneigter Berücksichtigung zu empfehlen.<lb/>Um die
+                    zu <rs type="org" ref="#org_0017">Prag</rs> vacant gewordene Stelle eines
+                    besoldeten Lehrers der englischen Sprache, so wie um eben diese Function bei der
+                    dortigen <rs type="org" ref="#org_0052">polytechnischen
+                        Schule</rs> bewirbt sich ein mir seit vielen Jahren bekannter
+                    Engländer, namens <rs type="person" ref="#raby-richard">Richard Raby</rs>. Bei
+                    einem in damaliger Zeit berühmt gewordenen Bankbruch, der hauptsächlich die
+                    Katholiken Englands traf, büßte unter diesem auch <rs type="person" ref="#raby-richard">Herr Raby</rs> sein ganzes Vermögen ein und übersiedelte vor etwa
+                    dreizehn Jahren nach <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>. Er hat seine Existenz
+                    seither theils dadurch gefristet, daß er junge Engländer in Pension nahm, theils
+                    daß er, so wie seine Frau, Lectionen in der englischen Sprache gab. Er ist ein
+                    treuer und rechtschaffener Mann, ein treuer Katholik, gebildet, der deutschen
+                    Sprache vollkommen mächtig und hat sich auch als Schriftsteller versucht, auch
+                    ist er nicht ohne poetisches Talent. Die Schrift, welche er herausgegeben
+                        hat<note xml:id="note_1">Vgl. <ref target="https://books.google.at/books?id=k9iaaaaacaaj&amp;hl=de&amp;source=gbs-navlinks-s">Richard Raby, Pope Adrian IV. An historical sketch, London
+                        1849</ref>.</note>, ist zwar von keinem großen Umfang: es ist die
+                    Lebensgeschichte des einzigen Engländers, welcher auf dem päpstlichen Stuhle
+                    gesessen hat. Die kurze Regierung <rs type="person" ref="#hadrian-IV">Hadrians
+                        IV</rs> bot zu einem größeren Werke keinen reichhaltigen Stoff und das
+                    Thema war nur wegen des besonderen Interesses gegeben, welches das katholische
+                    England an diesem Manne nahm.<lb/>Indem ich Hochdieselben bitte mir meine
+                    Freiheit zu verzeihen, zeichne ich mich mit größter Verehrung und Hochachtung
+                    als</p>
+                <p>Euer Excellenz</p>
+                <p>unterthäniger Diener<lb/>G. Phillips, k.k. Hofrath</p>
+                <p>Wien, 4. Juny 1857</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="phillips-george">
+                        <persName>
+                            <surname>Phillips</surname>
+                            <forename>George</forename>
+                        </persName>
+                        <note>
+                            <p>Königsberg 1804–1872 Aigen bei Salzburg</p>
+                            <p>1827 Prof. an der Universität Berlin, 1834 Prof. für Kirchen- und Privatrecht an der Universität München, 1850 Prof. an der Universität Innsbruck, 1851–1860 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/100233791</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100233791</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="raby-richard">
+                        <persName>
+                            <surname>Raby</surname>
+                            <forename>Richard</forename>
+                        </persName>
+                        <note>
+                            <p>1816–1881</p>
+                            <p>engl. Autor und Übersetzer, lebte in München</p>
+                            <p>http://d-nb.info/gnd/104232390</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104232390</tei:idno>
+                    </person>
+                <person xml:id="hadrian-IV">
+                        <persName>
+                            <surname>Hadrian IV.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>St. Albans 1100–1159 Anagni</p>
+                            <p>ab 1154 Papst</p>
+                            <p>http://d-nb.info/gnd/118719785</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118719785</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0017">
+                        <orgName>Universität Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
+                    </org>
+                <org xml:id="org_0052">
+                        <orgName>Polytechnikum Prag</orgName>
+                        <!-- fraglich <idno type="URL" subtype="GND">http://d-nb.info/gnd/507911-1</idno> -->
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

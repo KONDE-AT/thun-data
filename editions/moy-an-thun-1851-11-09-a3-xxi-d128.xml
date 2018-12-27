@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="moy-an-thun-1851-11-09-a3-xxi-d128.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-beamten-ministerium-fuer-kultus-und-unterricht-1851-06-06-a3-xxi-d118.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when="1851-11-09">9. November 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D128</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Professor Ernst Moy de Sons berichtet von der Situation an der
+                            Innsbrucker Universität. Zufrieden äußert er sich dabei über die
+                            Leistungen der Studenten, wobei er sich überrascht davon zeigt, dass die
+                            italienischen Studenten fleißiger seien als ihre deutschsprachigen
+                            Kommilitonen. Gerüchte über eine mögliche Schließung der philosophischen
+                            Fakultät erfüllen Ernst von Moy allerdings mit Sorge. Er betont daher
+                            die Vorzüge, welche eine philosophische Fakultät in Tirol habe: Dort
+                            gebe es nämlich einerseits tüchtige Professoren und andererseits
+                            existiere in Tirol eine auf christlicher Basis ruhende Philosophie, die
+                            andernorts erst begründet werden müsste. Moy bemerkt jedoch, dass ein
+                            guter Historiker in Innsbruck derzeit fehle. Danach kommt Moy auf die
+                            Universitätsbibliothek zu sprechen und betont, dass eine gut
+                            ausgestattete Bibliothek von großer Wichtigkeit für die Entwicklung der
+                            Universität und der Wissenschaften im Allgemeinen sei. Schließlich
+                            gratuliert er Thun zur Berufung Höflers nach Prag und hofft, darin auch
+                            ein gutes Omen für die Berufung eines Historikers nach Innsbruck sehen
+                            zu dürfen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when="1851-11-09">9. November 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Philosophische Fakultät</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Universitätsbibliothek</term>
+                </index>
+                <p>Euer Exzellenz</p>
+                <p>bitte ich meinen innigsten Dank zu empfangen für die wohlwollende und
+                    rücksichtsvolle Weise, in der meine letzte Vorstellung in Betreff der von mir zu
+                    gebenden Stunden erledigt wurde. Im nächsten Semester werde ich davon
+                    profitiren. Für dieses Semester muß gleichwohl die Tiroler Zeitung zurückstehen;
+                    denn die Collegien, über Kirchenrecht mit fünf Stunden und Rechtsgeschichte mit
+                    vier Stunden wöchentlich, sind im Gange und fordern nun allerdings meine ganze
+                    Thätigkeit. Besonders das letztere ist zahlreich und mit großer Theilnahme
+                    besucht, und ich habe alle Ursache, mit dem Verhalten der jungen Leute im
+                    höchsten Grade zufrieden zu seyn. Überraschend ist mir, daß verhältnismäßig die
+                    Welschen noch mehr Eifer zeigen als die Deutschen. Es ist ein dankbarer Boden in
+                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>, und es wäre darum überaus schade, wenn
+                    er nicht so ausgebeutet würde, wie er es verdiente. Ein durch öffentliche
+                    Blätter verbreitetes, bisher nicht widersprochenes Gerücht, als solle nebst
+                    anderen auch die hiesige philosophische Facultät eingezogen werden, hat hier
+                    große Consternation verbreitet. Ich höre, die ständische Activität wolle eine
+                    Vorstellung dagegen unterbreiten und vielmehr um Vervollständigung der <rs type="org" ref="#org_0020">hiesigen Universität</rs> bitten. Möchte
+                    diese Bitte nicht an finanziellen Rücksichten scheitern! Die Tiroler haben
+                    wichtige, im Interesse der Monarchie selbst gegründete Ursachen, die Erhaltung
+                    ihrer Studien und Studenten im Lande zu wünschen: die Tirolische Atmosphäre ist
+                    eine mächtig conservirende. Wir haben hier an <rs type="person" ref="#flir-alois">Flir</rs> und Schönach [<rs type="person" ref="#schenach-georg">Schenach</rs>] und <rs type="person" ref="#boehm-josef-georg">Böhm</rs>
+                    für die philosophischen Studien tüchtige Kräfte. Bekämen wir noch einen
+                    respektablen Historiker, so ließe sich von den Zöglingen der Innsbrucker Schule
+                    etwas Ordentliches erwarten. Und wie wichtig ist eine auf christlichem Boden
+                    erbaute Philosophie in dieser Zeit! Was man anderwärts mühsam erst begründen
+                    müßte, das ist hier schon gegeben und in anerkannter Wirksamkeit. Wie schade,
+                    wenn es eingehen sollte! Und welchen niederschlagenden Eindruck müßte es auf die
+                    Gesinnung des Landes hervorbringen, das sich bewußt ist, durch die Haltung nicht
+                    bloß des Volkes, sondern auch der Mehrzahl seiner im Lande gebildeten Beamten in
+                    den Zeiten schwerer Prüfung vor anderen Kronländern sich ruhmvoll hervorgethan
+                    zu haben!<lb/>Geruhen Euer Exzellenz es mir nicht zur Unbescheidenheit
+                    anzurechnen, wenn ich an das zu erinnern wage, was ich bezüglich der <rs type="org" ref="#org_0020">hiesigen Universität</rs> persönlich
+                    sowohl <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> als Eurer
+                    Exzellenz persönlich vorzutragen die Ehre hatte. Es scheint mir nicht so fast im
+                    Interesse des Landes als vielmehr in dem der ganzen Monarchie von der
+                    entscheidendsten Wichtigkeit. Gestatten auch die finanziellen Rücksichten jetzt
+                    nicht an eine großartige Schöpfung zu denken, ähnlich dem, was die preußische
+                    Regierung in gleichem Interesse einst in <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> gethan, so
+                    möchte doch ein allmäliges Aufbauen immerhin statthaft seyn. Dabei wären aber
+                    die Bedürfnisse der Bibliothek in erste Linie zu stellen, die vorzüglich im
+                    Fache der Geschichte und des Canonischen Rechtes selbst hinter den
+                    bescheidensten Anforderungen zurück ist. Wie soll man die jungen Leute zu
+                    wissenschaftlicher Thätigkeit anspornen, wenn man ihnen nicht einmal die
+                    unentbehrlichsten Quellen und Hilfsmittel dazu an die Hand geben kann?<lb/>Die
+                    Ernennung <rs type="person" ref="#hoefler-karl-adolf-constantin">Höflers</rs> für
+                    <rs type="org" ref="#org_0017">Prag</rs> hat mich innig erfreut, und
+                    ich erlaube mir Eurer Exzellenz zu dieser Maßregel meinen herzlichsten
+                    Glückwunsch darzubringen. Möchte sie ein glückliches Omen auch für <rs type="org" ref="#org_0020">Innsbruck</rs> seyn!<lb/>Genehmigen Eure
+                    Exzellenz den Ausdruck der tiefsten Verehrung und Dankbarkeit, womit ich
+                    verharre</p>
+                <p>Hochdero<lb/>unterthänigster Diener<lb/>Freih. v. Moy</p>
+                <p>Innsbruck, den 9. November 1851</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="moy-de-sons-ernst">
+                        <persName>
+                            <surname>Moy de Sons</surname>
+                            <forename>Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>München 1799–1867 Innsbruck</p>
+                            <p>ab 1832 Prof. für Natur- und Staatsrecht an der Universität Würzburg, 1837–1847 Prof. für Staatsrecht an der Universität München, ab 1851 Prof. für Kirchenrecht und Deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/174390033</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/174390033</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="flir-alois">
+                        <persName>
+                            <surname>Flir</surname>
+                            <forename>Alois</forename>
+                        </persName>
+                        <note>
+                            <p>Landeck 1805–1859 Rom</p>
+                            <p>1835–1854 Prof. der klassischen Literatur und Ästhetik an der Universität Innsbruck, 1853–1859 Prediger und Rektor der Santa Maria dell’Anima in Rom, ab 1858 päpstlicher Hausprälat und Auditor der Sacra Rota Romana</p>
+                            <p>http://d-nb.info/gnd/116616121</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116616121</tei:idno>
+                    </person>
+                <person xml:id="schenach-georg">
+                        <persName>
+                            <surname>Schenach</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Innsbruck 1810–1859 Innsbruck</p>
+                            <p>1833 Priesterweihe, 1843–1857 Prof. der Philosophie an der Universität Innsbruck, 1857–1860 Prof. der Philosophie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/117210935</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117210935</tei:idno>
+                    </person>
+                <person xml:id="boehm-josef-georg">
+                        <persName>
+                            <surname>Böhm</surname>
+                            <forename>Josef Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Rozdialowicz 1807–1868 Prag</p>
+                            <p>1839–1852 Prof. für Mathematik an der Universität Innsbruck, ab 1852 Prof. für theoretische und praktische Astronomie an der Universität Prag, gleichzeitig Direktor der Prager Sternwarte,</p>
+                            <p>http://d-nb.info/gnd/117609129</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117609129</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="hoefler-karl-adolf-constantin">
+                        <persName>
+                            <surname>Höfler</surname>
+                            <forename>Karl Adolf Constantin</forename>
+                        </persName>
+                        <note>
+                            <p>Memmingen 1811–1897 Prag</p>
+                            <p>ab 1836 Privatdozent für Geschichte an der Universität München, ab 1839 Prof. an der Universität München, 1847 Zwangspensionierung, ab 1847 Kreisarchivar in Bamberg, ab 1852 Prof. für allgemeine Geschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/118774654</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118774654</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+                <place xml:id="place_6c1def5820cdde63de0c38dd673de4d6">
+                        <placeName>Bonn</placeName>
+                        <placeName type="alt">Bonna</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.73438 7.09549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2946447/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+                <org xml:id="org_0017">
+                        <orgName>Universität Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

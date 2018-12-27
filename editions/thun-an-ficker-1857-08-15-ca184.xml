@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-ficker-1857-08-15-ca184.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1856-09-22-ca183.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-09-ca186.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
+                        Ficker</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6d484de842d3e23757071dd656e2513e">Lungern</rs>, <date when="1857-08-15">15. August 1857</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 8</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun entschuldigt sich bei Julius Ficker, dass noch immer kein
+                            Professor für klassische Philologie an die Innsbrucker Universität
+                            berufen worden ist. Thun spielt zwar mit dem Gedanken, Anton Goebel auf
+                            einen Lehrstuhl zu berufen, allerdings möchte er zunächst versuchen,
+                            Johannes Vahlen für Innsbruck zu gewinnen. Thun bittet Ficker daher,
+                            sich bei Vahlen auf privatem Wege über dessen Bereitschaft, nach
+                            Innsbruck zu kommen, zu informieren. Thun versichert Ficker außerdem,
+                            dass er möglichst bald die Gehälter der Professoren in Innsbruck und
+                            Graz aufbessern will. Thun berichtet dann, dass Karl Stumpf-Brentano an
+                            Thun geschrieben und sich über die fehlende Unterstützung für den
+                            Historiker Josef Durig beschwert habe. Ficker soll sich hierzu an den
+                            Statthalter wenden, sollte dieser keine Unterstützung gewähren, werde er
+                            selbst dafür Sorge tragen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_6d484de842d3e23757071dd656e2513e">Lungern</settlement>
+                    <date when="1857-08-15">15. August 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Philosophie</term>
+                    <term>Klassische Philologie</term>
+                    <term>Gehaltsfragen</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Lungern, Kanton Unterwalden den 15. August 1857</p>
+                <p>Werther Herr Professor!</p>
+                <p>Obgleich ein Professor der Philologie für <rs type="org" ref="#org_0020">Inspruck</rs> [Innbruck] noch immer nicht ernannt ist, so habe ich
+                    doch keineswegs darauf vergessen.<lb/>Ich hoffe den <rs type="person" ref="#goebel-anton">Dr. Göbel</rs> noch auf dieser oder einer ähnlichen Stelle zu sehen,
+                    mehrere Gründe bestimmen mich aber jetzt noch nicht zu den hierzu erforderlichen
+                    Einleitungen zu schreiten. Zunächst wünsche ich sehr den <rs type="person" ref="#vahlen-johannes">Dr. Vahlen</rs>, der jetzt a. o. Professor in
+                    <rs type="org" ref="#org_0065">Breslau</rs> ist, für eine
+                    österreichische Universität zu gewinnen, und es scheint mir an angemessensten,
+                    daß er als ordentlicher Professor nach <rs type="org" ref="#org_0020">Inspruck</rs> berufen werde. Ohne Zweifel dürfte er Ihnen auch
+                    persönlich bekannt sein; ich glaube sogar Sie haben mich schon früher einmal auf
+                    ihn aufmerksam gemacht, jedenfalls gründe ich auf die sehr günstigen Auskünfte,
+                    die mir von verschiedenen Seiten über ihn mitgetheilt worden sind, die Hoffnung,
+                    daß er Ihnen auch ein erwünschter Kollega sein werde. In diesem Falle würden Sie
+                    mich sehr verbinden, wenn Sie es übernehmen wollten, an ihn zu schreiben, und
+                    mir dadurch eine noch nicht offiziell eingeholte, und doch sichere Auskunft zu
+                    verschaffen, ob er bereitwillig wäre, dem Rufe unter den gewöhnlichen oder unter
+                    welchen günstigeren Bedingungen zu folgen. Jenes wäre erwünscht, in so fern
+                    günstigere Bedingungen anderen Kollegen wieder einen schmerzlichen Eindruck
+                    machen würden. Doch darf das nicht entscheiden. Übrigens hoffe ich doch in nicht
+                    gar ferner Zeit eine allgemeine Aufbesserung der wirklich erbärmlichen Gehalte
+                    erwirken zu können, welche noch für die Professoren in <rs type="org" ref="#org_0020">Inspruck</rs> und <rs type="org" ref="#org_0026">Gratz</rs> als Regel gelten. Daß <rs type="person" ref="#vahlen-johannes">Vahlen</rs> im Allgemeinen nicht abgeneigt wäre,
+                    nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu kommen, glaube ich bereits zu
+                    wissen.<lb/>Wie Sie aus dem Datum ersehen, bin ich auf einer Urlaubsreise
+                    begriffen, und werde am 5. nächsten Monats in <rs type="place" subtype="place" ref="#place_da90eb3328276934d8dbcbbff3aba4ee">Tetschen</rs>
+                    und am 13. oder 14. wieder in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> eintreffen. <rs type="person" ref="#stumpf-brentano-karl-friedrich">Stumpf</rs> hat mir mitgetheilt,
+                    was Sie an Ihn über <rs type="person" ref="#durig-josef">Durig</rs> geschrieben
+                    haben. Ich sollte denken, der <rs type="person" ref="#karl-ludwig-erzherzog">Erzherzog
+                        Carl Ludwig</rs> würde Rath zu schaffen wissen, daß ihm aus Tyroler
+                    Landesmitteln die nöthige Unterstützung zugewendet werde, um die Geschichte des
+                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Landes</rs> zu bearbeiten. Geht es wenigstens
+                    vorläufig nicht, so wollen Sie nicht unterlassen, wo möglich durch den <rs type="person" ref="#karl-ludwig-erzherzog">Erzherzog</rs> ein Gesuch an mich gelangen
+                    zu lassen, damit es ihm vor der Hand ermöglicht werde, einige Zeit in
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zuzubringen, um das Archiv zu benützen.
+                    Irgendwie wird es ja doch gelingen, den Zweck zu erreichen.</p>
+                <p>Mit aufrichtiger Hochachtung<lb/>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="ficker-julius">
+                        <persName>
+                            <surname>Ficker</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>Paderborn 1826–1902 Innsbruck</p>
+                            <p>ab 1852 Prof. der Geschichte an der Universität Innsbruck, ab 1863 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/118532863</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118532863</tei:idno>
+                    </person>
+                <person xml:id="goebel-anton">
+                        <persName>
+                            <surname>Goebel</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>1824–1898</p>
+                            <p>1857–1859 Lehrer am Theresianum in Wien, ab 1859 Direktor des Gymnasiums in Konitz, später Provinzialschulrat in Königsberg und in Magdeburg, Bruder von Eduard Goebel</p>
+                            <p>http://d-nb.info/gnd/116697970</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116697970</tei:idno>
+                    </person>
+                <person xml:id="vahlen-johannes">
+                        <persName>
+                            <surname>Vahlen</surname>
+                            <forename>Johannes</forename>
+                        </persName>
+                        <note>
+                            <p>Bonn 1830–1911 Berlin</p>
+                            <p>ab 1856 Prof. der Klassischen Philologie an der Universität Breslau, 1858 Prof. an der Universität Freiburg, 1858–1874 Prof. an der Universität Wien, 1874–1905 Prof. der Klassischen Philologie an der Universität Berlin</p>
+                            <p>http://d-nb.info/gnd/117325279</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117325279</tei:idno>
+                    </person>
+                <person xml:id="stumpf-brentano-karl-friedrich">
+                        <persName>
+                            <surname>Stumpf-Brentano</surname>
+                            <forename>Karl Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>1829 Wien–1882 Innsbruck</p>
+                            <p>ab 1857 Prof. an der Rechtsakademie in Pressburg, ab 1861 Prof. für Geschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/117363545</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117363545</tei:idno>
+                    </person>
+                <person xml:id="durig-josef">
+                        <persName>
+                            <surname>Durig</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Tschagguns 1833–1901 Innsbruck</p>
+                            <p>Historiker, ab 1857 Lehrer an der Oberrealschule in Innsbruck, 1874–1892 Direktor der Lehrerbildungsanstalt in Innsbruck</p>
+                            <p>http://d-nb.info/gnd/10186440X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/10186440X</tei:idno>
+                    </person>
+                <person xml:id="karl-ludwig-erzherzog">
+                        <persName>
+                            <surname>Karl Ludwig</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Schönbrunn 1833–1896 Wien</p>
+                            <p>Erzherzog von Österreich, 1855–1861 Statthalter von Tirol</p>
+                            <p>http://d-nb.info/gnd/1044329998</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1044329998</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6d484de842d3e23757071dd656e2513e">
+                        <placeName>Lungern</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.78578 8.15984</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2659828/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_da90eb3328276934d8dbcbbff3aba4ee">
+                        <placeName>Tetschen [Děčín]</placeName>
+                        <placeName type="alt">Tetschen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.78215 14.21478</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+                <org xml:id="org_0065">
+                        <orgName>Universität Breslau</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1220756-1</idno>
+                    </org>
+                <org xml:id="org_0026">
+                        <orgName>Universität Graz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36157-4</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

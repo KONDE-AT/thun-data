@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-hye-1849-10-25-ca928.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1860-07-02-ca1424.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-hye-1852-11-03-ca927.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#hye-von-gluneck-anton" role="recipient">Anton Hye von
+                        Gluneck</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1849-10-25">25. Oktober [1849]</date>
+                    <note xml:id="note_1">Die Datierung in das Jahr
+                        1849 ergibt sich aus Briefen, die die im Brief angesprochene versuchte
+                        Berufung von Leopold Warnkönig betreffen. Vgl. dazu <ref target="thun/thun-korrespondenz/tetschen/wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml">Johann Philipp Wessenberg an Leo Thun. Karlsbad, 23. Oktober
+                        1849</ref>; sowie <ref target="thun/thun-korrespondenz/oesterreichisches-staatsarchiv/thun-an-wessenberg-1849-10-31-ca1570.xml">Leo Thun an Johann Philipp Wessenberg. Wien, 31. Oktober
+                        1849</ref>.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Hye, Karton 23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun dankt dem Juristen und Ministerialrat Anton Hye für einen Brief
+                            und für die Vermittlung in einigen Personalfragen. Thun möchte die
+                            Angelegenheit um Karl Adolph Vangerow vorerst ruhen lassen und sich
+                            stattdessen verstärkt um eine Berufung von Leopold Warnkönig bemühen.
+                            Sollte die Berufung desselben zu Stande kommen, hätte sich Hye nach der
+                            Ansicht des Ministers ein bleibendes Verdienst um Österreichs
+                            Rechtswissenschaften gesichert.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date when="1849-10-25">25. Oktober [1849]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#hye-von-gluneck-anton">Anton Hye von Gluneck</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Werthester Herr Ministerialrath!</p>
+                <p>Mit vielem Dank stelle ich Ihnen beiliegend die mir gütigst mitgetheilten Briefe
+                        zurück<note xml:id="note_2">Dabei könnte es sich um Briefe von Warnkönig und
+                        Vangerow handeln, die sich im Nachlass von Hye finden.</note>. Daß mich ihr
+                    Inhalt in hohem Grade befriedigt und erfreut hat, brauche ich nicht erst zu
+                    sagen. <rs type="person" ref="#vangerow-karl-adolph">Wangerow’s</rs> Andeutungen
+                    rechtfertigen es allerdings, in einer Beziehung[?] in den Verhandlungen einen
+                    Stillstand eintreten zu lassen. Ich werde inzwischen die Zeit nicht verlieren,
+                    und habe bereits weitere vorbereitende Schritte, insbesondere in Betreff
+                        <rs type="person" ref="#warnkoenig-leopold-august">Warnkönigs</rs> eingeleitet.
+                    Führen sie zu einem günstigen Erfolge, so habe ich es großentheils der
+                    vortrefflichen Weise zu danken, in welcher Sie den Weg bahnten, wodurch Sie mich
+                    in hohem Grade verpflichten und dem <rs type="place" subtype="place" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Vaterlande</rs> und der Wissenschaft wie ich hoffe einen
+                    wesentlichen Dienst geleistet haben.</p>
+                <p>Mit der Versicherung der ausgezeichnetsten Hochachtung verharre ich</p>
+                <p>Ihr<lb/>Ergebener<lb/>L. Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="hye-von-gluneck-anton">
+                        <persName>
+                            <surname>Hye von Glunek</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Gleink 1807–1894 Wien</p>
+                            <p>1835–1854 Prof. am Theresianum in Wien, ab 1842 Prof. an der Universität Wien, 1848–1849 Generalsekretär, 1849–1857 Ministerialrat, 1857–1867 Sektionsleiter im Justizministerium, Juni–Dez. 1867 Justizminister</p>
+                            <p>http://d-nb.info/gnd/117546941</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117546941</tei:idno>
+                    </person>
+                <person xml:id="vangerow-karl-adolph">
+                        <persName>
+                            <surname>Vangerow</surname>
+                            <forename>Karl Adolph</forename>
+                        </persName>
+                        <note>
+                            <p>Schiffelbach bei Marburg 1808–1870 Heidelberg</p>
+                            <p>1840–1870 Prof. für Römisches Recht an der Universität Heidelberg</p>
+                            <p>http://d-nb.info/gnd/117346039</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117346039</tei:idno>
+                    </person>
+                <person xml:id="warnkoenig-leopold-august">
+                        <persName>
+                            <surname>Warnkönig</surname>
+                            <forename>Leopold August</forename>
+                        </persName>
+                        <note>
+                            <p>Bruchsal 1794–1866 Stuttgart</p>
+                            <p>ab 1817 Prof. für römisches Recht und Naturrecht an der Universität Lüttich, 1827–1830 Prof. an der Universität Löwen, 1830–1836 Prof. an der Universität Gent, 1836–1844 Prof. für Natur-, Staats- und Völkerrecht an der Universität Freiburg, 1844–1856 Prof. des Kirchenrechts an der Universität Tübingen</p>
+                            <p>http://d-nb.info/gnd/117142379</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117142379</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
+                        <placeName>o. O.</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

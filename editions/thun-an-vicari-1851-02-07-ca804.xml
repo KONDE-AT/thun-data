@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-vicari-1851-02-07-ca804.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-unbekannt-1851-04-03-ca1207.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-weiss-1855-08-08-a3-xxi-d347b.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#vicari-hermann" role="recipient">Hermann
+                        Vicari</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1851-02-07">7. Februar 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 346/38-1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun dankt dem Erzbischof von Freiburg, Hermann Vicari, für den
+                            Hinweis auf den Philologen Bernhard Jülg. Der Minister möchte Jülg gern
+                            an die Universität Lemberg berufen. Er bittet Vicari, er möge sich bei
+                            Jülg erkundigen, ob dieser dazu bereit wäre. Thun versichert dem
+                            Erzbischof, dass es sein Ziel sei, Lehrer zu ernennen, die im Geiste der
+                            katholischen Kirche lehren.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Da es sich bei dem Brief um eine Abschrift handelt, die sich im Nachlass
+                            von Bernhard Jülg befindet, muss offen bleiben, ob der Brief eigenhändig
+                            von Leo Thun ist. Die Abschrift trägt jedoch keine Aktennummer des
+                            Ministeriums.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1851-02-07">7. Februar 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#vicari-hermann">Hermann Vicari</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Universität Lemberg</term>
+                    <term>Klassische Philologie</term>
+                </index>
+                <p>Hochwürdigster Herr!</p>
+                <p>In Berücksichtigung der sehr empfehlenden Zeugnisse über die Kenntnisse des
+                        <rs type="person" ref="#juelg-bernhard">Dr. Jülg</rs> und vor Allem der
+                    besondern Gewogenheit, die Eure erzbischöflichen Gnaden für ihn aussprechen, und
+                    die mir für seinen Charakter und seine Gesinnung die vollgültigste Bürgschaft
+                    gewährt, nehme ich nicht länger Anstand, meine Bereitwilligkeit zu erklären, ihn
+                    für eine Anstellung an der <rs type="org" ref="#org_0021">Lemberger
+                        Universität</rs> in Antrag zu bringen. Eure erzbischöfliche Gnaden
+                    würden mich sehr verbinden, wenn Sie die Gewogenheit hätten, an ihn die
+                    definitive Frage gelangen zu lassen, ob er geneigt sei, eine außerordentliche
+                    Professur der klassischen Philologie mit einem Gehalte von 1000 fl CM und
+                    Bewilligung einer Reisevergütung von 300 fl CM anzunehmen, und mit dem kommenden
+                    Semester anzutreten. Er möge – wenn es seinen Wünschen entspricht – mir seine
+                    bejahende Antwort sogleich einsenden, und ich werde sodann ohne Verzug den
+                    allerunterthänigsten Antrag an <rs type="person" ref="#franz-joseph">Seine
+                        Majestät</rs> erstatten. Je mehr ich die Wichtigkeit fühle, bei der
+                    Nothwendigkeit die wissenschaftlichen Kräfte an den österreichischen
+                    Studienanstalten zu vermehren, dabei – im Geiste der katholischen Kirche – auch
+                    auf die Gesinnung der Lehrer das größte Gewicht zu legen, desto dankbarer bin
+                    ich Eurer Erzbischöflichen Gnaden, mich auf die Spur eines vertrauenswürdigen
+                    Mannes geführt zu haben. Mit wahrer Hochachtung habe ich die Ehre zu
+                    verharren.</p>
+                <p>Eurer erzbischöflichen Gnaden</p>
+                <p>ergebenster Diener<lb/>Thun</p>
+                <p>Wien den 7. Febr. 1851</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="vicari-hermann">
+                        <persName>
+                            <surname>Vicari</surname>
+                            <forename>Hermann</forename>
+                        </persName>
+                        <note>
+                            <p>Aulendorf 1773–1868 Freiburg i. Breisgau</p>
+                            <p>ab 1832 Weihbischof von Freiburg, 1842–1868 Erzbischof von Freiburg</p>
+                            <p>http://d-nb.info/gnd/118945467</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118945467</tei:idno>
+                    </person>
+                <person xml:id="juelg-bernhard">
+                        <persName>
+                            <surname>Jülg</surname>
+                            <forename>Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Ringelbach 1825–1886 Innsbruck</p>
+                            <p>1848–1850 Prof. an Lyzeen in Heidelberg, Freiburg und Rastatt, ab 1851 Prof. der klass. Philologie an der Universität Lemberg, ab 1853 Prof. an der Universität Krakau, ab 1863 Prof. an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/117220973</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117220973</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0021">
+                        <orgName>Universität Lemberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/66083-8</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

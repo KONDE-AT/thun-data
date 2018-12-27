@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-rauscher-1853-05-16-ca781.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1853-04-21-ca782.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1858-05-17-ca828.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#rauscher-joseph" role="recipient:gelehrter">Joseph Othmar
+                        Rauscher</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1853-05-16">16. Mai 1853</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Diözesanarchiv Wien</institution>
+                        <idno>BA Rauscher, 1852/59, Briefe an Rauscher, Nr. 55</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bedauert, dass er Erzbischof Joseph Othmar Rauscher noch nicht
+                            besuchen konnte, zumal dessen Abreise kurz bevorstehe. Thun möchte, dass
+                            der Bischof von Concordia nicht aus Wien abreise, bevor er sich nicht
+                            mit diesem gründlich ausgesprochen habe. Der Minister will auch die
+                            nötigen Geldmittel für einen längeren Aufenthalt bereitstellen. Außerdem
+                            möchte Thun gemeinsam mit Rauscher und den italienischen Bischöfen die
+                            Studienfragen erörtern.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date when="1853-05-16">16. Mai 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#rauscher-joseph">Joseph Othmar Rauscher</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Bischöfliche Seminare</term>
+                </index>
+                <p>Hochwürdigster Herr Fürstbischof!</p>
+                <p>Ich bedauere außerordentlich, daß allerhand Allotria mich des Vergnügens beraubt
+                    haben, Euere fürstliche Gnaden vor Ihrer Abreise zu sehen. Allerdings war ich
+                    unachtsam genug, nicht daran zu denken, daß des hohen Festes wegen Ihre Abreise
+                    unmittelbar bevorstehe, sonst hätte ich mir die Gelegenheit doch zu verschaffen
+                    gewusst. Wann darf ich hoffen, Sie wieder hier zu sehen? Der <rs type="person" ref="#fusinato-angelo">Bischof von Concordia</rs> hat mir angezeigt,
+                    daß er Mittwoch abzureisen gedenke. Wie ich höre eigentlich des Geldes wegen.
+                    Dafür ist inzwischen Vorsorge getroffen worden, und er wird nun also wohl
+                    willfährig sein, noch zu verweilen. Jedenfalls kann ich ihn nicht heimreisen
+                    lassen, ehe ich von Euerer fürstlichen Gnaden und von <rs type="person" ref="#kuebeck-karl-friedrich">Baron Kübeck</rs> weiß, daß kein Grund
+                    vorhanden ist, ihn länger aufzuhalten. Nebenbei muß ich wünschen, daß vorher die
+                    Studienfrage auf einen bestimmten Ausdruck gebracht und dieser durch eine
+                    Besprechung Euerer fürstlichen Gnaden mit den italienischen Bischöfen in meiner
+                    Gegenwart allseitige Anerkennung finde; ja auch die Besprechung dieser
+                    Angelegenheit in dem Comité schien mir wünschenswerth, ehe die Herren entlassen
+                    werden. Jedenfalls sehe ich einer gefälligen Mittheilung Euerer fürstlichen
+                    Gnaden entgegen, ehe ich den <rs type="person" ref="#fusinato-angelo">Bischof von
+                        Concordia</rs> heimkehren lasse, und er darf mir daher Mittwoch noch
+                    nicht abreisen.<lb/>Mit den Gefühlen der ausgezeichnetsten Hochachtung habe ich
+                    die Ehre zu verharren</p>
+                <p>Euerer fürstlichen Gnaden</p>
+                <p>ergebener Diener<lb/>Thun</p>
+                <p>den 16. Mai 1853</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="rauscher-joseph">
+                        <persName>
+                            <surname>Rauscher</surname>
+                            <forename>Josef Othmar</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1875 Wien</p>
+                            <p>ab 1825 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum Salzburg, ab 1832 Direktor der orientalischen Akademie in Wien, ab 1849 Fürstbischof von Seckau, ab März 1853 Erzbischof von Wien, ab 1855 Kardinal</p>
+                            <p>http://d-nb.info/gnd/118787977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118787977</tei:idno>
+                    </person>
+                <person xml:id="fusinato-angelo">
+                        <persName>
+                            <surname>Fusinato</surname>
+                            <forename>Angelo</forename>
+                        </persName>
+                        <note>
+                            <p>Arsiè 1802–1855 Concordia</p>
+                            <p>ab 1850 Bischof von Concordia</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="kuebeck-karl-friedrich">
+                        <persName>
+                            <surname>Kübeck von Kübau</surname>
+                            <forename>Karl Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Iglau 1780–1855 Hadersdorf</p>
+                            <p>Politiker, 1821 und 1822 Staats- und Konferenzrat während der Kongresse in Laibach und Verona, ab 1840 Präsident der Hofkammer</p>
+                            <p>http://d-nb.info/gnd/116577355</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116577355</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
+                        <placeName>o. O.</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

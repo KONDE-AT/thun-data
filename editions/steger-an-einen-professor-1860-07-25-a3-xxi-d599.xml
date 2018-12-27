@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/statuten-ungarische-akademie-der-wissenschaften-od-a3-xxi-d362.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stellungnahme-clam-handeslrecht-1854-07-07-a3-xxi-d265.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#steger-joseph" role="sender:kleriker">Joseph Steger</rs>
+                    an einen unbekannten Adressaten<note xml:id="note_1">Ein möglicher Adressat ist
+                        der Priester Joseph Fessler, Professor an der Universität Wien. Steger hatte
+                        bei Fessler am Brixner Diözesanseminar studiert. Fessler stand mit Thun
+                        regelmäßig in Kontakt und verkehrte mit Buol und Biegeleben, die im Brief
+                        angesprochen sind. Im Nachlass von Fessler findet sich allerdings kein
+                        Hinweis auf einen sonstigen Briefkontakt mit Joseph
+                        Steger.</note>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</rs>, <date when="1860-07-25">25. Juli 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D599</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Priester und Gymnasiallehrer Joseph Steger berichtet Leo Thun über
+                            die nationale Agitation eines Lehrers des Gymnasiums in Marburg an der
+                            Drau. Dieser Lehrer hatte in der Zeitung „Noviće“ einen Aufsatz mit dem
+                            Titel „Das Slovenenthum und die Mittelschulen in Marburg“
+                            veröffentlicht. Darin beschuldige er sowohl die Regierung, eine
+                            Germanisierungspolitik zu betreiben, als auch die Lehrer des Gymnasiums,
+                            die slowenischen Schüler zu unterdrücken. Da die Zeitschrift auch von
+                            Gymnasialschülern gelesen werde, könnte dies negative Folgen sowohl auf
+                            die Disziplin als auch auf die Gemüter der Schüler haben. In einer
+                            Klasse sei es bereits zu Konfrontationen zwischen deutschen und
+                            slowenischen Schülern gekommen. Daher sah sich Steger gezwungen beim
+                            Minister zu intervenieren. Auch der Direktor habe das Ministerium über
+                            die Angelegenheit informiert. Abschließend erwähnt Steger, dass er und
+                            ein Kollege sich um eine Stelle in Salzburg beworben haben, er aber
+                            wenig Hoffnung habe, in der jetzigen Situation dort hinbeordert zu
+                            werden.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#steger-joseph">Joseph Steger</rs>
+                    <settlement ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</settlement>
+                    <date when="1860-07-25">25. Juli 1860</date>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Sprachenfrage</term>
+                    <term>Nationalitätenkonflikt</term>
+                </index>
+                <p>Euer Hochwürden,<lb/>lieber Herr Professor!</p>
+                <p>Meine trübe Ahnung, die ich auch in meinem letzten Brief Ihnen andeutete, hat
+                    sich leider erwahrt, die Befürchtung nämlich, daß die nazionale Agitation von
+                    ein, zwei slovenischen Mitgliedern unseres Lehrkörpers früher oder später auch
+                    offen zu Tage treten werde.<lb/>Durch Zufall kam mir zur Kenntnis, daß in der
+                    der slovenischen Zeitschrift „Noviće“, in <rs type="place" subtype="place" ref="#place_1dcf667c86986e2bbadf65ed2de41e47">Laibach</rs>
+                    erscheinend, Anklagen der schweresten Art gegen die deutschen Mitglieder des
+                    Lehrkörpers vorkommen, ein Kollege konnte sich die betreffenden Nummern
+                    benannter Zeitschrift (Nr. 28 und 29, des 11. und 28. Juli)<note xml:id="note_2">Der zweite Teil des Aufsatzes erschien nicht am 28. Juli, sondern am 18.
+                        Juli 1860. Vgl. Božidar Raič, Slovenščina in srednje učilíšče v Mariboru,
+                        in: <ref target="http://www.dlib.si/?urn=urn:nbn:si:doc-7sqy09ke">Kmetijske
+                            in rokodelske novice (11.07.1860), Jahrgang 18, Nr. 28, S. 219–220</ref>
+                        und in: <ref target="http://www.dlib.si/?urn=urn:nbn:si:doc-zr5tngj0">Kmetijske in rokodelske novice (18.07.1860), Jahrgang 18, Nr. 29, S.
+                            227–229</ref>.</note> nebst einer wörtlich genauen Übersetzung
+                    verschaffen. Der Aufsatz ist von einem <rs type="person" ref="#raic-bozidar">slovenischen
+                        Mitgliede unseres Lehrkörpers, Weltpriester hiesiger Diözese</rs>,
+                    unterzeichnet und enthält nebst allgemein gehaltenen Klagen gegen die Regierung
+                    wegen ihres Germanisirens und Aussendens deutscher „Apostel der Kultur“, nebst
+                    einzelnen Ausfällen gegen die hiesige Gymnasialdirektion noch folgende spezielle
+                    Anschuldigungen: die slovenische Sprache sei von zahlreichen Gegnern lächerlich
+                    gemacht worden, sogar in den Lehrstunden; wenn ein Schüler seinen Namen nach
+                    slovenischer Orthographie geschrieben habe, sei er gerügt und gebüßt worden;
+                    wenn ein Schüler in seiner Muttersprache tüchtiges geleistet, habe man ihn
+                    gerade deshalb in anderen Gegenständen herabgedrückt. Der Aufsatz ist
+                    überschrieben: „Das Slovenenthum und die Mittelschulen in
+                        <rs type="place" subtype="place" ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</rs>“.<lb/>Ich berieth mich nun mit dem Kollegen,
+                    was da zu thun sei.<lb/>Aus zwei Gründen glaubten wir die Sache nicht mit
+                    Stillschweigen hinnehmen zu dürfen. Erstens sahen wir in dem Aufsatze einen
+                    Angriff auf unsere Ehrenhaftigkeit und Gerechtigkeit, die wir treu dem Gewissen
+                    und dem geleisteten Amtseide immer unverletzt geübt zu haben bewußt sind, einen
+                    Angriff, der um so verletzender und gefährlicher ist, da er in einer Sprache
+                    geschrieben ist, die wir nicht verstehen und folglich nur ein Zufall uns die
+                    Gegenwehr jedes Mal möglich macht. Zweitens bestimmten uns pädagogische
+                    Rücksichten. Die „Noviće“ wird auch von Gymnasiasten gehalten, ein und das
+                    andere Exemplar wird sogar gratis zur Lektüre verabreicht; abgesehen nun davon,
+                    daß dieser Aufsatz den nachläßigen und trägen Schülern eine bequeme, ja selbst
+                    plausible Entschuldigung für ihre schlechten Klassen bei ihren Eltern und
+                    Angehörigen, ja am Ende bei ihrem eigenen Gewissen selbst, darbietet – sie haben
+                    den Grund ihrer „Zweier“ schwarz auf weiß von einem ihrer Lehrer selbst erklärt
+                    in der Hand – abgesehen also davon, ist der Artikel nach Form und Inhalt so
+                    recht dazu geschaffen, die Disziplin der Schüler, ihre Achtung gegen die Lehrer
+                    vom Boden aus zu untergraben und in den jungen, bisher harmlos in Friede und
+                    Eintracht untereinander lebenden Gemüthern den Keim zu nationaler Gehäßigkeit,
+                    Zwietracht und Streitigkeit zu legen, wofür gerade das noch urtheillose, aber
+                    leichtempfängliche Gemüth der Studenten bekanntlich der beste Boden ist.<lb/>Wir
+                    schwiegen also nicht und zeigten die Sache der Gymnasialdirektion an. Der
+                    Direktor ließ die übrigen slovenischen Mitglieder des Lehrkörpers zuerst zu
+                    Protokoll geben, ob der bezeichnete Aufsatz auch in ihrem Sinne gehalten sei und
+                    ob auch sie etwas von der beschuldigten Unterdrückung slovenischer Schüler durch
+                    deutsche Lehrer wahrgenommen haben. Die beiden ältesten slovenischen Lehrer
+                    erklärten, daß wohl vielleicht in den früheren Jahren zu solchen Bemerkungen ein
+                    Anlaß gewesen sein könnte, in den „letzteren Jahren“ aber ihnen kein Grund
+                    bekannt sei, desgleichen erklärten auch die vier jüngeren, daß seit ihrer
+                    Thätigkeit am hiesigen Gymnasium ihnen nichts dergleichen vorgekommen wäre; nur
+                    bemerkte einer, daß der einzige Fall ihm bekannt sei, daß heuer in einer Klasse
+                    der Lehrer (Prof.) für das Deutsche einem Schüler es verwiesen habe, seinen
+                    Namen auf das <hi rend="ul">deutsche</hi> Aufgabenheft nach slovenischer
+                    Orthographie zu schreiben. Der Direktor hat nun beim <rs type="org" ref="#org_0005">Ministerium</rs> die ganze
+                    Sache anhängig gemacht. So weit die Thatsache; Reflexionen daran zu knüpfen ist
+                    unnöthig und zu peinlich; unser Glück ist es, daß wir am Ende des Schuljahrs
+                    sind, denn bereits ist es in einer Klasse aus Anlaß dieses Artikels zu
+                    Auftritten zwischen deutschen und slovenischen Schülern gekommen.<lb/>Ich für
+                    meine Person kann mich nicht des Gedankens erwähren, daß in der ganzen Sache
+                    Methode ist und daß der Verfasser des Artikels sicheren Rücken zu haben glauben
+                    muß. <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> und <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> mahnen zu sehr an
+                    das Gebet: Domine, salvum fac imperatorem nostrum! Schon vier Wochen vor dieser
+                    Affaire habe ich und <rs type="person" ref="#biohl">Biehl</rs> nach
+                        <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs> kompetirt, allein bei der jetzigen Sachlage
+                    kann ich mir keine Hoffnung machen wegzukommen.<lb/>Mich Ihrer ferneren
+                    Freundschaft und Güte empfohlen bleibe ich</p>
+                <p>Euer Hochwürden</p>
+                <p>dankschuldigster Schüler<lb/>Joseph Steger</p>
+                <p>Marburg, 28.7.[18]60</p>
+                <p>Empfehlungen an <rs type="person" ref="#biegeleben-ludwig">Biegeleben</rs> und
+                        <rs type="person" ref="#buol-von-berenberg-franz">Boul</rs> [Buol]</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="steger-joseph">
+                        <persName>
+                            <surname>Steger</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>St. Moritzen/Südtirol 1827–1886 Salzburg</p>
+                            <p>Priester, zunächst prov. Präfekt am Theresianum in Wien, ab 1857 Lehrer für klassische Sprachen am Gymnasium in Marburg (Maribor), ab 1860 Lehrer am Gymnasium in Salzburg</p>
+                            <p>http://d-nb.info/gnd/102182116</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102182116</tei:idno>
+                    </person>
+                <person xml:id="raic-bozidar">
+                        <persName>
+                            <surname>Raič</surname>
+                            <forename>Božidar (Matija)</forename>
+                        </persName>
+                        <note>
+                            <p>Žvab 1827–1886 Laibach</p>
+                            <p>Priester, ab 1851 Pfarrer in Marburg an der Drau, 1853–1860 Lehrer am Gymnasium ebendort, 1860–1886 Pfarrer in St. Barbara in der Unter-Steiermark, 1884–1886 Reichsratsabgeordneter</p>
+                            <p>http://d-nb.info/gnd/1027335667</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1027335667</tei:idno>
+                    </person>
+                <person xml:id="biohl">
+                        <persName>
+                            <surname>Biehl</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Hessen 1826–1898 Graz</p>
+                            <p>Gymnasiallehrer in Marburg an der Drau, ab 1860 in Salzburg, ab 1863 in Linz, ab 1864 nach Triest, ab 1869 Lehrer am neu errichteten Gymnasium in Graz, ab 1872 Direktor des Gymnasiums in Innsbruck, ab 1879 Direktor des Elisabeth-Gymnasium in Wien</p>
+                            <p>http://d-nb.info/gnd/1089307977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1089307977</tei:idno>
+                    </person>
+                <person xml:id="biegeleben-ludwig">
+                        <persName>
+                            <surname>Biegeleben</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Darmstadt 1812– 1872 Rohitsch-Sauerbrunn</p>
+                            <p>Gesandter des Großherzogtums Hessen in Wien, 1848 Unterstaatssekretär der provisorischen Zentralgewalt, ab 1850 Beamter im öster. Ministerium des Äußeren</p>
+                            <p>http://d-nb.info/gnd/119059363</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119059363</tei:idno>
+                    </person>
+                <person xml:id="buol-von-berenberg-franz">
+                        <persName>
+                            <surname>Buol von Berenberg</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>1794–1865</p>
+                            <p>Staatsmann und Beamter</p>
+                            <p>http://d-nb.info/gnd/135694582</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/135694582</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_fd3ebb9f41f9f036dba5791051bc5749" type="placeName">
+                        <placeName type="pref">Marburg (Lahn)</placeName>
+                        <placeName type="alt">Marburg</placeName>
+                    </place>
+                <place xml:id="place_1dcf667c86986e2bbadf65ed2de41e47">
+                        <placeName>Ljubljana</placeName>
+                        <placeName type="pref">laibach</placeName>
+                        <placeName type="alt">Laibach</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.05108 14.50513</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3196359/</idno>
+                    </place>
+                <place xml:id="place_19cb29505c294db5ca9190ea93447e98" type="placeName">
+                        <placeName type="pref">Italy</placeName>
+                        <placeName type="pref">Italien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027833-5</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_f2646aa02d03ac5a141ef404d919cd11">
+                        <placeName>Salzburg</placeName>
+                        <placeName type="pref">salzburg</placeName>
+                        <placeName type="alt">Salzburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.79941 13.04399</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2766824/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

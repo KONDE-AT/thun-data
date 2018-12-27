@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="rauscher-an-thun-1855-05-16-a3-xxi-d345.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1855-04-19-a3-xxi-d339.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1857-01-04-a3-xxi-d403.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#rauscher-joseph" role="sender:kleriker">Joseph Othmar
+                        Rauscher</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when="1855-05-16">16. Mai 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D345</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Erzbischof von Wien, Joseph Othmar Rauscher, bittet Leo Thun, die
+                            Wahl des Priesters Fellner zum Domherren in Linz nicht dem Kaiser zur
+                            Bewilligung vorzulegen. Die Wahl sei weder für den Bischof von
+                            Linz noch für Rauscher selbst zufriedenstellend ausgefallen. Rauscher
+                            sieht darin die Machenschaften demokratischer Kräfte innerhalb der
+                            Geistlichkeit, die auch an der Universität Wien spürbar seien.
+                            Anschließend berichtet Rauscher von seiner Reise nach Neapel und der
+                            Rückreise nach Rom.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#rauscher-joseph">Joseph Othmar Rauscher</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when="1855-05-16">16. Mai 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Personalfragen</term>
+                    <term>Revolution</term>
+                </index>
+                <p>Rom, am 16. Mai 1855</p>
+                <p>Hochgeborner Graf!</p>
+                <p>So eben erhalte ich von meinem <rs type="person" ref="#zenner-franz">Herrn
+                        Weihbischofe</rs> Nachricht über das Ergebnis der Wahl, welche für das
+                    zu <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs> erledigte Canonicat statt hatt. Der
+                        <rs type="person" ref="#rudigier-franz-joseph">Bischof</rs> kömmt in um so
+                    größere Verlegenheit, da der neue Domherr zugleich die Leitung des Seminariums
+                    übernehmen soll: was doch gewiß ein Vertrauensamt ist. Wenn ich Etwas für ihn
+                    thun kann, so halte ich mich dazu verpflichtet, aber mittelbar betrifft die
+                    Sache auch mich selbst. An der <rs type="org" ref="#org_0018">Wiener
+                        Universität</rs> ist die Partei vom Jahre 1848 noch aufrecht und macht
+                    mit der demokratischen Fraction der Geistlichkeit gemeine Sache. Die erwähnte
+                    Wahl ist das Werk dieser Leute. Hierin muß abgeholfen werden, sonst könnten sich
+                    die schlimmsten Störungen begeben. Die Frage reicht viel weiter als die
+                    Domherrenwahlen. In dieser letzteren Beziehung kann aber leicht ein
+                    Auskunftsmittel gefunden werden. Seine Majestät hat Sich der Patronatsrechte
+                    über diese Canonicate nicht begeben und in der Präsentationsurkunde wird der
+                    Universität mit keinem Wort gedacht.<lb/>Ich habe durchaus keine Zeit auf die
+                    Sache näher einzugehen. Da ich zu <rs type="place" subtype="place" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</rs>
+                    kein Dampfboot zur rechten Zeit fand, entschloß ich mich zum Landwege. Zu
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, wo ich blos die Pferde wechseln
+                    wollte, erfuhr ich, daß Seine Kaiserliche Hoheit <rs type="person" ref="#ferdinand-maximilian-erzherzog">Erzherzog Ferdinand</rs> hier
+                    eintreffen werde und glaubte ihn erwarten zu sollen. Heute wird er ankommen;
+                    überdieß habe ich sogleich wieder zu thun gefunden. Ich beschränke mich also nur
+                    darauf, Euer Excellenz dringend zu bitten, die Wahl des Pfarrers <rs type="person" ref="#fellner">Fellner</rs> Seiner Majestät nicht vorzulegen, bevor ich
+                    zurückgekommen bin und mich im Zusammenhange darüber ausgesprochen habe. Auch
+                    über die Ausführung der allerhöchsten Entschließung vom 10. dieses Monats,
+                    welche ich zu <rs type="place" subtype="place" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</rs> erhielt, wünsche ich
+                    aus sehr wichtigen Gründen mich äußern zu können.<lb/>Übrigens verharre ich mit
+                    der vollkommensten Verehrung,</p>
+                <p>Euer Excellenz gehorsamster Diener<lb/>J. v. Rauscher</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="rauscher-joseph">
+                        <persName>
+                            <surname>Rauscher</surname>
+                            <forename>Josef Othmar</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1875 Wien</p>
+                            <p>ab 1825 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum Salzburg, ab 1832 Direktor der orientalischen Akademie in Wien, ab 1849 Fürstbischof von Seckau, ab März 1853 Erzbischof von Wien, ab 1855 Kardinal</p>
+                            <p>http://d-nb.info/gnd/118787977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118787977</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="zenner-franz">
+                        <persName>
+                            <surname>Zenner</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1794–1861 Wien</p>
+                            <p>1826–1833 Direktor des Seminars in Wien, ab 1828 Domherr bei St. Stephan, 1840–1849 Direktor der theol. Studien, 1851–1861 Titularbischof von Sarepta und Weihbischof der Erzdiözese Wien, 1851–1861 Generalvikar der Erzdiözese Wien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="rudigier-franz-joseph">
+                        <persName>
+                            <surname>Rudigier</surname>
+                            <forename>Franz Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Partenen 1811–1884 Linz</p>
+                            <p>kath. Priester, 1839 Prof. für Kirchengeschichte und Kirchenrecht, später auch für Moraltheologie und Erziehungslehre am Seminar in Brixen, 1845–1848 Spiritualdirektor am Frintaneum in Wien, 1850 Domherr und Seminarregens in Brixen, ab 1852 Bischof von Linz</p>
+                            <p>http://d-nb.info/gnd/118750135</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118750135</tei:idno>
+                    </person>
+                <person xml:id="ferdinand-maximilian-erzherzog">
+                        <persName>
+                            <surname>Ferdinand Maximilian</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1832–1867 Queretaro</p>
+                            <p>Erzherzog von Österreich, 1857–1859 Vizekönig von Lombardo-Venetien, 1864–1867 als Maximilian I. Kaiser von Mexiko, jüngerer Bruder von Kaiser Franz Joseph I.</p>
+                            <p>http://d-nb.info/gnd/118579363</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118579363</tei:idno>
+                    </person>
+                <person xml:id="fellner">
+                        <persName>
+                            <surname>Fellner</surname>
+                            <forename>Pfarrer</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_907e6aad95b11593946e28f6e29860aa">
+                        <placeName>Linz</placeName>
+                        <placeName type="pref">linz</placeName>
+                        <placeName type="alt">Linzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30639 14.28611</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772400/</idno>
+                    </place>
+                <place xml:id="place_2a4e63dc83d509fece21a7872f95a242">
+                        <placeName>Naples</placeName>
+                        <placeName type="pref">Neapel</placeName>
+                        <placeName type="alt">Neapels</placeName>
+                        <placeName type="alt">Neapel</placeName>
+                        <location>
+                            <geo decls="#LatLng">40.83333 14.25</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3172395/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

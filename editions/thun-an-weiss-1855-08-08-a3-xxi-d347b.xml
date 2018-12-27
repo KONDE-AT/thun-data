@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-weiss-1855-08-08-a3-xxi-d347b.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-vicari-1851-02-07-ca804.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-wessenberg-1849-10-31-ca1570.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#weiss-johann-baptist" role="recipient">Johann Baptist
+                        Weiß</rs>
+                    <lb/>Wien, <date when="1855-08-08">8. August 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D347</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun äußert sich verärgert über den Streit zwischen Cornelius Bock
+                            und Johann Baptist Weiß. Zunächst betont er, dass es ihm grundsätzlich
+                            zuwider sei, in persönliche Auseinandersetzungen einzugreifen. Da es
+                            jedoch um Bocks Zukunft in Österreich gehe, fühle er sich verpflichtet,
+                            die Sache geklärt zu wissen. Zunächst geht er aber mit der
+                            Vorgehensweise von Weiß, auf Grund von Gerüchten ein Urteil zu fällen
+                            und nicht das persönliche Gespräch mit Bock zu suchen, hart ins Gericht.
+                            Außerdem hätte ein öffentlicher Skandal im Anbetracht der Stellung der
+                            beiden zur katholischen Bewegung unbedingt vermieden werden sollen. Thun
+                            bittet nun Weiß um Erlaubnis, Bock in einer Aussprache mit seinen,
+                            Weiß’, Anschuldigungen konfrontieren zu dürfen. Außerdem erbittet sich
+                            Thun die Namen derjenigen, die bei den angeblichen Beleidigungen von
+                            Bock gegen ihn anwesend waren.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist im Nachlass von Thun gemeinsam mit weiteren Briefen, die
+                            diese Thematik betreffen, abgelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/schreiner-an-helfert-1855-07-29-a3-xxi-d347.xml">Franz Gustav Schreiner an Joseph Alexander Helfert. Graz, 29./30.
+                                Juli 1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun-1855-08-06-a3-xxi-d347a.xml">Johann Baptist Weiß an Leo Thun. Graz, 6. August
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun-1855-08-08-a3-xxi-d347c.xml">Johann Baptist Weiß an Leo Thun. Graz, 8. August
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun-1855-08-09-a3-xxi-d347d.xml">Johann Baptist Weiß an Leo Thun. Graz, 9. August
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/attems-an-thun-1855-08-10-a3-xxi-d347e.xml">Ottokar Maria von Attems an Leo Thun. Graz, 10. August
+                            1855</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date when="1855-08-08">8. August 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#weiss-johann-baptist">Johann Baptist Weiß</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Personalfragen</term>
+                    <term>Universität Graz</term>
+                </index>
+                <p>Wien, den 8. August 1855</p>
+                <p>Werther Herr Professor!</p>
+                <p>Die Lage, in die Sie mich durch Ihre frühere Anempfehlung zu <rs type="person" ref="#bock-cornelius-peter">Professor Bock</rs> gebracht haben, zwingt
+                    mich, in die persönlichen Verhältnisse zwischen ihm und Ihnen tiefer einzugehen,
+                    als es unter andern Umständen mir zustände. Er ist mir auch von vielen andern
+                    Seiten empfohlen worden; ich kann nicht ohne gründliche Überzeugung über ihn den
+                    Stab brechen, zumal in einem Augenblicke, wo nicht nur die Möglichkeit einer
+                    Existenz in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, sondern zugleich
+                    seine Ehre auf dem Spiele steht.<lb/>Ihr Benehmen gegen ihn, wie Ihr Brief es
+                    mir darstellt, ist mir unbegreiflich. Nicht etwa der tiefe Schmerz, den es Ihnen
+                    gemacht haben muß, von ihm Dinge zu hören, die die Natur eines hinterlistigen
+                    Verrathes an sich hatten, sondern daß Sie solcher Nachricht Glauben geschenkt
+                    und darnach gehandelt haben, ohne ihn gerade heraus zur Rede zu stellen. Niemand
+                    ungehört zu verurtheilen ist ein Grundsatz der Gerechtigkeit, von dem man nie
+                    abweichen soll. Ich könnte einen langjährigen Freund nicht aufgeben, ohne es ihm
+                    in’s Gesicht zu sagen. Hier handelte es sich aber um mehr; Sie haben nicht nur
+                    die Freundschaft zu ihm aufgegeben, sondern Sie haben gethan, was man nur thun
+                    kann, um einen Menschen moralisch zu ruiniren. Sie haben, wie Sie selbst
+                    schreiben, es dahin gebracht, daß man ihn in <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs> gemieden hat, wie eine Pestbeule, – und nun soll er
+                    gebrandmarkt von <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> abziehen. Und
+                    das haben Sie gethan, gegen ihn, der die Thatsachen, auf deren Grundlage Sie
+                    gehandelt haben, in Abrede stellt, ohne ihn gehört zu haben. Ich gestehe Ihnen
+                    offen, das scheint mir an sich unverantwortlich, – noch mehr, wenn ich Ihre und
+                    seine Stellung zu der katholischen Bewegung in Erwägung ziehe, die es nach
+                    meinem Gefühle verlangt hätte, daß solcher Skandal, selbst wenn er an Ihnen als
+                    Verräther gehandelt haben sollte, vermieden werde.<lb/>Bock, von dessen
+                    Anwesenheit ich noch nicht wußte, als ich das letzte Mal an Sie schrieb, war
+                    gestern bei mir. Ich habe ihm weder den Inhalt Ihres Briefes, noch die
+                    Thatsache, daß ich mit Ihnen über ihn korrespondiere, mitgetheilt. Ich kann aber
+                    nicht umhin, von Ihnen als einen Akt der Gerechtigkeit die Erlaubnis zu
+                    verlangen, daß ich ihm Alles offen mittheilen dürfe, was Sie ihm zum Vorwurfe
+                    machen und was Sie mir Thatsächliches über Ihre letzten Begegnungen geschrieben
+                    haben oder noch schreiben werden. Ich ersuche Sie um schleunige Antwort.</p>
+                <p>Hochachtungsvoll<lb/>Thun</p>
+                <p>Auch kann ich mich der Aufforderung nicht enthalten, daß Sie mir die Personen
+                    nennen, vor welchen Bock Ihren Charakter und Ihre wissenschaftliche Thätigkeit
+                    angegriffen und geäußert haben soll: „<rs type="person" ref="#weiss-johann-baptist">Weiß</rs> ist ein Ultramontaner, ich bin kein Ultramontaner etc.“</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="weiss-johann-baptist">
+                        <persName>
+                            <surname>Weiß</surname>
+                            <forename>Johann Baptist</forename>
+                        </persName>
+                        <note>
+                            <p>Ettenheim 1820–1899 Graz</p>
+                            <p>ab 1844 Lehrer für französische und englische Sprache an der Höheren Bürgerschule in Freiburg, ab 1850 Redakteur der "Freiburger Zeitung", 1853–1891 Prof. für Geschichte an der Universität Graz</p>
+                            <p>http://d-nb.info/gnd/117290629</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117290629</tei:idno>
+                    </person>
+                <person xml:id="bock-cornelius-peter">
+                        <persName>
+                            <surname>Bock</surname>
+                            <forename>Cornelius Peter</forename>
+                        </persName>
+                        <note>
+                            <p>Aachen 1804–1870 Freiburg i. Breisgau</p>
+                            <p>ab 1833 Prof. für Altertumskunde an der Universität Marburg und Brüssel, ab 1858 Ehrenprof. der Universität Freiburg</p>
+                            <p>http://d-nb.info/gnd/116214023</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116214023</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

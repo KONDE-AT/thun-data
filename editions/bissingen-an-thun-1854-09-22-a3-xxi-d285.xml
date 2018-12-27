@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="bissingen-an-thun-1854-09-22-a3-xxi-d285.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bissingen-an-thun-1852-05-14-a3-xxi-d167.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/blazina-an-einen-professor-1852-06-10-a3-xxi-d169.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#bissingen-cajetan" role="sender:beamter">Cajetan
+                        Bissingen</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5891474b8c1bc6f744b99e2b10c4a3db">Schramberg in Württemberg</rs>,
+                        <date when="1854-09-22">22. September 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D285</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Statthalter von Tirol, Cajetan Bissingen, kommt der Bitte Thuns nach,
+                            ihm einige Informationen über Karl Georg Wächters Verhalten im Jahr 1848
+                            zu verschaffen. Bissingen schreibt, dass er Wächter in der
+                            Württembergischen Abgeordnetenkammer kennengelernt habe, dessen
+                            Präsident jener war. Wächter war stets regierungsfreundlich, wenngleich
+                            er nicht jede Maßnahme der Regierung billigte. Daher genoss er sowohl
+                            bei Hof als auch beim Volk hohes Ansehen. Als dann im Jahr 1848 die
+                            Opposition – besonders jene von Professoren und Gelehrten – stärker
+                            wurde, verdächtigte man Wächter der Servilität. Gleichzeitig fiel er bei
+                            Hof in Ungnade, so dass er seine Staatsämter niederlegte und wieder auf
+                            seine Professur zurückgekehrte. Ob er tatsächlich, wie das Gerücht
+                            besagt, das Amt eines Ministers anstrebte, kann Bissingen nicht sagen.
+                            Als Professor habe er jedoch Großes geleistet, als Politiker konnte er
+                            nicht immer seine feste Haltung bewahren. Auch in der Frankfurter
+                            Paulskirche habe er sich jedoch als entschieden konservativ gezeigt.
+                            Bissingen würde eine Berufung von Wächter nach Österreich daher
+                            begrüßen. Zuletzt versichert Bissingen dem Minister, dass er sich der
+                            Angelegenheit von Karl Dantscher in Innsbruck nach seiner Rückkehr aus
+                            dem Urlaub annehmen werde.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#bissingen-cajetan">Cajetan Bissingen</rs>
+                    <settlement ref="#place_5891474b8c1bc6f744b99e2b10c4a3db">Schramberg in Württemberg</settlement>
+                    <date when="1854-09-22">22. September 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Revolution</term>
+                </index>
+                <p>Hochgeborner Graf!</p>
+                <p>Eurer Exzellenz vertrauliche Frage wegen <rs type="person" ref="#waechter-karl-georg">Wächters</rs> Benehmen im Jahre 1848 beehre ich mich in folgendem zu
+                        beantworten.<lb/>
+                    <rs type="person" ref="#waechter-karl-georg">Wächter</rs> war
+                    damals, und zwar schon seit mehreren Jahren, Praesident der Würtemberg'schen
+                    Abgeordnetenkammer und hatte sich auch als solcher einen Ruf erworben. Als
+                    Mitglied dieser Kammer hatte ich Gelegenheit, ihn näher kennen zu lernen und ich
+                    bewunderte mit Vielen seine Gabe der Leitung, insbesondere die ihm ganz eigene
+                    Gabe, die schwierigsten verwickelsten Debaten mit großem Scharfsinne in wenigen
+                    ganz einfachen Fragepunkten zur Entscheidung zu bringen. Er war stets
+                    regierungsfreundlich gesinnt (im eigentlichen Sinne des Wortes, aber nicht in
+                    jenem, als ob er mit einzelnen Regierungsmaßregeln sich immer und unbedingt
+                    einverstanden erklärt und gerade mit allen Regierungsorganen sympathisirt
+                    hätte). Sein eminenter Geist, sein tiefes Wissen, seine gefälligen Formen
+                    machten ihn in allen Kreisen der Gesellschaft beliebt und auch bei Hof war er
+                    stets sehr gerne gesehen.<lb/>Das Jahr 1848 konnte den Praesidenten einer Kammer
+                    nicht unberührt lassen. Die nun immer weiter und weiter gehende
+                    Oppositionspartei, die auch in Würtemberg so manche Gelehrte und Professoren
+                    zählte, verdächtigte ihn der Servilitaet, während gerade die nähere Stellung zu
+                    seinen eigentlichen Berufscollegen, mit denen er theilweise auf
+                    freundschaftlichem Fuße stand, so wie seine nun etwas schwankende Haltung als
+                    Kammerpraesident ihm die Gunst des Hofes entzog, wenigstens schien es, daß der
+                    Hof damals ihn nicht mehr mit der frühern Auszeichnung beehrte, ihm nicht mehr
+                    das frühere Vertrauen schenkte.<lb/>Wenn die Wahl eines andern
+                    Kammerpraesidenten im Jahre 1848 wohl in der Natur der Sache lag, so mag die
+                    veränderte Stellung zum Hofe <rs type="person" ref="#waechter-karl-georg">Wächter</rs>, dessen Ehrgeitz durch eine mehr hervorragende soziale
+                    Stellung geschmeichelt sein mochte, ihn wesentlich zum Austritte aus dem
+                    Staatsdienste (als Kanzler der <rs type="org" ref="#org_0044">Universität
+                        Tübingen</rs>) veranlaßt haben.<lb/>Zunächst schien nach dem damaligen
+                    Gerüchte <rs type="person" ref="#waechter-karl-georg">Wächters</rs> Betheiligung an
+                    den Vorverhandlungen über den Wechsel des Ministeriums die Ungnade bei Hofe ihm
+                    zugezogen zu haben. Er sei damals vom <rs type="person" ref="#wuerttemberg-friedrich">Prinzen Friedrich</rs> ins Vertrauen gezogen worden und das Publikum
+                    verdächtigte ihn selbst des Strebens nach einem Portefeuille. Was an diesem
+                    Gerede, deren gerade in jener bewegten Zeit so viele waren, Wahres gewesen, weiß
+                    ich nicht, aber allgemein war die Ansicht, er habe am klügsten gethan, wieder
+                    ganz zur Professur rückzukehren, in welcher er Ausgezeichnetes geleistet habe
+                    und Ausgezeichnetes leisten werde, während er in einer politischen Stellung wie
+                    jene eines Kammerpraesidenten des Jahres 1848 offenbar nicht die gehörige
+                    Festigkeit in seiner ganzen Haltung beobachtete.<lb/>Deßhalb lassen sich aber
+                    seine politischen Ansichten und Grundsätze nicht in Verdacht ziehen, was er denn
+                    auch als Mitglied des Fünfziger Ausschußes in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>,
+                    wo er entschieden zur conservativen Partei, &lt;wenn gleich auch er eine
+                    deutsche Einheit damals gewünscht haben mag,&gt;<note xml:id="note_1">Eh.
+                        Einfügung von Bissingen</note> gehörte, bewährte. Uebrigens soll sich später
+                    auch das Verhältniß <rs type="person" ref="#waechter-karl-georg">Wächters</rs> zum
+                    Würtembergischen Hofe wieder ausgeglichen haben.<lb/>Ich könnte <rs type="person" ref="#waechter-karl-georg">Wächters</rs> Acquisition in den beiden
+                    bezeichneten Fächern für <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> nur
+                    eine glückliche nennen. Er ist eine Autorität, ein Mann von ehrenhaftem
+                    Charakter und loyalen Ansichten. Als praktischer Staatsmann wäre er weniger am
+                    Platze.<lb/>Nachweise für diese Notizen wüßte ich keine anzudeuten als die
+                    gedruckten Würtemberg'schen Kammerverhandlungen incl. des Jahres 1848.<lb/>Wie
+                    ich vom Urlaube zurückgekehrt sein werde, werde ich mir <rs type="person" ref="#dantscher-karl">Dantschers</rs> Lokalitäten Desiderium ganz
+                    besonders angelegen sein lassen.<lb/>Genehmigen Ew. Exzellenz die Versicherung
+                    meiner ausgezeichneten Hochachtung.</p>
+                <p>Eurer Exzellenz</p>
+                <p>ergebenster<lb/>Bißingen</p>
+                <p>Schramberg in Würtemberg, 22. September 1854</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="bissingen-cajetan">
+                        <persName>
+                            <surname>Bissingen-Nippenburg</surname>
+                            <forename>Cajetan Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Venedig 1806–1890 Schramberg</p>
+                            <p>ab 1848 Statthalter für Tirol und Vorarlberg, ab 1852 gleichzeitig Landeshauptmann, 1855–1860 Statthalter von Venedig</p>
+                            <p>http://d-nb.info/gnd/116195843</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116195843</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="waechter-karl-georg">
+                        <persName>
+                            <surname>Wächter</surname>
+                            <forename>Carl Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Marbach am Neckar 1797–1880 Leipzig</p>
+                            <p>1836–1851 Prof. für Rechtswissenschaft an der Universität Tübingen, 1852–1880 Prof. für Straf- und Pandektenrecht an der Universität Leipzig</p>
+                            <p>http://d-nb.info/gnd/172455790</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/172455790</tei:idno>
+                    </person>
+                <person xml:id="wuerttemberg-friedrich">
+                        <persName>
+                            <surname>Württemberg</surname>
+                            <forename>Friedrich von</forename>
+                        </persName>
+                        <note>
+                            <p>Comburg 1808–1870 Stuttgart</p>
+                            <p>württembergischer Prinz und General, Vater von Wilhelm II. von Württemberg</p>
+                            <p>http://d-nb.info/gnd/118703218</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118703218</tei:idno>
+                    </person>
+                <person xml:id="dantscher-karl">
+                        <persName>
+                            <surname>Dantscher</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Graz 1813–1887 Innsbruck</p>
+                            <p>ab 1846 Prof. der Anatomie an der Universität Innsbruck</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5891474b8c1bc6f744b99e2b10c4a3db">
+                        <placeName>Schramberg</placeName>
+                        <placeName type="pref">Schramberg in Württemberg</placeName>
+                        <placeName type="alt">Schramberg in Württemberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.22399 8.38583</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2836203/</idno>
+                    </place>
+                <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+                        <placeName>Frankfurt-Eckenheim</placeName>
+                        <placeName type="pref">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt am Main</placeName>
+                        <placeName type="alt">Francfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4093156-0</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0044">
+                        <orgName>Universität Tübingen</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36187-2</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

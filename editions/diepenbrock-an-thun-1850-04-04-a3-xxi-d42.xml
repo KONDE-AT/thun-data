@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="diepenbrock-an-thun-1850-04-04-a3-xxi-d42.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1849-08-30-a3-xxi-d5.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-05-28-a3-xxi-d70.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#diepenbrock-melchior" role="sender:kleriker">Melchior
+                        Diepenbrock</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>,
+                        <date when="1850-04-04">4. April 1850</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D42</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Fürstbischof Melchior Diepenbrock bittet Leo Thun um Unterstützung für
+                            Albert Koch, der ein fossiles Riesentier in Wien ausstellen möchte und
+                            ein dazu ein passendes Gebäude benötigt. Im zweiten Teil des Briefes
+                            kommt Diepenbrock auf die Berufungspolitik Thuns zu sprechen. Er betont
+                            dabei, dass die Berufung gewisser, nicht näher genannter Personen nach
+                            Österreich in Breslau und auch andernorts durchaus Befremden ausgelöst
+                            habe. Insbesondere wundere man sich, dass Thun dabei einem Berater
+                            folge, der für ein katholisches Land wie Österreich wohl nicht geeignet
+                            erscheint. Diepenbrock hatte auch erst kürzlich mit Theodor Brüggemann,
+                            der für das katholische Unterrichtswesen im preußischen
+                            Unterrichtsministerium zuständig ist, darüber gesprochen. Brüggemann hat
+                            Diepenbrock in dieser Angelegenheit zudem einen Brief geschrieben, den
+                            er diesem Schreiben beilegt. Zuletzt kommt Diepenbrock auf die
+                            Bischofsversammlung des vorigen Jahres zu sprechen, und spricht seine
+                            Hoffnung aus, dass die dort gefassten Beschlüsse möglichst bald
+                            umgesetzt werden.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#diepenbrock-melchior">Melchior Diepenbrock</rs>
+                    <settlement ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</settlement>
+                    <date when="1850-04-04">4. April 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Bischofsversammlung</term>
+                    <term>Personalfragen</term>
+                    <term>Preußen</term>
+                </index>
+                <p>Hochgeborner Graf!<lb/>Hochzuverehrender Herr Staatsminister!</p>
+                <p>Eurer Excellenz erlaube ich mir nachträglich zu meinem letzten Schreiben in der
+                    Angelegenheit des Herrn <rs type="person" ref="#koch-albert-carl">Prof. Dr.
+                        Koch</rs>, anliegend eine soeben hier erschienene kleine Schrift
+                    desselben ergebenst zu übersenden, woraus Euer Excellenz Sich Selbst überzeugen
+                    wollen, daß die von <rs type="person" ref="#koch-albert-carl">Dr. Koch</rs>
+                    beabsichtigte oder gewünschte Aufstellung seines merkwürdigen fossilen
+                    Riesenthieres in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, allerdings durch das lehrreiche
+                    Interesse, welches sie bietet, Hochdero Unterstützung behufs der kostenfreien
+                    Anweisung eines geeigneten Locales wohl verdient, um welche ich daher im Namen
+                    des wackern Mannes nochmals recht angelegen bitte.<lb/>Zugleich erlaube ich mir
+                    in redlichem Vertrauen Eurer Excellenz einen gestern von Herrn Geheimenrath
+                    [sic!] <rs type="person" ref="#brueggemann-theodor">Dr. Brüggemann</rs>
+                    (gegenwärtig in <rs type="place" subtype="place" ref="#place_e7e1688225f7ee84682bf9aef46a41ef">Erfurt</rs>) erhaltenen Brief aus dem Grunde
+                    zur gefälligen Einsicht mitzutheilen, weil darin eine, auch Eure Excellenz nahe
+                    betreffende Angelegenheit berührt wird, die Berufung nämlich preußischer
+                    Professoren nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>. Ich kann es nicht läugnen, daß
+                    diese Maßregel, und insbesondere manche der Personen, auf welche sie sich
+                    erstreckt, hier und anderwärts in intelligenten Kreisen Gegenstand des
+                    Befremdens und der Besorgnis geworden, und daß man sich fragt, ob
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> denn nicht schon hinlänglichen eigenen
+                    Vorrath an auflösenden und zersetzenden Elementen habe, daß es sich derlei
+                    Stoffe künstlich von außen importire und einimpfe? Insbesondere nennt man hier
+                    einen Gelehrten<note xml:id="note_1">Gemeint ist wohl <rs type="person" ref="#bonitz-hermann">Hermann Bonitz</rs>.</note>, der mit seinen
+                    Vorschlägen dabei zu Rathe gezogen seyn soll, und dem man wohl philologisches
+                    Wissen, umso weniger aber alles andere zuerkennen will, worauf es bei der
+                    Auswahl der Jugendbildner, zumal für ein katholisches Land, doch zunächst
+                    ankommen dürfte. – Geheimrath <rs type="person" ref="#brueggemann-theodor">Brüggemann</rs>, der das katholische Studienwesen im preußischen
+                    Cultusministerium leitet, war kürzlich hier, und wir sprachen auch gelegentlich
+                    über jene, von Eurer Excellenz gewiß, woran niemand zweifelt, in der allerbesten
+                    Absicht zugelassenen Berufungen, und an dieses Gespräch knüpft sich der gestrige
+                        Brief<note xml:id="note_2">Der erwähnte Brief ist nicht überliefert.</note>,
+                    den ich Hochderselben nicht vorenthalten zu dürfen glaube, bittend jedoch, daß
+                    diese Mittheilung als eine des engsten Vertrauens angesehen werden wolle.
+                    Geheimrath <rs type="person" ref="#brueggemann-theodor">Brüggemann</rs> ist ein
+                    durch Charakter und wissenschaftliche Bildung gleich sehr ausgezeichneter Mann,
+                    und dabei von inniger katholischer Gesinnung und Glaubenstreue beseelt, wie sein
+                    Auftreten in der preußischen Kammer bewiesen [sic!]. (Seine durch ein momentanes
+                    Augenleiden unglücklicher Weise noch unleserlicher gewordene Handschrift bitte
+                    ich zu entschuldigen; ich habe mich bemüht, durch Nachhülfe der Züge das
+                    Dechiffriren möglichst zu erleichtern.)<lb/>Wird denn unsre vorigjährige so
+                    mühsame Episkopalconferenz nicht endlich einige Früchte tragen? Es wäre wohl an
+                    der Zeit! – Möge man auch erkennen, daß es, namentlich bei der heutigen
+                    politischen Weltlage, für einen katholischen Staat gewiß eine Forderung der
+                    Klugheit, geschweige der Gerechtigkeit ist, der katholischen Kirche gegenüber
+                    sich mindestens ebenso liberal zu beweisen, wie das erzprotestantische
+                        <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>. – Möge es dem gerechten redlichen Willen Eurer
+                    Excellenz, von welchem ich vollkommen überzeugt bin, bald gelingen, die
+                    entgegenstrebenden Hindernisse zu beseitigen oder zu besiegen, und die
+                    Verfassungsverheißungen, die <hi rend="ul">in diesem Punkte</hi> unzweifelhaft
+                        <hi rend="ul">edle</hi> Errungenschaften sind, wahr zu machen! </p>
+                <p>Mit vollkommenster Hochachtung habe ich die Ehre zu geharren</p>
+                <p>Eurer Excellenz<lb/>ganz ergebenster Diener<lb/>M.
+                    Diepenbrock<lb/>Fürstbischof</p>
+                <p>Breslau, den 4. April 1850</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="diepenbrock-melchior">
+                        <persName>
+                            <surname>Diepenbrock</surname>
+                            <forename>Melchior</forename>
+                        </persName>
+                        <note>
+                            <p>Bocholt 1798–1853 Schloss Johannesberg/Schlesien</p>
+                            <p>1845–1853 Fürstbischof von Breslau</p>
+                            <p>http://d-nb.info/gnd/118678302</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118678302</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="koch-albert-carl">
+                        <persName>
+                            <surname>Koch</surname>
+                            <forename>Albert Carl</forename>
+                        </persName>
+                        <note>
+                            <p>Roitzsch 1803–1867</p>
+                            <p>1826 Auswanderung in die USA, Amateur-Paläontologe, Besitzer eines Museums in St. Louis, Wanderausstellung mit seinen gefundenen und „ergänzten“ Fossilien</p>
+                            <p>http://d-nb.info/gnd/11626425X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11626425X</tei:idno>
+                    </person>
+                <person xml:id="brueggemann-theodor">
+                        <persName>
+                            <surname>Brüggemann</surname>
+                            <forename>Theodor</forename>
+                        </persName>
+                        <note>
+                            <p>Soest 1796–1866 Berlin</p>
+                            <p>ab 1814 Lehrer für alte Sprachen am Gymasnium in Düsseldorf, ab 1823 dort Direktor, ab 1841 Geheimer Regierungsrat, ab 1843 vortragender Rat für kath. Schulen und Universitäten, 1852 Geheimer Oberregierungsrat, ab 1850 Mitglied des Erfurter Parlaments</p>
+                            <p>http://d-nb.info/gnd/174039352</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/174039352</tei:idno>
+                    </person>
+                <person xml:id="bonitz-hermann">
+                        <persName>
+                            <surname>Bonitz</surname>
+                            <forename>Hermann</forename>
+                        </persName>
+                        <note>
+                            <p>Langensalza 1814–1888 Berlin</p>
+                            <p>1842–1849 Lehrer am Gymnasium in Stettin, 1849–1867 Prof. für klass. Philologie an der Universität Wien, ab 1867 Direktor des Gymnasiums zum Grauen Kloster und Direktor des Königlichen pädagogischen Seminars für gelehrte Schulen in Berlin</p>
+                            <p>http://d-nb.info/gnd/11905938X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11905938X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_60960432acfa4972c8f13dd89a872920">
+                        <placeName>Breslau</placeName>
+                        <placeName type="alt">Breslauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.10773 17.03533</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7531292/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_e7e1688225f7ee84682bf9aef46a41ef">
+                        <placeName>Erfurt</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.9787 11.03283</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2929670/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_4427d8d4fd794c37826d3259a6a9ff53" type="placeName">
+                        <placeName type="pref">Preußen</placeName>
+                        <placeName type="alt">Preussen</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4047194-9</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

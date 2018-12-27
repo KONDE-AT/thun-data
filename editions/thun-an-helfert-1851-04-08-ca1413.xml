@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-helfert-1851-04-08-ca1413.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1851-03-20-ca1411.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-02-08-ca1414.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
+                    <lb/>o. O., <date when="1851-04-08">o. D. [8. April
+                        1851]</date>
+                    <note xml:id="note_1">Das Datum ist mit Bleistift am oberen
+                        Blattrand vermerkt.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun sendet Joseph Alexander Helfert einige Akten zum ruthenischen
+                            Seminar in Paris, die er vom Minister des Innern, Alexander Bach,
+                            erhalten hat. Er bittet um baldige Rücksendung derselben.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date when="1851-04-08">o. D. [8. April
+                        1851]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Nationalitätenfrage</term>
+                </index>
+                <p>Statt Ihr Konzept abgehen zu lassen, habe ich die beiliegenden Akten<note xml:id="note_2">Die erwähnten Akten sind nicht vorhanden.</note> über das
+                    ruthenische Seminar in <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> – da ich davon schon wußte –
+                    b. M. von <rs type="person" ref="#bach-alexander">Bach</rs> erbethen. – Ich bitte,
+                    sie mir morgen zurückzustellen.</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="helfert-joseph-alexander">
+                        <persName>
+                            <surname>Helfert</surname>
+                            <forename>Josef Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1820–1910 Wien</p>
+                            <p>Historiker und Politiker, ab Okt. 1847 Supplent für römisches und kanonisches Recht an der Universität Krakau, 1848–1860 Unterstaatssekretär im Ministerium für Kultus und Unterricht, ab 1860 leitender Beamter der Sektion Unterricht im Staatsministerium</p>
+                            <p>http://d-nb.info/gnd/11877381X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877381X</tei:idno>
+                    </person>
+                <person xml:id="bach-alexander">
+                        <persName>
+                            <surname>Bach</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Loosdorf 1813–1893 Unterwaltersdorf</p>
+                            <p>Juli und Okt. 1848 Justizminister, ab Juli 1849 Minister des Innern, 1859–1867 österr. Botschafter im Vatikan</p>
+                            <p>http://d-nb.info/gnd/118651455</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118651455</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

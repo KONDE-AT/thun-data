@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="schulte-an-thun-1859-12-22-a3-xxi-d533.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1857-12-09-a3-xxi-d436.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1860-01-15-a3-xxi-d548.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1859-12-22">22. Dezember 1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D533</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Johann Friedrich Schulte informiert Leo Thun, dass er die
+                            Akten bezüglich der Reorganisierung des Domkapitels Altbunzlau direkt an
+                            das Ministerium gesendet hat. Er bedankt sich bei Thun für das in ihn
+                            gesetzte Vertrauen und betont, dass er Thuns Aufträgen immer die höchste
+                            Priorität gab und sie über seine sonstigen Amtspflichten stellte.
+                            Schließlich empfiehlt Schulte zwei seiner ehemaligen Schüler und bittet
+                            diese zu unterstützen. Für Karl Czyhlarz bittet er um eine
+                            außerordentliche Professur für Römisches Recht in Graz oder – falls dies
+                            nicht möglich sei – um eine Förderung bis zum Erhalt einer anderen
+                            Stelle. Für Antonin Randa erbittet Schulte ein Stipendium.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#schulte-friedrich">Johann Friedrich Schulte</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when="1859-12-22">22. Dezember 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Personalfragen</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Hochgeborner, Hochzuverehrender Herr Minister!<lb/>Euere Excellenz!</p>
+                <p>Gleichzeitig mit diesem Briefe sende ich an ein <rs type="org" ref="#org_0005">hohes k.k.
+                        Ministerium</rs> direct 1. den Bericht nebst Endanträgen der Commission
+                    zur Reorganisirung des <rs type="place" subtype="place" ref="#place_be4d28c63b944c1aaa4ebf83317e9ef3">Altbunzlauer</rs>
+                    Kapitels in einer Originalausfertigung, 2. die Zuschrift des Hochgeehrten
+                        <rs type="person" ref="#schwarzenberg-friedrich">Cardinals</rs> an mich und
+                    Abschrift des Berichts der Commission an <rs type="person" ref="#schwarzenberg-friedrich">Seine Eminenz</rs>, 3. meinen Bericht an das <rs type="org" ref="#org_0005">hohe Ministerium</rs>. Ich
+                    sende diese Stücke direct, weil ich es im Interesse der Sache finde, damit die
+                    Absendung der Anträge <rs type="person" ref="#schwarzenberg-friedrich">Seiner
+                        Eminenz</rs> nicht zu lange auf sich warten lasse und damit, wenn die
+                    Sachen vorher durch die Statthalterei gehen, da es bekanntlich vorkommt, daß
+                    solche Dinge zur Kenntnis Unberufener kommen, nicht auf Verschleppung und dgl.
+                    intriguirt werden könne. Euerer Excellenz kann ich die offene und wahrhaftige
+                    Versicherung geben, daß ich nicht geglaubt habe, daß jemals eine solche
+                    Willkürwirthschaft auf kirchlichem Gebiete in den letzten Jahrhunderten
+                    stattgefunden als in dieser Sache, was freilich nur durch die Nachlässigkeit der
+                    weltlichen Behörden möglich wurde. Man ist mit der Probstei schauerlich zu Werke
+                    gegangen. Was die Commission gefordert, davon bitte ich Euere Excellenz herzlich
+                    und demüthig, auch nicht um ein Haarbreit abzugehen; denn das kommt ihr
+                    unbedingt zu. Ich habe, das kann ich offen sagen, mich dieser Sache mit ganzer
+                    Seele hingegeben, alle Zeit darauf verwendet, so daß ich von der Erlaubnis, die
+                    Bibliothek in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zu benutzen, fast keinen, von der die
+                    hiesigen Manuskripte im Hause zu benutzen, noch gar keinen Gebrauch gemacht
+                    habe. Ich werde glücklich sein, wenn Euere Excellenz die Ansicht gewinnen, daß
+                    ich meine Aufgabe gewissenhaft und vollständig gelöst habe. Daß ich die Leitung
+                    nicht ostensibel, sondern nur faktisch in meine Hand genommen, mußte ich thun,
+                    wenn anders die Sache nicht vielleicht zwei bis drei Jahre dauern sollte. Es
+                    bleibt mir zum Schlusse nur die angenehme Pflicht, Euerer Excellenz auch
+                    privatim nochmals meinen wärmsten und innigsten Dank für das in mich gesetzte
+                    Vertrauen um so lieber darzubringen, als ich dadurch nicht nur in einer Zeit, wo
+                    in der That Alles darauf ankommt, daß die Beamten unter der unseeligen modernen
+                    Staatstheorie vor allem sich bewußt werden, daß die Gewalt von Gottes Gnaden dem
+                    Monarchen zu eignem Rechte zusteht und an Ihm hängen, Gelegenheit fand, indirect
+                        <rs type="person" ref="#franz-joseph">Seiner k.k. Apostolischen Majestät</rs>
+                    unmittelbar zu dienen, sondern auch Euerer Excellenz meine stets gleiche
+                    persönliche Liebe und Anhänglichkeit dadurch am Besten zu beweisen, daß ich
+                    Hochderen Aufträgen nachzukommen über jede andre Leistung setzte, welche ich
+                    neben meinen directen Amtspflichten hervorzubringen vermag.<lb/>Gestatten mir
+                    Euere Excellenz gnädig, bei dieser Gelegenheit auf meinen Brief vom August l.
+                    Jahres zurückzukommen und für Dr. <rs type="person" ref="#czyhlarz-karl">Czyhlař</rs> und Dr. <rs type="person" ref="#randa-antonin">Randa</rs>
+                    eine herzliche Bitte anzubringen. Ersterer dozirt jetzt im 4. Semester mit dem
+                    besten Erfolg. Es ist bei unsern Verhältnissen unmöglich, daß ein Privatdozent
+                    ein Obligatcolleg neben einem Fachprofessor zu Stande bringe; in einem andern
+                    Semester hört es Niemand, Spezialcollegien nur sehr Wenige. So muß ein solcher
+                    rein aus Eignem leben. Das stößt zurück und wird uns die Leute entziehen. Auch
+                    Dr. <rs type="person" ref="#czyhlarz-karl">C[zyhlař]</rs> arbeitet auf meinen
+                    eignen Rath nebenbei seit Herbst als Praktikant beim Bezirksgerichte, was ihm
+                    gewiß sehr gut ist, aber auf die Dauer die nöthige Muße raubt. Wäre es denn
+                    nicht möglich, ihm in Gratz [<rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>] eine außerordentliche
+                    Professur für römisches Recht zu geben? Oder, falls das noch nicht geht, ihm z.
+                    B. 300 fl Gratifikation zu geben, solange bis er eine erhält? Das kommt in
+                        <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> oft vor und war ja auch schon zu
+                        <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> der Fall. Ihn zum Examinator zu machen – für
+                    welchen Fall er sicher Obligatcollegien zu Stande brächte – kann ich nach meinen
+                    früher ausgesprochenen Grundsätzen nicht rathen, obwohl ich deren Unrichtigkeit
+                    aus dem Grunde selbst bekenne, daß bei uns Advokaten fungiren, die auch kein
+                    Staatsamt haben.<lb/>Was Dr. <rs type="person" ref="#randa-antonin">Randa</rs>
+                    betrifft, so wiederhole ich nochmals die Bitte um Verleihung des Stipendiums. Es
+                    wäre schade, eine solche Kraft der Universität entgehen zu lassen. Ein Jahr Muße
+                    – er ist Actuar – wird seine Bildung nach der Natur der Sache unendlich fördern.
+                    Mit Rücksicht auf unsere Geldverhältnisse möchte ich aber bitten, ihm mindestens
+                    600 fl ÖW anzuweisen und zwar auf einmal, damit er den günstigsten Moment zum
+                    Einwechseln benützen könne.<lb/>Entschuldigen Euere Excellenz gnädigst meine
+                    Freiheit und geruhen entgegen zu nehmen die Versicherung unbegrenzter
+                    Hochachtung, Verehrung und Anhänglichkeit, womit zeichnet</p>
+                <p>Euerer Excellenz</p>
+                <p>gehorsamster Diener<lb/>Dr. J. F. Schulte</p>
+                <p>Prag, den 22. Dezember 1859</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="schulte-friedrich">
+                        <persName>
+                            <surname>Schulte</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Winterberg 1827–1914 Meran</p>
+                            <p>ab 1854 Privatdozent an der Universität Bonn, 1855 Prof. für Kirchenrecht und deutsche Reichs- und Rechtsgeschichte an der Universität Prag, 1873–1906 Prof. für Kirchengeschichte an der Universität Bonn</p>
+                            <p>http://d-nb.info/gnd/11861133X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11861133X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="schwarzenberg-friedrich">
+                        <persName>
+                            <surname>Schwarzenberg</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1809–1885 Wien</p>
+                            <p>1836 Fürsterzbischof von Salzburg, ab 1842 Kardinal, ab 1850 Erzbischof von Prag</p>
+                            <p>http://d-nb.info/gnd/118763024</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118763024</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="czyhlarz-karl">
+                        <persName>
+                            <surname>Czyhlarz</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Lobositz 1833–1914 Wien</p>
+                            <p>Jurist und Politiker, ab 1863 Prof. für römisches Recht an der Universität Prag, erster Präsident der Gesellschaft zur Förderung deutscher Wissenschaft, Kunst und Literatur in Böhmen</p>
+                            <p>http://d-nb.info/gnd/127388303</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/127388303</tei:idno>
+                    </person>
+                <person xml:id="randa-antonin">
+                        <persName>
+                            <surname>Randa</surname>
+                            <forename>Antonin</forename>
+                        </persName>
+                        <note>
+                            <p>Böhmen 1834–1914 Böhmen</p>
+                            <p>ab 1860 Privatdozent für österr. Zivilrecht in Prag, ab 1862 Prof. für Privatrecht an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/116328185</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116328185</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_be4d28c63b944c1aaa4ebf83317e9ef3">
+                        <placeName>Brandýs nad Labem-Stará Boleslav</placeName>
+                        <placeName type="pref">Altbunzlau [Stará Boleslav]</placeName>
+                        <placeName type="alt">Altbunzlauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.18709 14.66326</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3078837/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+                <place xml:id="place_4427d8d4fd794c37826d3259a6a9ff53" type="placeName">
+                        <placeName type="pref">Preußen</placeName>
+                        <placeName type="alt">Preussen</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4047194-9</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="miklosich-an-thun-1850-04-01-a3-xxi-d40.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/metternich-an-thun-1855-01-31-a3-xxi-d326.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/mikulas-an-thun-1853-07-16-a3-xxi-d215.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#miklosich-franz" role="sender:gelehrter">Franz
+                        Miklosich</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1850-04-01"> 1. April
+                    1850</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D40</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Der Slawist Franz Miklosich empfiehlt Leo Thun Heinrich Suchecki für
+                                eine sprachwissenschaftliche Lehrkanzel an einer österreichischen
+                                Universität. Auch wenn Miklosich nicht in alle wissenschaftlichen
+                                Ansichten Sucheckis teilt, so anerkennt er doch dessen umfassendes
+                                Wissen und dessen Fähigkeiten.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#miklosich-franz">Franz Miklosich</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1850-04-01"> 1. April
+                    1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Philologie</term>
+                    <term>Slawistik</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Ich habe nicht nur das angeschlossene Programm, sondern auch die im vorigen Jahre
+                    in <rs type="place" subtype="place" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</rs> erschienene Nauka języka polskiego von
+                        <rs type="person" ref="#suchecki-heinrich">Heinrich Suchecki</rs> gelesen und
+                    kann nicht umhin meine Freude darüber auszusprechen, daß es mir gegönnt ist,
+                    einen Mann zu empfehlen, wie sie unter den Polen leider so selten sind. Es ist
+                    bei einer so umfassenden Wissenschaft, als es die Sprachforschung ist,
+                    natürlich, daß ich nicht mit jeder in den erwähnten Schriften ausgesprochenen
+                    Ansicht einverstanden bin: allein auch dort, wo ich abweiche, muß ich die
+                    Selbstständigkeit und das umfassende Wissen des Gegners anerkennen. In diesen
+                    Worten habe ich zugleich ausgesprochen, daß nach meiner Ansicht, Suchecki jede
+                    in seinem Gesuche angeführte sprachwissenschaftliche Lehrkanzel mit Ehren
+                    einnehmen wird: der Weisheit Euer Excellenz bleibt es natürlich anheimgestellt,
+                    den Mann auf jenen Posten zu weisen, dessen Ausfüllung am dringendsten
+                    nothwendig ist. Indem ich Euer Excellenz für das mich so sehr ehrende Vertrauen
+                    danke, verharre ich mit den Gefühlen der wärmsten Verehrung</p>
+                <p>Euer Excellenz<lb/>ergebenster Diener<lb/>Fr. Miklosich</p>
+                <p>Wien, am 1. April 1850</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="miklosich-franz">
+                        <persName>
+                            <surname>Miklosich</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Ljutomer 1813–1891 Wien</p>
+                            <p>1841–1844 Rechtsanwalt, 1849–1886 Prof. für slawische Philologie und Literatur an der Universität Wien, ab 1864 Mitglied des Unterrichtsrats</p>
+                            <p>http://d-nb.info/gnd/119065932</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119065932</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="suchecki-heinrich">
+                        <persName>
+                            <surname>Suchecki</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Perespa 1811–1872 Krakau</p>
+                            <p>ab 1850 Lehrer für Polnisch am Gymnasium in Lemberg, ab 1857 Prof. für polnische Sprache und Literatur an der Universität Prag, 1865 Prof. für slawische Philologie an der Universität Krakau</p>
+                            <p>http://d-nb.info/gnd/117365351</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117365351</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_3ff694e5c82611cda53341a9bae21735">
+                        <placeName>lemberg</placeName>
+                        <placeName type="alt">Lemberger</placeName>
+                        <placeName type="alt">Lemberg</placeName>
+                        <placeName type="alt">Leopol</placeName>
+                        <placeName type="alt">Lembergs</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.839444 24.032778</geo>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="segesser-an-thun-konzept-1856-11-ca.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/segesser-an-thun-1858-09-30-a3-xxi-d471.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/senfft-von-pilsach-an-caroline-thun-1850-04-26-a3-xxi-d46.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#segesser-philipp-anton" role="sender">Philipp Anton
+                        Segesser</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>o. O., o. D. <date when="1856-11">[November
+                        1856]</date>
+                    <note xml:id="note_1">Die Datierung ergibt sich aus dem <ref target="thun/thun-korrespondenz/staatsarchiv-luzern/thun-an-segesser-1856-10-27-ca567.xml">vorangegangen Schreiben Leo Thuns an Philipp Anton Segesser vom 27.
+                            Oktober 1856</ref>.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Abgedruckt in: Victor Conzemius, Briefwechsel Philipp Anton von Segesser
+                    (1817–1888). Bd. II. bearbeitet von Catherine Bosshart-Pfluger, Zürich 1986.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatsarchiv Luzern</institution>
+                            <idno>PA 831/17359</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Der Jurist Philipp Anton Segesser bedankt sich für den Brief von Leo
+                                Thun und den angebotenen Ruf auf einen Lehrstuhl der Universität
+                                Graz. Segesser wird das Angebot jedoch nicht annehmen. Das
+                                Jahresgehalt, das ihm Thun angeboten hat, ist ihm zu niedrig.
+                                Segesser erklärt, dass er zwar nicht reich werden möchte,
+                                gleichzeitig will er aber nicht eigene Mittel aufwenden müssen, um
+                                mit seiner Familie in Graz standesgemäß leben zu können.</p>
+                        </msContents>
+                        <physDesc>
+                            <p>Eh. Konzept von Philipp Anton Segesser.</p>
+                        </physDesc>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#segesser-philipp-anton">Philipp Anton Segesser</rs>
+                    <date>[November
+                        1856]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Graz</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Rechtsgeschichte</term>
+                </index>
+                <p>Euer Hochwohlgeboren sehr verehrte Zuschrift vom <ref target="thun/thun-korrespondenz/staatsarchiv-luzern/thun-an-segesser-1856-10-27-ca567.xml">27. vorigen Monats</ref> sezt mich in Kenntniß, daß die Lehrkanzel, welche
+                        <rs type="person" ref="#franz-joseph">Seine Majestät</rs> mir zu übertragen
+                    willens ist, (an der <rs type="org" ref="#org_0026">Universität
+                    Graz</rs>), speciell für deutsche Reichs und Rechtsgeschichte und deutsches
+                    Privatrecht bestimmt sei. Die damit verbundenen materiellen Vortheile bestünden
+                    nach Euer Hochwohlgeboren gefälliger Mittheilung in einem fixen Gehalt von fl
+                    1000 CM und dem Vorrükungsrecht in die höhere Gehaltsstufe von fl 12 und 1400
+                    CM.<lb/>Unter der, wie mir scheint, stillschweigend genehm gehaltenen
+                    Voraussetzung, daß der Antritt der mir angebotenen Lehrstelle erst auf das
+                    nächste Sommersemester zu erfolgen hätte, glaube ich billigen Erwartungen für
+                    diese beiden Fächer entsprechen zu können, so daß von daher kein Hinderniß einer
+                    annehmenden Erklärung meinerseits in Wege stünde.<lb/>Etwas anders verhält es
+                    sich mit Beziehung auf den mir in Aussicht gestellten Gehalt. Allerdings habe
+                    ich zur Zeit zu dem genannten Herrn <rs type="person" ref="#kuebeck-von-kuebau-alois">Ministerialrat von Kübeck</rs> mich dahin ausgesprochen, daß ich bei
+                    einem Wirkungskreise in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> nicht
+                    gerade materielle Vortheile im Auge hätte, indem meine Verhältniße mir
+                    erlaubten, auch ohne Anstellung hier zu leben und keine Nöthigung für mich
+                    vorhanden sei, auf eine besonders lucrative Stelle auswärts mein Augenmerk zu
+                    richten. Dabei konnte ich jedoch unmöglich daran denken, aus meinem eigenen
+                    Vermögen Opfer zu bringen um aus den wenig dankbaren Verhältnißen im <rs type="place" subtype="country" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Vaterland</rs> hinaus zu einer Stellung in den KK Staaten
+                    zu kommen, welche zwar für mich außerordentlich ehrenvoll sein aber desto
+                    weniger mir keinerlei weitere Aussichten eröffnen würde welche den anfänglichen
+                    Einsatz eigenen Aufwandes rechtfertigen. Ich bezweifle keineswegs, daß bei der
+                    notorisch kostbieligen [sic!] Lebensweise in den größern Städten des
+                    Kaiserstaates die Differenz meiner Jahresauslagen in Verbindung mit den
+                    nothwendigen Kosten, welche das Amt eines Universitätslehrers mit sich bringt,
+                    den angebotenen Gehalt nicht nur absorbiren sondern selbst übersteigen
+                    dürfte.<lb/>Sofern die betreffende Stelle sei es unter dem Titel eines fixen
+                    Gehalts, sei es vermittelst anders benannter Accidenzen, wie
+                    Wohnungsentschädigung, ohne Härte und persönliche Bemühung von wenigstens ff
+                    5000 oder fl 2000 CM in sichere Aussicht stellte und für den Zeitpunkt der
+                    Uebersiedlung mit meiner Familie ein angemeßener Beitrag an die daherigen Kosten
+                    mir geleistet wird, hätte ich bezüglich der materiellen Seite der Sache keine
+                    Einwendung zu machen, ohne daß übrigens auch in diesem Falle der Gehalt
+                    denjenigen manches Departementssekretärs bei der Schweizer Bundesregierung
+                    beträchtlich überstiege.<lb/>Bei der so sehr verbindlichen Weise in welcher Euer
+                    Hochwohlgeboren das Anerbieten dieser Lehrstelle einzuleiten die Güte hatten,
+                    kann ich nur lebhaft bedauern, daß die Rücksicht für den materiellen
+                    Gesichtspunkt in dem angedeuteten Umfang für mich entscheidend sein muß und daß,
+                    wenn in denselben nicht eingegangen werden kann, mir nichts anderes übrig bleibt
+                    als die Bitte, bei Besezung der fraglichen Lehrstelle von meiner Person
+                    abstrahiren.<lb/>Erlauben Euer Hochwohlgeboren dieser Erklärung den Ausdruck
+                    tiefgefühlten Dankes beizufügen etc. etc.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="segesser-philipp-anton">
+                        <persName>
+                            <surname>Segesser</surname>
+                            <forename>Philipp Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Luzern 1817–1888 Luzern</p>
+                            <p>1841–1847 Ratschreiber in Luzern, ab 1848 Mitglied des Schweizerischen Nationalrates, 1851–1860, 1861–1888 Mitglied des Großen Rates von Luzern</p>
+                            <p>http://d-nb.info/gnd/118612735</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118612735</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="kuebeck-von-kuebau-alois">
+                        <persName>
+                            <surname>Kübeck von Kübau</surname>
+                            <forename>Alois</forename>
+                        </persName>
+                        <note>
+                            <p>1818–1873</p>
+                            <p>Diplomat, 1854–1856 Gesandter in der Schweiz, 1859–1866 Bundespräsidialgesandter in Frankfurt, 1872–1873 Botschafter beim Heiligen Stuhl</p>
+                            <p>http://d-nb.info/gnd/136565484</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/136565484</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_4160709db9e1cdde5a7947ce6d71bb0d" type="placeName">
+                        <placeName type="pref">Schweitz</placeName>
+                        <placeName type="alt">Schweiz</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.8 8.233333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4053881-3</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0026">
+                        <orgName>Universität Graz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36157-4</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

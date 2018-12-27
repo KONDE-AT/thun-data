@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="rigler-an-thun-1860-10-27-a3-xxi-d623a14.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/riccabona-an-thun-1856-10-31-a3-xxi-d391.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rimpel-an-unbekannt-o-d-a3-xxi-d248.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#rigler-friedrich" role="sender:gelehrter">Friedrich
+                        Rigler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>, <date when="1860-10-27">27. Oktober 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Schulrat Friedrich Rigler bedankt sich bei Thun für die Reform der
+                            österreichischen Gymnasien. Ein besonderer Dank gilt Thun aus der Sicht
+                            von Rigler für die Verbesserungen bei der Ausbildung der
+                            Gymnasiallehrer. Rigler spricht außerdem die Hoffnung aus, dass das
+                            bisher Erreichte auch zukünftig bewahrt werde und der Weg im Bereich des
+                            Gymnasialwesens weiter fortbeschritten wird. Ganz besonders bedankt sich
+                            Rigler jedoch für die fortwährende Unterstützung und für das in ihn
+                            gesetzte Vertrauen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#rigler-friedrich">Friedrich Rigler</rs>
+                    <settlement ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</settlement>
+                    <date when="1860-10-27">27. Oktober 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                    <term>Gymnasien</term>
+                </index>
+                <p>Eure Excellenz!</p>
+                <p>Im Zeitpunkte bedeutungsvoller Veränderungen verweilet meine Betrachtung und mein
+                    Gefühl am längsten und am innigsten bei dem hochgesinnten Schöpfer und Begründer
+                    des neueren Gymnasialwesens in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>.
+                    Möge Eurer Excellenz der warmgefühlte und laut ausgesprochene Dank aller der
+                    vielen zu Theil werden, welche die Bedeutung der neuen Schöpfung und die
+                    ausdauernde Umsicht und Festigkeit, womit ihr bisheriger Bestand erkämpft werden
+                    mußte, zu würdigen wissen! Möge uns das Werk solcher Anstrengung nach seinen
+                    wesentlichsten Grundzügen auch fernerhin erhalten bleiben und insbesondere der
+                    von Eurer Excellenz zur geistigen und sittlichen Hebung des Gymnasiallehrstandes
+                    eröffnete Weg nicht wieder verlassen werden!<lb/>Mich selbst haben Eure
+                    Excellenz in nahezu zehn Jahren mit vielfachen Beweisen huldvoller Nachsicht,
+                    gnädiger Ermunterung und eines Vertrauens beglückt, dem ich so gerne mit der
+                    angestrengtesten Verwendung meiner Kräfte entsprochen haben würde, wenn nicht
+                    eben das Maß dieser Kräfte durch eine von frühester Jugend an gebrechliche
+                    Gesundheit sehr beschränkt gewesen wäre.<lb/>Genehmigen Eure Excellenz hiefür in
+                    diesen wenigen Zeilen den ungeheuchelten Ausdruck meines wärmsten Dankes und die
+                    Versicherung, daß ich Zeit meines Lebens nie aufhören werde, mich mit dem
+                    Gefühle tiefster Hochachtung und Verehrung zu nennen</p>
+                <p>Eurer Excellenz<lb/>dankbar ergebenster Diener<lb/>Friedrich Rigler<lb/>k.k.
+                    Schulrath</p>
+                <p>Gratz, den 27. Okt. 1860</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="rigler-friedrich">
+                        <persName>
+                            <surname>Rigler</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Neuberg/Steiermark 1798–1867 Graz</p>
+                            <p>1845 Präfekt des Gymnasiums in Marburg, ab 1850 Direktor des Gymnasiums in Marburg, 1851 Schulrat und Gymnasialinspektor der Steiermark, von Kärnten und Krain</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-helfert-1854-09-22-ca1431.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1854-06-18-ca1421.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1855-02-12-ca1426.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--09-22">22. September</date>
+                    <note xml:id="note_1">Eine genaue Datierung ist nicht
+                        möglich. Die im Brief angesprochene Wiedereröffnung der Universität Padua
+                        erfolgte zum Wintersemester 1850/51. Andererseits wurde der im Brief
+                        erwähnte Lazarus Mamula erst im Sommer 1852 zum Militär- und Zivilgouverneur
+                        von Dalmatien ernannt. Der erwähnte Graf Rechberg war wiederum erst ab dem
+                        Jahr 1853 in der Zivilverwaltung des Königreichs Lombardo-Venetien
+                        tätig.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Unterstaatssekretär Joseph Alexander Helfert, die
+                            beigelegten Akten an Ministerialrat Eduard Tomaschek zurückzustellen und
+                            fügt einige Bemerkungen zu diesen hinzu: Die Frage der Termine für die
+                            rechtshistorischen Prüfungen möchte er mit Tomaschek nach seiner
+                            Rückkehr nochmals besprechen. Thun wünscht, dass der außerordentliche
+                            Termin für Repetenten fallen gelassen werde. Nur in Ausnahmefällen soll
+                            eine Wiederholung im Oktober gestattet werden. Außerdem äußert sich der
+                            Minister kurz zur Frage der Wiedereröffnung der Universität Padua.
+                            Aufgrund der unsicheren Zustände in Oberitalien könne er nicht mit
+                            Bestimmtheit sagen, wann und unter welchen Bedingungen das Studium an
+                            der Universität wieder möglich sein wird. Vor allem den Studenten aus
+                            Dalmatien und Istrien wird geraten, sich an einer anderen
+                            österreichischen Universität zu inskribieren, da es nicht gewiss sei,
+                            dass diesen ein Studium in Padua wird gestattet werden können. Thun
+                            will, dass diesbezüglich umgehend eine Veranlassung getroffen wird. Er
+                            bittet Helfert, das Konzept dem Grafen Rechberg vorzulegen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>22. September</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Padua</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Lombardo-Venetien</term>
+                    <term>Dalmatien</term>
+                    <term>Nationalitätenfrage</term>
+                </index>
+                <p>Die anliegenden Akten<note xml:id="note_2">Die Akten sind nicht mit dem Brief
+                        überliefert.</note> folgen zurück an Herrn Ministerialrath von <rs type="person" ref="#tomaschek-eduard">Tomaschek</rs> mit nachstehenden
+                    Bemerkungen:<lb/>1. Ich bin der Meinung darüber nur zu erlassen, was auf dem
+                    beiligenden Blatte bemerkt ist; behalte mir aber vor darüber mit dem <rs type="person" ref="#tomaschek-eduard">Herrn Ministerialrath</rs> noch gleich nach
+                    meiner Heimkehr zu sprechen; unter Einem die Frage wegen der Termine für die
+                    rechtshistorische Prüfung zu erledigen, in welcher Beziehung meine Ansicht
+                    bleibt; den außerordentlichen Termin für Repetenten ganz fallen zu lassen, so
+                    daß diejenigen, die im Okt. durchfallen, unbedingt auf ein Jahr zu warten sind;
+                    diejenigen, die im Juli durchfallen, in der Regel eben so, jedoch mit
+                    Ermächtigung für die Kommissäre, wenn Aussicht auf Erfolg ist, auf Verlangen
+                    Wiederholung im Okt. zu gestatten, ferner Ermächtigung der Kommissäre oder
+                    vielmehr des Präsidenten in Fällen, wo nach eingehaltener persönlicher
+                    Überzeugung unverschuldete Umstände Versäumnis des Termines unabweislich
+                    bewirkten, einen ausnahmsweisen Termin zu geben.<lb/>2. Dem Akte 10111/841
+                    liegen noch zwei allerhöchste signirte Gesuche um nochmalige Wiederholung bei,
+                    welche schleunige Erledigung in der mit <rs type="person" ref="#tomaschek-eduard">Herrn
+                        Ministerialrath</rs> besprochenen Weise erfordern dürften.</p>
+                <p>
+                    <hi rend="ul">Ferner</hi>
+                    <lb/>Ich habe schon früher erwähnt, daß <rs type="person" ref="#franz-joseph">Seine
+                        Majestät</rs> die Dalmatiner und Istrianer jedenfalls von <rs type="org" ref="#org_0003">Padua</rs> ferne gehalten wünschen. Es ist
+                    wohl sehr dringend in dieser Beziehung etwas zu [?]<note xml:id="note_3">Das
+                        Blatt ist an dieser Stelle beschädigt.</note>, damit dieselben den Zeitpunkt
+                    der Inskripzion an einer der anderen Universitäten nicht versäumen. Bestimmtes
+                    läßt sich nun zwar allerdings nicht sagen, ehe nicht überhaupt über die
+                    Bedingungen der Wiedereröffnung der <rs type="org" ref="#org_0003">Paduaner
+                        Universität</rs> die Weisungen hinausgehen, was erst nach meiner
+                    Rückkehr wird ermöglicht werden können. Einstweilen könnten aber immerhin
+                        <rs type="person" ref="#burger-friedrich">Burger</rs> und <rs type="person" ref="#mamula-lazarus">Mamula</rs> veranlaßt werden, etwas in dem Sinne
+                    bekannt zu machen.<lb/>Die noch bestehende Unsicherheit der Zustände
+                    Oberitaliens läßt noch nicht mit Bestimmtheit voraussehen, unter welchen
+                    Modalitäten das öffentliche Studium an der <rs type="org" ref="#org_0003">Universität Padua</rs> im nächsten Studienjahre wird stattfinden
+                    können und ob namentlich Studierende, welche nicht den venezianischen Provinzen
+                    angehören, der Besuch derselben wird gestattet werden können. Die Studierenden
+                    werden daher aufmerksam gemacht, daß es für sie jedenfalls rathsam ist,
+                    rechtzeitig eine andere österreichische Universität zu beziehen und daß an
+                    denselben das Studienjahr mit erstem Okt. beginnt und die Inskripzion mit ---
+                    geschlossen ist.<lb/>Das ist <hi rend="ul">sogleich</hi> zu veranlaßen, und um
+                    ganz sicher zu gehen, ersuche ich den Herrn <hi rend="ul">Unterstaatssekretär</hi> das Konzept dem Grafen <rs type="person" ref="#rechberg-rothenloewen-bernhard">Rechberg</rs> vorzulegen</p>
+                <p>Thun</p>
+                <p>22.9.</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="helfert-joseph-alexander">
+                        <persName>
+                            <surname>Helfert</surname>
+                            <forename>Josef Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1820–1910 Wien</p>
+                            <p>Historiker und Politiker, ab Okt. 1847 Supplent für römisches und kanonisches Recht an der Universität Krakau, 1848–1860 Unterstaatssekretär im Ministerium für Kultus und Unterricht, ab 1860 leitender Beamter der Sektion Unterricht im Staatsministerium</p>
+                            <p>http://d-nb.info/gnd/11877381X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877381X</tei:idno>
+                    </person>
+                <person xml:id="tomaschek-eduard">
+                        <persName>
+                            <surname>Tomaschek</surname>
+                            <forename>Eduard</forename>
+                        </persName>
+                        <note>
+                            <p>Matzen 1810–1890</p>
+                            <p>ab 1838 Prof. der politischen Wissenschaften an der Universität Lemberg, 1845 Prof. am Theresianum in Wien, ab 1848 Prof. an der Universität Wien, 1849–1870 Ministerialrat im Ministerium für Kultus und Unterricht</p>
+                            <p>http://d-nb.info/gnd/127355219</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/127355219</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="burger-friedrich">
+                        <persName>
+                            <surname>Burger</surname>
+                            <forename>Friedrich Moritz</forename>
+                        </persName>
+                        <note>
+                            <p>Wolfsberg 1804–1873 Wien</p>
+                            <p>Rechtsanwalt in Triest, 1849–1853 Statthalter der Steiermark, 1853–1859 Statthalter der Lombardei, ab 1859 Statthalter von Triest und des Küstenlandes, 1862–1865 Marineminister</p>
+                            <p>http://d-nb.info/gnd/135705770</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/135705770</tei:idno>
+                    </person>
+                <person xml:id="mamula-lazarus">
+                        <persName>
+                            <surname>Mamula</surname>
+                            <forename>Lazarus</forename>
+                        </persName>
+                        <note>
+                            <p>Gomirje 1795–1878 Wien</p>
+                            <p>General, 1852–1859 stellvertretender Militär- und Zivilgouverneur von Dalmatien, 1859–1865 Militär- und Zivilgouverneur und kommandierender General von Dalmatien</p>
+                            <p>http://d-nb.info/gnd/137099932</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/137099932</tei:idno>
+                    </person>
+                <person xml:id="rechberg-rothenloewen-bernhard">
+                        <persName>
+                            <surname>Rechberg</surname>
+                            <forename>Johann Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Regensburg 1806–1899 Schwechat bei Wien</p>
+                            <p>Diplomat, 1843–1847 Gesandter in Rio de Janeiro, 1849 österr. Bevollmächtigter bei der Nationalversammlung in Frankfurt, 1853 Ziviladlatus des Generalgouverneurs in Lombardo-Venetien, seit 1855 Bundespräsidialgesandter in Frankfurt, 1859–1864 österr. Außenminister, 1859–1861 auch Ministerpräsident</p>
+                            <p>http://d-nb.info/gnd/116391154</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116391154</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
+                        <placeName>o. O.</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0003">
+                        <orgName>Universität Padua</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1011210-8</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

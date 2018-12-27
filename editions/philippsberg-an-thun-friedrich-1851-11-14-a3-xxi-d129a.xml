@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="philippsberg-an-thun-friedrich-1851-11-14-a3-xxi-d129a.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun-1850-04-14-a3-xxi-d45.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-ministerialrat-1852-01-10-a3-xxi-d152.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#philippsberg-eugen" role="sender:beamter">Eugen
+                        Philippsberg</rs> an <rs type="person" ref="#recipient">Friedrich
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</rs>, <date when="1851-11-14">14. November 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D129</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der österreichische Gesandte in Karlsruhe, Eugen Philippsberg,
+                            übermittelt Friedrich Thun ein Bittgesuch des Mathematikers Anton
+                            Winkler. Gleichzeitig bestätigt er Winklers Darstellung von dessen
+                            politischer Haltung. Über Winklers wissenschaftliche Fähigkeiten will
+                            sich Philippsberg kein Urteil erlauben, Winkler wurde aber von
+                            kompetenter Seite ein gutes Zeugnis ausgestellt. Philippsberg ist daher
+                            davon überzeugt, dass sowohl Österreich als auch Winkler von einer
+                            Anstellung desselben profitieren könnten.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Dem Brief sind drei Schreiben beigelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml">Anton Winkler an Eugen Philippsberg. Karlsruhe, 14. November
+                                1851.</ref>
+                            <lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml">Anton Winkler an Friedrich Thun. Karlsruhe, 11. November
+                                1851.</ref>
+                            <lb/>Anton Winkler an das Ministerium für Kultus und
+                            Unterricht. Karlsruhe, 11. November 1851.<note xml:id="note_1">Die
+                                Briefe wurden abgesehen vom letzten einzeln aufgenommen. Der
+                                letztgenannte wurde als Beilage zum davor aufgeführten Brief
+                                aufgenommen.</note>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#philippsberg-eugen">Eugen Philippsberg</rs>
+                    <settlement ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</settlement>
+                    <date when="1851-11-14">14. November 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#recipient">Friedrich Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Mathematik</term>
+                    <term>Universität</term>
+                </index>
+                <p>Hochgeborner Graf!</p>
+                <p>Euer Excellenz habe ich die Ehre ein mir mit anliegenden Schreiben vom 14. dieses
+                    [Monats] übergebenes Bittgesuch des <rs type="person" ref="#winkler-anton">Dr. A[nton]
+                        Winckler</rs> sammt Anlagen ergebenst zu übersenden.<note xml:id="note_2">Vgl. die Briefe Anton Winklers an <ref target="thun/thun-korrespondenz/tetschen/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml">Eugen Philippsberg vom 14. November 1851</ref> und an <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml">Friedrich Thun vom 11. November 1851</ref> sowie dessen <ref target="thun/thun-korrespondenz/tetschen/winkler-an-ministerium-fuer-kultus-und-unterricht-1851-11-11-a3-xxi-d129c.xml">Eingabe an das Ministerium für Kultus und Unterricht mit demselben
+                            Datum</ref>
+                    </note>Was der Supplikant in seinem Gesuche über seine
+                    politische Haltung und über die hiesigen Localverhältnisse anführt, kann ich nur
+                    bestätigen. Über seine scientifische Qualification erlaube ich mir kein Urtheil,
+                    von competenter Seite wird ihm aber das beste Zeugnis gegeben. Seine Anstellung
+                    in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> wäre daher für ihn ebenso wünschenswerth als
+                    sie für den Allerhöchsten Dienst ein Gewinn wäre.<lb/>Genehmigen Euer Excellenz
+                    die Versicherung meiner augezeichnetesten Hochachtung.</p>
+                <p>Philippsberg</p>
+                <p>Carlsruhe, den 14. November 1851</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="philippsberg-eugen">
+                        <persName>
+                            <surname>Philippsberg</surname>
+                            <forename>Eugen</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1893</p>
+                            <p>österr. Legationsrat, 1851–1855 Gesandter in Karlsruhe</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="winkler-anton">
+                        <persName>
+                            <surname>Winkler</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Riegel am Kaiserstuhl 1821–1892 Semmeringpass</p>
+                            <p>ab 1847 Assistent der Mathematik am Polytechnikum in Karlsruhe, 1853–1859 Prof. der praktischen Geometrie am Polytechnikum in Brünn, 1858–1866 Prof. für höhere Mathematik am Joanneum in Graz</p>
+                            <p>http://d-nb.info/gnd/110341449</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/110341449</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_2126faa64bfa66d02e06345d06e61a25">
+                        <placeName>Karlsruhe</placeName>
+                        <placeName type="pref">karlsruhe</placeName>
+                        <placeName type="alt">dahier</placeName>
+                        <placeName type="alt">Carlsruhe</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.00937 8.40444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2892794/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

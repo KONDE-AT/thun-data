@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-helfert-1853-06-06-ca1416.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-08-21-ca1417.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
+                    <lb/>o. O., <date when="1853-06-06">o. D. [6. Juni
+                        1853]</date>
+                    <note xml:id="note_1">Das Datum ist mit Bleistift am oberen
+                        Blattrand verzeichnet.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun schickt Joseph Alexander Helfert einen Entwurf für die
+                            Bekanntgabe der Wahl des Olmützer Erzbischofs.<lb/>Helfert fertigt auf
+                            demselben Blatt zwei Konzepte für die Bekanntmachung dieser Wahl in der
+                            Wiener Zeitung sowie Entwürfe für Noten an den Ministerpräsidenten, den
+                            Innenminister und den Polizeichef an.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date when="1853-06-06">o. D. [6. Juni
+                        1853]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                </index>
+                <p>&lt;1. Aufs. für die Wiener Zeitung&gt;<note xml:id="note_2">Einfügung von Joseph
+                        Alexander Helfert. Die Meldung erschien in der <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18530607&amp;seite=2&amp;zoom=33">Wiener Zeitung vom 7. Juni 1853, S. 1350</ref>.</note>
+                </p>
+                <p>In dem heute vormittags von dem hochwürdigsten fürsterzbischöflichen
+                    Metropolitankapitel in <rs type="place" subtype="place" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> abgehaltenen Conclave ist
+                    laut den von dem k.k. Wahlkommissar Minister <rs type="person" ref="#thun-hohenstein-leo">Grafen Thun</rs>
+                    <rs type="person" ref="#franz-joseph">Seiner k.k. apostolischen Majestät</rs> durch
+                    den Telegraphen erstatteten allerunterthänigsten Anzeige der ----- zum
+                    Erzbischof von <rs type="place" subtype="place" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> erwählt worden.</p>
+                <p/>
+                <p>&lt;2. Noten an <rs type="person" ref="#buol-schauenstein-karl-ferdinand">Buol-Schauenstein</rs>
+                </p>
+                <p>3. Noten an <rs type="person" ref="#bach-alexander">Bach</rs>
+                </p>
+                <p>4. Noten an <rs type="person" ref="#kempen-johann-franz">Kempen</rs>
+                </p>
+                <p>Laut so eben von Seiner Exzellenz dem <rs type="person" ref="#thun-hohenstein-leo">Herrn
+                        Minister für Cultus und Unterricht</rs> an mich gelangten
+                    telegrafischen Depesche dato <rs type="place" subtype="place" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> 6. Juni ist in
+                        dem&gt;<note xml:id="note_3">Entwurf von Joseph Alexander Helfert. An dieser
+                        Stelle soll die obige Note von Thun eingesetzt werden.</note>
+                </p>
+                <p/>
+                <p>&lt;Ich beeile mich E. ... hiervon mit dem ergebensten Bemerken in hochgeneigte
+                    Kenntnis zu setzen, daß Seine Exzellenz der Herr <rs type="person" ref="#thun-hohenstein-leo">Minister</rs> f. von dem Ergebnisse dieser
+                    Wahl sogleich unmittelbar an <rs type="person" ref="#franz-joseph">Seine k.k.
+                        apostolische Majestät</rs> allerunterthänigste Anzeige erstattet
+                        haben.&gt;<note xml:id="note_4">Entwurf von Joseph Alexander Helfert für die
+                        erwähnten Noten an Buol-Schauenstein, Bach und Kempen.</note>
+                </p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="helfert-joseph-alexander">
+                        <persName>
+                            <surname>Helfert</surname>
+                            <forename>Josef Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1820–1910 Wien</p>
+                            <p>Historiker und Politiker, ab Okt. 1847 Supplent für römisches und kanonisches Recht an der Universität Krakau, 1848–1860 Unterstaatssekretär im Ministerium für Kultus und Unterricht, ab 1860 leitender Beamter der Sektion Unterricht im Staatsministerium</p>
+                            <p>http://d-nb.info/gnd/11877381X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877381X</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="buol-schauenstein-karl-ferdinand">
+                        <persName>
+                            <surname>Buol-Schauenstein</surname>
+                            <forename>Karl Ferdinand</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1865 Wien</p>
+                            <p>Politiker, 1852–1859 österr. Außenminister</p>
+                            <p>http://d-nb.info/gnd/118665022</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118665022</tei:idno>
+                    </person>
+                <person xml:id="bach-alexander">
+                        <persName>
+                            <surname>Bach</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Loosdorf 1813–1893 Unterwaltersdorf</p>
+                            <p>Juli und Okt. 1848 Justizminister, ab Juli 1849 Minister des Innern, 1859–1867 österr. Botschafter im Vatikan</p>
+                            <p>http://d-nb.info/gnd/118651455</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118651455</tei:idno>
+                    </person>
+                <person xml:id="kempen-johann-franz">
+                        <persName>
+                            <surname>Kempen von Fichtenstamm</surname>
+                            <forename>Johann Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Pardubitz 1793–1863 Schwarzau a. Steinfeld</p>
+                            <p>ab 1849 Generalinspektor der Gendarmerie, ab 1851 Militärgouverneur von Wien, 1852–1859 Chef der obersten Polizeibehörde</p>
+                            <p>http://d-nb.info/gnd/126717397</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/126717397</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_c0ce3216e3cb050a80363757086a42f0">
+                        <placeName>Olomouc</placeName>
+                        <placeName type="pref">Olmütz [Olomouc]</placeName>
+                        <placeName type="alt">Ollmütz</placeName>
+                        <placeName type="alt">Olmützer</placeName>
+                        <placeName type="alt">Olmütz</placeName>
+                        <placeName type="alt">Olmüz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.59552 17.25175</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3069011/</idno>
+                    </place>
+            </listPlace>
+        </back>
+    </text>
+</TEI>

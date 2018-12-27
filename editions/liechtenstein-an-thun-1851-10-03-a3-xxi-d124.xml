@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="liechtenstein-an-thun-1851-10-03-a3-xxi-d124.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1855-04-05-a3-xxi-d338.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/liechtenstein-an-thun-o-d-a3-xxi-d479.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#liechtenstein-alois" role="sender">Alois
+                        Liechtenstein</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1851-10-03">3. Oktober 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D124</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Fürst Alois Liechtenstein teilt Leo Thun mit, dass er den frei gewordenen
+                            Platz der herzoglich Savoyischen Stiftung in der Theresianischen
+                            Ritterakademie dem Sohn des Bezirkskommissärs von Eisenstadt verliehen
+                            hat.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#liechtenstein-alois">Alois Liechtenstein</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1851-10-03">3. Oktober 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Theresianische Ritterakademie</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Da nach der erhaltenen Anzeige vom 20/26 vorigen Monats [September] Nr. 8917/1414
+                    durch den Austritt des <rs type="person" ref="#menshengen-ferdinand">Ferdinand Freyherr
+                        von Menshengen</rs> ein herzoglich Savoy‘scher Stiftungsplatz in der
+                    <rs type="org" ref="#org_0016">k.k. Theresianischen
+                        Academie</rs> in Erledigung kam, so beehre ich mich hiermit anzuzeigen,
+                    daß ich diesen erledigten Stiftungsplatz dem <rs type="person" ref="#tibolth-coloman">Coloman von Tibolth</rs>, Sohn des k.k. Bezirkscommissairs in
+                        <rs type="place" subtype="place" ref="#place_8d8850eb122df8685285743838fb6abf">Eisenstadt</rs>, Herrn <rs type="person" ref="#tibolth-carl">Carl
+                        von Tibolth</rs>, verliehen habe.<lb/>Von dieser Verleihung wurde der
+                    letztere mit dem Beifügen in Kenntnis gesetzt, daß er sich wegen Aufnahme seines
+                    Sohnes an die Direction der gedachten <rs type="org" ref="#org_0016">Acadmie</rs> zu verwenden und die
+                    hiezu erforderlichen Documente dort vorzulegen habe.<lb/>Ich verharre mit
+                    vollkommenster Hochachtung</p>
+                <p>Eurer Excellenz</p>
+                <p>dienstwilligst ergebner<lb/>Alois Fürst Liechtenstein</p>
+                <p>Wien, 3. Oktober 1851</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="liechtenstein-alois">
+                        <persName>
+                            <surname>Liechtenstein</surname>
+                            <forename>Alois II.</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1796–1858 Schloss Eisgrub</p>
+                            <p>ab 1836 Fürst von Liechtenstein</p>
+                            <p>http://d-nb.info/gnd/119056496</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119056496</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="menshengen-ferdinand">
+                        <persName>
+                            <surname>Menshengen</surname>
+                            <forename>Ferdinand</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Adeliger</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="tibolth-coloman">
+                        <persName>
+                            <surname>Tibolth</surname>
+                            <forename>Coloman von</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Sohn von Carl Tibolth</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="tibolth-carl">
+                        <persName>
+                            <surname>Tibolth</surname>
+                            <forename>Carl</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Bezirkskommissär in Eisenstadt</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_8d8850eb122df8685285743838fb6abf">
+                        <placeName>Eisenstadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.84565 16.52327</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2780190/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0016">
+                        <orgName>k.k. Theresianische Ritterakademie</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/5005464-8</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

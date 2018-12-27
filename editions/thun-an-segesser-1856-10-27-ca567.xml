@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-segesser-1856-10-27-ca567.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-schulte-09-29-ca504.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-stein-05-29-ca853.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#segesser-philipp-anton" role="recipient">Philipp Anton
+                        Segesser</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1856-10-27">27. Oktober 1856</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Abgedruckt bei: Viktor Conzemius, Briefwechsel Philipp Anton von Segesser
+                    (1817–1888). Bd. II. bearb. von Catherine Bosshart-Pfluger, Zürich 1986.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatsarchiv Luzern</institution>
+                        <idno>PA 831/17359</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bietet dem Juristen Philipp Anton Segesser einen Lehrstuhl an
+                            der Universität Graz an. Thun erklärt, dass er von Ministerialrat
+                            Bernhard Meyer erfahren habe, dass Segesser bereit wäre, einen Lehrstuhl
+                            an dieser Universität zu übernehmen. Thun unterbreitet ihm daher ein
+                            Angebot, das den regulären Gehaltssätzen der Universität Graz
+                            entspricht. Thun ist sich zwar bewusst, dass das Angebot nicht glänzend
+                            ist, hofft aber Segesser dennoch nach Österreich ziehen zu können.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when="1856-10-27">27. Oktober 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#segesser-philipp-anton">Philipp Anton Segesser</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Graz</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Rechtsgeschichte</term>
+                </index>
+                <p>Wien am 27. Oktober 1856</p>
+                <p>Geehrter Herr Nazionalrath!</p>
+                <p>Aus dem vom Ministerialrathe Dr. <rs type="person" ref="#meyer-bernhard">Bernhard
+                        Meyer</rs> mir mitgetheilten Schreiben Eurer Wohlgeboren vom 19. des
+                    Monats habe ich ersehen, daß die Eröffnung, welche er Ihnen meinem Wunsch
+                    entsprechend, über ihre Berufung an die <rs type="org" ref="#org_0026">Universität Gratz</rs> [Graz] gemacht hat, nicht jene Aufschlüsse über
+                    die Ihnen angebotene Stellung enthielt, welche nothwendig gewesen wäre, um Sie
+                    zu einer definitiven Entschließung über die Annahme derselben zu vermögen. Ich
+                    sehe mich dadurch veranlasst, sie in Folgendem zu ertheilen:<lb/>Die Lehrkanzel,
+                    auf welche <rs type="person" ref="#franz-joseph">Seine Majestät der Kaiser</rs> sie
+                    zu berufen Willens, ist, ist jene der deutschen Reichs- und Rechtsgeschichte und
+                    des deutschen Privatrechtes, welche beiden Lehrfächer, wie ich nach der Richtung
+                    Ihrer bisherigen Studien und wissenschaftlichen Arbeiten voraussetzen darf,
+                    Ihrer Neigung entsprechen würden.<lb/>Die materiellen Vortheile, welche mit
+                    dieser Lehrkanzel verbunden sind, bestehen in dem fixen Gehalte von 1000 fl CM,
+                    und dem Vorrückungsrecht in die höheren Gehaltsstufen von 1200 fl Und 1400 fl
+                    CM, wobei Ihnen der Erlag jener Taxe, welche Sie nach den diesfalls bestehenden
+                    Normativen von dem ersten Jahresgehalte zu erlegen hätten, von <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> nachgesehen würde. Ich
+                    verkenne nicht, daß diese Bedingungen keineswegs glänzend sind, und habe mich
+                    auch nur deßhalb veranlasst gefunden, Ihnen gleichwohl die in Rede stehende
+                    Stellung anzubieten, weil ich aus den Mittheilungen, welche mir der ehemalige
+                    Gesandte <rs type="person" ref="#kuebeck-von-kuebau-alois">Freiherr von Kübeck</rs>
+                    gemacht hat, entnehmen zu sollen glaubte, es werde Ihnen erwünscht sein, Ihre
+                    gegenwärtigen Verhältnisse mit einem Wirkungskreise in
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> zu vertauschen, ohne Rücksicht auf den
+                    Umstand, ob damit Vortheile in materieller Beziehung verbunden seien. Eure
+                    Wohlgeboren wollen demnach in diesem Anerbieten lediglich einen Beweis meines
+                    aufrichtigen Bestrebens sehen, dem vermeintlichen Wunsche Eurer Wohlgeboren in
+                    so weit als möglich war entgegenzukommen, wobei es mir sehr erfreulich wäre,
+                    dadurch für Oesterreich wieder einen der hervorragenden Vorkämpfer des Rechtes
+                    und der Ordnung in der <rs type="place" subtype="country" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Schweiz</rs> zu gewinnen. So sehr ich
+                    bedauern müsste, diese Hoffnung nicht erfüllt zu sehen, so erübrigt mir doch
+                    nichts, als es Eurer Wohlgeboren anheimzustellen, nun mehr zu entscheiden, ob
+                    die angebotene Stellung Ihnen annehmbar erscheine, und zu ersuchen, mir die
+                    definitive Entscheidung hierüber mit möglichster Beschleunigung zukommen zu
+                    lassen.</p>
+                <p>Mit ausgezeichneter Hochachtung<lb/>Eurer Wohlgeboren<lb/>Ergebener<lb/>Graf Leo
+                    Thun</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="segesser-philipp-anton">
+                        <persName>
+                            <surname>Segesser</surname>
+                            <forename>Philipp Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Luzern 1817–1888 Luzern</p>
+                            <p>1841–1847 Ratschreiber in Luzern, ab 1848 Mitglied des Schweizerischen Nationalrates, 1851–1860, 1861–1888 Mitglied des Großen Rates von Luzern</p>
+                            <p>http://d-nb.info/gnd/118612735</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118612735</tei:idno>
+                    </person>
+                <person xml:id="meyer-bernhard">
+                        <persName>
+                            <surname>Meyer</surname>
+                            <forename>Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Sursee 1810–1874 Piesting</p>
+                            <p>Staatsschreiber in Luzern, Gesandter des Sonderbundes, ab 1851 im österr. Staatsdienst</p>
+                            <p>http://d-nb.info/gnd/103948430</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/103948430</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="kuebeck-von-kuebau-alois">
+                        <persName>
+                            <surname>Kübeck von Kübau</surname>
+                            <forename>Alois</forename>
+                        </persName>
+                        <note>
+                            <p>1818–1873</p>
+                            <p>Diplomat, 1854–1856 Gesandter in der Schweiz, 1859–1866 Bundespräsidialgesandter in Frankfurt, 1872–1873 Botschafter beim Heiligen Stuhl</p>
+                            <p>http://d-nb.info/gnd/136565484</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/136565484</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_4160709db9e1cdde5a7947ce6d71bb0d" type="placeName">
+                        <placeName type="pref">Schweitz</placeName>
+                        <placeName type="alt">Schweiz</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.8 8.233333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4053881-3</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0026">
+                        <orgName>Universität Graz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36157-4</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions/" xml:id="thun-an-bach-1854-05-03-ca940.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1853-01-11-ca939.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1856-03-23-ca942.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</rs>, <date when="1854-05-03">3. Mai 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun teilt Alexander Bach mit, dass dessen Bruder auch ohne
+                            Maturitätsprüfung das Studium der Jurisprudenz beginnen darf. Thun
+                            betont, dass er grundsätzlich gegen Sonderregelungen sei, weil sie die
+                            Wichtigkeit dieser Prüfung konterkarierten. Thun möchte außerdem keine
+                            Präzedenzfälle schaffen. In diesem Fall will er allerdings aus guten
+                            Gründen eine Ausnahme gestatten. Er hat dem Kaiser bereits einen
+                            alleruntertänigsten Vortrag erstattet.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</settlement>
+                    <date when="1854-05-03">3. Mai 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Maturitätsprüfungen</term>
+                </index>
+                <p>Hochwohlgeborener Freiherr!</p>
+                <p>Mit geehrtem Schreiben vom 13. v. M. haben Euere Exzellenz ein Gesuch um die
+                    Bewilligung an mich geleitet, daß Ihrem <rs type="person" ref="#bach-otto">Herrn
+                        Bruder</rs> die Aufnahme in die juridischen Studien mit Nachsicht der
+                    Maturitätsprüfungen gestattet werde. Diese Bewilligung selbst zu ertheilen,
+                    halte ich mich nun zwar nicht für ermächtigt, und kann auch bei der Wichtigkeit,
+                    welche ich der Aufrechthaltung der Maturitätsprüfungen für die Hebung des
+                    Studienwesens beilegen zu sollen glaube, gar nicht wünschen, daß dem <rs type="org" ref="#org_0005">Ministerium</rs>
+                    wenigstens dermalen noch – die Ermächtigung davon zu dispensieren ertheilt
+                    werden. Nachdem jedoch in dem vorliegenden Falle Umstände geltend gemacht werden
+                    können, welche eine Ausnahme rechtfertigen dürften, und die Gefahr die
+                    Wirksamkeit der Regel zu entkräften nicht enthalten, so habe ich darüber einen
+                    a.u. Vortrag erstattet, welcher sich bereits in den Händen <rs type="person" ref="#franz-joseph">S. Maj.</rs> befindet, und glaube mit Zuversicht
+                    einer dem Wunsche Euerer Exzellenz erfüllenden a.h. Entscheidung in den nächsten
+                    Tagen entgegen sehen zu dürfen. Wenn also Ihr <rs type="person" ref="#bach-otto">Herr
+                        Bruder</rs> inzwischen sich bereits inskribieren läßt, so wird es
+                    keinen Anstand unterliegen, daß ihm das l. Semester bereits in die gesetzliche
+                    Studienzeit eingerechnet werde.</p>
+                <p>Mit ausgezeichnetster Hochachtung habe ich die Ehre zu verharren.</p>
+                <p>Euer Exzellenz </p>
+                <p>Ergebener Diener</p>
+                <p>Thun</p>
+                <p>Den 3. Mai 854</p>
+            </div>
+        </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bach-alexander">
+                        <persName>
+                            <surname>Bach</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Loosdorf 1813–1893 Unterwaltersdorf</p>
+                            <p>Juli und Okt. 1848 Justizminister, ab Juli 1849 Minister des Innern, 1859–1867 österr. Botschafter im Vatikan</p>
+                            <p>http://d-nb.info/gnd/118651455</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118651455</tei:idno>
+                    </person>
+                <person xml:id="bach-otto">
+                        <persName>
+                            <surname>Bach</surname>
+                            <forename>Otto</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1833–1893 Unterwaltersdorf</p>
+                            <p>Komponist und Kirchenmusiker, jüngster Bruder von Alexander Bach</p>
+                            <p>http://d-nb.info/gnd/137938152</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/137938152</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+            <listOrg>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
+        </back>
+    </text>
+</TEI>
