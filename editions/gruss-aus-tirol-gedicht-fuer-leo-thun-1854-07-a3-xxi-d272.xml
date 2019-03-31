@@ -10,8 +10,8 @@
                 </title>
             </titleStmt>
             <publicationStmt>
-                <p>Abgedruckt in: Bothe für Tirol und Vorarlberg. Nr. 150, 04.07.1854, S. 791.</p>
-            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000B-DBF4-B</tei:idno>
+                <p>Abgedruckt in: Bothe für Tirol und Vorarlberg. Nr. 150, 04.07.1854, S. 791.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBF4-B</tei:idno>
+                </p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>

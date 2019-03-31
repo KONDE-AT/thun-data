@@ -12,8 +12,9 @@
                 </title>
             </titleStmt>
             <publicationStmt>
-                <p/>
-            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000B-DC55-E</tei:idno>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC55-E</tei:idno>
+                </p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>

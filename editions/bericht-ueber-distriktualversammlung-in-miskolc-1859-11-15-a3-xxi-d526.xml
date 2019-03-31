@@ -10,8 +10,8 @@
             <publicationStmt>
                 <p>Auszugsweise abgedruckt in: Friedrich Gottas, Die Frage der Protestanten in
                     Ungarn in der Ära des Neoabsolutismus. Das ungarische Protestantenpatent vom 1.
-                    September 1859, München 1965, S. 95.</p>
-            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000B-DCBA-C</tei:idno>
+                    September 1859, München 1965, S. 95.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DCBA-C</tei:idno>
+                </p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>

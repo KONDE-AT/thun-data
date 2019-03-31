@@ -13,8 +13,8 @@
             </titleStmt>
             <publicationStmt>
                 <p>Abgedruckt bei: Viktor Conzemius, Briefwechsel Philipp Anton von Segesser
-                    (1817–1888). Bd. II. bearb. von Catherine Bosshart-Pfluger, Zürich 1986.</p>
-            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000B-D9F1-0</tei:idno>
+                    (1817–1888). Bd. II. bearb. von Catherine Bosshart-Pfluger, Zürich 1986.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9F1-0</tei:idno>
+                </p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>

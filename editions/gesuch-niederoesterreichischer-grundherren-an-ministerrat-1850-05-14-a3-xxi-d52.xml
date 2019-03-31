@@ -12,8 +12,8 @@
             <publicationStmt>
                 <p>Gekürzt abgedruckt in: Christoph Stölzl, Die Ära Bach in Böhmen.
                     Sozialgeschichtliche Studien zum Neoabsolutismus 1849–1859 (Veröffentlichungen
-                    des Collegium Carolinum 26), München, Wien 1971, S. 315–316.</p>
-            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000B-DC03-A</tei:idno>
+                    des Collegium Carolinum 26), München, Wien 1971, S. 315–316.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC03-A</tei:idno>
+                </p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>

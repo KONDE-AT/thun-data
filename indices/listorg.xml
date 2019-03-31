@@ -12,8 +12,9 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <p/>
-            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000B-D982-D</tei:idno>
+                <p>
+                    <idno type="handle">http://hdl.handle.net/21.11115/0000-000B-D982-D</idno>
+                </p>
             </publicationStmt>
             <sourceDesc>
                 <p>Institutionsverzeichnis der Thun-Korrespondenz</p>

@@ -14,8 +14,8 @@
             </titleStmt>
             <publicationStmt>
                 <p>Abgedruckt in: Ladislav Kubik, Česká korespondence se Lvem Thunem, Praha 1970, S.
-                    137–138.</p>
-            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000B-D9D3-2</tei:idno>
+                    137–138.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9D3-2</tei:idno>
+                </p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>

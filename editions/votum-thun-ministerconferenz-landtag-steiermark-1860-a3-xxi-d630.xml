@@ -15,8 +15,8 @@
             <publicationStmt>
                 <p>Leicht verändert abgedruckt in: Protokolle des Österreichischen Ministerrates
                     1848–1867. Das Ministerium Rechberg. Bd. 2, bearbeitet von Stefan Malfèr, Wien
-                    2007, S. 197–198.</p>
-            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000B-D9B6-3</tei:idno>
+                    2007, S. 197–198.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9B6-3</tei:idno>
+                </p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
