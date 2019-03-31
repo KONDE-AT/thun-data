@@ -36,6 +36,7 @@
                     </licence>
                 </availability>
                 <date when-iso="2015">2015</date>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000B-DCC1-3</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
