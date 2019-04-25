@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei" version="2.0">
-    <xsl:output encoding="UTF-8" media-type="text/html" method="html" version="5.0" indent="yes"/>
+<xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:saxon="http://saxon.sf.net/" exclude-result-prefixes="tei" version="2.0">
+    <xsl:output encoding="UTF-8" media-type="text/html" method="html" version="5.0" indent="yes" saxon:cdata-section-elements="script"/>
     <xsl:variable name="title">
         <xsl:value-of select="normalize-space(string-join(//tei:titleStmt[1]/tei:title//text(), ' '))"/>
     </xsl:variable>
@@ -153,7 +153,7 @@
                                     </div>
                                 </div>
                                 <div class="card-footer">
-                                    <xsl:for-each select=".//tei:note">
+                                    <xsl:for-each select=".//tei:body//tei:note">
                                         <div class="footnotes">
                                             <xsl:element name="a">
                                                 <xsl:attribute name="name">
@@ -224,7 +224,7 @@
                             
                             <!-- Modal body -->
                             <div class="modal-body">
-                                <table id="table" class="display" style="width:60vw">
+                                <table id="table" class="table table-striped table-condensed table-hover">
                                     <thead>
                                         <tr id="columns">
                                             <th>Title</th>
@@ -334,13 +334,14 @@
                 <!-- #page we need this extra closing tag here -->
                 <script type="text/javascript" src="https://shared.acdh.oeaw.ac.at/fundament/dist/fundament/vendor/jquery/jquery.min.js"></script>
                 <script type="text/javascript" src="https://shared.acdh.oeaw.ac.at/fundament/dist/fundament/js/fundament.min.js"></script>
-                <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js" charset="utf-8"></script>
+                <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.16/b-1.4.2/b-html5-1.4.2/b-print-1.4.2/datatables.min.js"/>
                 <script src="https://shared.acdh.oeaw.ac.at/solr-getter/solr.js"></script>
                 <script>
+                    <![CDATA[
                     $( document ).ready(function() {
                         $('#send').click(function() {
                             getSolr({
-                               solrEndpoint: 'https://arche.acdh.oeaw.ac.at/solr/arche/query',
+                               solrEndpoint: 'https://arche-curation.acdh-dev.oeaw.ac.at/solr/arche/query',
                                pageSize: 25,
                                input: $("#query").val(),
                                columns: [
@@ -348,46 +349,21 @@
                                { 'column label': 'solr_object_key' },
                                { 'Title': 'meta_title' },
                                { 'highlight': 'highlight_with_link' }
-                               ],                        
+                               ],
+                               sparqlQuery: decodeURIComponent('select%20%3Fres%20where%20%7B%0A%20%20%3Fres%20%3Chttps%3A%2F%2Fvocabs.acdh.oeaw.ac.at%2Fschema%23isPartOf%3E%20%3Chttps%3A%2F%2Fid.acdh.oeaw.ac.at%2Fuuid%2Fc43b6f9c-63d1-ee81-ceec-c08bd8506cef%3E%20.%0A%7D'),
+                               sparqlEndpoint: 'https://arche-curation.acdh-dev.oeaw.ac.at/blazegraph/sparql',
                             });
                         });
                     });
+                    ]]>
                 </script>
             </body>
         </html>
     </xsl:template>
     
     
-    <xsl:template match="//*[starts-with(local-name(), 'list')]">
-            <h1>
-                <xsl:value-of select="local-name(.)"/>
-            </h1>
-            <ul>
-                <xsl:for-each select="child::*">
-                    <li>
-                        <xsl:apply-templates/>
-                    </li>
-                </xsl:for-each>
-            </ul>
-        
-    </xsl:template>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   
 <!--    the following code is copied from resources/xslt/shared/base.xsl-->
-    <xsl:template match="tei:back"/>
     <xsl:template match="tei:date[@*]">
         <abbr>
             <xsl:attribute name="title">
