@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:acdhid="https://id.acdh.oeaw.ac.at/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" xml:lang="en">
     
     <!--    see https://arche.acdh.oeaw.ac.at/browser/formats-filenames-and-metadata#metadata -->
-
+    
     <acdh:Project rdf:about="https://id.acdh.oeaw.ac.at/thun/project">
         <acdh:hasTitle>Thun-Hohenstein´sche Bildungsreform in Österreich 1849-60</acdh:hasTitle>
         <acdh:hasDescription>
@@ -18,7 +17,11 @@
             Längerfristig - über die Laufzeit des Projekts hinaus - ist geplant, die Forschungen über Graf Leo Thun
             fortzusetzen und über seine Ministerjahre hinaus auszuweiten. (http://pf.fwf.ac.at/project_pdfs/pdf_abstracts/p22554d.pdf)
         </acdh:hasDescription>
-        <acdh:language>ger</acdh:language>
+        <acdh:hasNonLinkedIdentifier>FWF: P 22554</acdh:hasNonLinkedIdentifier>
+        <acdh:hasLifeCycleStatus>completed</acdh:hasLifeCycleStatus>
+        <acdh:hasCoverageStartDate>1849-01-01</acdh:hasCoverageStartDate>
+        <acdh:hasCoverageEndDate>1860-01-01</acdh:hasCoverageEndDate>
+        <acdh:hasLanguage>ger</acdh:hasLanguage>
         <acdh:hasStartDate>2010-07-01</acdh:hasStartDate>
         <acdh:hasEndDate>2015-06-30</acdh:hasEndDate>
         <acdh:hasPrincipalInvestigator>
@@ -80,17 +83,47 @@
         <acdh:hasRelatedCollection>
             <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun"/>
         </acdh:hasRelatedCollection>
+        <acdh:hasMetadataCreator>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+        </acdh:hasMetadataCreator>
+        <acdh:hasRelatedDicipline>Geschichte</acdh:hasRelatedDicipline>
+        <acdh:hasRelatedDicipline>Archäologie</acdh:hasRelatedDicipline>
+        <acdh:hasRelatedDicipline>Philosophie</acdh:hasRelatedDicipline>
+        <acdh:hasRelatedDicipline>Ethik</acdh:hasRelatedDicipline>
+        <acdh:hasRelatedDicipline>Religion</acdh:hasRelatedDicipline>
+        <acdh:hasSubject>Education Reform</acdh:hasSubject>
+        <acdh:hasSubject>Austria 1849-1860</acdh:hasSubject>
+        <acdh:hasSubject>Count Leo Thun-Hohenstein</acdh:hasSubject>
     </acdh:Project>
     
-<!--    top collection -->
+    <!--    top collection -->
     <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun">
         <acdh:hasTitle>Thun Collection</acdh:hasTitle>
         <acdh:hasDescription>The "Thun Collection" contains all XML/TEI encoded data created in the project "Thun-Hohenstein´sche Bildungsreform in Österreich 1849-60"</acdh:hasDescription>
         <acdh:hasRelatedProject rdf:resource="https://id.acdh.oeaw.ac.at/thun/project"/>
         <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+        <acdh:hasLifeCycleStatus>completed</acdh:hasLifeCycleStatus>
         <acdh:hasContact>
             <acdh:Person rdf:about="http://d-nb.info/gnd/129199176"/>
         </acdh:hasContact>
+        <acdh:hasMetadataCreator>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+        </acdh:hasMetadataCreator>
+        <acdh:hasCurator>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+        </acdh:hasCurator>
+        <acdh:hasDepositor>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+        </acdh:hasDepositor>
+        <acdh:hasOwner>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/129199176"/>
+        </acdh:hasOwner>
+        <acdh:hasRightsholder>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/129199176"/>
+        </acdh:hasRightsholder>
+        <acdh:hasLicensor>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/129199176"/>
+        </acdh:hasLicensor>
         <acdh:hasCreator>
             <acdh:Person rdf:about="http://d-nb.info/gnd/107360859X"/>
         </acdh:hasCreator>
@@ -108,7 +141,9 @@
         </acdh:hasContributor>
         <acdh:hasCoverageStartDate>1849-01-01</acdh:hasCoverageStartDate>
         <acdh:hasCoverageEndDate>1860-01-01</acdh:hasCoverageEndDate>
-        <acdh:hasExtent>about 840 XML/TEI Documents</acdh:hasExtent>
+        <acdh:hasSubject>Education Reform</acdh:hasSubject>
+        <acdh:hasSubject>Austria 1849-1860</acdh:hasSubject>
+        <acdh:hasSubject>Count Leo Thun-Hohenstein</acdh:hasSubject>
     </acdh:Collection>
     
     <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun/meta">
@@ -123,6 +158,7 @@
         </acdh:hasContributor>
         <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/thun"/>
     </acdh:Collection>
+    
     <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun/editions">
         <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <acdh:hasTitle>Editions</acdh:hasTitle>
@@ -144,6 +180,7 @@
         </acdh:hasContributor>
         <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/thun"/>
     </acdh:Collection>
+    
     <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun/indices">
         <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <acdh:hasTitle>Indices</acdh:hasTitle>
@@ -162,6 +199,7 @@
         </acdh:hasContributor>
         <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/thun"/>
     </acdh:Collection>
+    
     <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun/utils">
         <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <acdh:hasTitle>Utility Files</acdh:hasTitle>
@@ -174,6 +212,27 @@
     
     <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/thun/utils/tei2html.xsl">
         <acdh:hasTitle>XSL to transform XML/TEI to HTML</acdh:hasTitle>
+        <acdh:hasCreator>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+        </acdh:hasCreator>
+        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    </acdh:Resource>
+    <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/thun/utils/listperson.xsl">
+        <acdh:hasTitle>XSL to transform a tei:listPerson element to HTML</acdh:hasTitle>
+        <acdh:hasCreator>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+        </acdh:hasCreator>
+        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    </acdh:Resource>
+    <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/thun/utils/listplace.xsl">
+        <acdh:hasTitle>XSL to transform a tei:listPlace element to HTML</acdh:hasTitle>
+        <acdh:hasCreator>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+        </acdh:hasCreator>
+        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    </acdh:Resource>
+    <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/thun/utils/listorg.xsl">
+        <acdh:hasTitle>XSL to transform a tei:listOrg element to HTML</acdh:hasTitle>
         <acdh:hasCreator>
             <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
         </acdh:hasCreator>
