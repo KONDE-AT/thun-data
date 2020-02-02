@@ -40,7 +40,7 @@
                 <title>
                     <xsl:value-of select="$title"/>
                 </title>
-                <link rel="stylesheet" id="fundament-styles"  href="https://shared.acdh.oeaw.ac.at/fundament/dist/fundament/css/fundament.min.css" type="text/css"/>
+                <link rel="stylesheet" id="fundament-styles" href="https://shared.acdh.oeaw.ac.at/fundament/dist/fundament/css/fundament.min.css" type="text/css"/>
             </head>
             <body class="home">
                 <div class="hfeed site" id="page">
@@ -48,18 +48,19 @@
                     <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar" itemscope="" itemtype="http://schema.org/WebSite">
                         <a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a>
                         <nav class="navbar navbar-expand-lg navbar-light">
-                            <div class="container-fluid" >
+                            <div class="container-fluid">
                                 <!-- Your site title as branding in the menu -->
-                                <a href="/" class="navbar-brand custom-logo-link" rel="home" itemprop="url"></a><!-- end custom logo -->
+                                <a href="/" class="navbar-brand custom-logo-link" rel="home" itemprop="url"/><!-- end custom logo -->
                                 <a class="navbar-brand site-title-with-logo" rel="home" href="#" title="Thun" itemprop="url">Thun</a>
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                                    <span class="navbar-toggler-icon"></span>
+                                    <span class="navbar-toggler-icon"/>
                                 </button>
                                 <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                                     <!-- Your menu goes here -->
                                     <ul id="main-menu" class="navbar-nav">
                                         <li class="nav-item dropdown">
-                                            <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Info<span class="caret"></span></a>
+                                            <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Info<span class="caret"/>
+                                            </a>
                                             <ul class=" dropdown-menu" role="menu">
                                                 <li class="nav-item dropdown-submenu">
                                                     <a href="https://id.acdh.oeaw.ac.at/thun/meta/about.xml?format=customTEI2HTML" class="nav-link">Über diese Edition</a>
@@ -73,7 +74,8 @@
                                             </ul>
                                         </li>
                                         <li class="nav-item dropdown">
-                                            <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Register <span class="caret"></span></a>
+                                            <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Register <span class="caret"/>
+                                            </a>
                                             <ul class=" dropdown-menu" role="menu">
                                                 <li class="nav-item dropdown-submenu">
                                                     <a href="https://id.acdh.oeaw.ac.at/thun/indices/listperson.xml?format=customTEI2HTML" class="nav-link">Personen</a>
@@ -90,7 +92,7 @@
                                     <div class="form-inline my-2 my-lg-0 navbar-search-form">
                                         <input class="form-control navbar-search" id="query" type="text" placeholder="Search" value="" autocomplete="off"/>
                                         <button class="navbar-search-icon" id="send" data-toggle="modal" data-target="#myModal">
-                                            <i data-feather="search"></i>
+                                            <i data-feather="search"/>
                                         </button>
                                     </div>
                                 </div>
@@ -200,7 +202,7 @@
                     <div class="wrapper fundament-default-footer" id="wrapper-footer-full">
                         <div class="container" id="footer-full-content" tabindex="-1">
                             <div class="footer-separator">
-                                <i data-feather="message-circle"></i> CONTACT
+                                <i data-feather="message-circle"/> CONTACT
                             </div>
                             <div class="row">
                                 <div class="col-md-3">
@@ -251,7 +253,7 @@
                                         </tr>
                                     </thead>
                                 </table>
-                                <div id="output"></div>
+                                <div id="output"/>
                             </div>
                             
                             <!-- Modal footer -->
@@ -352,10 +354,10 @@
                 <xsl:apply-templates select="//tei:person"/>
                 <xsl:apply-templates select="//tei:org"/>
                 <!-- #page we need this extra closing tag here -->
-                <script type="text/javascript" src="https://shared.acdh.oeaw.ac.at/fundament/dist/fundament/vendor/jquery/jquery.min.js"></script>
-                <script type="text/javascript" src="https://shared.acdh.oeaw.ac.at/fundament/dist/fundament/js/fundament.min.js"></script>
+                <script type="text/javascript" src="https://shared.acdh.oeaw.ac.at/fundament/dist/fundament/vendor/jquery/jquery.min.js"/>
+                <script type="text/javascript" src="https://shared.acdh.oeaw.ac.at/fundament/dist/fundament/js/fundament.min.js"/>
                 <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.16/b-1.4.2/b-html5-1.4.2/b-print-1.4.2/datatables.min.js"/>
-                <script src="https://shared.acdh.oeaw.ac.at/solr-getter/solr.js"></script>
+                <script src="https://shared.acdh.oeaw.ac.at/solr-getter/solr.js"/>
                 <script>
                     <![CDATA[
                     $( document ).ready(function() {
@@ -564,7 +566,7 @@
                             </tr>
                             
                         </table>
-                        <div id="output"></div>
+                        <div id="output"/>
                     </div>
                     
                     <!-- Modal footer -->
@@ -601,7 +603,9 @@
                                 <th>Alternative Namen</th>
                                 <td>
                                     <xsl:for-each select="subsequence(.//tei:placeName, 2)">
-                                        <li><xsl:value-of select="./text()"/></li>
+                                        <li>
+                                            <xsl:value-of select="./text()"/>
+                                        </li>
                                     </xsl:for-each>
                                 </td>
                             </tr>
@@ -619,7 +623,7 @@
                             </tr>
                             
                         </table>
-                        <div id="output"></div>
+                        <div id="output"/>
                     </div>
                     
                     <!-- Modal footer -->
@@ -662,13 +666,15 @@
                                 <th>Alternative Namen</th>
                                 <td>
                                     <xsl:for-each select="subsequence(.//tei:orgName, 2)">
-                                        <li><xsl:value-of select="./text()"/></li>
+                                        <li>
+                                            <xsl:value-of select="./text()"/>
+                                        </li>
                                     </xsl:for-each>
                                 </td>
                             </tr>
                             
                         </table>
-                        <div id="output"></div>
+                        <div id="output"/>
                     </div>
                     
                     <!-- Modal footer -->
