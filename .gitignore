@@ -1,6 +1,2 @@
-/editions/.gitignore
-/indices/.gitignore
-/meta/.gitignore
-/utils/.gitignore
 /html/out.html
 /thun-data.xpr
