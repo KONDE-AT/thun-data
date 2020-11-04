@@ -102,7 +102,7 @@
                     keinen Vicedirektor anerkennen, selbst auf den Corridor, wo die Schüler immer
                     auf und abgehen, beleidigte er ihn, und in der Sitzung brach er die Gelegenheit
                     vom Zaume [sic!], ihn wegen der Anempfehlung der Neufferischen Übersetzung der
-                        Aeneis<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=hri-aaaacaaj&amp;hl=de&amp;source=gbs-navlinks-s">Christian Ludwig Neuffer, Aeneis im Versmaaß der Urschrift übersetzt,
+                    Aeneis<note xml:id="note_1">Vgl. <ref target="https://books.google.at/books?id=HRI-AAAAcAAJ&hl=de&source=gbs_navlinks_s">Christian Ludwig Neuffer, Aeneis im Versmaaß der Urschrift übersetzt,
                             Reutlingen 1816</ref>.</note> an die Schüler zur Rede zu
                     stellen.<lb/>Die Bibliotheksfrage, welche dir aus meinem Berichte vom 26.
                     vorigen Monats Z. 4824 bekannt sein dürfte, erweckte in <rs type="person" ref="#schmied-anton">Schmid</rs> die höchste Indignation gegen alle
@@ -176,7 +176,7 @@
                     Bauführungen hinausgeschoben worden war. Sitzungen werden nur, wenn sie
                     unvermeidlich sind, gehalten und arten gewöhnlich in ein Chaos aus. Zu den
                     häufigen Verhören werden nie andere Professoren als <rs type="person" ref="#schmied-anton">Schmid</rs> und Pöschel [<rs type="person" ref="#poeschl-heinrich-ernst">Pöschl</rs>] beigezogen, wohl aber war
-                    bei solchen ein gewisser <rs type="person" ref="#czermak">Czermak</rs> zugegen, ein
+                    bei solchen ein gewisser Czermak zugegen, ein
                     Saufbruder des <rs type="person" ref="#klemsch-johann-kapistran">Klemsch</rs>, der
                     für ein paar Gulden alles zu thun bereit ist, in der Stadt des schlechtesten
                     Rufes genießt, sich aber rühmt durch den <rs type="person" ref="#nahlowsky-joseph-wilhelm">Direktor</rs> eine Professur in
@@ -396,19 +396,7 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                <person xml:id="czermak">
-                        <persName>
-                            <surname>Czermak</surname>
-                            <forename>Johann</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Schulrat für Böhmen</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                <person xml:id="klemsch-johann-kapistran">
+                 <person xml:id="klemsch-johann-kapistran">
                         <persName>
                             <surname>Klemsch</surname>
                             <forename>Johann Kapistran</forename>
