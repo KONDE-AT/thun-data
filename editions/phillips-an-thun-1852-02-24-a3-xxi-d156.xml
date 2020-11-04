@@ -89,7 +89,7 @@
                     Auskunft zu geben. Im Jahre 1845 kam er auf den Vorschlag des <rs type="person" ref="#reisach-karl-august">Erzbischofs von Reisach</rs> von
                         <rs type="place" subtype="place" ref="#place_9ae0133b9256a87352801c2a37fdd149">Landshut</rs> nach <rs type="place" subtype="place" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</rs> als Rector der hiesigen Studienanstalt. Weil ich
                     früher im Auftrage des Ordinariates <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> sein Buch über die Urgeschichte<note xml:id="note_3">
-                        <ref target="http://books.google.at/books?id=h39aaaaacaaj&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Sebastian Mutzl, Urgeschichte der Erde und des Menschengeschlechtes
+                        <ref target="https://books.google.at/books?id=PlRlAAAAcAAJ&dq=sebastian+mutzl&hl=de&source=gbs_navlinks_s">Sebastian Mutzl, Urgeschichte der Erde und des Menschengeschlechtes
                             nach der Mosaischen Urkunde und den Ergebnissen der Wissenschaften,
                             Landshut 1843</ref>.</note> censirt[?] hatte, so wurde ich mit ihm
                     dahier bald persönlich bekannt und pflege mit ihm seither häufigen Umgang. Seine
@@ -159,10 +159,10 @@
                         <note>
                             <p>1801–1873 Landshut</p>
                             <p>ab 1846 Lehrer am Gymnasium in Passau, ab 1855 Studienrektor und Direktor des Erziehungs-Institutes in Landshut, ab 1856 Kreisscholarch für Niederbaiern</p>
-                            <p>http://d-nb.info/gnd/102606870</p>
+                            <p>http://d-nb.info/gnd/116473487</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102606870</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116473487</tei:idno>
                     </person>
                 <person xml:id="reisach-karl-august">
                         <persName>
