@@ -673,16 +673,15 @@
                     </person>
                 <person xml:id="codru-germaniu">
                         <persName>
-                            <surname>Codru Drăguşanu</surname>
-                            <forename>Ion</forename>
+                            <surname>Codru</surname>
+                            <forename>German</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
+                            <p>Unterbezirkskommissär von Großschenk in Siebenbürgen</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/156360500</p>
-                            <p>(auch Ion Codrea, Germaniu Codru)</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/156360500</tei:idno>
                     </person>
                 <person xml:id="salamon-josef">
                         <persName>
