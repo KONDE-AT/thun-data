@@ -8351,7 +8351,7 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
+                    <person xml:id="gorgias">
                         <persName>
                             <surname>Gorgias</surname>
                             <forename>k_A</forename>
@@ -8359,9 +8359,10 @@
                         <note>
                             <p>Leontinoi 480–380 v. Chr.</p>
                             <p>Philosoph, einer der Hauptvertreter der Sophistik</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/118696521</p>
                             <p>k_A</p>
                         </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118696521</tei:idno>
                     </person>
                     <person xml:id="gorzkowski-von-gorzkow-karl">
                         <persName>
@@ -24524,10 +24525,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/129236284</p>
+                            <p>k_A</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/129236284</tei:idno>
                     </person>
                     <person xml:id="stengel">
                         <persName>
@@ -25259,10 +25259,9 @@
                         <note>
                             <p>1809–1888 Przemyśl</p>
                             <p>Ministerialrat im Unterrichtsministerium (Referent für die galizischen Volks- und Mittelschulen), später griech.-kath. Domherr in Przemyśl</p>
-                            <p>http://d-nb.info/gnd/119230232</p>
+                            <p>k_A</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119230232</tei:idno>
                     </person>
                     <person xml:id="szathmary">
                         <persName>
@@ -28490,7 +28489,7 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
+                    <person xml:id="xenophanes">
                         <persName>
                             <surname>Xenophanes von Kolophon</surname>
                             <forename>k_A</forename>
@@ -28498,9 +28497,10 @@
                         <note>
                             <p>um 570–um 470 v. Chr.</p>
                             <p>vorsokratischer Philosoph</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/118635794</p>
                             <p>k_A</p>
                         </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118635794</tei:idno>            
                     </person>
                     <person xml:id="xerxes-I">
                         <persName>
