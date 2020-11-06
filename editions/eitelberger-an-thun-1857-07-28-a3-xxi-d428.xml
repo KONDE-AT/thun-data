@@ -88,7 +88,7 @@
                         Bonghi, Perché la letteratura italiana non sia popolare in Italia, Milano
                         1856.</note> werde ich im Laufe dieser Woche an Herrn <rs type="person" ref="#mozart-joseph">Sektionsrath Mozart</rs> senden.<lb/>
                     <rs type="person" ref="#bonghi-ruggiero">Bonghis</rs> Arbeit über
-                        <rs type="person" ref="#">Aristoteles</rs>
+                        <rs type="person" ref="#aristoteles">Aristoteles</rs>
                     <note xml:id="note_2">Ruggiero Bonghi,
                         Metafisica D'Aristotile. Volgarizzata e commentata, Torino 1854.</note>
                     konnte ich weder in der Bibliothek Marciana, noch in irgend einem Buchhandel
@@ -166,7 +166,20 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1023724472</tei:idno>
-                    </person>
+                </person>
+                <person xml:id="aristoteles">
+                    <persName>
+                        <surname>Aristoteles</surname>
+                        <forename>k_A</forename>
+                    </persName>
+                    <note>
+                        <p>Stageira 384–322 v. Chr. Chalkis</p>
+                        <p>griech. Philosoph</p>
+                        <p>http://d-nb.info/gnd/185689361</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/185689361</tei:idno>
+                </person>
             </listPerson>
             <listPlace>
                 <place xml:id="place_80c239e539544aa459dc13996638cb2f">

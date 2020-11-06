@@ -107,7 +107,7 @@
                     die angenehmsten für die gebildeten Schichten der Gesellschaft sind, vor in
                     Piemont zu bleiben. Seine Mittel erlauben ihm, seitdem er sich vermählt hat,
                     ziemlich unabhängig zu leben. Die erste Frucht seiner literarischen Thätigkeit
-                    war eine Ausgabe der Metaphysik des <rs type="person" ref="#">Aristoteles</rs>
+                    war eine Ausgabe der Metaphysik des <rs type="person" ref="#aristoteles">Aristoteles</rs>
                     <note xml:id="note_1">Vgl. Ruggiero Bonghi, Metafisica d’Aristotele, libri I–VI,
                         Torino 1854.</note>, die auch in deutschen Kreisen mit großem Beifalle
                     aufgenommen wurde. Vor wenigen Monaten hat er in <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>
@@ -271,7 +271,20 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119427060</tei:idno>
-                    </person>
+                </person>
+                <person xml:id="aristoteles">
+                    <persName>
+                        <surname>Aristoteles</surname>
+                        <forename>k_A</forename>
+                    </persName>
+                    <note>
+                        <p>Stageira 384–322 v. Chr. Chalkis</p>
+                        <p>griech. Philosoph</p>
+                        <p>http://d-nb.info/gnd/185689361</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/185689361</tei:idno>
+                </person>
                 <person xml:id="mueller-joseph">
                         <persName>
                             <surname>Müller</surname>
