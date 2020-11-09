@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lehrerkollegium-gymnasium-goerz-an-thun-1860-11-05-a3-xxi-d623a30.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-cilli-1860-10-31-a3-xxi-d623a39.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-graz-an-thun-1860-a3-xxi-d623a28.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
+    xml:id="lehrerkollegium-gymnasium-goerz-an-thun-1860-11-05-a3-xxi-d623a30.xml"
+    prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-cilli-1860-10-31-a3-xxi-d623a39.xml"
+    next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-graz-an-thun-1860-a3-xxi-d623a28.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Lehrerkollegium des Gymnasiums in Görz an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
-                        Thun</rs>
+                <title>Das Lehrerkollegium des Gymnasiums in Görz an <rs type="person"
+                        ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs>, <date when="1860-11-05">5.
-                        November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_4de166ce82fade94306232184d2c4387"
+                        >Görz</rs>, <date when="1860-11-05">5. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB59-B</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
+                        >http://hdl.handle.net/21.11115/0000-000B-DB59-B</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -68,81 +72,97 @@
                     ächter Wissenschaftlichkeit, das in diesem Jahrzehend allüberall in unserm
                     großen Vaterlande erblühte, es wird Euer Excellenz liebender Pflege entwunden,
                     in sich selber Kräfte finden, die seine Erstarkung, seinen Bestand verbürgen.
-                    <lb/>Wir vertrauen dem guten Genius <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>. Er wird nicht zugeben, daß der Kampf, den Euer
-                    Excellenz rastlos gekämpft hie mit banaler Bequemlichkeit und Mittelmäßigkeit,
-                    dort mit der Verschiedenheit provinzieller Sprach- und Kulturzustände, allerorts
-                    mit der mannigfachen Ungunst äußerer und innerer Verhältnisse, werthvoller und
-                    bleibender Eroberung verlustig gehe.<lb/>Doch was auch kommen mag, der Ruhm Euer
-                    Excellenz ist geborgen: geht es zum Lichte hinan, so war es Euer Excellenz, der
-                    den Born erschloß; führt der Weg ins Dunkel, so leuchten Thun’s Sterne um so
-                    heller.<lb/>Euer Excellenz haben die Gymnasien aus lateinischen Hochschulen zu
-                    Bildungsstätten erhoben, in denen ein vielseitiges wissenschaftliches Interesse
-                    in der alle einzelnen Richtungen durchdringenden erziehenden Idee seine Bindung
-                    und seinen Werth für die Entwicklung des Charakters findet; diese
-                    Bildungsanstalten erfreuen sich einer ehrenhaften Stellung unter bewährten, aus
-                    ihrem eigenen Mittel hervorgehenden Schulmännern; sie stehen nicht mehr isolirt,
-                    sondern sowohl mit dem Inland als mit den vorgeschrittenen Anstalten <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs> in einem regen Wechselverkehre, der
-                    den Austausch ihrer pädagogischen Erfahrungen und wissenschaftlichen
-                    Erstrebnisse vermittelt; die hohen Behörden, von der humanen Gesinnung Euer
-                    Excellenz beseelt, greifen nicht mehr mit Machtgeboten, sondern mit dem
-                    Übergewichte taktvoller Ein- und Umsicht in den geregelten Gang der Schule ein
-                    und indem sich überall das Streben beurkundet, das Verdienst an seinen Platz zu
-                    stellen, arbeitet Meister und Geselle freudig stolz an seiner Aufgabe, seiner
-                    Werthschätzung gewiß.<lb/>Genehmigen Euer Excellenz für diese
+                    <lb/>Wir vertrauen dem guten Genius <rs type="place" subtype="country"
+                        ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>. Er wird
+                    nicht zugeben, daß der Kampf, den Euer Excellenz rastlos gekämpft hie mit
+                    banaler Bequemlichkeit und Mittelmäßigkeit, dort mit der Verschiedenheit
+                    provinzieller Sprach- und Kulturzustände, allerorts mit der mannigfachen Ungunst
+                    äußerer und innerer Verhältnisse, werthvoller und bleibender Eroberung verlustig
+                    gehe.<lb/>Doch was auch kommen mag, der Ruhm Euer Excellenz ist geborgen: geht
+                    es zum Lichte hinan, so war es Euer Excellenz, der den Born erschloß; führt der
+                    Weg ins Dunkel, so leuchten Thun’s Sterne um so heller.<lb/>Euer Excellenz haben
+                    die Gymnasien aus lateinischen Hochschulen zu Bildungsstätten erhoben, in denen
+                    ein vielseitiges wissenschaftliches Interesse in der alle einzelnen Richtungen
+                    durchdringenden erziehenden Idee seine Bindung und seinen Werth für die
+                    Entwicklung des Charakters findet; diese Bildungsanstalten erfreuen sich einer
+                    ehrenhaften Stellung unter bewährten, aus ihrem eigenen Mittel hervorgehenden
+                    Schulmännern; sie stehen nicht mehr isolirt, sondern sowohl mit dem Inland als
+                    mit den vorgeschrittenen Anstalten <rs type="place" subtype="country"
+                        ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs> in einem
+                    regen Wechselverkehre, der den Austausch ihrer pädagogischen Erfahrungen und
+                    wissenschaftlichen Erstrebnisse vermittelt; die hohen Behörden, von der humanen
+                    Gesinnung Euer Excellenz beseelt, greifen nicht mehr mit Machtgeboten, sondern
+                    mit dem Übergewichte taktvoller Ein- und Umsicht in den geregelten Gang der
+                    Schule ein und indem sich überall das Streben beurkundet, das Verdienst an
+                    seinen Platz zu stellen, arbeitet Meister und Geselle freudig stolz an seiner
+                    Aufgabe, seiner Werthschätzung gewiß.<lb/>Genehmigen Euer Excellenz für diese
                     bewunderungswürdige Hebung und Entwicklung des Gymnasiallebens den schwachen
                     Ausdruck unsers innigsten Dankgefühls, die aufrichtige Huldigung unserer Herzen.
                     Der Himmel segne das Werk, das Euer Excellenz in begeisterter Brust getragen und
                     lasse Sie die reifen Früchte desselben in freudiger Bewunderung schauen!</p>
-                <p>C. Holzinger Director<lb/>Ferd. Gatti<lb/>Hubert Leitgeh<lb/>L. Preiß<lb/>J.
-                    Steiner<lb/>Thom. Hohenwarter<lb/>Polar<lb/>J. Solar<lb/>A.
-                    Marusić<lb/>Pertout<lb/>Franz Schaffenhauer<lb/>Filip Pauschitz<lb/>Johann
-                    Trajanschek<lb/>Josef Indrak<lb/>Anton Diak</p>
+                <p><rs type="person" ref="#holzinger-carl">C. Holzinger Director</rs><lb/><rs
+                        type="person" ref="#gatti-ferdinand">Ferd. Gatti</rs><lb/><rs type="person"
+                        ref="#leitgeb-hubert">Hubert Leitgeb</rs><lb/><rs type="person"
+                        ref="#preiss-ludwig">L. Preiß</rs><lb/><rs type="person"
+                        ref="#steiner-joseph">J. Steiner</rs><lb/><rs type="person"
+                        ref="#hohenwarter-thomas">Thom. Hohenwarter</rs><lb/><rs type="person"
+                        ref="#scholar-johann">J. Sólar</rs><lb/><rs type="person"
+                        ref="#marusic-andreas">A. Marusić</rs><lb/><rs type="person"
+                        ref="#pertout-lorenz">Pertout</rs><lb/><rs type="person"
+                        ref="#schaffenhauer-franz">Franz Schaffenhauer</rs><lb/><rs type="person"
+                        ref="#pauschitz-philipp">Filip Pauschitz</rs><lb/><rs type="person"
+                        ref="#trojanschek-johann">Johann Trojanschek</rs><lb/><rs type="person"
+                        ref="#indrak-josef">Josef Indrak</rs><lb/><rs type="person"
+                        ref="#diak-anton">Anton Diak</rs></p>
                 <p>Görz, den 5. November 1860</p>
             </div>
         </body>
-    <back>
+        <back>
             <listPerson>
                 <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Thun-Hohenstein</surname>
+                        <forename>Leo (Leopold)</forename>
+                    </persName>
+                    <note>
+                        <p>Tetschen 1811–1888 Wien</p>
+                        <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und
+                            Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung
+                            "Das Vaterland"</p>
+                        <p>http://d-nb.info/gnd/118757393</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118757393</tei:idno>
+                </person>
             </listPerson>
             <listPlace>
                 <place xml:id="place_4de166ce82fade94306232184d2c4387">
-                        <placeName>Province of Gorizia</placeName>
-                        <placeName type="pref">goerz</placeName>
-                        <placeName type="alt">Görz</placeName>
-                        <location>
-                            <geo decls="#LatLng">45.93432 13.61834</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/6541866/</idno>
-                    </place>
+                    <placeName>Province of Gorizia</placeName>
+                    <placeName type="pref">goerz</placeName>
+                    <placeName type="alt">Görz</placeName>
+                    <location>
+                        <geo decls="#LatLng">45.93432 13.61834</geo>
+                    </location>
+                    <idno>http://sws.geonames.org/6541866/</idno>
+                </place>
                 <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
-                        <placeName type="pref">oesterreich</placeName>
-                        <placeName type="alt">Vaterlande</placeName>
-                        <placeName type="alt">Österreichs</placeName>
-                        <placeName type="alt">Oesterreich</placeName>
-                        <placeName type="alt">Oestreich</placeName>
-                        <placeName type="alt">Österreich</placeName>
-                    </place>
+                    <placeName type="pref">oesterreich</placeName>
+                    <placeName type="alt">Vaterlande</placeName>
+                    <placeName type="alt">Österreichs</placeName>
+                    <placeName type="alt">Oesterreich</placeName>
+                    <placeName type="alt">Oestreich</placeName>
+                    <placeName type="alt">Österreich</placeName>
+                </place>
                 <place xml:id="place_162b390989a8678640067963acb65109">
-                        <placeName>Deutschland</placeName>
-                        <placeName type="alt">Deutschlands</placeName>
-                        <placeName type="alt">Germany</placeName>
-                        <location>
-                            <geo decls="#LatLng">51.5 10.5</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/2921044/</idno>
-                    </place>
+                    <placeName>Deutschland</placeName>
+                    <placeName type="alt">Deutschlands</placeName>
+                    <placeName type="alt">Germany</placeName>
+                    <location>
+                        <geo decls="#LatLng">51.5 10.5</geo>
+                    </location>
+                    <idno>http://sws.geonames.org/2921044/</idno>
+                </place>
             </listPlace>
         </back>
     </text>

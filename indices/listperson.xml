@@ -1094,8 +1094,8 @@
                             <forename>Johann</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Beamter in Graz</p>
+                            <p>†1885 Graz</p>
+                            <p>Jurist, Sekretär des Ständischen Ausschusses in Graz</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -1850,15 +1850,15 @@
                     <person xml:id="beer">
                         <persName>
                             <surname>Beer</surname>
-                            <forename>k_A</forename>
+                            <forename>Jacob</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>http://d-nb.info/gnd/100030831</p>
+                            <p>Chodová Planá 1796–1866 Prag</p>
+                            <p>Theologe, ab 1840 General-Großmeister des Kreuzherren-Ordens mit dem roten Stern, ab 1854 Direktor der wissenschaftlichen Prüfungskommission für Gymnasiallehramtskandidaten</p>
+                            <p>http://d-nb.info/gnd/1055523545</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100030831</tei:idno>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1055523545</tei:idno>
                     </person>
                     <person xml:id="belgiojoso-johann-jakob">
                         <persName>
@@ -2996,11 +2996,12 @@
                             <forename>Carl Franz Ernst Augus</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
+                            <p>Stolzenau 1796–1861 Hannover</p>
                             <p>Minister des Kultus im Königreich Hannover</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/102115591</p>
                             <p>k_A</p>
                         </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102115591</tei:idno>
                     </person>
                     <person>
                         <persName>
@@ -4317,12 +4318,12 @@
                             <forename>Pietro</forename>
                         </persName>
                         <note>
-                            <p>1805–1871</p>
+                            <p>Strada in Casentino 1805–1871 Pisa</p>
                             <p>1839–1844 Prof. der Institutionen des römischen Rechts an der Universität Siena, ab 1844 Prof. an der Universität Pisa</p>
-                            <p>http://d-nb.info/gnd/185474624</p>
+                            <p>http://d-nb.info/gnd/104930618X</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/185474624</tei:idno>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104930618X</tei:idno>
                     </person>
                     <person xml:id="contriner-leonhard">
                         <persName>
@@ -4379,7 +4380,7 @@
                             <forename>Francesco</forename>
                         </persName>
                         <note>
-                            <p>1804–1859</p>
+                            <p>Siena 1804–1859 Siena</p>
                             <p>1842–1849 Prof. der politischen Wissenschaften an der Universität Siena</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
@@ -4791,8 +4792,8 @@
                             <forename>Stephan</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Direktor des Gymnaiums von Neustadt in Prag</p>
+                            <p>Straznic 1789–1856 Prag</p>
+                            <p>1806 Eintritt in den Piaristenorden, Lehrer an verschiedenen Gymnasien, ab 1834 Direktor des Neustädter Gymnasiums in Prag</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -5010,7 +5011,7 @@
                             <forename>Johann</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
+                            <p>† 1858 Pest</p>
                             <p>Prof. der Staatsrechnungswissenschaft an der Universität Pest</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
@@ -5236,6 +5237,18 @@
                         <note>
                             <p>1770–1850</p>
                             <p>rumän. Philologe und Schriftsteller, ab 1812 Lehrer an der neu gegründeten Lehrerbildungsanstalt in Arad</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                    <person>
+                        <persName xml:id="diak-anton">
+                            <surname>Diak</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Priester, Lehrer am Gymnasium in Görz, ab 1863 Lehrer an der Oberealschule in Görz</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -7804,8 +7817,21 @@
                             <forename>Franz</forename>
                         </persName>
                         <note>
-                            <p>†1882</p>
+                            <p>Oberhaid 1820–1882 Prießnitztal bei Mödling </p>
                             <p>bis 1851 Privatdozent für Staatsarzneikunde an der Universität Wien, 1851–1872 Prof. für gerichtliche Medizin an der Universität Lemberg, 1870–1882 Prof. für gerichtliche Medizin an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/1206601388</p>
+                            <p>k_A</p>
+                        </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1206601388</tei:idno>
+                    </person>
+                    <person xml:id="gatti-ferdinand">
+                        <persName>
+                            <surname>Gatti</surname>
+                            <forename>Ferdinand</forename>
+                        </persName>
+                        <note>
+                            <p>Graz 1823–1874 Görz</p>
+                            <p>Lehrer am Gymnasium in Görz, ab 1868 Direktor der Realschule in Görz</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -10440,6 +10466,19 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118861484</tei:idno>
                     </person>
+                    <person xml:id="hohenwarter-thomas">
+                        <persName>
+                            <surname>Hohenwarter</surname>
+                            <forename>Thomas</forename>
+                        </persName>
+                        <note>
+                            <p>1809–1879 Kötschach</p>
+                            <p>ab 1854 Lehrer am Gymnasium in Kaschau, ab 1855 Lehrer am Gymnasium in Görz, ab 1868 Lehrer am Gymnasium in Linz, ab 1871 Lehrer am Gymnasium in Klagenfurt</p>
+                            <p>http://d-nb.info/gnd/1172901821</p>
+                            <p>k_A</p>
+                        </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1172901821</tei:idno>
+                    </person>
                     <person xml:id="homola-stephan">
                         <persName>
                             <surname>Homola</surname>
@@ -11020,8 +11059,20 @@
                             <forename>Karl</forename>
                         </persName>
                         <note>
+                            <p>*Schwaz 1823</p>
+                            <p>Beamter bei den Staatsanwaltschaften in Bozen, Wien und Wiener Neustadt, Ministerialkonzipist im MCU, ab 1863 Ministerialsekretär, ab 1869 Sektionsrat ebendort</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
-                            <p>Ministerialkonzipist</p>
+                        </note>
+                    </person>
+                    <person xml:id="indrak-josef">
+                        <persName>
+                            <surname>Indrak</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer am Gymnasium in Görz</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -14212,6 +14263,19 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118571249</tei:idno>
                     </person>
+                    <person xml:id="leitgeb-hubert">
+                        <persName>
+                            <surname>Leitgeb</surname>
+                            <forename>Hubert</forename>
+                        </persName>
+                        <note>
+                            <p>Portendorf 1835–1888 Graz</p>
+                            <p>Lehrer am Gymnasium in Cilli, 1860 Lehrer am Gymnasium Görz, 1866 Habilitation für Botanik und ao. Prof. an der Universität Graz, ab 1869 Professor ebendort</p>
+                            <p>http://d-nb.info/gnd/117634816</p>
+                            <p>k_A</p>
+                        </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117634816</tei:idno>
+                    </person>
                     <person xml:id="lejeune-dirichlet-peter-gustav">
                         <persName>
                             <surname>Lejeune-Dirichlet</surname>
@@ -15897,6 +15961,18 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118731416</tei:idno>
+                    </person>
+                    <person xml:id="marusic-andreas">
+                        <persName>
+                            <surname>Marusic</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer am Gymnasium in Görz, ab 1875 Mitglied des Landesschulrates</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
                     </person>
                     <person xml:id="marzani-johann">
                         <persName>
@@ -18970,6 +19046,18 @@
                             <p>k_A</p>
                         </note>
                     </person>
+                    <person xml:id="pauschitz-philipp">
+                        <persName>
+                            <surname>Pauschitz</surname>
+                            <forename>Philipp</forename>
+                        </persName>
+                        <note>
+                            <p>Nötsch 1824–1884 Graz</p>
+                            <p>ab 1851 Assistent am Joanneum, ab 1853 Lehrer am Gymnasium in Eger, ab 1855 Lehrer am Gymnasium in Görz, 1869 Lehrer am Gymnasium in Graz, 1874 Direktor ebendort</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
                     <person xml:id="pavic-anton">
                         <persName>
                             <surname>Pavić</surname>
@@ -19217,7 +19305,31 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1025803965</tei:idno>
-                    </person>
+                        <person xml:id="pertile-giambattista">
+                            <persName>
+                                <surname>Pertile</surname>
+                                <forename>Giambattista</forename>
+                            </persName>
+                            <note>
+                                <p>Asiago 1811–1884 Padua</p>
+                                <p>Priester, 1841–1858 Prof. für Kirchenrecht an der Universität Pavia, anschließend Prof. an der Universität Padua</p>
+                                <p>http://d-nb.info/gnd/1025803965</p>
+                                <p>k_A</p>
+                            </note>
+                            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1025803965</tei:idno>
+                        </person>
+                        <person xml:id="pertout-lorenz">
+                            <persName>
+                                <surname>Pertout</surname>
+                                <forename>Lorenz</forename>
+                            </persName>
+                            <note>
+                                <p>k_A</p>
+                                <p>Lehrer am Gymnasium in Görz, ab 1875 Mitglied des Landesschulrates</p>
+                                <p>no gnd provided</p>
+                                <p>k_A</p>
+                            </note>
+                        </person>
                     <person xml:id="pertz-georg-heinrich">
                         <persName>
                             <surname>Pertz</surname>
@@ -20205,6 +20317,18 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116280816</tei:idno>
+                    </person>
+                    <person xml:id="preiss-ludwig">
+                        <persName>
+                            <surname>Preiss</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer am Gymnasium in Görz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
                     </person>
                     <person xml:id="premru-joseph">
                         <persName>
@@ -22300,6 +22424,18 @@
                             <p>k_A</p>
                         </note>
                     </person>
+                    <person xml:id="schaffenhauer-franz">
+                            <persName>
+                                <surname>Schaffenhauer</surname>
+                                <forename>Franz Xaver</forename>
+                            </persName>
+                            <note>
+                                <p>k_A</p>
+                                <p>Lehrer am Gymnasium in Görz, ab 1869 Direktor ebendort</p>
+                                <p>no gnd provided</p>
+                                <p>k_A</p>
+                            </note>
+                        </person>
                     <person xml:id="schaffgotsch-zu-warmbrunn">
                         <persName>
                             <surname>Schaffgotsch zu Warmbrunn</surname>
@@ -23087,6 +23223,18 @@
                         <note>
                             <p>k_A</p>
                             <p>Supplent für Mathematik und deutsche Sprache am Gymnasium in Pressburg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                    <person xml:id="scholar-johann">
+                        <persName>
+                            <surname>Sólar</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>†1883 Zara</p>
+                            <p>Priester, Lehrer am Gymnasium in Laibach, ab 1854 Lehrer am Gymnasium in Cilli, ab 1857 Lehrer am Gymnasium in Görz, ab 1871 Landeschulinspektor in Krain und Dalmatien</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -24443,6 +24591,18 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101668066</tei:idno>
+                    </person>
+                    <person xml:id="steiner-joseph">
+                        <persName>
+                            <surname>Steiner</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Präfekt am Theresianum in Wien, ab 1860 Lehrer am Gymnasium in Görz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
                     </person>
                     <person>
                         <persName>
@@ -26480,6 +26640,18 @@
                             <p>k_A</p>
                         </note>
                     </person>
+                        <person xml:id="trojanschek-johann">
+                            <persName>
+                                <surname>Trojanscheck</surname>
+                                <forename>Johann</forename>
+                            </persName>
+                            <note>
+                                <p>k_A</p>
+                                <p>Lehrer am Gymnasium in Görz, ab 1872 Bezirksschulinspektor in Görz</p>
+                                <p>no gnd provided</p>
+                                <p>k_A</p>
+                            </note>
+                        </person>
                     <person xml:id="trokan-johann">
                         <persName>
                             <surname>Trokan</surname>
