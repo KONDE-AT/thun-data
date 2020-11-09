@@ -4186,6 +4186,19 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/136186343</tei:idno>
                     </person>
+                    <person xml:id="clam-martinic-richard">
+                        <persName>
+                            <surname>Clam-Martinic</surname>
+                            <forename>Richard</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1832–1891 Smečno</p>
+                            <p>zunächst militärische Laufbahn, 1879-1888 Mitglied des Abgeordnetenhauses, ab 1889 lebenlanges Mitglied des Herrrenhauses, Schwager von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/136186386</p>
+                            <p>k_A</p>
+                        </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/136186386</tei:idno>
+                    </person>
                     <person xml:id="clam-martinic-selina">
                         <persName>
                             <surname>Clam-Martinic</surname>
