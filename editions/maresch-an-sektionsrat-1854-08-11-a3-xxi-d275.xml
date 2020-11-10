@@ -92,7 +92,7 @@
                     Männern fehlt es nicht, obgleich auch diese nicht allzuhäufig angetroffen
                     werden. Ein Schuldirektor <rs type="person" ref="#">Sammer</rs> in
                         <rs type="place" subtype="place" ref="#place_a808e5c57f7af6870dafa78db5ce4321">Leitmeritz</rs> dürfte für <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> und ein
-                        <rs type="person" ref="#reichel-carl">Reichel</rs> in
+                        <rs type="person" ref="#reichel-wenzel">Reichel</rs> in
                         <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs> für die <rs type="place" subtype="region" ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</rs> vollkommen
                     brauchbar sein und <rs type="person" ref="#renner">Canonicus Renner</rs> in
                         <rs type="place" subtype="place" ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</rs> in <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
@@ -306,18 +306,17 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116769041</tei:idno>
                     </person>
-                <person xml:id="reichel-carl">
+                <person xml:id="reichel-wenzel">
                         <persName>
                             <surname>Reichel</surname>
-                            <forename>Karl</forename>
+                            <forename>Wenzel</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>Supplent am Gymnasium in Pressburg, Schuldirektor in Eger</p>
-                            <p>http://d-nb.info/gnd/157803368</p>
+                            <p>Priester, Direktor der Kreis- und Unterrealschule in Eger</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/157803368</tei:idno>
                     </person>
                 <person xml:id="renner">
                         <persName>
