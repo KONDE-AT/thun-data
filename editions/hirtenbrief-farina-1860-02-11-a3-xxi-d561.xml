@@ -3,7 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Hirtenbrief von Giovanni Antonio Farina<lb/>Treviso, <date when="1860-02-11">11. Februar 1860</date>
+                <title>Hirtenbrief von Giovanni <rs type="person" ref="#farina-giovanni-antonio">Antonio Farina</rs>
+                    <lb/><rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs>,
+                    <date when="1860-02-11">11. Februar 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +46,9 @@
                 <index>
                     <term>Kultus</term>
                 </index>
-                <p/>
+                <p>
+                    <hi rend="italic">Dieser Druck wurde nicht transkribiert.</hi>
+                </p>
             </div>
         </body>
     <back/>
