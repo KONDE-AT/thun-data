@@ -141,7 +141,7 @@
                         <rs type="person" ref="#weiss-johann-baptist">Weiß</rs> ist ein vertrauter
                     Freund des Herrn Polizeydirectors <rs type="person" ref="#sacher-masoch-leopold-johann">Baron Sacher</rs>, mit dem ihn bekannt zu machen der Herr Professor,
                     so wie auch ihn dem Bischofe aufzuführen, dem Platzcommandanten <rs type="person" ref="#schneider">Baron Schneider</rs>, einem Schwaben, vorzustellen,
-                    bei dem Herrn Director <rs type="person" ref="#">Steinbüchel</rs> und bei anderen sehr
+                    bei dem Herrn Director <rs type="person" ref="#steinbuechel-von-rheinwall-anton">Steinbüchel</rs> und bei anderen sehr
                     conservativ gesinnten Familien einzuführen, sich, gleich in den ersten Tagen der
                     Anwesenheit <rs type="person" ref="#bock-cornelius-peter">Bocks</rs>, sehr beeilte;
                         <rs type="person" ref="#bock-cornelius-peter">Prof. Bock</rs> ist ein
@@ -237,7 +237,7 @@
                     helfen, sondern um die Achtung all‘ seiner Freunde bringen werde. Daß es
                     durchaus nichts tauge Celtisches und Normänisches, Griechisches und Englisches
                     zugleich zu treiben, jetzt <rs type="person" ref="#dante-alighieri">Dantes</rs>
-                    divina comedia und in der nächsten Stunde <rs type="person" ref="#platon">Plato</rs> und <rs type="person" ref="#">Aristoteles</rs> zu lesen, jetzt sich
+                    divina comedia und in der nächsten Stunde <rs type="person" ref="#platon">Plato</rs> und <rs type="person" ref="#aristoteles">Aristoteles</rs> zu lesen, jetzt sich
                     mit celtischen Streitäxten (worüber <rs type="person" ref="#weiss-johann-baptist">Weiß</rs> wirklich im Gesellenvereine gelesen) und in der nächsten
                     Minute sich wieder mit den Runen zu beschäftigen, das führe zum Dilettantismus,
                     zur Verflachung zu encyclopädischem Wissen, was für einen Vertreter eines
@@ -356,12 +356,12 @@
                         <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> etwas geschehen seyn mußte, was <rs type="person" ref="#bock-cornelius-peter">Bock</rs> zum Nachtheile gereiche. So
                     standen die Sachen als Professor <rs type="person" ref="#bock-cornelius-peter">Bock</rs> am verflossenen Freitag von seiner Reise mit Pfarrer
                         <rs type="person" ref="#knabl-richard">Knabl</rs> zurükkam, und mir erklärte,
-                    daß er sich veranlaßt sehe in <rs type="person" ref="#">Wien</rs> durch <rs type="person" ref="#phillips-george">Philipps</rs>, dem er vor seiner Abreise,
+                    daß er sich veranlaßt sehe in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> durch <rs type="person" ref="#phillips-george">Philipps</rs>, dem er vor seiner Abreise,
                     nämlich Sonntag den 22. Juni geschrieben, von dem er aber noch keine Antwort
                     erhalten, was er dem Umstande zuschreibe, daß vielleicht <rs type="person" ref="#phillips-george">Philipps</rs> Wien schon verlassen habe, eine
                     Audienz bei <rs type="person" ref="#kempen-johann-franz">Baron Kempen</rs> zu
                     erhalten, um seine Rechtfertigung zu erwirken, was ich nicht mißbilligen konnte.
-                    Der Mann kommt also Donnerstag oder Freitag nach <rs type="person" ref="#">Wien</rs>, und
+                    Der Mann kommt also Donnerstag oder Freitag nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, und
                     will sich auch <rs type="person" ref="#thun-hohenstein-leo">Seiner Excellenz dem Herrn
                         Unterrichtsminister</rs> vorstellen und die hier erfahrene Behandlung
                     zu seiner Rechtfertigung demselben darlegen.<lb/>Diese Vervollständigung meines

@@ -5,8 +5,7 @@
             <titleStmt>
                 <title>
                     <rs type="person" ref="#jaksch-anton" role="sender:gelehrter">Anton Jaksch</rs>
-                    an <rs type="person" ref="#" role="recipient">Unbekannt</rs>
-                    <lb/>
+                    an Unbekannt<lb/>
                     <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">o.
                         O. [Prag]</rs>, <date when="1854-12-22">22. Dezember
                     1854</date>

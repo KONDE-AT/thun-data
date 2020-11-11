@@ -534,10 +534,10 @@
                         <note>
                             <p>ca. 1177–1235 Ofen</p>
                             <p>1205–1235 König von Ungarn</p>
-                            <p>Q271104</p>
+                            <p>http://d-nb.info/gnd/118649175</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">Q271104</tei:idno>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118649175</tei:idno>
                     </person>
                     <person xml:id="andreas-III">
                         <persName>
@@ -547,10 +547,10 @@
                         <note>
                             <p>1265–1301</p>
                             <p>ab 1290 König von Ungarn</p>
-                            <p>Q456526</p>
+                            <p>http://d-nb.info/gnd/120007533</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">Q456526</tei:idno>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/120007533</tei:idno>
                     </person>
                     <person xml:id="andrich-vincenzo">
                         <persName>
@@ -2463,18 +2463,6 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116195843</tei:idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Bisling</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="bitta-josef">
                         <persName>
                             <surname>Bitta</surname>
@@ -2703,7 +2691,7 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118512617</tei:idno>
                     </person>
-                    <person>
+                    <person xml:id="boethius">
                         <persName>
                             <surname>Boëthius</surname>
                             <forename>Anicius Manlius Severinus</forename>
@@ -2711,10 +2699,11 @@
                         <note>
                             <p>Rom 475/480–524/526 Pavia</p>
                             <p>Philosph</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/11851282X</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11851282X</tei:idno>
+                        </person>
                     <person>
                         <persName>
                             <surname>Bojincă</surname>
@@ -4999,8 +4988,8 @@
                             <forename>Valentino</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Prof. am Priesterseminar Trient</p>
+                            <p>Ala 1813–1867 Olmütz</p>
+                            <p>Prof. am Priesterseminar Trient, im Jahr 1848 journalistisch für die Unabhängigkeit des Trentino aktiv, 1856 daher an die Theologische Fakultät in Olmütz versetzt</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -7440,10 +7429,10 @@
                         <note>
                             <p>Potsdam 1770–1840 Berlin</p>
                             <p>ab 1797 König von Preußen</p>
-                            <p>Q37134</p>
+                            <p>http://d-nb.info/gnd/118535986</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">Q37134</tei:idno>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535986</tei:idno>
                     </person>
                     <person xml:id="friedrich-wilhelm-IV">
                         <persName>
@@ -7453,10 +7442,10 @@
                         <note>
                             <p>Berlin 1795–1861 Potsdam</p>
                             <p>1840–1861 König von Preußen, 1858 Regentschaft an seinen Bruder abgegeben</p>
-                            <p>Q57180</p>
+                            <p>http://d-nb.info/gnd/118535994</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">Q57180</tei:idno>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535994</tei:idno>
                     </person>
                     <person>
                         <persName>
@@ -8550,9 +8539,10 @@
                         <note>
                             <p>Wien 1791–1872 Wien</p>
                             <p>Schriftsteller, Dichter und Dramatiker</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/118542192</p>
                             <p>k_A</p>
                         </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118542192</tei:idno>
                     </person>
                     <person xml:id="groisz-gustav">
                         <persName>
@@ -9313,12 +9303,13 @@
                             <forename>Friedrich</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
+                            <p>Wien 1811–1877 Wien</p>
                             <p>1845–1851 Prof. für höhere Mathematik und praktische Geometrie am Joanneum in Graz, ab 1851 Prof. für praktische Geometrie, ab 1857 Prof. der höheren Mathematik und praktischen Geometrie am polytechnischen Institut in Wien, 1868 dessen Rektor</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/1055295631</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1055295631</tei:idno>
+                      </person>
                     <person xml:id="hartwig">
                         <persName>
                             <surname>Hartwig</surname>
@@ -10144,10 +10135,11 @@
                         <note>
                             <p>Graz 1812–1868</p>
                             <p>1836-1841 Lehrer am Gymnasium in St. Stephan in Augsburg, 1841–1849 Lehrer am Gymnasium in Judenburg, 1854–1861 Direktor des Staatsgymnasium in Graz, ab 1861 Administrator des Benediktinerstiftes Admont, ab 1863 Abt</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/1011857502</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1011857502</tei:idno>
+                       </person>
                     <person xml:id="hieron-II">
                         <persName>
                             <surname>Hieron II. von Syrakus</surname>
@@ -10359,9 +10351,10 @@
                         <note>
                             <p>Fallersleben 1798–1874 Corvey</p>
                             <p>ab 1821 Bibliothekar in Berlin, ab 1823 Kustos der Universitätsbibliothek Breslau, 1830–1842 Prof. für deutsche Sprache und Literatur an der Universität Breslau, 1842 seiner Professur enthoben</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/118552589</p>
                             <p>k_A</p>
                         </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118552589</tei:idno>
                     </person>
                     <person xml:id="hoffmann-emanuel">
                         <persName>
@@ -12065,10 +12058,10 @@
                         <note>
                             <p>Gent 1500–1558 San Yuste</p>
                             <p>1519–1556 Kaiser des HRR</p>
-                            <p>Q12824476</p>
+                            <p>http://d-nb.info/gnd/118560093</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">Q12824476</tei:idno>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118560093</tei:idno>
                     </person>
                     <person xml:id="karl-VII">
                         <persName>
@@ -15300,7 +15293,7 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
+                    <person xml:id="luzzago-priester">
                         <persName>
                             <surname>Luzzago</surname>
                             <forename>k_A</forename>
@@ -18587,6 +18580,18 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1024826031</tei:idno>
                     </person>
+                    <person xml:id="orobko-josef">
+                        <persName>
+                            <surname>Orobko</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Schüler am Gymnasium in Czernowitz, später griech.-orth. Pfarrer in Stanestie</p>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
                     <person xml:id="osegovich-emerich">
                         <persName>
                             <surname>Ožegović von Barlabaševec</surname>
@@ -21819,7 +21824,7 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11874951X</tei:idno>
                     </person>
-                    <person>
+                    <person xml:id="roenne-ludwig">
                         <persName>
                             <surname>Rönne</surname>
                             <forename>Ludwig</forename>
@@ -21827,10 +21832,11 @@
                         <note>
                             <p>Glückstadt 1804–1891 Berlin</p>
                             <p>1825 Eintritt in den preußischen Justizdienst, in unterschiedlichen Positionen an mehreren Gerichten tätig, 1842–1859 Kammergerichtsrat in Berlin</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/115549390</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/115549390</tei:idno>
+                     </person>
                     <person>
                         <persName>
                             <surname>Rösler</surname>
@@ -22054,10 +22060,10 @@
                         <note>
                             <p>Wien 1339–1365 Mailand</p>
                             <p>genannt der Stifter, Erzherzog von Österreich, Herzog von Kärnten, Herzog der Steiermark sowie ab 1363 Graf von Tirol, Gründer der Universität Wien</p>
-                            <p>Q5228267</p>
+                            <p>http://d-nb.info/gnd/11860368X</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">Q5228267</tei:idno>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11860368X</tei:idno>
                     </person>
                     <person xml:id="ruge-arnold">
                         <persName>
@@ -22685,14 +22691,14 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person xml:id="schiller">
+                    <person xml:id="schiller-carl">
                         <persName>
                             <surname>Schiller</surname>
-                            <forename>k_A</forename>
+                            <forename>Carl</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>Prof. am Gymnasium in Pressburg</p>
+                            <p>ab 1851 Supplent am Gymnasium in Pressburg</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
