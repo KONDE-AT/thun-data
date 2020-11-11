@@ -7,7 +7,7 @@
                     <rs type="person" ref="#rechberg-rothenloewen-bernhard" role="sender:beamter">Bernhard
                         Rechberg</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>,<date when="1857-07-11">11. Juli 1857 [1853?]</date>
+                    <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, <date when="1857-07-11">11. Juli 1857 [1853?]</date>
                     <note xml:id="note_1">Der
                         Brief ist im Nachlass in das Jahr 1857 datiert. Die Schreibung ist jedoch nicht
                         eindeutig. Der Absendeort Verona lässt vielmehr auf das Jahr 1853 schließen,
