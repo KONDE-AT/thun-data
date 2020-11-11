@@ -6,11 +6,9 @@
                 <title>
                     <rs type="person" ref="#maresch-johann" role="sender:beamter">Johann
                         Maresch</rs> an <rs type="person" ref="#" role="recipient">einen Sektionsrat im
-                            MCU<note xml:id="note_1">Der Adressat ist nicht eindeutig
-                            identifizierbar. In Frage kommen: Joseph Mozart, Johann Fontana, Anton
-                            Krombholz, Johann Simor, Johann Kleemann und Ludwig
-                        Heufler.</note>
-                    </rs>
+                            MCU</rs><note xml:id="note_1">Der Adressat ist nicht eindeutig identifizierbar. Durch die Anrede
+                                als Hochwürden kommen indes aber nur Anton Krombholz und Johann Simor in Frage.</note>
+                  
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</rs>, <date when="1854-08-11">11. August 1854</date>
                 </title>
