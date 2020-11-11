@@ -10872,7 +10872,7 @@
                             <forename>Philipp Eduard</forename>
                         </persName>
                         <note>
-                            <p>Hann.Münden 1801–1886 Breslau</p>
+                            <p>Hann. Münden 1801–1886 Breslau</p>
                             <p>Jurist, ab 1824 Prof. an der Universität Breslau, ab 1827 Prof. an der Universität Breslau</p>
                             <p>http://d-nb.info/gnd/118708309</p>
                             <p>k_A</p>
@@ -15661,8 +15661,8 @@
                     </person>
                     <person xml:id="manujlovics-maximus">
                         <persName>
-                            <surname>Manujlovics Maximus</surname>
-                            <forename>k_A</forename>
+                            <surname>Manujlovics</surname>
+                            <forename>Maximus</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -20823,15 +20823,16 @@
                     </person>
                     <person xml:id="rajacic-joseph">
                         <persName>
-                            <surname>Rajačić</surname>
-                            <forename>Joseph</forename>
+                            <surname>Rajačić von Brinski</surname>
+                            <forename>Joseph (Ilija)</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>1833–1842 griech.-orthod. Bischof des Bistums Vršac, 1842–1861 Patriarch, Erzbischof und Metropolit von Karlowitz</p>
-                            <p>no gnd provided</p>
+                            <p>Lučani 1785–1861 Karlowitz (Sremski Karlovci)</p>
+                            <p>1833–1842 griech.-orthod. Bischof des Bistums Vršac, 1842–1861 Patriarch, Erzbischof und Metropolit von Karlowitz (Sremski Karlovci)</p>
+                            <p>http://d-nb.info/gnd/139772545</p>
                             <p>k_A</p>
                         </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/139772545</tei:idno>
                     </person>
                     <person xml:id="rajewski-michael">
                         <persName>
