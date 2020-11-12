@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-unbekannt-1851-04-03-ca1207.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1858-05-09-ca1000.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-vicari-1851-02-07-ca804.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
+    xml:id="thun-an-unbekannt-1851-04-03-ca1207.xml"
+    prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1858-05-09-ca1000.xml"
+    next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-vicari-1851-02-07-ca804.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="#" role="recipient">Unbekannt [<rs type="person" ref="#fries-flora">Flora
-                            Fries</rs>?]</rs>
-                    <note xml:id="note_1">Im Katalog der
-                        Berliner Staatsbibliothek ist Flora Gräfin Fries als Adressatin
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs
+                        type="person" ref="#fries-flora">Flora Fries</rs> [?]<note xml:id="note_1">Im
+                        Katalog der Berliner Staatsbibliothek ist Flora Gräfin Fries als Adressatin
                         verzeichnet.</note>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--04-03">3. April [1851]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46"
+                        >o. O.</rs>, <date when="--04-03">3. April [1851]</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9EA-9</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
+                        >http://hdl.handle.net/21.11115/0000-000B-D9EA-9</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -45,7 +48,7 @@
                     <date>3. April [1851]</date>
                 </correspAction>
                 <correspAction type="received">
-                    <rs type="person" ref="#">Unbekannt [</rs>
+                    <rs type="person" ref="#fries-flora">Flora Fries [?]</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -65,65 +68,72 @@
                 </index>
                 <p>Gnädige Fürstin!<lb/>Ich freue mich Ihnen mittheilen zu können, daß Ihr Protegé
                         <rs type="person" ref="#pohl-josef">Pohl</rs> die zunächst gewünschte
-                    Anstellung als Assistent am <rs type="org" ref="#org_0061">polytechnischen Institute</rs> erlangt hat.<lb/>Ich wage es an diese
-                    Nachricht eine Bitte zu knüpfen. – Es ist endlich gelungen, eine wirklich gute
-                    böhmische Zeitung zu Stande zu bringen, welche seit einem halben Jahre hier
-                    unter dem Namen Vidensky denník erscheint. Das Unternehmen hat Aussicht auf
-                    günstigen Erfolg, wenn es gelingt die erforderlichen Geldmittel flüssig zu
-                    erhalten, deren jede neue Zeitung in der ersten Zeit ihres Bestandes bedarf. Es
-                    ist nach meiner Überzeugung zur Besiegung des verderblichen Einflusses einer
-                    gewissen Parthei wirklich von Wichtigkeit die Sache nicht fallen zu lassen, und
-                    ich halte es deshalb für meine Pflicht um Unterstützung derselben zu bitten,
-                    nachdem ich dafür bürgen kann, daß die Leitung des Unternehmens so eingerichtet
-                    ist, um ein Umschlagen der Richtung auch für künftige Zeiten unmöglich zu
-                    machen. Es ist auf Akzien zu 250 fl CM gegründet.<lb/>Mit aufrichtiger Verehrung
-                    habe ich die Ehre zu verharren gnädige Fürstin<lb/>Ihr ergebenster Diener</p>
+                    Anstellung als Assistent am <rs type="org" ref="#org_0061">polytechnischen
+                        Institute</rs> erlangt hat.<lb/>Ich wage es an diese Nachricht eine Bitte zu
+                    knüpfen. – Es ist endlich gelungen, eine wirklich gute böhmische Zeitung zu
+                    Stande zu bringen, welche seit einem halben Jahre hier unter dem Namen Vidensky
+                    denník erscheint. Das Unternehmen hat Aussicht auf günstigen Erfolg, wenn es
+                    gelingt die erforderlichen Geldmittel flüssig zu erhalten, deren jede neue
+                    Zeitung in der ersten Zeit ihres Bestandes bedarf. Es ist nach meiner
+                    Überzeugung zur Besiegung des verderblichen Einflusses einer gewissen Parthei
+                    wirklich von Wichtigkeit die Sache nicht fallen zu lassen, und ich halte es
+                    deshalb für meine Pflicht um Unterstützung derselben zu bitten, nachdem ich
+                    dafür bürgen kann, daß die Leitung des Unternehmens so eingerichtet ist, um ein
+                    Umschlagen der Richtung auch für künftige Zeiten unmöglich zu machen. Es ist auf
+                    Akzien zu 250 fl CM gegründet.<lb/>Mit aufrichtiger Verehrung habe ich die Ehre
+                    zu verharren gnädige Fürstin<lb/>Ihr ergebenster Diener</p>
                 <p>Leo Thun</p>
                 <p>Den 3. April</p>
             </div>
         </body>
-    <back>
+        <back>
             <listPerson>
                 <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Thun-Hohenstein</surname>
+                        <forename>Leo (Leopold)</forename>
+                    </persName>
+                    <note>
+                        <p>Tetschen 1811–1888 Wien</p>
+                        <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und
+                            Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung
+                            "Das Vaterland"</p>
+                        <p>http://d-nb.info/gnd/118757393</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118757393</tei:idno>
+                </person>
                 <person xml:id="pohl-josef">
-                        <persName>
-                            <surname>Pohl</surname>
-                            <forename>Josef</forename>
-                        </persName>
-                        <note>
-                            <p>Wien 1825–1900 Wien</p>
-                            <p>ab 1846 Assistent für Chemie am Polytechnikum Wien, ab 1856 Professor der militäradministrativen Lehranstalt, ab 1866 Professor am Polytechnikum Wien</p>
-                            <p>http://d-nb.info/gnd/116260297</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116260297</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Pohl</surname>
+                        <forename>Josef</forename>
+                    </persName>
+                    <note>
+                        <p>Wien 1825–1900 Wien</p>
+                        <p>ab 1846 Assistent für Chemie am Polytechnikum Wien, ab 1856 Professor der
+                            militäradministrativen Lehranstalt, ab 1866 Professor am Polytechnikum
+                            Wien</p>
+                        <p>http://d-nb.info/gnd/116260297</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/116260297</tei:idno>
+                </person>
             </listPerson>
             <listPlace>
                 <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
-                        <placeName>o. O.</placeName>
-                        <location>
-                            <geo decls="#LatLng"/>
-                        </location>
-                    </place>
+                    <placeName>o. O.</placeName>
+                    <location>
+                        <geo decls="#LatLng"/>
+                    </location>
+                </place>
             </listPlace>
             <listOrg>
                 <org xml:id="org_0061">
-                        <orgName>Polytechnikum Wien</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/37787-9</idno>
-                    </org>
+                    <orgName>Polytechnikum Wien</orgName>
+                    <idno type="URL" subtype="GND">http://d-nb.info/gnd/37787-9</idno>
+                </org>
             </listOrg>
         </back>
     </text>

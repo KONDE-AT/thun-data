@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="chlumecky-an-thun-1855-02-08-a3-xxi-d328.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1065.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/chlumecky-an-thun-1860-06-12-a3-xxi-d590.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
+    xml:id="chlumecky-an-thun-1855-02-08-a3-xxi-d328.xml"
+    prev="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1065.xml"
+    next="https://id.acdh.oeaw.ac.at/thun/editions/chlumecky-an-thun-1860-06-12-a3-xxi-d590.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#chlumecky-peter" role="sender:gelehrter">Peter
-                        Chlumecky</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                        Chlumecky</rs> an <rs type="person" ref="#thun-hohenstein-leo"
+                        role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <date when="1855-02-08">8. Februar 1855</date>
+                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500"
+                        >Brünn</rs>, <date when="1855-02-08">8. Februar 1855</date>
                 </title>
                 <author/>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC93-7</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
+                        >http://hdl.handle.net/21.11115/0000-000B-DC93-7</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -86,27 +92,28 @@
                             Moraviae, Brünn 1836–1903.</note>, eine Anzeige über die Correspondenz
                         der Diarien etc. <rs type="person" ref="#zierotin-karl">Carls von
                             Zierotin</rs>
-                        <note xml:id="note_2">Vgl. Peter Chlumecky, Die
-                            öffentliche und Privat-Correspondenz, die Tagebücher und
-                            Urkundensammlungen Carls des älteren Herren von Zierotin (1564–1636),
-                            1854.</note>, und den Bericht über die Ausgrabungen bey Bellowitz<note xml:id="note_3">Vgl. Peter Chlumecky, Bericht über die Ausgrabungen bei
-                            Bellowitz, 1853.</note> – letztere zwey sind Separatabdrücke aus den
-                        Schriften der historisch-statistischen Section der k.k.
-                        mährisch-schlesischen Ackerbaugesellschaft. Ich erlaube mir hiebey die Bitte
-                        zu stellen, Euer Excellenz geruhen in diesen Versuchen, meine an Tag gelegte
-                        Absicht und Zwecke, vor der sehr unvollkommenen Form der Durchführung in
-                        gnädigster Würdigung zu nehmen. Durch die von mir angeregten Gründung der
-                        früher erwähnten Section sollte der Sinn und die Liebe für geschichtliche
-                        Studien geweckt – und wo diese vorhanden waren die Forschungslust gefördert
-                        und die Veröffentlichung historischer Arbeiten vermittelt werden. Die
+                        <note xml:id="note_2">Vgl. Peter Chlumecky, Die öffentliche und
+                            Privat-Correspondenz, die Tagebücher und Urkundensammlungen Carls des
+                            älteren Herren von Zierotin (1564–1636), 1854.</note>, und den Bericht
+                        über die Ausgrabungen bey Bellowitz<note xml:id="note_3">Vgl. Peter
+                            Chlumecky, Bericht über die Ausgrabungen bei Bellowitz, 1853.</note> –
+                        letztere zwey sind Separatabdrücke aus den Schriften der
+                        historisch-statistischen Section der k.k. mährisch-schlesischen
+                        Ackerbaugesellschaft. Ich erlaube mir hiebey die Bitte zu stellen, Euer
+                        Excellenz geruhen in diesen Versuchen, meine an Tag gelegte Absicht und
+                        Zwecke, vor der sehr unvollkommenen Form der Durchführung in gnädigster
+                        Würdigung zu nehmen. Durch die von mir angeregten Gründung der früher
+                        erwähnten Section sollte der Sinn und die Liebe für geschichtliche Studien
+                        geweckt – und wo diese vorhanden waren die Forschungslust gefördert und die
+                        Veröffentlichung historischer Arbeiten vermittelt werden. Die
                         nachsichtsvolle und anerkennende Beurtheilung des Wirkens dieser Section in
                         der kürzlich herabgelangten hohen Zuschrift Euerer Excellenz, war der größte
                         Lohn für das wissenschaftliche Streben derselben. Die zur Förderung
                         geschichtlicher Studien in Mähren gestellte Aufgabe des mährischen
                         Landesausschusses (dessen Mitglied ich zu sein die Ehre habe), sollte nach
                         meinem unvorgreiflichen Erachten, die Quellenforschung und die
-                        Quellenherausgabe in erster Reihe umfassen; nach dem Vorbilde anderer
-                        Länder und nach meiner persönlichen Überzeugung, daß ohne Diplomaten das
+                        Quellenherausgabe in erster Reihe umfassen; nach dem Vorbilde anderer Länder
+                        und nach meiner persönlichen Überzeugung, daß ohne Diplomaten das
                         Geschichtsschreiben überhaupt, ohne Bekanntmachung der Rechtsdenkmäler das
                         Studium der Rechtsgeschichte, sehr erschwert ist, habe ich auf
                         Veröffentlichung von Urkunden und Rechtsbücher das größte Gewicht zu legen
@@ -118,239 +125,262 @@
                         Herausgabe des Codex auf Kosten des mährischen Domesticalfondes so wie jene
                         der alten Landtafel auf Kosten eines großen Theils des hohen begüterten
                         Erbadels dieses Landes zu leiten und durchzuführen, wobey ich vom mährisch
-                        ständischen Archivs- und Registraturbeamten <rs type="person" ref="#chytil-josef">J[osef] Chýtil</rs> besonders unterstützt wurde. Hiemit ist
-                        jedoch immer nur ein sehr geringer Anfang gemacht worden, denn die Erhaltung
-                        und Bewahrung, so wie die Herausgabe des ganzen überreichen, in öffentlichen
-                        und privat Archiven vorhandenen, in einigen derselben dem allmähligen
-                        Untergange preisgegebene Apparatus mährischer Urkunden und Rechtsdenkmäler –
-                        übersteigt bey weiten die Kräfte und Lebensdauer einiger Individuen und
-                        könnten nur durch Intervention eines höheren Willens durchgeführt werden.
-                        Ich versuche wenigstens die Übersicht des Gesammtmaterials dadurch zu
-                        erhalten, daß ich ein Verzeichnis aller in allen Archiven des Landes
-                        vorhandenen Urkunden bis zum Jahre 1620 und des anderen historischen
-                        Materials; eine Art von mährischen Generalrepertorium und Directorium zur
-                        Herausgabe vorbereite. Die für den betreffenden Zweig der Rechtsgeschichte
-                        wichtigen Weisthümer und Willkühren in Dorfs- und Marktgemeinden sind schon
-                        größten Theils verschwunden, und nur äußerst wenige haben sich erhalten, um
-                        diese wenigen vor gleichem Schicksal zu bewahren, beabsichtige ich dieselben
-                        zu veröffentlichen. Die „Anzeige der Correspondenzen, Diarien etc. Carls von
-                        Zierotin“ habe ich nur in einem Theile vollenden können, da eine schwere
-                        Krankheit mich an der Fortsetzung gehindert hat – ich habe jedoch diese
-                        Arbeit wieder aufgenommen, und hoffe mit Hülfe der Vorsehung im Laufe des
-                        Jahres den zweyten, bey weiten wichtigeren Theil der „Anzeige etc.“: die
-                        Correspondenz Zierotins aus den merkwürdigen Jahren 1606 bis 1612 mit
-                            <rs type="person" ref="#thurzo-georg">Thurzo</rs>, <rs type="person" ref="#illeshazi-istvan">Illýeshazy</rs>, <rs type="person" ref="#starhemberg-reichard">Reichard</rs> und <rs type="person" ref="#starhemberg-erasmus">Erasmus Stahremberg</rs>, <rs type="person" ref="#tschernembl-georg-erasmus">Tschernembl</rs>, <rs type="person" ref="#molart-hanns">Molart</rs>, <rs type="person" ref="#kinsberg-christoph">Kinsberg</rs>, <rs type="person" ref="#cavriani-ottavio">Cavriani</rs> und andere mit den Fürsten der deutschen
-                        evangelischen Union, mit dem <rs type="person" ref="#">Könige von England</rs> und mit
-                        den Staatsmännern <rs type="person" ref="#heinrich-IV">Heinrichs IV.</rs> von
-                        Frankreich – die leidige Entwicklung der Union der evangelischen
-                        östreichischen Stände, die Abdankung <rs type="person" ref="#rudolf-II">Rudolphs</rs> und die Thronbesteigung <rs type="person" ref="#mathias-I">Mathias</rs> betreffend, vollenden zu können. Der „Bericht über
-                        die Funde bey Bellowitz“ (wahrscheinlich mongolischen Ursprungs) ist ein
-                        kleiner Beytrag zur Litteratur unserer heidnischen Gräber – die barbarische
-                        Spur einer barbarischen trostlosen Epoche. Geruhen Euer Excellenz diese
-                        ausgedehnten Bemerkungen gnädigst zu entschuldigen – allein ich glaubte die
-                        Vorlage meiner unbedeutenden Arbeiten, mit einer ehrfurchtsvollsten
-                        Darstellung des von mir zur Herausgabe vorbereiteten anderweitigen
-                        historischen Materials, und der zur Förderung der vaterländischen Geschichte
-                        aufgestellten Grundsätze ergänzen zu sollen. Ich bitte Euer Excellenz den
-                        Ausdruck meiner unbegränzten Verehrung und der tiefsten Ehrfurcht gnädigst
-                        zu genehmigen.</p>
+                        ständischen Archivs- und Registraturbeamten <rs type="person"
+                            ref="#chytil-josef">J[osef] Chýtil</rs> besonders unterstützt wurde.
+                        Hiemit ist jedoch immer nur ein sehr geringer Anfang gemacht worden, denn
+                        die Erhaltung und Bewahrung, so wie die Herausgabe des ganzen überreichen,
+                        in öffentlichen und privat Archiven vorhandenen, in einigen derselben dem
+                        allmähligen Untergange preisgegebene Apparatus mährischer Urkunden und
+                        Rechtsdenkmäler – übersteigt bey weiten die Kräfte und Lebensdauer einiger
+                        Individuen und könnten nur durch Intervention eines höheren Willens
+                        durchgeführt werden. Ich versuche wenigstens die Übersicht des
+                        Gesammtmaterials dadurch zu erhalten, daß ich ein Verzeichnis aller in allen
+                        Archiven des Landes vorhandenen Urkunden bis zum Jahre 1620 und des anderen
+                        historischen Materials; eine Art von mährischen Generalrepertorium und
+                        Directorium zur Herausgabe vorbereite. Die für den betreffenden Zweig der
+                        Rechtsgeschichte wichtigen Weisthümer und Willkühren in Dorfs- und
+                        Marktgemeinden sind schon größten Theils verschwunden, und nur äußerst
+                        wenige haben sich erhalten, um diese wenigen vor gleichem Schicksal zu
+                        bewahren, beabsichtige ich dieselben zu veröffentlichen. Die „Anzeige der
+                        Correspondenzen, Diarien etc. Carls von Zierotin“ habe ich nur in einem
+                        Theile vollenden können, da eine schwere Krankheit mich an der Fortsetzung
+                        gehindert hat – ich habe jedoch diese Arbeit wieder aufgenommen, und hoffe
+                        mit Hülfe der Vorsehung im Laufe des Jahres den zweyten, bey weiten
+                        wichtigeren Theil der „Anzeige etc.“: die Correspondenz Zierotins aus den
+                        merkwürdigen Jahren 1606 bis 1612 mit <rs type="person" ref="#thurzo-georg"
+                            >Thurzo</rs>, <rs type="person" ref="#illeshazi-istvan">Illýeshazy</rs>,
+                            <rs type="person" ref="#starhemberg-reichard">Reichard</rs> und <rs
+                            type="person" ref="#starhemberg-erasmus">Erasmus Stahremberg</rs>, <rs
+                            type="person" ref="#tschernembl-georg-erasmus">Tschernembl</rs>, <rs
+                            type="person" ref="#molart-hanns">Molart</rs>, <rs type="person"
+                            ref="#kinsberg-christoph">Kinsberg</rs>, <rs type="person"
+                            ref="#cavriani-ottavio">Cavriani</rs> und andere mit den Fürsten der
+                        deutschen evangelischen Union, mit dem <rs type="person" ref="#jacob-i">Könige von
+                            England</rs> und mit den Staatsmännern <rs type="person"
+                            ref="#heinrich-IV">Heinrichs IV.</rs> von Frankreich – die leidige
+                        Entwicklung der Union der evangelischen östreichischen Stände, die Abdankung
+                            <rs type="person" ref="#rudolf-II">Rudolphs</rs> und die Thronbesteigung
+                            <rs type="person" ref="#mathias-I">Mathias</rs> betreffend, vollenden zu
+                        können. Der „Bericht über die Funde bey Bellowitz“ (wahrscheinlich
+                        mongolischen Ursprungs) ist ein kleiner Beytrag zur Litteratur unserer
+                        heidnischen Gräber – die barbarische Spur einer barbarischen trostlosen
+                        Epoche. Geruhen Euer Excellenz diese ausgedehnten Bemerkungen gnädigst zu
+                        entschuldigen – allein ich glaubte die Vorlage meiner unbedeutenden
+                        Arbeiten, mit einer ehrfurchtsvollsten Darstellung des von mir zur
+                        Herausgabe vorbereiteten anderweitigen historischen Materials, und der zur
+                        Förderung der vaterländischen Geschichte aufgestellten Grundsätze ergänzen
+                        zu sollen. Ich bitte Euer Excellenz den Ausdruck meiner unbegränzten
+                        Verehrung und der tiefsten Ehrfurcht gnädigst zu genehmigen.</p>
                     <p>Euer Excellenz<lb/>gehorsamst unterthänigster Diener<lb/>P. Ritter v.
                         Chlúmecký</p>
                     <p>Brünn 8. Februar 1855</p>
                 </div>
             </div>
         </body>
-    <back>
+        <back>
             <listPerson>
                 <person xml:id="chlumecky-peter">
-                        <persName>
-                            <surname>Chlumecký</surname>
-                            <forename>Peter</forename>
-                        </persName>
-                        <note>
-                            <p>Triest 1825–1863 Brünn</p>
-                            <p>Historiker, Referent für Kultus und Unterricht bei der Statthalterei in Brünn, ab 1854 Direktor des mährischen Landesarchivs</p>
-                            <p>http://d-nb.info/gnd/108794563</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/108794563</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Chlumecký</surname>
+                        <forename>Peter</forename>
+                    </persName>
+                    <note>
+                        <p>Triest 1825–1863 Brünn</p>
+                        <p>Historiker, Referent für Kultus und Unterricht bei der Statthalterei in
+                            Brünn, ab 1854 Direktor des mährischen Landesarchivs</p>
+                        <p>http://d-nb.info/gnd/108794563</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/108794563</tei:idno>
+                </person>
                 <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Thun-Hohenstein</surname>
+                        <forename>Leo (Leopold)</forename>
+                    </persName>
+                    <note>
+                        <p>Tetschen 1811–1888 Wien</p>
+                        <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und
+                            Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung
+                            "Das Vaterland"</p>
+                        <p>http://d-nb.info/gnd/118757393</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118757393</tei:idno>
+                </person>
                 <person xml:id="zierotin-karl">
-                        <persName>
-                            <surname>Žerotin</surname>
-                            <forename>Karl der Ältere</forename>
-                        </persName>
-                        <note>
-                            <p>Brandýs nad Orlicí 1564–1636 Přerov</p>
-                            <p>böhmischer Adeliger</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                    <persName>
+                        <surname>Žerotin</surname>
+                        <forename>Karl der Ältere</forename>
+                    </persName>
+                    <note>
+                        <p>Brandýs nad Orlicí 1564–1636 Přerov</p>
+                        <p>böhmischer Adeliger</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
                 <person xml:id="chytil-josef">
-                        <persName>
-                            <surname>Chytil</surname>
-                            <forename>Josef</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Archivar</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                    <persName>
+                        <surname>Chytil</surname>
+                        <forename>Josef</forename>
+                    </persName>
+                    <note>
+                        <p>k_A</p>
+                        <p>Archivar</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
                 <person xml:id="thurzo-georg">
-                        <persName>
-                            <surname>Thurzo</surname>
-                            <forename>Georg</forename>
-                        </persName>
-                        <note>
-                            <p>Lietava 1567–1616 Bytča</p>
-                            <p>1606–1616 Palatin von Ungarn</p>
-                            <p>http://d-nb.info/gnd/120404516</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/120404516</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Thurzo</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <note>
+                        <p>Lietava 1567–1616 Bytča</p>
+                        <p>1606–1616 Palatin von Ungarn</p>
+                        <p>http://d-nb.info/gnd/120404516</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/120404516</tei:idno>
+                </person>
                 <person xml:id="illeshazi-istvan">
-                        <persName>
-                            <surname>Illésházy</surname>
-                            <forename>István</forename>
-                        </persName>
-                        <note>
-                            <p>1541–1609 Wien</p>
-                            <p>ungarischer Adeliger</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                    <persName>
+                        <surname>Illésházy</surname>
+                        <forename>István</forename>
+                    </persName>
+                    <note>
+                        <p>1541–1609 Wien</p>
+                        <p>ungarischer Adeliger</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
                 <person xml:id="starhemberg-reichard">
-                        <persName>
-                            <surname>Starhemberg</surname>
-                            <forename>Reichard</forename>
-                        </persName>
-                        <note>
-                            <p>1570–1613</p>
-                            <p>Adeliger</p>
-                            <p>http://d-nb.info/gnd/101974913X</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101974913X</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Starhemberg</surname>
+                        <forename>Reichard</forename>
+                    </persName>
+                    <note>
+                        <p>1570–1613</p>
+                        <p>Adeliger</p>
+                        <p>http://d-nb.info/gnd/101974913X</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/101974913X</tei:idno>
+                </person>
                 <person xml:id="starhemberg-erasmus">
-                        <persName>
-                            <surname>Starhemberg</surname>
-                            <forename>Erasmus II.</forename>
-                        </persName>
-                        <note>
-                            <p>1575–1648</p>
-                            <p>Adeliger</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                    <persName>
+                        <surname>Starhemberg</surname>
+                        <forename>Erasmus II.</forename>
+                    </persName>
+                    <note>
+                        <p>1575–1648</p>
+                        <p>Adeliger</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
                 <person xml:id="tschernembl-georg-erasmus">
-                        <persName>
-                            <surname>Tschernembl</surname>
-                            <forename>Georg Erasmus</forename>
-                        </persName>
-                        <note>
-                            <p>Schwertberg 1567–1626 Genf</p>
-                            <p>Calvinist und Wortführer der Stände Österreichs ob der Enns</p>
-                            <p>http://d-nb.info/gnd/119852853</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119852853</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Tschernembl</surname>
+                        <forename>Georg Erasmus</forename>
+                    </persName>
+                    <note>
+                        <p>Schwertberg 1567–1626 Genf</p>
+                        <p>Calvinist und Wortführer der Stände Österreichs ob der Enns</p>
+                        <p>http://d-nb.info/gnd/119852853</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/119852853</tei:idno>
+                </person>
                 <person xml:id="molart-hanns">
-                        <persName>
-                            <surname>Molart</surname>
-                            <forename>Hanns</forename>
-                        </persName>
-                        <note>
-                            <p>†1619 Wien</p>
-                            <p>kaiserlicher Feldmarschall und Hofkriegsratspräsident</p>
-                            <p>http://d-nb.info/gnd/117119148</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117119148</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Molart</surname>
+                        <forename>Hanns</forename>
+                    </persName>
+                    <note>
+                        <p>†1619 Wien</p>
+                        <p>kaiserlicher Feldmarschall und Hofkriegsratspräsident</p>
+                        <p>http://d-nb.info/gnd/117119148</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/117119148</tei:idno>
+                </person>
                 <person xml:id="kinsberg-christoph">
-                        <persName>
-                            <surname>Kinsberg</surname>
-                            <forename>Christoph</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Hofkriegsratpräsident</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                    <persName>
+                        <surname>Kinsberg</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <note>
+                        <p>k_A</p>
+                        <p>Hofkriegsratpräsident</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
                 <person xml:id="heinrich-IV">
-                        <persName>
-                            <surname>Heinrich IV.</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>Pau 1553–1610 Paris</p>
-                            <p>ab 1589 König von Frankreich</p>
-                            <p>http://d-nb.info/gnd/118548271</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118548271</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Heinrich IV.</surname>
+                        <forename>k_A</forename>
+                    </persName>
+                    <note>
+                        <p>Pau 1553–1610 Paris</p>
+                        <p>ab 1589 König von Frankreich</p>
+                        <p>http://d-nb.info/gnd/118548271</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118548271</tei:idno>
+                </person>
                 <person xml:id="rudolf-II">
-                        <persName>
-                            <surname>Rudolph II.</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>Wien 1552–1612 Prag</p>
-                            <p>1576–1612 Kaiser des HRR</p>
-                            <p>http://d-nb.info/gnd/118603701</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118603701</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Rudolph II.</surname>
+                        <forename>k_A</forename>
+                    </persName>
+                    <note>
+                        <p>Wien 1552–1612 Prag</p>
+                        <p>1576–1612 Kaiser des HRR</p>
+                        <p>http://d-nb.info/gnd/118603701</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118603701</tei:idno>
+                </person>
                 <person xml:id="mathias-I">
-                        <persName>
-                            <surname>Mathias I.</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>Wien 1557–1619 Wien</p>
-                            <p>1608 König von Ungarn, seit 1611 König von Böhmen, 1612–1619 Kaiser des HRR</p>
-                            <p>http://d-nb.info/gnd/119400839</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119400839</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Mathias I.</surname>
+                        <forename>k_A</forename>
+                    </persName>
+                    <note>
+                        <p>Wien 1557–1619 Wien</p>
+                        <p>1608 König von Ungarn, seit 1611 König von Böhmen, 1612–1619 Kaiser des
+                            HRR</p>
+                        <p>http://d-nb.info/gnd/119400839</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/119400839</tei:idno>
+                </person>
             </listPerson>
             <listPlace>
                 <place xml:id="place_0c51d4343a81db10484268ad1f1b2500">
-                        <placeName>Brno</placeName>
-                        <placeName type="pref">Brünn [Brno]</placeName>
-                        <placeName type="alt">Brünn</placeName>
-                        <placeName type="alt">Brünner</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.19522 16.60796</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/3078610/</idno>
-                    </place>
+                    <placeName>Brno</placeName>
+                    <placeName type="pref">Brünn [Brno]</placeName>
+                    <placeName type="alt">Brünn</placeName>
+                    <placeName type="alt">Brünner</placeName>
+                    <location>
+                        <geo decls="#LatLng">49.19522 16.60796</geo>
+                    </location>
+                    <idno>http://sws.geonames.org/3078610/</idno>
+                </place>
             </listPlace>
         </back>
     </text>

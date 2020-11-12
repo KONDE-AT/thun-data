@@ -63,7 +63,7 @@
                 </index>
                 <p>Ich vermuthe Sie gehen auf den Technikerball. In diesem Falle bitte ich Sie, wenn
                     ich nicht komme, meine Entschuldigung zu machen. Ich muß auf einen Ball bei
-                        <rs type="person" ref="#">Schwarzenberg</rs>, weil die Majestäten hinkommen, und
+                    <rs type="person" ref="#schwarzenberg-johann-adolf">Schwarzenberg</rs>, weil die Majestäten hinkommen, und
                     zweifle daß es mir möglich sein wird, noch auf einen zweiten zu gehen, nachdem
                     ich auch noch dringende Arbeit habe.</p>
                 <p>Thun</p>

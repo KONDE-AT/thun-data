@@ -2992,7 +2992,7 @@
                         </note>
                         <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102115591</tei:idno>
                     </person>
-                    <person>
+                    <person xml:id="boser">
                         <persName>
                             <surname>Boser</surname>
                             <forename>k_A</forename>
@@ -3801,6 +3801,19 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118525824</tei:idno>
+                    </person>
+                    <person xml:id="cassola-filippo">
+                        <persName>
+                            <surname>Càssola</surname>
+                            <forename>Filippo</forename>
+                        </persName>
+                        <note>
+                            <p>Ferrandina 1792–1869 Neapel</p>
+                            <p>Chemiker, Mitglied zahlreicher wissenschaftlicher Gesellschaften</p>
+                            <p>http://viaf.org/viaf/88531062</p>
+                            <p>k_A</p>
+                        </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://viaf.org/viaf/88531062</tei:idno>
                     </person>
                     <person xml:id="cato-der-aeltere">
                         <persName>
@@ -11310,6 +11323,19 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118825615</tei:idno>
                     </person>
+                    <person xml:id="jakob-i">
+                        <persName>
+                            <surname>Jakob I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Edinburgh 1566–1625 Theobalds Park, Grafschaft Hertfordshire</p>
+                            <p>1603–1625 König von England</p>
+                            <p>http://d-nb.info/gnd/118639889</p>
+                            <p>k_A</p>
+                        </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118639889</tei:idno>
+                    </person>
                     <person xml:id="jaksch-anton">
                         <persName>
                             <surname>Jaksch von Wartenhorst</surname>
@@ -12547,9 +12573,10 @@
                         <note>
                             <p>Czernowitz 1808–1885 Wien</p>
                             <p>ab 1840 Professor für Weltgeschichte und Philologie an der phil. Lehranstalt in Görz, später in Laibach, ab 1850 Schulrat und Gymnasialinspektor für Steiermark, Kärnten und Krain, ab 1851 Sektionsrat im Ministerium für Kultus und Unterricht,  ab 1854 Ministerialrat</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/136161618</p>
                             <p>k_A</p>
                         </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/136161618</tei:idno>
                     </person>
                     <person xml:id="kleinmayer">
                         <persName>
@@ -12600,18 +12627,6 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11896917X</tei:idno>
                     </person>
-                    <person xml:id="klingler-josef">
-                        <persName>
-                            <surname>Klingler</surname>
-                            <forename>Josef</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Statthaltereirat</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="klingler-joseph">
                         <persName>
                             <surname>Klingler</surname>
@@ -12619,7 +12634,7 @@
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>Schulrat in Prag</p>
+                            <p>Gubernialkonzipist beim Gubernium in Prag, ab 1850 Referent bei der Landeschulbehörde in Böhmen, Statthaltereirat</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -13920,18 +13935,6 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116643765</tei:idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Lacordaire</surname>
-                            <forename>Jean Baptiste Henri OP</forename>
-                        </persName>
-                        <note>
-                            <p>Recey-sur-Ource 1802-–1861 Sorèze</p>
-                            <p>Gründer einer freien Schule in Sorrèze, 1835–1840 Prediger in Notre-Dame de Paris, 1848 Vertreter in der Konstituierenden Nationalversammlung, ab 1850 Provinzial des Dominikanerordens für Frankreich in Rom, ab 1853 Leiter seiner Schule</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person>
                         <persName>
@@ -15400,10 +15403,11 @@
                         <note>
                             <p>Istanbul 1785–1839 Istanbul</p>
                             <p>1808–1839 Sultan des Osmanischen Reiches</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/124530877</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/124530877</tei:idno>
+                     </person>
                     <person xml:id="maison-nicolas">
                         <persName>
                             <surname>Maison</surname>
@@ -16314,10 +16318,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/118529129</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118529129</tei:idno>
                     </person>
                     <person xml:id="mazzini-giuseppe">
                         <persName>
@@ -16364,10 +16367,11 @@
                         <note>
                             <p>Tabor 1804–1885 Graz</p>
                             <p>1848 Vizepräsident des Guberniums in Prag, ab 1849 Landeschef und Statthalter von Böhmen, 1860–1865 Polizeiminister</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/116989033</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116989033</tei:idno>
+                     </person>
                     <person xml:id="medem-paul">
                         <persName>
                             <surname>Medem</surname>
@@ -16806,30 +16810,6 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119065932</tei:idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Michesiu</surname>
-                            <forename>Florianu</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Anwalt</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Mickievicz</surname>
-                            <forename>Adam</forename>
-                        </persName>
-                        <note>
-                            <p>Nowogródek 1798–1855 Konstantinopel</p>
-                            <p>Dichter, wichtigster Vertreter der polnischen Romantik</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="mikulas-johann">
                         <persName>
                             <surname>Mikulas</surname>
@@ -16889,30 +16869,6 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Micu-Klein</surname>
-                            <forename>Ioan Inocenţiu OSBM</forename>
-                        </persName>
-                        <note>
-                            <p>Sadu 1692–1768 Rom</p>
-                            <p>1730–1751 rumän. griech.-kath. Bischof von Făgăraş und Oberhaupt der griech.-kath. Kirche</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Micu-Klein</surname>
-                            <forename>Samuel</forename>
-                        </persName>
-                        <note>
-                            <p>Sadu 1745–1806 Ofen</p>
-                            <p>rumän. griech.-kath. Theologe, Philologe und Philosoph</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -17994,18 +17950,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Nemes-Pataki</surname>
-                            <forename>Johannes Giurgiu</forename>
-                        </persName>
-                        <note>
-                            <p>Strâmbu-Băiut 1680–1727 Fagaras</p>
-                            <p>1713–1717 griech.-kath. Erzbischof von Alba Iulia und Fagaras</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="nemeth">
                         <persName>
                             <surname>Neméth</surname>
@@ -18031,7 +17975,7 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116945591</tei:idno>
                     </person>
-                    <person>
+                    <person xml:id="neuffer-christian">
                         <persName>
                             <surname>Neuffer</surname>
                             <forename>Christian Ludwig</forename>
@@ -18039,9 +17983,10 @@
                         <note>
                             <p>Stuttgart 1769–1839 Ulm</p>
                             <p>evang. Theologe, 1792–99 Prediger in Stuttgart, 1808 Pfarrer in Zell am Aichelberg, 1819 Stattpfarrer und Schulinspektor in Ulm</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/119044706</p>
                             <p>k_A</p>
                         </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119044706</tei:idno>     
                     </person>
                     <person xml:id="neumann-leopold">
                         <persName>
@@ -18158,11 +18103,11 @@
                     <person xml:id="nigris-philipp">
                         <persName>
                             <surname>Nigris</surname>
-                            <forename>Philipp</forename>
+                            <forename>Philipp Sylvester</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>Direktor der Gremialhandelsschule in Wien</p>
+                            <p>Direktor der Gremialhandelsschule in Wien, Lehrer für italienische Sprache und Autor von Fachbüchern für Handelsschulen</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -21805,12 +21750,13 @@
                             <forename>Johann Karl</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Dekan in Neustadt an der Mettau</p>
-                            <p>no gnd provided</p>
+                            <p>Leitomischl 1804–1877 Budyně nad Ohří</p>
+                            <p>ab 1850 Dekan in Neustadt an der Mettau, ab 1857 Bischofsvikar und Bezirksschulleiter</p>
+                            <p>http://viaf.org/viaf/83881321</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://viaf.org/viaf/83881321</tei:idno>
+                        </person>
                     <person xml:id="rokitansky-karl">
                         <persName>
                             <surname>Rokitansky</surname>
@@ -23537,7 +23483,19 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118763024</tei:idno>
                     </person>
-                    <person xml:id="schwarzenberg-karl">
+                        <person xml:id="schwarzenberg-johann-adolf">
+                            <persName>
+                                <surname>Schwarzenberg</surname>
+                                <forename>Johann Adolf</forename>
+                            </persName>
+                            <note>
+                                <p>Wien 1799–1888 Frauenberg</p>
+                                <p>Diplomat Vorsitzender der Wirtschaftsgesellschaft in Prag und Wien, Initiator der Kaiser-Franz-Josephs-Bahn, erster Präsident der Creditanstalt</p>
+                                <p>http://d-nb.info/gnd/117379727</p>
+                                <p>k_A</p>
+                            </note>
+                            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117379727</tei:idno>
+                        <person xml:id="schwarzenberg-karl">
                         <persName>
                             <surname>Schwarzenberg</surname>
                             <forename>Karl</forename>
@@ -24783,6 +24741,19 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118753509</tei:idno>
                     </person>
+                     <person xml:id="stephan-eduard">
+                                <persName>
+                                    <surname>Stephani</surname>
+                                    <forename>Eduard</forename>
+                                </persName>
+                                <note>
+                                    <p>Beucha 1817–1885 Leipzig</p>
+                                    <p>Jurist, Leiter der Gustav-Adolph-Vereins in Leipzig, Generalbevollmächtigter des Gustav-Adolph-Vereins</p>
+                                    <p>http://d-nb.info/gnd/11727285X</p>
+                                    <p>k_A</p>
+                                </note>
+                         <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11727285X</tei:idno>
+                            </person>
                     <person xml:id="sterca-sulutiu-alexandru">
                         <persName>
                             <surname>Sterka-Suluz</surname>

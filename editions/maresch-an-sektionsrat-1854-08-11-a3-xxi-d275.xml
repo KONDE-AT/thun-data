@@ -235,7 +235,7 @@
                     die böhmische Hauptschule hatte der Zöglinge sehr viele, darunter viele – Spreu.
                     Ein Theil hatte nur theilweise Prüfungen gemacht, obgleich sie schon zwei bis
                     drei Jahre an der Anstalt waren. Leider schätzt das Konsistorium den <rs type="person" ref="#amerling-karl">Dr. Ammerling</rs> und auch Statthaltereirath
-                        <rs type="person" ref="#klingler-josef">Klingler</rs> ist für diesen seinen
+                        <rs type="person" ref="#klingler-joseph">Klingler</rs> ist für diesen seinen
                     Mitschüler. Jenes bestimmt die Opposition gegen die Schulräthe, diesen die
                     Mitschülerschaft. Ach was würde aus der jungen Schulpflanzung ohne das
                     Unterrichtsministerium und dessen Organe, die Schulräthe. Die wenigen Wochen
@@ -393,18 +393,18 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/127422722</tei:idno>
                     </person>
-                <person xml:id="klingler-josef">
-                        <persName>
-                            <surname>Klingler</surname>
-                            <forename>Josef</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Statthaltereirat</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                <person xml:id="klingler-joseph">
+                    <persName>
+                        <surname>Klingler</surname>
+                        <forename>Joseph</forename>
+                    </persName>
+                    <note>
+                        <p>k_A</p>
+                        <p>Gubernialkonzipist beim Gubernium in Prag, ab 1850 Referent bei der Landeschulbehörde in Böhmen, Statthaltereirat</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
                 <person xml:id="lucius-quinctius-cincinnatus">
                         <persName>
                             <surname>Lucius Quinctius Cincinnatus</surname>
