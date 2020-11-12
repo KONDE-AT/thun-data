@@ -132,7 +132,7 @@
                 <p>V Chyžném, 20. Junia 1860</p>
                 <p>Váš</p>
                 <p>úprimný přítel a ctitel<lb/>Sam. Tomášek</p>
-                <p>V <rs type="person" ref="#pekar">Pekár</rs> a <rs type="person" ref="#loysch-jonas">Loysch</rs> taktéž se žalují. – <rs type="person" ref="#ormis-samuel">Sam[uel]
+                <p>V <rs type="person" ref="#pekar-stefan">Pekár</rs> a <rs type="person" ref="#loysch-jonas">Loysch</rs> taktéž se žalují. – <rs type="person" ref="#ormis-samuel">Sam[uel]
                         Ormisz</rs> farář ve Nižné Slané, bývalý Professor Mathematiky a
                     Physiky v Rožnavě, zkušuje též přemnohé odpornosti a pronasledování jako
                     švarcgelb, Patentista, bylby to výborný Professor do Levoči, lingvista
@@ -288,18 +288,18 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                <person xml:id="pekar">
-                        <persName>
-                            <surname>Pekár</surname>
-                            <forename>Stephan</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>evang. Pfarrer in Kokava, Senior des Klein-Honther Seniorats</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                <person xml:id="pekar-stefan">
+                    <persName>
+                        <surname>Pekar</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                    <note>
+                        <p>k_A</p>
+                        <p>evang. Pfarrer in Kokava, Senior des Klein-Honther Seniorats</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
                 <person xml:id="loysch-jonas">
                         <persName>
                             <surname>Loysch</surname>

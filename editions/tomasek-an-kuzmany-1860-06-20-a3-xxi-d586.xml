@@ -159,7 +159,7 @@
                     werden?! Doch genug des Lamentós – leben Sie wohl.</p>
                 <p>zu Chyžno, 20. Juni 1860</p>
                 <p>Ihr aufrichtiger Freund und Verehrer<lb/>Samuel Tomášek</p>
-                <p>P.S. <rs type="person" ref="#pekar">Pekar</rs> (Senior in
+                <p>P.S. <rs type="person" ref="#pekar-stefan">Pekar</rs> (Senior in
                         <rs type="place" subtype="place" ref="#place_493145ae17543372465d43d5f04a1e61">Kis-Honth</rs>) und <rs type="person" ref="#loysch-jonas">Loysch</rs> klagen ebenso. <rs type="person" ref="#ormis-samuel">Sam[uel]
                         Ormisz</rs>, Pfarrer in <rs type="place" subtype="place" ref="#place_6c663302ed869f8b06b13ee4dd12374d">Also-Sajó</rs>, gewesener
                     Professor der Mathematik und Physik in <rs type="place" subtype="place" ref="#place_94d458421577f333e584bb7fb0f47e91">Rosenau</rs> [Rožňava]
@@ -345,18 +345,18 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                <person xml:id="pekar">
-                        <persName>
-                            <surname>Pekár</surname>
-                            <forename>Stephan</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>evang. Pfarrer in Kokava, Senior des Klein-Honther Seniorats</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                <person xml:id="pekar-stefan">
+                    <persName>
+                        <surname>Pekar</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                    <note>
+                        <p>k_A</p>
+                        <p>evang. Pfarrer in Kokava, Senior des Klein-Honther Seniorats</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
                 <person xml:id="loysch-jonas">
                         <persName>
                             <surname>Loysch</surname>

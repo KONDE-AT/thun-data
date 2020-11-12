@@ -121,7 +121,7 @@
                         <rs type="person" ref="#burwal-johann">Johann Burwal mp</rs>
                         <lb/>Pfarrer</p>
                     <p>Coram me</p>
-                    <p>Franz Paul<lb/>Schuldistriktvorsteher</p>
+                    <p><rs type="person" ref="#paul-franz">Franz Paul</rs><lb/>Schuldistriktvorsteher</p>
                 </div>
             </div>
         </body>
