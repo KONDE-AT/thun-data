@@ -27,30 +27,6 @@
         <body>
             <div type="index_persons">
                 <listPerson xml:id="listperson">
-                    <person>
-                        <persName>
-                            <surname>Aaronu</surname>
-                            <forename>Theodor</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Aaronu</surname>
-                            <forename>Vasiliu</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>rumänischer Schriftsteller</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="abbondi-giorgio">
                         <persName>
                             <surname>Abbondi</surname>
@@ -112,18 +88,6 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118500597</tei:idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Adamović</surname>
-                            <forename>Gerasim</forename>
-                        </persName>
-                        <note>
-                            <p>1789–1796</p>
-                            <p>rumän.-orth. Bischof in Siebenbürgen</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="athanaczkovicz-plato">
                         <persName>
@@ -1100,18 +1064,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="baader-franz">
                         <persName>
                             <surname>Baader</surname>
@@ -1214,18 +1166,6 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/115553487</tei:idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Balcescu</surname>
-                            <forename>Nicolae</forename>
-                        </persName>
-                        <note>
-                            <p>Bukarest 1819–1852 Palermo</p>
-                            <p>Historiker und Schriftsteller, Anführer der rumänischen Revolution in der Walachei</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="balinski-michael">
                         <persName>
@@ -9917,15 +9857,16 @@
                     </person>
                     <person xml:id="henri-de-la-tour-dauvergne">
                         <persName>
-                            <surname>["Tour d'Auvergne"]</surname>
+                            <surname>Tour d’Auvergne</surname>
                             <forename>Henri de la, Vicomte de Turenne</forename>
                         </persName>
                         <note>
                             <p>Sedan 1611–1675 Sasbach</p>
                             <p>Marschall von Frankreich und bedeutender Feldherr</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/118802968</p>
                             <p>k_A</p>
                         </note>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118802968</tei:idno>
                     </person>
                     <person xml:id="henriques-de-carvalho-guilherme">
                         <persName>
@@ -24398,14 +24339,14 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
+                    <person xml:id="steinfelsner-joseph">
                         <persName>
                             <surname>Steinfelsner</surname>
-                            <forename>k_A</forename>
+                            <forename>Joseph</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
+                            <p>†1842</p>
+                            <p>Ziegeldecker und Hausbesitzer</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -24441,8 +24382,8 @@
                             <forename>Anna</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
+                            <p>Oberhollabrunn *1823</p>
+                            <p>Wirtstocher, angebliche Geliebte von Prof. Wilhlem Gärtner</p>
                             <p>k_A</p>
                             <p>k_A</p>
                         </note>
@@ -24486,7 +24427,7 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118753509</tei:idno>
                     </person>
                      <person xml:id="stephan-eduard">
-                                <persName>
+                               <persName>
                                     <surname>Stephani</surname>
                                     <forename>Eduard</forename>
                                 </persName>
@@ -24560,7 +24501,7 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118618156</tei:idno>
                     </person>
-                    <person>
+                    <person xml:id="sternberg-kaspar">
                         <persName>
                             <surname>Sternberg</surname>
                             <forename>Kaspar</forename>
@@ -24572,7 +24513,7 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
+                    <person xml:id="sternberg-manderscheid-franz">
                         <persName>
                             <surname>Sternberg-Manderscheid</surname>
                             <forename>Franz</forename>
@@ -24711,18 +24652,6 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118618644</tei:idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Stoll</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="stratimirovics-stefan">
                         <persName>
@@ -24981,10 +24910,11 @@
                         <note>
                             <p>um 70–122 n. Chr.</p>
                             <p>röm. Historiograph</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/118619918</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118619918</tei:idno>
+                     </person>
                     <person xml:id="suglich-mattea">
                         <persName>
                             <surname>Suglich</surname>
@@ -25145,18 +25075,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Szabó</surname>
-                            <forename>Johann</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Gubernialrat</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="szantofy-anton">
                         <persName>
                             <surname>Szantofy/Szántoffy</surname>
@@ -25190,7 +25108,7 @@
                         <note>
                             <p>1809–1888 Przemyśl</p>
                             <p>Ministerialrat im Unterrichtsministerium (Referent für die galizischen Volks- und Mittelschulen), später griech.-kath. Domherr in Przemyśl</p>
-                            <p>k_A</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
                     </person>
@@ -25414,18 +25332,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="taaffe-ludwig">
                         <persName>
                             <surname>Taaffe</surname>
@@ -25529,30 +25435,6 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1037845943</tei:idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Teleki</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Teleky</surname>
-                            <forename>Domokos</forename>
-                        </persName>
-                        <note>
-                            <p>Târgu Mures 1810–1876 Klausenburg</p>
-                            <p>ungarischer Politiker und Publizist</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="teleky-joseph">
                         <persName>
                             <surname>Teleky</surname>
@@ -25565,18 +25447,6 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101291043</tei:idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Teleki von Szék</surname>
-                            <forename>Josef</forename>
-                        </persName>
-                        <note>
-                            <p>Pest 1790–1855 Pest</p>
-                            <p>1842–1848 Gouverneur von Siebenbürgen und Geschichtsschreiber</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="tempsky-friedrich">
                         <persName>
@@ -25659,9 +25529,9 @@
                             <forename>H.</forename>
                         </persName>
                         <note>
-                            <p/>
+                            <p>k_A</p>
                             <p>Jurist, Obergerichtsanwalt in Achim, Vater von Heinrich August Tewes</p>
-                            <p/>
+                            <p>k_A</p>
                             <p>k_A</p>
                         </note>
                     </person>
@@ -25715,18 +25585,6 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119501821</tei:idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Theophil</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Metropolit der rumänischen Kirche in Siebenbürgen</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="theser-ernst">
                         <persName>
@@ -26030,23 +25888,11 @@
                     <person xml:id="tibolth-coloman">
                         <persName>
                             <surname>Tibolth</surname>
-                            <forename>Coloman von</forename>
+                            <forename>Coloman</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
                             <p>Sohn von Carl Tibolth</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Tichindeal</surname>
-                            <forename>Dimitrie</forename>
-                        </persName>
-                        <note>
-                            <p>Becicherecu Mic 1775–1818 Timisoara</p>
-                            <p>Dichter</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -26325,18 +26171,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Trajan</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>Italica oder Rom 53–117 Selinus</p>
-                            <p>98–117 römischer Kaiser</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="treitler-anton">
                         <persName>
                             <surname>Treitler</surname>
@@ -26546,22 +26380,10 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="uhlarik-johann">
                         <persName>
-                            <surname>Uhlárik Johann</surname>
-                            <forename>k_A</forename>
+                            <surname>Uhlárik</surname>
+                            <forename>Johann</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -26602,7 +26424,7 @@
                             <forename>k_A</forename>
                         </persName>
                         <note>
-                            <p>Florenz 1568–1644</p>
+                            <p>Florenz 1568–1644 Rom</p>
                             <p>1623–1644 Papst</p>
                             <p>http://d-nb.info/gnd/118625586</p>
                             <p>k_A</p>
@@ -26684,18 +26506,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="vaccani-camillo">
                         <persName>
                             <surname>Vaccani</surname>
@@ -26740,7 +26550,7 @@
                         </persName>
                         <note>
                             <p>1801–1884</p>
-                            <p>südosteurop. biogr. Archiv</p>
+                            <p>Arzt, Kreisphysikus und später Protomedicus für Kroatien</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -26977,10 +26787,11 @@
                         <note>
                             <p>Mantua 70–19 v. Chr. Brindisi</p>
                             <p>röm. Dichter und Epiker</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/118626574</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118626574</tei:idno>
+                     </person>
                     <person xml:id="viber-joseph">
                         <persName>
                             <surname>Vibér</surname>
@@ -27005,18 +26816,6 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118945467</tei:idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Vielkind</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="villermont-antoine">
                         <persName>
@@ -27184,18 +26983,6 @@
                         </note>
                     </person>
                     <person xml:id="vukassovich">
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
                         <persName>
                             <surname>k_A</surname>
                             <forename>k_A</forename>
@@ -27611,11 +27398,11 @@
                     <person xml:id="weigel">
                         <persName>
                             <surname>Weigel</surname>
-                            <forename>aus Lemberg</forename>
+                            <forename>k_A</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>k_A</p>
+                            <p>aus Lemberg</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -28420,18 +28207,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="xenophanes">
                         <persName>
                             <surname>Xenophanes von Kolophon</surname>
@@ -28457,18 +28232,6 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118808109</tei:idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="zaboysky-ladislaus">
                         <persName>
@@ -28592,18 +28355,6 @@
                         <note>
                             <p>Ungarn 1797–1871 Ungarn</p>
                             <p>Adeliger, ab 1840 Generalinspektor der evangelischen Kirchen und Schulen Ungarns</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Zàvodnik</surname>
-                            <forename>Stephan</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Pfarrer</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -28816,10 +28567,9 @@
                         <note>
                             <p>Windisch Feistritz 1777–1843 Lavant</p>
                             <p>ab 1824 Bischof von Lavant</p>
-                            <p>http://d-nb.info/gnd/101634625</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101634625</tei:idno>
                     </person>
                     <person xml:id="zimmermann-johann-august">
                         <persName>
