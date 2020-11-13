@@ -1636,7 +1636,7 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
+                    <person xml:id="batthyany-adam">
                         <persName>
                             <surname>Batthyány</surname>
                             <forename>Ádám</forename>
@@ -2625,7 +2625,7 @@
                         </persName>
                         <note>
                             <p>Hannover 1674–1749 Halle</p>
-                            <p>Jurist, ab 1731 Direktor der Universität und Vizeordinarius der               Juristenfakultät in Halle, ab 1743 Regierungskanzler des Herzogtums Magdeburg, Herausgeber      zahlreicher zivil- und kirchenrechtlicher Werke</p>
+                            <p>Jurist, ab 1731 Direktor der Universität und Vizeordinarius der  Juristenfakultät in Halle, ab 1743 Regierungskanzler des Herzogtums Magdeburg, Herausgeber      zahlreicher zivil- und kirchenrechtlicher Werke</p>
                             <p>http://d-nb.info/gnd/118512617</p>
                             <p>k_A</p>
                         </note>
@@ -6213,7 +6213,7 @@
                         </note>
                     <idno type="URL">http://d-nb.info/gnd/118552589</idno>
                     </person>
-                    <person>
+                    <person xml:id="esterhazy-von-galantha-nikolaus">
                         <persName>
                             <surname>Esterházy von Galantha</surname>
                             <forename>Nikolaus</forename>
