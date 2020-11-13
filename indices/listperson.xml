@@ -8126,6 +8126,18 @@
                             <p>k_A</p>
                         </note>
                     </person>
+                    <person xml:id="ghika-nikolaus">
+                        <persName>
+                            <surname>Ghika</surname>
+                            <forename>Nikolaus</forename>
+                        </persName>
+                        <note>
+                            <p>*1848</p>
+                            <p>Schüler am Theresianum 1859-1863</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
                     <person xml:id="gindely-anton">
                         <persName>
                             <surname>Gindely</surname>
@@ -16263,10 +16275,10 @@
                     <person xml:id="mayer-johann">
                         <persName>
                             <surname>Mayer</surname>
-                            <forename>Johann</forename>
+                            <forename>Johann Nepomuk</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
+                            <p>1805–1866</p>
                             <p>Zeichenlehrer am Theresianum</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
@@ -21547,10 +21559,11 @@
                         <note>
                             <p>Innsbruck 1782–1851 Innsbruck</p>
                             <p>1799 Eintritt ins Prämonstratenser Chorherrenstift Wilten, ab 1803 Lehrer an der Hauslehranstalt in Wilten, 1807–1809 Lehrer am Gymnasium in Innsbruck, 1817–1820 Subprior, 1820–1851 Abt von Wilten, 1830–1842 Direktor des Theresianums in Innsbruck</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/127859780</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/127859780</tei:idno>
+                     </person>
                     <person xml:id="roesner-carl">
                         <persName>
                             <surname>Roesner</surname>
@@ -21660,7 +21673,7 @@
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>k_A</p>
+                            <p>Pächter des Dydynski'schen Stiftungsgutes</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -21691,26 +21704,14 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119106868</tei:idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Rousseau</surname>
-                            <forename>Jean Jacques</forename>
-                        </persName>
-                        <note>
-                            <p>Genf 1712–1778 Ermenoville</p>
-                            <p>Philosoph und Pädagoge</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="rosenfeld-ludwig-karl">
                         <persName>
                             <surname>Rosenfeld</surname>
                             <forename>Ludwig Karl</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Beamter im Finanzministerium</p>
+                            <p>Hermannstadt 1804–1869 Wien</p>
+                            <p>1848 Ministerialrat im Finanzministerium, 1858 Sektionschef, 1863-1864 Abgeordneter im siebenbürgischen Landtag, ab 1863 lebenslanges Mitglied des Herrenhauses</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -21778,18 +21779,6 @@
                             <p>k_A</p>
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/10422522X</tei:idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Roth</surname>
-                            <forename>Stephan Ludwig</forename>
-                        </persName>
-                        <note>
-                            <p>Mediasch 1796–1849 Klausenburg</p>
-                            <p>evangel. Priester, Schulreformer und Schriftsteller, ab 1821 Lehrer am Gymnasium in Mediasch, ab 1831 Direktor, 1849 von dem ungar. Regierungskommissär zum Tode verurteilt</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="rothmund-august">
                         <persName>
@@ -21895,18 +21884,6 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118750135</tei:idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Rusu</surname>
-                            <forename>Johann</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="rusocki-wladimir">
                         <persName>
                             <surname>Rusocki</surname>
@@ -21945,18 +21922,6 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1028971346</tei:idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="sacher-masoch-leopold">
                         <persName>
                             <surname>Sacher-Masoch</surname>
@@ -21989,8 +21954,8 @@
                             <forename>Friedrich</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Beamter im Ministerium des Innern</p>
+                            <p>Brüx 1798–1880 Wien</p>
+                            <p>ab 1849 Sektionsrat, ab 1850 Ministerialrat im Ministerium des Innern</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -22147,18 +22112,6 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118794027</tei:idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Salomon</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Rektor in Klausenburg</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="sanmicheli-michele">
                         <persName>
                             <surname>Sanmicheli</surname>
@@ -22172,14 +22125,14 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118794450</tei:idno>
                     </person>
-                    <person>
+                    <person xml:id="sommer-ludwig">
                         <persName>
-                            <surname>Sammer</surname>
-                            <forename>k_A</forename>
+                            <surname>Sommer</surname>
+                            <forename>Ludwig</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>Schuldirektor in Leitmeritz</p>
+                            <p>Priester, Haupt- und Unterrealschuldirektor in Leitmeritz, Rektor des bischöflichen Alumnats in Leitmeritz</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -22255,18 +22208,6 @@
                         <note>
                             <p>†1854</p>
                             <p>Erzpriester in Padua</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Sava Brancovici</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>†1683 Alba Iulia</p>
-                            <p>1656–1680 Erzbischof der Rumänen in Siebenbürgen</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -22541,10 +22482,10 @@
                         <note>
                             <p>Reichenschwand 1804–1878 Adwa</p>
                             <p>Bruder von Karl Schimper, 1831 botanische Reise nach Algier, 1834 nach Ägypten, ab 1836 Statthalter der Provinz Enticcho bei Adwa</p>
-                            <p>http://d-nb.info/gnd/117271497</p>
+                            <p>http://d-nb.info/gnd/141742585</p>
                             <p>k_A</p>
                         </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117271497</tei:idno>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/141742585</tei:idno>
                     </person>
                     <person xml:id="schimper-wilhelm-philipp">
                         <persName>
@@ -22974,18 +22915,19 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104242515</tei:idno>
                     </person>
-                    <person>
+                    <person xml:id="schneider-joseph">
                         <persName>
-                            <surname>Schneider</surname>
-                            <forename>k_A</forename>
+                            <surname>Schneider von Arno</surname>
+                            <forename>Joseph</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Baron, Platzkommandant aus Schwaben</p>
-                            <p>no gnd provided</p>
+                            <p>Aigen im Mühlkreis 1810–1857 Bologna</p>
+                            <p>Generalmajor, Platzkommandant in Bologna, der Vater Karl stammte aus Donaueschingen</p>
+                            <p>http://d-nb.info/gnd/103158563X</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/103158563X</tei:idno>
+                     </person>
                     <person xml:id="schnizlein-adalbert">
                         <persName>
                             <surname>Schnizlein</surname>
@@ -23176,7 +23118,7 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11709899X</tei:idno>
                     </person>
-                    <person>
+                    <person xml:id="schroetter-anton">
                         <persName>
                             <surname>Schrötter</surname>
                             <forename>Anton von</forename>
@@ -23184,10 +23126,11 @@
                         <note>
                             <p>Olmütz 1802–1875 Wien</p>
                             <p>ab 1830 Prof. für Physik und Chemie am Technischen Institut Joanneum in Graz, ab 1843 Prof. für technische Chemie, ab 1845 Prof. für allgemeine Chemie am Polytechnischen Institut Wien, Mitbegründer der Akademie der Wissenschaften, ab 1850 deren Generalsekretär</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/117098981</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117098981</tei:idno>
+                     </person>
                     <person xml:id="schroff-karl-damian">
                         <persName>
                             <surname>Schroff</surname>
@@ -23303,18 +23246,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Schurter</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>General</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="schwarzenberg-felix">
                         <persName>
                             <surname>Schwarzenberg</surname>
@@ -23353,7 +23284,8 @@
                                 <p>k_A</p>
                             </note>
                             <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117379727</tei:idno>
-                        <person xml:id="schwarzenberg-karl">
+                     </person>
+                     <person xml:id="schwarzenberg-karl">
                         <persName>
                             <surname>Schwarzenberg</surname>
                             <forename>Karl</forename>
@@ -23836,30 +23768,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Sincai</surname>
-                            <forename>Gheorghe</forename>
-                        </persName>
-                        <note>
-                            <p>Sincai 1754–1816 Seini</p>
-                            <p>Historiker und Philologe, Bibliothekar der Congregatio de Propaganda Fide, Aufklärer, Verfasser der ersten Grammatik der rumänischen Sprache</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Sinzoni</surname>
-                            <forename>Faustino</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Priester in Mailand</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="skala-ze-zhore-pavel">
                         <persName>
                             <surname>Skála ze Zhoře</surname>
@@ -23927,12 +23835,12 @@
                     </person>
                     <person xml:id="slawik-johann">
                         <persName>
-                            <surname>Slawik</surname>
-                            <forename>Johann</forename>
+                            <surname>Slavik</surname>
+                            <forename>Johann Nepomuk</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
+                            <p>Prag 1810–1858 Prag</p>
+                            <p>Müller, Förderer nationaltschechischer Bestrebungen, im Jahr 1848 Gemeindevertreter der Stadt Prag, Konflikt mit Leo Thun, wegen angeblich von Thun gemachter Äußerungen, worauf Thun in einer Flugschrift antwortete</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -23989,11 +23897,11 @@
                     <person xml:id="sobieski">
                         <persName>
                             <surname>Sobieski</surname>
-                            <forename>k_A</forename>
+                            <forename>Stanislaus</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>Lehramtskandidat an der Universität Lemberg</p>
+                            <p>klassischer Philologe, Supplent am Gymnasium in Sandecz, ab 1856 Lehrer am Gymnasium in Lemberg, später Direktor dort</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -24175,16 +24083,17 @@
                     </person>
                     <person xml:id="spitthoever">
                         <persName>
-                            <surname>Spitthöver</surname>
-                            <forename>k_A</forename>
+                            <surname>Spithöver</surname>
+                            <forename>Josef/forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>deutscher Buchhändler in Rom</p>
-                            <p>no gnd provided</p>
+                            <p>Sendenhorst 1813–1892 Rom</p>
+                            <p>deutscher Buchhändler in Rom, Kunstmäzen und Wohltäter</p>
+                            <p>http://d-nb.info/gnd/119553538</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119553538</tei:idno>
+                     </person>
                     <person xml:id="sporschil-johann-chrystostomus">
                         <persName>
                             <surname>Sporschil</surname>
@@ -24356,10 +24265,11 @@
                         <note>
                             <p>k_A</p>
                             <p>Oberlehrer am Gymnasium in Parchim, pädagogischer Schriftsteller</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/123275415</p>
                             <p>k_A</p>
                         </note>
-                    </person>
+                        <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123275415</tei:idno>
+                     </person>
                     <person xml:id="steffens-heinrich">
                         <persName>
                             <surname>Steffens</surname>
@@ -24463,18 +24373,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Stein zum Altenstein</surname>
-                            <forename>Karl</forename>
-                        </persName>
-                        <note>
-                            <p>Schalkhausen bei Ansbach 1770–1840 Berlin</p>
-                            <p>Beamter, 1808–1810 preuß. Finanzminister, 1813 Zivilgouverneur von Schlesien, 1817–1837 preuß. Kultusminister</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="steiner-jakob">
                         <persName>
                             <surname>Steiner</surname>
@@ -24488,26 +24386,14 @@
                         </note>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/125002203</tei:idno>
                     </person>
-                    <person xml:id="steiner-johann">
+                    <person xml:id="steiner-ludwig">
                         <persName>
                             <surname>Steiner</surname>
-                            <forename>Johann</forename>
+                            <forename>Ludwig</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Zeichenlehrer am Theresianum</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Steiner</surname>
-                            <forename>P.</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
+                            <p>1799–1865</p>
+                            <p>akad. Maler, ab 1838–1865 Zeichenlehrer am Theresianum</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -26891,7 +26777,7 @@
                             <forename>Paul</forename>
                         </persName>
                         <note>
-                            <p/>
+                            <p>k_A</p>
                             <p>Mediziner, Kontumazdirektor in Tömös, ab 1855 Schulrat für die griechisch-orthodoxen Schulen in Siebenbürgen</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
