@@ -7155,18 +7155,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person xml:id="fontana">
-                        <persName>
-                            <surname>Fontana</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Beamter</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="fontana-johann">
                         <persName>
                             <surname>Fontana</surname>
@@ -7451,7 +7439,7 @@
                             <forename>Franz</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
+                            <p>1826–1888</p>
                             <p>Industrieller, Finanzier der Forschungsreise von Ludwig Schmarda</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
@@ -7728,18 +7716,6 @@
                             <p>1794–1884</p>
                             <p>Kurator der Rechtsakadamie in Hermannstadt, Vizepräsident des
                                 Oberlandesgerichts in Hermannstadt und Lemberg</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -8051,8 +8027,8 @@
                             <forename>Julius</forename>
                         </persName>
                         <note>
-                            <p>Pastor und Schuldirektor.</p>
-                            <p/>
+                            <p>k_A</p>
+                            <p>Pastor und Schuldirektor</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -8084,15 +8060,16 @@
                     </person>
                     <person xml:id="georg">
                         <persName>
-                            <surname>Georg</surname>
-                            <forename>k_A</forename>
+                            <surname>George</surname>
+                            <forename>Leopold</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Prof. an der Universität Berlin</p>
-                            <p>no gnd provided</p>
+                            <p>1811–1873</p>
+                            <p>1834-58 Dozent an der Universität Berlin, ab 1856 Prof. für Altes Testament</p>
+                            <p>https://d-nb.info/gnd/100484751</p>
                             <p>k_A</p>
                         </note>
+                        <idno type="URL">https://d-nb.info/gnd/100484751</idno>
                     </person>
                     <person xml:id="geringer-karl">
                         <persName>
@@ -8951,18 +8928,6 @@
                         <note>
                             <p>k_A</p>
                             <p>Beamter in der siebenbürgischen Hofkanzlei</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -10213,19 +10178,6 @@
                         <note>
                             <p>Coimbra 1793–1857 Lissabon</p>
                             <p>1845–1857 Kardinal von Lissabon</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Hentl</surname>
-                            <forename>Friedrich</forename>
-                        </persName>
-                        <note>
-                            <p>Wien 1799–1878 Perchtoldsdorf</p>
-                            <p>Beamter und Schrifsteller, Referent im Ministerium für Kultus und
-                                Unterricht</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
