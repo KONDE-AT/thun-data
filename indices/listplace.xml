@@ -3153,8 +3153,8 @@
                         <idno>http://sws.geonames.org/3027301/</idno>
                     </place>
                     <place xml:id="place_e7593ca9352d7cff6f4c71eee48ebe2e">
-                        <placeName>Tschernowitz</placeName>
-                        <placeName type="pref">Czernowitz</placeName>
+                        <placeName>Czernowitz</placeName>
+                        <placeName type="pref">Tschernowitz</placeName>
                         <placeName type="alt">Czernowitzer</placeName>
                         <placeName type="alt">Cernowic</placeName>
                         <placeName type="alt">Cernovic</placeName>
