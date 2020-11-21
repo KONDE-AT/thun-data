@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="maresch-an-sektionsrat-1855-02-15-a3-xxi-d329.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-sektionsrat-1854-08-11-a3-xxi-d275.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-thun-1858-08-25-a3-xxi-d467.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
+    xml:id="maresch-an-sektionsrat-1855-02-15-a3-xxi-d329.xml"
+    prev="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-sektionsrat-1854-08-11-a3-xxi-d275.xml"
+    next="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-thun-1858-08-25-a3-xxi-d467.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#maresch-johann" role="sender:kleriker">Johann
-                        Maresch</rs> an Unbekannt
-                    <note xml:id="note_1">Die Anrede als "Hochwürdiger Herr Sektionsrat" legt nahe,
-                        dass es sich bei dem Adressaten entweder um Johann Simor oder Anton
-                        Krombholz handelt.</note>
+                        Maresch</rs> an Unbekannt <note xml:id="note_1">Die Anrede als "Hochwürdiger
+                        Herr Sektionsrat" legt nahe, dass es sich bei dem Adressaten entweder um
+                        Johann Simor oder Anton Krombholz handelt.</note>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1855-02-15">15. Februar 1855</date>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108"
+                        >Prag</rs>, <date when="1855-02-15">15. Februar 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB35-3</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
+                        >http://hdl.handle.net/21.11115/0000-000B-DB35-3</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -57,9 +61,7 @@
                     <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
                     <date when="1855-02-15">15. Februar 1855</date>
                 </correspAction>
-                <correspAction type="received">
-                    <rs type="person" ref="#">Unbekannt</rs>
-                </correspAction>
+                <correspAction type="received">Unbekannt</correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -95,8 +97,10 @@
                     mich, daß wichtige Verordnungen an die Gymnasialdirekzionen ergehen, von denen
                     er erst aus den Konferenzprotokollen Kunde erhält, daß Schüler aus den Anstalten
                     ausgeschlossen werden, ohne daß der Referent um die Zustimmung des Inspektors
-                    sich kümmert, weßhalb <rs type="person" ref="#effenberger-franz-ferdinand">Effenberger</rs> allen Muth verliere. Ich kann das Gleiche berichten.
-                    Der älteste Lehrer in <rs type="place" subtype="place" ref="#place_0b6cbdf7ad2928078f1600a3e8979485">Plan</rs> erhielt das silberne
+                    sich kümmert, weßhalb <rs type="person" ref="#effenberger-franz-ferdinand"
+                        >Effenberger</rs> allen Muth verliere. Ich kann das Gleiche berichten. Der
+                    älteste Lehrer in <rs type="place" subtype="place"
+                        ref="#place_0b6cbdf7ad2928078f1600a3e8979485">Plan</rs> erhielt das silberne
                     Verdienstkreuz, ohne daß ich über seine Verdienste befragt ward, der Katechet
                     für die Czeslauer Hauptschule wurde auf diesen Posten angestellt, ohne daß ich
                     mein Votum abzugeben veranlaßt ward, Privatinstitute werden bewilligt, ohne daß
@@ -105,69 +109,77 @@
                     Kurz, wir sind nur noch der Schatten der früheren Schulräthe, und bald werden
                     wir unwissender in dem sein was im Departement vorgeht, als die Konzipisten und
                     Konzeptsadjunkten, welche bei uns arbeiten.<lb/>Wie man uns anderweitig achtet
-                    geht daraus hervor, daß <rs type="person" ref="#zeithammer-gregor">Zeithammer</rs>
-                    und ich ein gemeinsames Bureau haben, wodurch besonders bei Besuchen einer den
-                    anderen stört, und die Parteien nicht wenig genirt sind, welche mit uns zu
-                    sprechen haben. Keine Tafel besagt, wo ein Schulrath zu finden, nur für die
-                    Statthaltereiräthe sind welche angebracht; ich kaufe mir selbst die Kerzen, da
-                    ich deren bisher id est im gegenwärtigen Winter erst im Monate Jänner trotz
-                    wiederholtem Ansuchen nur ein Pfund erhielt, und seitdem Niemand frägt, ob ich
-                    deren bedarf. Man wollte, daß wir abends im Bureau arbeiten; allein was nutzt
-                    auch das hinkommen, wenn Niemand da ist, der einem eine Kerze aufsteckt. Wie
-                    schwer ist es zudem für uns, die wir bei unseren Arbeiten häufig
-                    wissenschaftliche Behelfe, als Bücher etc. haben müssen, im Bureau zu arbeiten.
-                    Allein das würdigt man nicht.<lb/>Ich bin weit davon, Seine Excellenz damit
-                    beschuldigen zu wollen, als meine er es uns nicht gut oder wolle nicht die
-                    Hebung des Schulwesens. Allein wie kann der Herr Statthalter von allen diesen
-                    Dingen Kenntnis haben, wer wird ihn mündlich mit solchen Dingen behelligen, ja
-                    wer wird wieder klagen, da eine Kollektiveingabe von uns Dreien nicht an uns,
-                    sondern an den Statthaltereirath erlediget ward, welcher uns den Bescheid
-                    mündlich mittheilte, daß wir nicht Kerzen bekommen können, außer wir arbeiten im
-                    Bureau. Den weiteren Erfolg kennen Sie aus obigem.<lb/>Wird in dem gegenwärtigen
-                    Augenblicke nicht geholfen, so geht das Institut der Schulräthe dem moralischen
-                    Tode entgegen. Nehmen wir nicht bei Besetzungen von Lehrerstellen als Referenten
-                    an den Sitzungen der Statthaltereiräthe Antheil, können wir unsere Anträge in
-                    den Reiseberichten nicht selbst erledigen, oder werden diese nicht einer
-                    Discussion mit dem Referenten vor der Erledigung unterzogen, haben wir bei
-                    Remuneration, bei Krankheitsaushilfen, bei Belohnungen und Bestrafungen keine
-                    berathende Stimme, dann sind wir binnen Jahresfrist nichts anderes in der
-                    öffentlichen Meinung als die Handlanger des Studien- und Schulreferenten und
-                    unsere Wirksamkeit wird eine spurlose werden. Das Ansehen der früheren
-                    Studiendirektoren war ein ungleich größeres, ihre Stellung eine ihrem Amte
-                    ungleich würdigere, als die unsrige zu werden droht.<lb/> Entschuldigen Euer
-                    Hochwürden diese meine freimüthigen Bemerkungen. Diese sind nicht ein „Ćićero
-                    pro domo sua“, sind kein Ergebnis eines niederen Ehrgeizes, sondern bloß ein
-                    Ergebnis meiner Anschauung der Unzulänglichkeit des Zustandes und meines
-                    redlichen Willens die Summe des Guten hinieden möglichst zu mehren und mit dem
-                    erforderlichen Einflusse und dem nöthigen Ansehen ausgestattet beizutragen, daß
-                    eine intelligente, gottesfürchtige und mit Liebe und Anhänglichkeit für das
-                    Allerhöchste Kaiserhaus und insbesondere für den herrlichen Kaiser, dem Gott zum
-                    Heile Oesterreichs die Fülle Seiner Gaben verliehen, erfüllte Jugend
-                    herangebildet werde.<lb/>Will der Staat Schulräthe, so ermögliche man ihnen die
-                    erforderliche Wirksamkeit; die Personen wechseln und vergehen, die Sache bleibt.
-                    Kann uns die erforderliche Wirksamkeit nicht ermittelt werden, so will ich gern
-                    mit Ergebung in das Unzulängliche und mit Hingebung für die gute Sache
-                    fortdienen und fortwirken, so lange mir Gott die Gesundheit läßt und eine
-                    Wirksamkeit überhaupt möglich ist; dermalen aber habe ich durch diese umfassende
-                    Mittheilung auch meine Pflicht erfüllt.<lb/>Nicht unangenehm dürfte es Euer
-                    Hochwürden sein zu erfahren, daß ich soeben 25 Stück Ornamente vom Kölner Dom
-                    aus jener Suite abgießen ließ, welche jüngst für die Technik in Prag um 300 fr
-                    Silber erkauft wurden. Sämtliche 25 Stück kosten 15 fr K. N. (ohne Kiste). Sie
-                    werden in den Unterrealschulen für Konturzeichnungen gute Dienste leisten, an
-                    den Oberrealschulen aber zu Ausführungen in verschiedener Manier benutzt
-                    werden.<lb/>Herzlichen Dank für die 500 fr zur Anstellung eines Zeichnenlehrers
-                    in <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> [Kamenický Šenov]. Schon ist der Grund zu
-                    einem kleinen Fonde dadurch gelegt, daß Herr <rs type="person" ref="#hofmann-wilhelm">Hofmann</rs>, Glasraffineur und Glashändler in
-                        <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, den ich bei allen Schritten für
-                        <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> theils berieth, theils von dem Geschehen
-                    verständigte, zu den bereits auf Zeichnungen für Steinschönau jüngst gewidmeten
-                    Betrage von 100 fr einen weiteren Betrag von 400 fr widmete. Daß ich durch diese
-                    Gabe erfreut, bereits den Vikär und Ortsseelsorger davon in Kenntnis setzte und
-                    aufforderte für Bildung des Fondes in <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> um so
-                    mehr thätig zu sein, als selbst ein Prager Bürger solche Opfer bringt, versteht
-                    sich von selbst. Sobald die Sammlung in Steinschönau vollendet ist, werde ich
-                    einen Bericht darüber für den Schulboten einsenden. Bereits hat man in
-                        <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> erklärt die 500 fr von <rs type="person" ref="#hofmann-wilhelm">Hoffmann</rs> ungeschmälert zu erhalten und die
+                    geht daraus hervor, daß <rs type="person" ref="#zeithammer-gregor"
+                        >Zeithammer</rs> und ich ein gemeinsames Bureau haben, wodurch besonders bei
+                    Besuchen einer den anderen stört, und die Parteien nicht wenig genirt sind,
+                    welche mit uns zu sprechen haben. Keine Tafel besagt, wo ein Schulrath zu
+                    finden, nur für die Statthaltereiräthe sind welche angebracht; ich kaufe mir
+                    selbst die Kerzen, da ich deren bisher id est im gegenwärtigen Winter erst im
+                    Monate Jänner trotz wiederholtem Ansuchen nur ein Pfund erhielt, und seitdem
+                    Niemand frägt, ob ich deren bedarf. Man wollte, daß wir abends im Bureau
+                    arbeiten; allein was nutzt auch das hinkommen, wenn Niemand da ist, der einem
+                    eine Kerze aufsteckt. Wie schwer ist es zudem für uns, die wir bei unseren
+                    Arbeiten häufig wissenschaftliche Behelfe, als Bücher etc. haben müssen, im
+                    Bureau zu arbeiten. Allein das würdigt man nicht.<lb/>Ich bin weit davon, Seine
+                    Excellenz damit beschuldigen zu wollen, als meine er es uns nicht gut oder wolle
+                    nicht die Hebung des Schulwesens. Allein wie kann der Herr Statthalter von allen
+                    diesen Dingen Kenntnis haben, wer wird ihn mündlich mit solchen Dingen
+                    behelligen, ja wer wird wieder klagen, da eine Kollektiveingabe von uns Dreien
+                    nicht an uns, sondern an den Statthaltereirath erlediget ward, welcher uns den
+                    Bescheid mündlich mittheilte, daß wir nicht Kerzen bekommen können, außer wir
+                    arbeiten im Bureau. Den weiteren Erfolg kennen Sie aus obigem.<lb/>Wird in dem
+                    gegenwärtigen Augenblicke nicht geholfen, so geht das Institut der Schulräthe
+                    dem moralischen Tode entgegen. Nehmen wir nicht bei Besetzungen von
+                    Lehrerstellen als Referenten an den Sitzungen der Statthaltereiräthe Antheil,
+                    können wir unsere Anträge in den Reiseberichten nicht selbst erledigen, oder
+                    werden diese nicht einer Discussion mit dem Referenten vor der Erledigung
+                    unterzogen, haben wir bei Remuneration, bei Krankheitsaushilfen, bei Belohnungen
+                    und Bestrafungen keine berathende Stimme, dann sind wir binnen Jahresfrist
+                    nichts anderes in der öffentlichen Meinung als die Handlanger des Studien- und
+                    Schulreferenten und unsere Wirksamkeit wird eine spurlose werden. Das Ansehen
+                    der früheren Studiendirektoren war ein ungleich größeres, ihre Stellung eine
+                    ihrem Amte ungleich würdigere, als die unsrige zu werden droht.<lb/>
+                    Entschuldigen Euer Hochwürden diese meine freimüthigen Bemerkungen. Diese sind
+                    nicht ein „Ćićero pro domo sua“, sind kein Ergebnis eines niederen Ehrgeizes,
+                    sondern bloß ein Ergebnis meiner Anschauung der Unzulänglichkeit des Zustandes
+                    und meines redlichen Willens die Summe des Guten hinieden möglichst zu mehren
+                    und mit dem erforderlichen Einflusse und dem nöthigen Ansehen ausgestattet
+                    beizutragen, daß eine intelligente, gottesfürchtige und mit Liebe und
+                    Anhänglichkeit für das Allerhöchste Kaiserhaus und insbesondere für den
+                    herrlichen Kaiser, dem Gott zum Heile Oesterreichs die Fülle Seiner Gaben
+                    verliehen, erfüllte Jugend herangebildet werde.<lb/>Will der Staat Schulräthe,
+                    so ermögliche man ihnen die erforderliche Wirksamkeit; die Personen wechseln und
+                    vergehen, die Sache bleibt. Kann uns die erforderliche Wirksamkeit nicht
+                    ermittelt werden, so will ich gern mit Ergebung in das Unzulängliche und mit
+                    Hingebung für die gute Sache fortdienen und fortwirken, so lange mir Gott die
+                    Gesundheit läßt und eine Wirksamkeit überhaupt möglich ist; dermalen aber habe
+                    ich durch diese umfassende Mittheilung auch meine Pflicht erfüllt.<lb/>Nicht
+                    unangenehm dürfte es Euer Hochwürden sein zu erfahren, daß ich soeben 25 Stück
+                    Ornamente vom Kölner Dom aus jener Suite abgießen ließ, welche jüngst für die
+                    Technik in Prag um 300 fr Silber erkauft wurden. Sämtliche 25 Stück kosten 15 fr
+                    K. N. (ohne Kiste). Sie werden in den Unterrealschulen für Konturzeichnungen
+                    gute Dienste leisten, an den Oberrealschulen aber zu Ausführungen in
+                    verschiedener Manier benutzt werden.<lb/>Herzlichen Dank für die 500 fr zur
+                    Anstellung eines Zeichnenlehrers in <rs type="place" subtype="place"
+                        ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> [Kamenický
+                    Šenov]. Schon ist der Grund zu einem kleinen Fonde dadurch gelegt, daß Herr <rs
+                        type="person" ref="#hofmann-wilhelm">Hofmann</rs>, Glasraffineur und
+                    Glashändler in <rs type="place" subtype="place"
+                        ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, den ich bei allen
+                    Schritten für <rs type="place" subtype="place"
+                        ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> theils
+                    berieth, theils von dem Geschehen verständigte, zu den bereits auf Zeichnungen
+                    für Steinschönau jüngst gewidmeten Betrage von 100 fr einen weiteren Betrag von
+                    400 fr widmete. Daß ich durch diese Gabe erfreut, bereits den Vikär und
+                    Ortsseelsorger davon in Kenntnis setzte und aufforderte für Bildung des Fondes
+                    in <rs type="place" subtype="place"
+                        ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> um so mehr
+                    thätig zu sein, als selbst ein Prager Bürger solche Opfer bringt, versteht sich
+                    von selbst. Sobald die Sammlung in Steinschönau vollendet ist, werde ich einen
+                    Bericht darüber für den Schulboten einsenden. Bereits hat man in <rs
+                        type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474"
+                        >Steinschönau</rs> erklärt die 500 fr von <rs type="person"
+                        ref="#hofmann-wilhelm">Hoffmann</rs> ungeschmälert zu erhalten und die
                     bereits beigeschafften Zeichnungsvorlagen aus Gemeindemitteln zu bezahlen.
                     Wieder ein Samenkörnlein des Guten in unserem lieben Heimathslande.<lb/>Für
                     heute genug. Leben Sie wohl. Meine gute Mutter meldet ihren Handkuß. In aller
@@ -176,87 +188,92 @@
                 <p>Prag, 15. Februar 1855</p>
             </div>
         </body>
-    <back>
+        <back>
             <listPerson>
                 <person xml:id="maresch-johann">
-                        <persName>
-                            <surname>Maresch</surname>
-                            <forename>Johann</forename>
-                        </persName>
-                        <note>
-                            <p>Leitmeritz 1806–1879 Prag</p>
-                            <p>Priester, 1850–1875 Schulrat für Böhmen</p>
-                            <p>http://d-nb.info/gnd/116769041</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116769041</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Maresch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <note>
+                        <p>Leitmeritz 1806–1879 Prag</p>
+                        <p>Priester, 1850–1875 Schulrat für Böhmen</p>
+                        <p>http://d-nb.info/gnd/116769041</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/116769041</tei:idno>
+                </person>
                 <person xml:id="effenberger-franz-ferdinand">
-                        <persName>
-                            <surname>Effenberger</surname>
-                            <forename>Franz Ferdinand</forename>
-                        </persName>
-                        <note>
-                            <p>1795–1880</p>
-                            <p>Priester, Direktor des Gymnasiums in Leitmeritz, ab 1850 Schulrat außerhalb der Landesbehörde, später Landesschulinspektor für Böhmen</p>
-                            <p>http://d-nb.info/gnd/11585309X</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11585309X</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Effenberger</surname>
+                        <forename>Franz Ferdinand</forename>
+                    </persName>
+                    <note>
+                        <p>1795–1880</p>
+                        <p>Priester, Direktor des Gymnasiums in Leitmeritz, ab 1850 Schulrat
+                            außerhalb der Landesbehörde, später Landesschulinspektor für Böhmen</p>
+                        <p>http://d-nb.info/gnd/11585309X</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/11585309X</tei:idno>
+                </person>
                 <person xml:id="zeithammer-gregor">
-                        <persName>
-                            <surname>Zeithammer</surname>
-                            <forename>Gregor</forename>
-                        </persName>
-                        <note>
-                            <p>Stekná 1800–1881</p>
-                            <p>Prof. am Gymnasium in Pisek, Prof. am Kleinseitner Gymnasium in Prag, 1850 Gymnasialinspektor für Böhmen</p>
-                            <p>http://d-nb.info/gnd/103366622X</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/103366622X</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Zeithammer</surname>
+                        <forename>Gregor</forename>
+                    </persName>
+                    <note>
+                        <p>Stekná 1800–1881</p>
+                        <p>Prof. am Gymnasium in Pisek, Prof. am Kleinseitner Gymnasium in Prag,
+                            1850 Gymnasialinspektor für Böhmen</p>
+                        <p>http://d-nb.info/gnd/103366622X</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/103366622X</tei:idno>
+                </person>
                 <person xml:id="hofmann-wilhelm">
-                        <persName>
-                            <surname>Hofmann</surname>
-                            <forename>Wilhelm</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Glasraffineur und Hof-Glaswarenhändler in Prag</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                    <persName>
+                        <surname>Hofmann</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <note>
+                        <p>k_A</p>
+                        <p>Glasraffineur und Hof-Glaswarenhändler in Prag</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
             </listPerson>
             <listPlace>
                 <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
-                        <placeName>Prag</placeName>
-                        <placeName type="alt">Prager</placeName>
-                        <placeName type="alt">Prahy</placeName>
-                        <placeName type="alt">Prags</placeName>
-                        <placeName type="alt">o. O. [Prag]</placeName>
-                        <placeName type="alt">hier</placeName>
-                        <placeName type="alt">Praze</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.08804 14.42076</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/3067696/</idno>
-                    </place>
+                    <placeName>Prag</placeName>
+                    <placeName type="alt">Prager</placeName>
+                    <placeName type="alt">Prahy</placeName>
+                    <placeName type="alt">Prags</placeName>
+                    <placeName type="alt">o. O. [Prag]</placeName>
+                    <placeName type="alt">hier</placeName>
+                    <placeName type="alt">Praze</placeName>
+                    <location>
+                        <geo decls="#LatLng">50.08804 14.42076</geo>
+                    </location>
+                    <idno>http://sws.geonames.org/3067696/</idno>
+                </place>
                 <place xml:id="place_0b6cbdf7ad2928078f1600a3e8979485">
-                        <placeName>Kamenický Šenov</placeName>
-                        <placeName type="pref">Plan</placeName>
-                        <placeName type="alt">Plan</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.77359 14.47287</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/3073928/</idno>
-                    </place>
+                    <placeName>Kamenický Šenov</placeName>
+                    <placeName type="pref">Plan</placeName>
+                    <placeName type="alt">Plan</placeName>
+                    <location>
+                        <geo decls="#LatLng">50.77359 14.47287</geo>
+                    </location>
+                    <idno>http://sws.geonames.org/3073928/</idno>
+                </place>
                 <place xml:id="place_5ba859b0a99686e9c549527406f68474" type="placeName">
-                        <placeName type="pref">Steinschönau [Kamenický Šenov]</placeName>
-                        <placeName type="alt">Steinschönau</placeName>
-                    </place>
+                    <placeName type="pref">Steinschönau [Kamenický Šenov]</placeName>
+                    <placeName type="alt">Steinschönau</placeName>
+                </place>
             </listPlace>
         </back>
     </text>

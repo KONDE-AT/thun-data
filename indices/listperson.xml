@@ -217,7 +217,7 @@
                     <person xml:id="albrecht-I">
                         <persName>
                             <surname>Albrecht I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Rheinfelden 1255–1308 Königsfelden</p>
@@ -229,7 +229,7 @@
                     <person xml:id="albrecht-III">
                         <persName>
                             <surname>Albrecht III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1349/50–1395 Schloss Laxenburg</p>
@@ -242,7 +242,7 @@
                         <persName>
                             <surname>Albrecht, Erzherzog von Österreich, Herzog von
                                 Teschen</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1817–1895 Arco</p>
@@ -281,7 +281,7 @@
                     <person xml:id="alexander-der-grosse">
                         <persName>
                             <surname>Alexander der Große</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Pella 356–323 v. Chr. Babylon</p>
@@ -371,7 +371,7 @@
                     <person xml:id="amalie-auguste-von-bayern">
                         <persName>
                             <surname>Amalie Auguste von Bayern</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>München 1801–1877 Dresden</p>
@@ -383,7 +383,7 @@
                     <person xml:id="amalie-von-oldenburg">
                         <persName>
                             <surname>Amalie von Oldenburg</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Oldenburg 1818–1875 Bamberg</p>
@@ -474,7 +474,7 @@
                     <person xml:id="anaxagoras">
                         <persName>
                             <surname>Anaxagoras</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>499–428 v. Chr.</p>
@@ -513,7 +513,7 @@
                     <person xml:id="andreas-II">
                         <persName>
                             <surname>Andreas II. von Ungarn</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>ca. 1177–1235 Ofen</p>
@@ -526,7 +526,7 @@
                     <person xml:id="andreas-III">
                         <persName>
                             <surname>Andreas III. von Ungarn</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1265–1301</p>
@@ -588,7 +588,7 @@
                     <person xml:id="anna-jagiello-von-boehmen-und-ungarn">
                         <persName>
                             <surname>Anna Jagiello von Böhmen und Ungarn</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Buda 1503–1547 Prag</p>
@@ -600,7 +600,7 @@
                     <person xml:id="anselm-lucca">
                         <persName>
                             <surname>Anselm von Lucca</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Mailand 1035–1086 Mantua</p>
@@ -651,7 +651,7 @@
                     <person xml:id="antoninus-pius">
                         <persName>
                             <surname>Antoninus Pius</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Lavinium 86–161 Lavinium</p>
@@ -712,7 +712,7 @@
                     <person xml:id="appian-von-alexandrien">
                         <persName>
                             <surname>Appian von Alexandrien</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>90–160</p>
@@ -776,7 +776,7 @@
                     <person xml:id="archimedes">
                         <persName>
                             <surname>Archimedes</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Syrakus 287–212 v. Chr. Syrakus</p>
@@ -803,7 +803,7 @@
                     <person xml:id="aristoteles">
                         <persName>
                             <surname>Aristoteles</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Stageira 384–322 v. Chr. Chalkis</p>
@@ -816,7 +816,7 @@
                     <person xml:id="arif-mehmet-effendi">
                         <persName>
                             <surname>Arif Mehmet Effendi</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -844,7 +844,7 @@
                     <person xml:id="arminius">
                         <persName>
                             <surname>Arminius</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>um 17 v. Chr.–um 17 n. Chr.</p>
@@ -992,7 +992,7 @@
                     <person xml:id="aurelian">
                         <persName>
                             <surname>Aurelian</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>214–275</p>
@@ -1005,7 +1005,7 @@
                     <person xml:id="augustus">
                         <persName>
                             <surname>Augustus</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Rom 63 v.Chr.–14 n.Chr. Nola</p>
@@ -1018,7 +1018,7 @@
                     <person xml:id="august-I-oldenburg">
                         <persName>
                             <surname>August I. von Oldenburg</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Rastede 1783–1853 Oldenburg</p>
@@ -1070,7 +1070,7 @@
                     <person xml:id="averroes">
                         <persName>
                             <surname>Averroës</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Cordoba 1126–1298 Marrakesch</p>
@@ -1083,7 +1083,7 @@
                     <person xml:id="avicenna">
                         <persName>
                             <surname>Avicenna</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Afschana 980–1037 Hamadan</p>
@@ -1988,7 +1988,7 @@
                     <person xml:id="benedikt-XIV">
                         <persName>
                             <surname>Benedikt XIV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Bologna 1675–1758 Rom</p>
@@ -2076,10 +2076,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/122959302</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/122959302</idno>
                     </person>
                     <person xml:id="bergmann-josef">
                         <persName>
@@ -2111,7 +2110,7 @@
                     <person xml:id="bernhard-von-sachsen-weimar">
                         <persName>
                             <surname>Bernhard von Sachsen-Weimar</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Weimar 1604–1639 Neuenburg a. Rhein</p>
@@ -2785,7 +2784,7 @@
                     <person xml:id="boleslaw-chrabry">
                         <persName>
                             <surname>Boleslaw Chrobry</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>965/967–1025</p>
@@ -2827,7 +2826,7 @@
                     <person xml:id="bonaventura">
                         <persName>
                             <surname>Bonaventura OFM</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Bagnoregio 1221–1274 Lyon</p>
@@ -2870,7 +2869,7 @@
                     <person xml:id="bonifacio-di-canossa">
                         <persName>
                             <surname>Bonifacio di Canossa</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -2883,7 +2882,7 @@
                     <person xml:id="bonifaz-VIII">
                         <persName>
                             <surname>Bonifaz VIII.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Anagni 1235–1303 Rom</p>
@@ -2930,7 +2929,7 @@
                     <person xml:id="borbely">
                         <persName>
                             <surname>Borbely</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -3003,7 +3002,7 @@
                     <person xml:id="borowsky-">
                         <persName>
                             <surname>Borowsky</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -3161,10 +3160,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/101326521</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/101326521</idno>
                     </person>
                     <person xml:id="braun-alexander">
                         <persName>
@@ -3200,7 +3198,7 @@
                     <person xml:id="bretislaw">
                         <persName>
                             <surname>Bretislaw</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>um 1005–1055 Chrudim</p>
@@ -3700,7 +3698,7 @@
                     <person xml:id="calixt-II">
                         <persName>
                             <surname>Calixt II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Quingey 1060–1124 Rom</p>
@@ -3859,7 +3857,7 @@
                     <person xml:id="cassius-dio">
                         <persName>
                             <surname>Cassius Dio</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Nikaia um 163–235</p>
@@ -3885,7 +3883,7 @@
                     <person xml:id="cato-der-aeltere">
                         <persName>
                             <surname>Marcus Porcius Cato der Ältere</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Tusculum 234–149 v. Chr. Rom</p>
@@ -4231,7 +4229,7 @@
                     <person xml:id="cicero">
                         <persName>
                             <surname>Marcus Tullius Cicero</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Arpinum 106–43 v. Chr. bei Formiae</p>
@@ -4299,7 +4297,7 @@
                     <person xml:id="clemens-XIII">
                         <persName>
                             <surname>Clemens XIII.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Venedig 1693–1769 Rom</p>
@@ -5127,7 +5125,7 @@
                             <p>k_A</p>
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/118523708</idno>
-                     </person>
+                    </person>
                     <person xml:id="descartes-rene">
                         <persName>
                             <surname>Descartes</surname>
@@ -5168,7 +5166,7 @@
                     <person xml:id="demosthenes">
                         <persName>
                             <surname>Demosthenes</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>384–322 v. Chr. Kalaureia</p>
@@ -5283,8 +5281,8 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName xml:id="diak-anton">
+                    <person xml:id="diak-anton">
+                        <persName>
                             <surname>Diak</surname>
                             <forename>Anton</forename>
                         </persName>
@@ -5400,7 +5398,7 @@
                     <person xml:id="diokletian">
                         <persName>
                             <surname>Diokletian</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>236/245–um 312 Spalatum</p>
@@ -6271,7 +6269,7 @@
                     <person xml:id="epaminondas">
                         <persName>
                             <surname>Epaminondas</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Theben um 418–362 v. Chr. bei Mantineia</p>
@@ -6424,7 +6422,7 @@
                     <person xml:id="eugen-IV">
                         <persName>
                             <surname>Eugen IV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Venedig 1383–1447 Rom</p>
@@ -6437,7 +6435,7 @@
                     <person xml:id="eugen-von-savoyen">
                         <persName>
                             <surname>Eugen von Savoyen</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Paris 1663–1736 Wien</p>
@@ -6471,10 +6469,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/118558021</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/118558021</idno>
                     </person>
                     <person xml:id="fabry-ignaz">
                         <persName>
@@ -6614,7 +6611,7 @@
                     <person xml:id="ferdinand-I">
                         <persName>
                             <surname>Ferdinand I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Alcalá de Henares b. Madrid 1503–1564 Wien</p>
@@ -6628,7 +6625,7 @@
                     <person xml:id="ferdinand-I-oesterreich">
                         <persName>
                             <surname>Ferdinand I. (Österreich)</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1793–1875 Prag</p>
@@ -6642,7 +6639,7 @@
                     <person xml:id="ferdinand-II">
                         <persName>
                             <surname>Ferdinand II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Graz 1578–1637 Wien</p>
@@ -6656,7 +6653,7 @@
                     <person xml:id="ferdinand-II-karl">
                         <persName>
                             <surname>Ferdinand II. Karl (Sizilien)</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Palermo 1810–1859 Caserta</p>
@@ -6669,7 +6666,7 @@
                     <person xml:id="ferdinand-III">
                         <persName>
                             <surname>Ferdinand III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Graz 1608–1657 Wien</p>
@@ -6683,7 +6680,7 @@
                     <person xml:id="ferdinand-karl-von-oesterreich-este">
                         <persName>
                             <surname>Ferdinand Karl von Österreich-Este</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Mailand 1781–1850 Altmünster</p>
@@ -6696,7 +6693,7 @@
                     <person xml:id="ferdinand-maximilian-erzherzog">
                         <persName>
                             <surname>Ferdinand Maximilian</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1832–1867 Queretaro</p>
@@ -6711,7 +6708,7 @@
                     <person xml:id="fernando-alvarez-de-toledo">
                         <persName>
                             <surname>Fernando Álvarez de Toledo</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Kastilien 1507–1582 Lissabon</p>
@@ -6982,7 +6979,8 @@
                         </persName>
                         <note>
                             <p>Sambir 1806–1896 Krakau</p>
-                            <p>Jurist, Prof. des öst. zivilgerichtlichen Verfahrens, des Handels- und Wechselrechts an der Universität Krakau</p>
+                            <p>Jurist, Prof. des öst. zivilgerichtlichen Verfahrens, des Handels-
+                                und Wechselrechts an der Universität Krakau</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -7291,7 +7289,7 @@
                     <person xml:id="franz-joseph">
                         <persName>
                             <surname>Franz Joseph I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1830–1916 Wien</p>
@@ -7305,7 +7303,7 @@
                     <person>
                         <persName>
                             <surname>Franz I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Burg Cognac 1494–1547 Rambouillet</p>
@@ -7317,7 +7315,7 @@
                     <person xml:id="franz-I-II">
                         <persName>
                             <surname>Franz I./II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Florenz 1768–1835 Wien</p>
@@ -7331,7 +7329,7 @@
                     <person xml:id="franz-karl-erzherzog">
                         <persName>
                             <surname>Franz Karl</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1802–1878 Wien</p>
@@ -7358,7 +7356,7 @@
                     <person xml:id="franz-von-assisi">
                         <persName>
                             <surname>Franz von Assisi</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Assisi 1181/1882–1226 Assisi</p>
@@ -7460,7 +7458,7 @@
                     <person xml:id="friedrich-I">
                         <persName>
                             <surname>Friedrich I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1122–1190</p>
@@ -7473,7 +7471,7 @@
                     <person xml:id="friedrich-II">
                         <persName>
                             <surname>Friedrich II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Jesi bei Ancona 1194–1250 Castel Fiorentino b. Lucera</p>
@@ -7487,7 +7485,7 @@
                     <person xml:id="friedrich-III">
                         <persName>
                             <surname>Friedrich III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Innsbruck 1415–1493 Linz</p>
@@ -7525,7 +7523,7 @@
                     <person xml:id="friedrich-wilhelm-III">
                         <persName>
                             <surname>Friedrich Wilhelm III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Potsdam 1770–1840 Berlin</p>
@@ -7538,7 +7536,7 @@
                     <person xml:id="friedrich-wilhelm-IV">
                         <persName>
                             <surname>Friedrich Wilhelm IV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Berlin 1795–1861 Potsdam</p>
@@ -7552,7 +7550,7 @@
                     <person>
                         <persName>
                             <surname>Friedrich Wilhelm I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Schloss Philippsruhe b. Hanau 1802–1875 Prag</p>
@@ -7578,8 +7576,8 @@
                     </person>
                     <person xml:id="fuchs-adalbert">
                         <persName>
-                            <surname>Fuchs Adalbert</surname>
-                            <forename>k_A</forename>
+                            <surname>Fuchs</surname>
+                            <forename>Adalbert</forename>
                         </persName>
                         <note>
                             <p>Wieden b. Wien 1814–1886 Kritzendorf</p>
@@ -7683,7 +7681,7 @@
                     <person xml:id="francisco-de-xavier">
                         <persName>
                             <surname>Franciso de Xavier</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Castillo de Xavier 1506–1552 Shangchuan Dao</p>
@@ -8065,7 +8063,8 @@
                         </persName>
                         <note>
                             <p>1811–1873</p>
-                            <p>1834-58 Dozent an der Universität Berlin, ab 1856 Prof. für Altes Testament</p>
+                            <p>1834-58 Dozent an der Universität Berlin, ab 1856 Prof. für Altes
+                                Testament</p>
                             <p>https://d-nb.info/gnd/100484751</p>
                             <p>k_A</p>
                         </note>
@@ -8182,7 +8181,7 @@
                     <person xml:id="geysa">
                         <persName>
                             <surname>Géza</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>ca. 940–997</p>
@@ -8286,7 +8285,7 @@
                     <person xml:id="giotto">
                         <persName>
                             <surname>Giotto di Bondone</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Vespignano bei Florenz 1266–1337 Florenz</p>
@@ -8566,7 +8565,7 @@
                     <person xml:id="gorgias">
                         <persName>
                             <surname>Gorgias</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Leontinoi 480–380 v. Chr.</p>
@@ -8676,7 +8675,7 @@
                     <person xml:id="gregor-IX">
                         <persName>
                             <surname>Gregor IX.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Anagni 1167–1241 Rom</p>
@@ -8689,7 +8688,7 @@
                     <person xml:id="gregor-XVI">
                         <persName>
                             <surname>Gregor XVI.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Belluno 1765–1846 Rom</p>
@@ -8896,7 +8895,7 @@
                     <person xml:id="gustav-II-adolf">
                         <persName>
                             <surname>Gustav II. Adolf</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Stockholm 1594–1632 Lützen</p>
@@ -8991,7 +8990,7 @@
                     <person xml:id="hadrian">
                         <persName>
                             <surname>Hadrian</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Italica 76–138 Baiae</p>
@@ -9017,7 +9016,7 @@
                     <person xml:id="hadrian-IV">
                         <persName>
                             <surname>Hadrian IV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>St. Albans 1100–1159 Anagni</p>
@@ -9333,8 +9332,8 @@
                     </person>
                     <person xml:id="hammer-ignaz">
                         <persName>
-                            <surname>Hammer Ignaz</surname>
-                            <forename>k_A</forename>
+                            <surname>Hammer</surname>
+                            <forename>Ignaz</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -9398,7 +9397,7 @@
                     <person xml:id="hannibal">
                         <persName>
                             <surname>Hannibal</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>246–183 v. Chr.</p>
@@ -9899,7 +9898,7 @@
                     <person xml:id="heinrich-von-lothringen">
                         <persName>
                             <surname>Heinrich von Lothringen</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Nancy 1570–1600 Wien</p>
@@ -9912,7 +9911,7 @@
                     <person xml:id="heinrich-I">
                         <persName>
                             <surname>Heinrich I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>876–936 Pfalz Memleben</p>
@@ -9925,7 +9924,7 @@
                     <person xml:id="heinrich-III">
                         <persName>
                             <surname>Heinrich III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1017–1056 Bodfeld</p>
@@ -9938,7 +9937,7 @@
                     <person xml:id="heinrich-IV">
                         <persName>
                             <surname>Heinrich IV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Pau 1553–1610 Paris</p>
@@ -9951,7 +9950,7 @@
                     <person xml:id="heinrich-V">
                         <persName>
                             <surname>Heinrich V.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1081/1086–1125 Utrecht</p>
@@ -9964,7 +9963,7 @@
                     <person xml:id="heinrich-VII-luxemburg">
                         <persName>
                             <surname>Heinrich VII. von Luxemburg</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Valenciennes 1278/79–1313 Buonconvento</p>
@@ -10342,8 +10341,8 @@
                     </person>
                     <person xml:id="hessen-homburg-philipp">
                         <persName>
-                            <surname>Hessen-Homburg</surname>
-                            <forename>Philipp August Friedrich</forename>
+                            <surname>Philipp August Friedrich Hessen-Homburg</surname>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Homburg 1779–1846 Homburg</p>
@@ -10394,12 +10393,12 @@
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>k_A</p>
+                            <p>Vater von Moritz Heyssler</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
+                    <person xml:id="hieber-karlmann">
                         <persName>
                             <surname>Hieber</surname>
                             <forename>Karlmann OSB</forename>
@@ -10418,7 +10417,7 @@
                     <person xml:id="hieron-II">
                         <persName>
                             <surname>Hieron II. von Syrakus</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>306–215 v. Chr.</p>
@@ -10903,19 +10902,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Horea</surname>
-                            <forename>Vasile Ursu Nicola</forename>
-                        </persName>
-                        <note>
-                            <p>1731–1785</p>
-                            <p>rumän. Anführer der Revolution von 1784 in Siebenbürgen, 1785
-                                hingerichtet</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="hornstein-anton">
                         <persName>
                             <surname>Hornstein</surname>
@@ -10931,7 +10917,7 @@
                     <person xml:id="horaz">
                         <persName>
                             <surname>Horaz</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Venusia 65–8 v. Chr.</p>
@@ -11053,15 +11039,16 @@
                     </person>
                     <person xml:id="huelsemann-johann-georg">
                         <persName>
-                            <surname>Hülsemann Johann Georg</surname>
-                            <forename>k_A</forename>
+                            <surname>Hülsemann</surname>
+                            <forename>Johann Georg</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>öster. Diplomat in Washington</p>
-                            <p>no gnd provided</p>
+                            <p>Stade 1799–1864 Washington</p>
+                            <p>öster. Geschäftsträger in Washington</p>
+                            <p>http://d-nb.info/gnd/1157560628</p>
                             <p>k_A</p>
                         </note>
+                        <idno type="URL">http://d-nb.info/gnd/1157560628</idno>
                     </person>
                     <person xml:id="huber-alphons">
                         <persName>
@@ -11087,10 +11074,9 @@
                             <p>Satteins 1818–1864</p>
                             <p>Weltpriester und Schriftsteller, Lehrer an der Oberrealschule in
                                 Innsbruck</p>
-                            <p>http://d-nb.info/gnd/132480603</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/132480603</idno>
                     </person>
                     <person xml:id="hug-johann-leonhard">
                         <persName>
@@ -11272,18 +11258,6 @@
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/118708481</idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="iancu-abraham">
                         <persName>
                             <surname>Iancu</surname>
@@ -11292,18 +11266,6 @@
                         <note>
                             <p>Felsövidra 1824–1872 Körösbánya</p>
                             <p>Jurist, Revolutionär</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Iecherianu</surname>
-                            <forename>Constantin</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -11338,7 +11300,7 @@
                     <person xml:id="ignatius-von-loyola">
                         <persName>
                             <surname>Ignatius von Loyola</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Loyola 1491–1566 Rom</p>
@@ -11455,7 +11417,7 @@
                     <person xml:id="innozenz-III">
                         <persName>
                             <surname>Innozenz III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1160–1216 Perugia</p>
@@ -11493,18 +11455,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Iorgovici</surname>
-                            <forename>Paul</forename>
-                        </persName>
-                        <note>
-                            <p>1764–1808</p>
-                            <p>rumän. Schriftsteller</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="issac-de-pas">
                         <persName>
                             <surname>Isaac de Pas</surname>
@@ -11520,7 +11470,7 @@
                     <person xml:id="isabella-jagiellonica">
                         <persName>
                             <surname>Isabella Jagiellonica</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Krakau 1519–1159 Alba Iulia</p>
@@ -11686,7 +11636,7 @@
                     <person xml:id="jakob-i">
                         <persName>
                             <surname>Jakob I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Edinburgh 1566–1625 Theobalds Park, Grafschaft Hertfordshire</p>
@@ -11744,10 +11694,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/134276272</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/134276272</idno>
                     </person>
                     <person xml:id="janosi-franz">
                         <persName>
@@ -12001,7 +11950,7 @@
                     <person xml:id="johann-erzherzog">
                         <persName>
                             <surname>Johann</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Florenz 1782–1859 Graz</p>
@@ -12014,7 +11963,7 @@
                     <person xml:id="johann-georg-von-brandenburg">
                         <persName>
                             <surname>Johann Georg von Brandenburg</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wolmirstedt 1577–1624 Leutschau</p>
@@ -12027,7 +11976,7 @@
                     <person xml:id="johann-von-luxemburg">
                         <persName>
                             <surname>Johann von Luxemburg</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1296–1346</p>
@@ -12070,7 +12019,7 @@
                     <person xml:id="joseph-I">
                         <persName>
                             <surname>Joseph I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1678–1711 Wien</p>
@@ -12083,7 +12032,7 @@
                     <person xml:id="joseph-II">
                         <persName>
                             <surname>Joseph II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1741–1790 Wien</p>
@@ -12096,8 +12045,8 @@
                     </person>
                     <person xml:id="joseph-anton-johann-erzherzog">
                         <persName>
-                            <surname>Joseph Anton Johann</surname>
-                            <forename>k_A</forename>
+                            <surname>Joseph Anton Johann, Erzherzog</surname>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Florenz 1776–1847 Ofen</p>
@@ -12115,18 +12064,6 @@
                         <note>
                             <p>k_A</p>
                             <p>Statthaltereisekretär in Czernowitz</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Jósika</surname>
-                            <forename>Lajos</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>ungar. Politiker</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -12237,30 +12174,6 @@
                         <note>
                             <p>16./17. Jhd.</p>
                             <p>Kirchenrechtler</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Just</surname>
-                            <forename>Ludwig</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Priester und Gymnasiallehrer</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -12429,7 +12342,7 @@
                     <person xml:id="karl-albert">
                         <persName>
                             <surname>Karl Albert</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Turin 1798–1849 Porto</p>
@@ -12442,7 +12355,7 @@
                     <person xml:id="karl-der-grosse">
                         <persName>
                             <surname>Karl der Große</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>747/748–814</p>
@@ -12455,7 +12368,7 @@
                     <person xml:id="karl-IV">
                         <persName>
                             <surname>Karl IV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Prag 1316–1378 Prag</p>
@@ -12468,7 +12381,7 @@
                     <person xml:id="karl-VI">
                         <persName>
                             <surname>Karl VI.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1685–1740 Wien</p>
@@ -12481,7 +12394,7 @@
                     <person xml:id="karl-V">
                         <persName>
                             <surname>Karl V.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Gent 1500–1558 San Yuste</p>
@@ -12494,7 +12407,7 @@
                     <person xml:id="karl-VII">
                         <persName>
                             <surname>Karl VII.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Paris 1403–1461 Mehun-sur-Yèvre</p>
@@ -12507,7 +12420,7 @@
                     <person xml:id="karl-XII-von-schweden">
                         <persName>
                             <surname>Karl XII.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Stockholm 1682–1718 Frederikshald</p>
@@ -12520,7 +12433,7 @@
                     <person xml:id="karl-ferdinand-erzherzog">
                         <persName>
                             <surname>Karl Ferdinand</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1818–1874 Groß Seelowitz</p>
@@ -12533,7 +12446,7 @@
                     <person xml:id="karl-ludwig-erzherzog">
                         <persName>
                             <surname>Karl Ludwig</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Schönbrunn 1833–1896 Wien</p>
@@ -12558,7 +12471,7 @@
                     <person xml:id="kasimir-II-von-teschen">
                         <persName>
                             <surname>Kasimir II. von Teschen</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1448–1528</p>
@@ -12582,7 +12495,7 @@
                     <person xml:id="katharina-II">
                         <persName>
                             <surname>Katharina II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Stettin 1729–1796 St. Petersburg</p>
@@ -12700,22 +12613,10 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Kemenyi</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="kemal-effendi">
                         <persName>
                             <surname>Kiamil Effendi</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -12871,18 +12772,6 @@
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/122913051</idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Kinischi</surname>
-                            <forename>Paul (Kinizsi</forename>
-                        </persName>
-                        <note>
-                            <p>Szent-kelemen ca. 1432–1494</p>
-                            <p>Heerführer von König Mátyás und Volksheld</p>
-                            <p>no gnd provided</p>
-                            <p>Pál)</p>
-                        </note>
-                    </person>
                     <person xml:id="kink-rudolph">
                         <persName>
                             <surname>Kink</surname>
@@ -12903,7 +12792,7 @@
                     </person>
                     <person xml:id="kinsberg-christoph">
                         <persName>
-                            <surname>Kinsberg</surname>
+                            <surname>Kindberg</surname>
                             <forename>Christoph</forename>
                         </persName>
                         <note>
@@ -13025,18 +12914,6 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>Klemensiewicz</surname>
-                            <forename>Ludwig</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Direktor am Gymnasium in Krakau</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="klemsch-johann-kapistran">
                         <persName>
                             <surname>Klemsch</surname>
@@ -13112,19 +12989,6 @@
                             <p>k_A</p>
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/118930583</idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Klüpfel</surname>
-                            <forename>Karl August</forename>
-                        </persName>
-                        <note>
-                            <p>Darmsheim b. Stuttgart 1810–1894 Tübingen</p>
-                            <p>ab 1841 zweiter Universitätsbibliothekar, 1863–1881 erster
-                                Universitätsbibliothekar in Tübingen</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="klun-vinzenz-ferrer">
                         <persName>
@@ -13255,7 +13119,7 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
+                    <person xml:id="koch-karl-heinrich">
                         <persName>
                             <surname>Koch</surname>
                             <forename>Karl Heinrich</forename>
@@ -13266,9 +13130,10 @@
                                 Botanik an der Universität Jena, ab 1852 Generalsekretär des Vereins
                                 zur Beförderung des Gartenbaus, ab 1853 Anstellung im königl.
                                 Botanischen Garten in Berlin</p>
-                            <p>no gnd provided</p>
+                            <p>http://d-nb.info/gnd/117527483</p>
                             <p>k_A</p>
                         </note>
+                        <idno type="URL">http://d-nb.info/gnd/117527483</idno>
                     </person>
                     <person xml:id="koczynski-michael">
                         <persName>
@@ -13278,10 +13143,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/157420272</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/157420272</idno>
                     </person>
                     <person xml:id="kolenyi-daniel">
                         <persName>
@@ -13475,10 +13339,10 @@
                             <p>k_A</p>
                         </note>
                     </person>
-                    <person>
+                    <person xml:id="koloman">
                         <persName>
                             <surname>Koloman</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1070–1116</p>
@@ -13539,7 +13403,7 @@
                     <person xml:id="konstantin-der-grosse">
                         <persName>
                             <surname>Konstantin I. der Große</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Naissus 270/288–337 Anchyrona</p>
@@ -14144,10 +14008,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/129039306</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/129039306</idno>
                     </person>
                     <person xml:id="kulczycki-johann">
                         <persName>
@@ -14351,18 +14214,6 @@
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/1042355037</idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="laborde-leon">
                         <persName>
                             <surname>Laborde</surname>
@@ -14467,7 +14318,7 @@
                     <person>
                         <persName>
                             <surname>Ladislaus Postumus</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Komorn 1440–1457 Prag</p>
@@ -14654,10 +14505,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/159583667</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/159583667</idno>
                     </person>
                     <person xml:id="lasser-joseph">
                         <persName>
@@ -14896,7 +14746,7 @@
                     <person xml:id="leonidas">
                         <persName>
                             <surname>Leonidas</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>† 480 v. Chr. Thermopylen</p>
@@ -14909,7 +14759,7 @@
                     <person xml:id="leo-X">
                         <persName>
                             <surname>Leo X.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Florenz 1475–1521 Rom</p>
@@ -14922,7 +14772,7 @@
                     <person xml:id="leopold-baden">
                         <persName>
                             <surname>Leopold von Baden</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Karlsruhe 1790–1852 Karlsruhe</p>
@@ -14935,7 +14785,7 @@
                     <person xml:id="leopold-I">
                         <persName>
                             <surname>Leopold I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1640–1705 Wien</p>
@@ -14949,7 +14799,7 @@
                     <person xml:id="leopold-II">
                         <persName>
                             <surname>Leopold II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1747–1792 Wien</p>
@@ -14962,7 +14812,7 @@
                     <person xml:id="leopold-III">
                         <persName>
                             <surname>Leopold III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1351–1386 Sempach</p>
@@ -14975,7 +14825,7 @@
                     <person xml:id="leopold-III-lippe">
                         <persName>
                             <surname>Leopold III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Detmold 1821–1875 Detmold</p>
@@ -15091,18 +14941,6 @@
                             <p>k_A</p>
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/118572741</idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Liechtenstein</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="liechtenstein-alois">
                         <persName>
@@ -15373,7 +15211,7 @@
                     <person xml:id="livius">
                         <persName>
                             <surname>Titus Livius</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Patavium 59 v. Chr.–17 n. Chr. Patavium</p>
@@ -15639,7 +15477,7 @@
                     <person xml:id="lucius-quinctius-cincinnatus">
                         <persName>
                             <surname>Lucius Quinctius Cincinnatus</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>519–430 v. Chr.</p>
@@ -15651,7 +15489,7 @@
                     <person xml:id="ludwig-philipp-I">
                         <persName>
                             <surname>Louis Philippe I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Paris 1773–1850 Claremont House, Surrey</p>
@@ -15708,7 +15546,7 @@
                     <person xml:id="ludwig-viktor-erzherzog">
                         <persName>
                             <surname>Ludwig Viktor</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1842–1919 Klessheim</p>
@@ -15721,7 +15559,7 @@
                     <person xml:id="ludwig-I-von-bayern">
                         <persName>
                             <surname>Ludwig I. von Bayern</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Straßburg 1786–1868 Nizza</p>
@@ -15734,7 +15572,7 @@
                     <person xml:id="ludwig-II">
                         <persName>
                             <surname>Ludwig II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Prag 1506–1526 Mohács</p>
@@ -15747,7 +15585,7 @@
                     <person xml:id="ludwig-III">
                         <persName>
                             <surname>Ludwig III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Darmstadt 1806–1877 Seeheim</p>
@@ -15760,7 +15598,7 @@
                     <person xml:id="ludwig-IV">
                         <persName>
                             <surname>Ludwig IV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>München 1281/82–1347 Puch</p>
@@ -15772,7 +15610,7 @@
                     <person xml:id="ludwig-XIII">
                         <persName>
                             <surname>Ludwig XIII.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Fontainebleau 1601–1643 Saint-Germain</p>
@@ -15785,7 +15623,7 @@
                     <person xml:id="ludwig-XIV">
                         <persName>
                             <surname>Ludwig XIV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Saint Germain en Laye 1638–1715 Versailles</p>
@@ -15798,7 +15636,7 @@
                     <person xml:id="ludwig-XVI">
                         <persName>
                             <surname>Ludwig XVI.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Versailles 1754–1793 Paris</p>
@@ -15811,7 +15649,7 @@
                     <person xml:id="ludwig-XVIII">
                         <persName>
                             <surname>Ludwig XVIII.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Versailles 1755–1824 Paris</p>
@@ -15824,7 +15662,7 @@
                     <person xml:id="luitpold-von-bayern">
                         <persName>
                             <surname>Luitpold von Bayern</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Würzburg 1821–1912 München</p>
@@ -15843,18 +15681,6 @@
                         <note>
                             <p>k_A</p>
                             <p>Lehrer am katholischen Gymnasium in Teschen</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Luitgrand</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>König der Langobarden</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -15920,18 +15746,6 @@
                         <note>
                             <p>k_A</p>
                             <p>Priester</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -16021,7 +15835,7 @@
                     <person xml:id="mahmud-II">
                         <persName>
                             <surname>Mahmud II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Istanbul 1785–1839 Istanbul</p>
@@ -16093,18 +15907,6 @@
                         <note>
                             <p>Târgu Mures 1756–1821 Budapest</p>
                             <p>Historiker und Philologe, griech.-kath. Geistlicher</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Maiorescu</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Schulinspektor in der Walachei</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -16335,7 +16137,7 @@
                     <person xml:id="mark-aurel">
                         <persName>
                             <surname>Mark Aurel</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Rom 121–180 Vindobona oder Sirmium</p>
@@ -16348,7 +16150,7 @@
                     <person xml:id="maria-anna">
                         <persName>
                             <surname>Maria Anna von Savoyen</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Rom 1803–1884 Prag</p>
@@ -16362,7 +16164,7 @@
                     <person xml:id="maria-theresia">
                         <persName>
                             <surname>Maria Theresia</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1717–1780 Wien</p>
@@ -16400,7 +16202,7 @@
                     <person xml:id="mardochaeus">
                         <persName>
                             <surname>Mardochäus</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -16544,7 +16346,7 @@
                     <person xml:id="martin-V">
                         <persName>
                             <surname>Martin V.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Genazzano 1386–1431 Rom</p>
@@ -16717,15 +16519,14 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/124249612</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/124249612</idno>
                     </person>
                     <person xml:id="mathias-I">
                         <persName>
                             <surname>Mathias I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1557–1619 Wien</p>
@@ -16739,7 +16540,7 @@
                     <person xml:id="matthias-corvinus">
                         <persName>
                             <surname>Matthias Corvinus</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Klausenburg 1443–1490 Wien</p>
@@ -16820,7 +16621,7 @@
                     <person xml:id="maximilian-I">
                         <persName>
                             <surname>Maximilian I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wiener Neustadt 1459–1519 Wels</p>
@@ -16834,7 +16635,7 @@
                     <person xml:id="maximilian-II">
                         <persName>
                             <surname>Maximilian II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1527–1576 Regensburg</p>
@@ -16847,7 +16648,7 @@
                     <person xml:id="maximilian-II-von-bayern">
                         <persName>
                             <surname>Maximilian II. Joseph</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>München 1811–1864 München</p>
@@ -17081,7 +16882,7 @@
                     <person>
                         <persName>
                             <surname>Melissos von Elea</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>490–430 v. Chr.</p>
@@ -17130,31 +16931,6 @@
                             <p>k_A</p>
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/119268884</idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Menumarout</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Menzel</surname>
-                            <forename>Wenzel Joseph</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>bis 1858 Direktor des Gymnasiums in Görz, ab 1858 Direktor des
-                                Gymnasiums in Triest</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="mercandin-franz">
                         <persName>
@@ -17366,7 +17142,7 @@
                     <person xml:id="michael-I-apafi">
                         <persName>
                             <surname>Michael I. Apafi</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1632–1690 Fogarasch</p>
@@ -17379,7 +17155,7 @@
                     <person xml:id="michael-I">
                         <persName>
                             <surname>Michael I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Moskau 1596–1645 Moskau</p>
@@ -17420,7 +17196,7 @@
                     <person xml:id="michelangelo">
                         <persName>
                             <surname>Michelangelo Buanorotti</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Caprese 1475–1564 Rom</p>
@@ -18019,7 +17795,7 @@
                     <person xml:id="moses">
                         <persName>
                             <surname>Moses</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -18453,18 +18229,6 @@
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/102072353</idno>
                     </person>
-                    <person>
-                        <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>k_A</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
                     <person xml:id="nadasdy-franz">
                         <persName>
                             <surname>Nádasdy</surname>
@@ -18615,7 +18379,7 @@
                     <person xml:id="napoleon-bonaparte">
                         <persName>
                             <surname>Napoleon Bonaparte</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Ajaccio 1769–1821 St. Helena</p>
@@ -18628,7 +18392,7 @@
                     <person xml:id="napoleon-III">
                         <persName>
                             <surname>Napoleon III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Paris 1808–1873 Chislehurst b. London</p>
@@ -18895,7 +18659,7 @@
                     <person xml:id="nikolaus-I">
                         <persName>
                             <surname>Nikolaus I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Zarskoje Selo bei Petersburg 1796–1855 St. Petersburg</p>
@@ -18909,7 +18673,7 @@
                     <person xml:id="nikolaus-I-troppau">
                         <persName>
                             <surname>Nikolaus I. von Troppau</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>um 1255–1318 Brünn</p>
@@ -18923,7 +18687,7 @@
                     <person xml:id="nikolaus-II-troppau">
                         <persName>
                             <surname>Nikolaus II. von Troppau</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>um 1288–1365</p>
@@ -18935,7 +18699,7 @@
                     <person xml:id="nikolaus-V">
                         <persName>
                             <surname>Nikolaus V.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Sarzana 1397–1455 Rom</p>
@@ -18948,7 +18712,7 @@
                     <person xml:id="nikon">
                         <persName>
                             <surname>Nikon</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Weldemanowo 1605–1681 Jaroslawl</p>
@@ -19325,7 +19089,7 @@
                     <person xml:id="otto-I">
                         <persName>
                             <surname>Otto I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>912–973 Memleben</p>
@@ -19339,7 +19103,7 @@
                     <person xml:id="ottokar-I-premysl">
                         <persName>
                             <surname>Ottokar I. Přemysl</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1160/65–1230</p>
@@ -19352,7 +19116,7 @@
                     <person xml:id="ottokar-II">
                         <persName>
                             <surname>Ottokar II. Přemysl</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1232–1278 Dürnkrut</p>
@@ -19743,7 +19507,7 @@
                     <person xml:id="pauline-von-wuerttemberg">
                         <persName>
                             <surname>Pauline von Württemberg</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Stuttgart 1810–1856 Wiesbaden</p>
@@ -19995,7 +19759,7 @@
                     <person xml:id="perikles">
                         <persName>
                             <surname>Perikles</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>um 490–429 v. Chr.</p>
@@ -20105,7 +19869,7 @@
                     <person xml:id="peter-II-oldenburg">
                         <persName>
                             <surname>Peter II. von Oldenburg</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Oldenburg 1827–1900 Rastede</p>
@@ -20117,7 +19881,7 @@
                     <person xml:id="peter-von-alcantara">
                         <persName>
                             <surname>Peter von Alcantara OFM</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Alcantara 1499–1562 Arenas de San Pedro</p>
@@ -20344,7 +20108,7 @@
                     <person xml:id="photios-I">
                         <persName>
                             <surname>Photios I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Konstantinopel 820–891 Bordi</p>
@@ -20568,10 +20332,10 @@
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/118594702</idno>
                     </person>
-                    <person>
-                        <persName xml:id="pius-III">
+                    <person xml:id="pius-III">
+                        <persName>
                             <surname>Pius III.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Siena 1439–1503 Rom</p>
@@ -20583,7 +20347,7 @@
                     <person xml:id="pius-IV">
                         <persName>
                             <surname>Pius IV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Mailand 1499–1565 Rom</p>
@@ -20596,7 +20360,7 @@
                     <person xml:id="pius-VI">
                         <persName>
                             <surname>Pius VI.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Cesena 1717–1799 Valence</p>
@@ -20609,7 +20373,7 @@
                     <person xml:id="pius-VII">
                         <persName>
                             <surname>Pius VII.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Cesena 1742–1823 Rom</p>
@@ -20622,7 +20386,7 @@
                     <person xml:id="pius-VIII">
                         <persName>
                             <surname>Pius VIII.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Cingoli 1761–1830 Rom</p>
@@ -20635,7 +20399,7 @@
                     <person xml:id="pius-IX">
                         <persName>
                             <surname>Pius IX.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Senigallia 1792–1878 Rom</p>
@@ -20701,7 +20465,7 @@
                     <person xml:id="platon">
                         <persName>
                             <surname>Platon</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Athen oder Aigina 428/427–348/347 v. Chr. Athen</p>
@@ -20921,8 +20685,8 @@
                     </person>
                     <person xml:id="polgar-michael">
                         <persName>
-                            <surname>Polgar Michael</surname>
-                            <forename>k_A</forename>
+                            <surname>Polgar</surname>
+                            <forename>Michael</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -21493,7 +21257,7 @@
                     <person xml:id="raffael-santi">
                         <persName>
                             <surname>Raffael Santi</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Urbino 1483–1520 Rom</p>
@@ -21535,7 +21299,7 @@
                     <person xml:id="rainer-ferdinand-erzherzog">
                         <persName>
                             <surname>Rainer Ferdinand, Erzherzog</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Mailand 1827–1913 Wien</p>
@@ -22821,7 +22585,7 @@
                     <person xml:id="rudolph-I">
                         <persName>
                             <surname>Rudolph I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Sasbach 1218–1291 Speyer</p>
@@ -22835,7 +22599,7 @@
                     <person xml:id="rudolf-II">
                         <persName>
                             <surname>Rudolph II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1552–1612 Prag</p>
@@ -22848,7 +22612,7 @@
                     <person xml:id="rudolph-IV">
                         <persName>
                             <surname>Rudolph IV.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Wien 1339–1365 Mailand</p>
@@ -23030,7 +22794,7 @@
                     <person xml:id="salm">
                         <persName>
                             <surname>Fürstin von Salm</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>k_A</p>
@@ -23069,7 +22833,7 @@
                     <person xml:id="salomo-III">
                         <persName>
                             <surname>Salomo III. von Konstanz</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>860–919/920</p>
@@ -23082,7 +22846,7 @@
                     <person xml:id="sallust">
                         <persName>
                             <surname>Sallust</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Amiternum 86–35/34 v. Chr. Rom</p>
@@ -23094,7 +22858,7 @@
                     <person xml:id="samuel-aba">
                         <persName>
                             <surname>Sámuel Aba</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>um 990–1044 bei Füzesabony</p>
@@ -24521,7 +24285,7 @@
                     <person xml:id="scipio">
                         <persName>
                             <surname>Publius Cornelius Scipio Africanus</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Rom 235–183 v. Chr.</p>
@@ -24809,7 +24573,7 @@
                     <person xml:id="sigismund-II-august">
                         <persName>
                             <surname>Sigismund II. August</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Krakau 1520–1572 Knyszyn</p>
@@ -25157,7 +24921,7 @@
                     <person xml:id="sophie-erzherzogin">
                         <persName>
                             <surname>Sophie Friederike von Bayern</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>München 1805–1872 Wien</p>
@@ -25453,7 +25217,7 @@
                     <person xml:id="stefan-franz-viktor-erzherzog">
                         <persName>
                             <surname>Stefan Franz Viktor, Erzherzog von Österreich</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Buda 1817–1867 Mentone</p>
@@ -25682,7 +25446,7 @@
                     <person xml:id="stephan-I">
                         <persName>
                             <surname>Stephan I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Esztergom 969–1038</p>
@@ -25695,7 +25459,7 @@
                     <person xml:id="stephan-tournai">
                         <persName>
                             <surname>Stephan von Tournai</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>1128–1203</p>
@@ -26226,7 +25990,7 @@
                     <person xml:id="sueton">
                         <persName>
                             <surname>Gaius Suetonius Tranquillus</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>um 70–122 n. Chr.</p>
@@ -26277,7 +26041,7 @@
                     <person xml:id="sulla-lucius-cornelius">
                         <persName>
                             <surname>Lucius Cornelius Sulla Felix</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>138/134–78 v. Chr.</p>
@@ -26937,7 +26701,7 @@
                     <person xml:id="themistokles">
                         <persName>
                             <surname>Themistokles</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>525–459 v. Chr. Magnesia am Mäander</p>
@@ -26995,15 +26759,14 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/15939581X</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/15939581X</idno>
                     </person>
                     <person xml:id="thrasybulos">
                         <persName>
                             <surname>Thrasybulos</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Steiria um 440–388 Aspendos v. Chr.</p>
@@ -27814,8 +27577,8 @@
                     </person>
                     <person xml:id="unger-joseph">
                         <persName>
-                            <surname>Unger Joseph</surname>
-                            <forename>k_A</forename>
+                            <surname>Unger</surname>
+                            <forename>Joseph</forename>
                         </persName>
                         <note>
                             <p>Komorowitz 1828–1913 Wien</p>
@@ -27830,7 +27593,7 @@
                     <person xml:id="urban-VIII">
                         <persName>
                             <surname>Urban VIII.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Florenz 1568–1644 Rom</p>
@@ -28208,7 +27971,7 @@
                     <person xml:id="vergil">
                         <persName>
                             <surname>Vergil</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Mantua 70–19 v. Chr. Brindisi</p>
@@ -28330,7 +28093,7 @@
                     <person xml:id="vladislav-II">
                         <persName>
                             <surname>Vladislav II.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>Krakau 1456–1516 Ofen</p>
@@ -28419,12 +28182,12 @@
                     </person>
                     <person xml:id="vukassovich">
                         <persName>
-                            <surname>k_A</surname>
-                            <forename>k_A</forename>
+                            <surname>Vukassovich</surname>
+                            <forename>Friedrich</forename>
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>k_A</p>
+                            <p>Beamter in verschiedenen Positionen Krakauer Verwaltungsbezirk</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -28496,14 +28259,14 @@
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/172455790</idno>
                     </person>
-                    <person xml:id="wagner">
+                    <person xml:id="woyna-eduard">
                         <persName>
-                            <surname>Wagner</surname>
-                            <forename>k_A</forename>
+                            <surname>Woyna</surname>
+                            <forename>Eduard</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Gesandter in Belgien</p>
+                            <p>Wien 1795–1850 Brüssel</p>
+                            <p>öst. Diplomat, ab 1844 Gesandter in Belgien</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -28544,18 +28307,6 @@
                             <p>k_A</p>
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/10430409X</idno>
-                    </person>
-                    <person>
-                        <persName>
-                            <surname>Wagner</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Priester und Ceremonarius des Bischofs von Neutra</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
                     </person>
                     <person xml:id="waitz-franz-theodor">
                         <persName>
@@ -29720,7 +29471,7 @@
                     <person xml:id="xenophanes">
                         <persName>
                             <surname>Xenophanes von Kolophon</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>um 570–um 470 v. Chr.</p>
@@ -29733,7 +29484,7 @@
                     <person xml:id="xerxes-I">
                         <persName>
                             <surname>Xerxes I.</surname>
-                            <forename>k_A</forename>
+                            <forename/>
                         </persName>
                         <note>
                             <p>um 519–465 v. Chr.</p>
