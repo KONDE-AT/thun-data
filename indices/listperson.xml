@@ -21827,7 +21827,7 @@
                         </persName>
                         <note>
                             <p>k_A</p>
-                            <p>Schuldirektor in Nikolsburg</p>
+                            <p>Schuldirektor in Mikulov</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -25792,7 +25792,7 @@
                         </persName>
                         <note>
                             <p>München 1805–1870 Wien</p>
-                            <p>1836 Rechtanwalt in Mannheim, 1845–1846 Redakteur des Mannheimer
+                            <p>1836 Rechtsanwalt in Mannheim, 1845–1846 Redakteur des Mannheimer
                                 Journals, nach dem Maiaufstand 1849 Flucht in die Schweiz, England,
                                 1851 in die USA, 1863 Rückkehr nach Deutschland</p>
                             <p>http://d-nb.info/gnd/118799207</p>
@@ -26689,14 +26689,42 @@
                     <person xml:id="thaler-karl">
                         <persName>
                             <surname>Thaler</surname>
-                            <forename>Karl von</forename>
+                            <forename>Karl</forename>
                         </persName>
                         <note>
                             <p>Wien 1836–1916 Wien</p>
                             <p>Dramatiker und Publizist</p>
+                            <p>http://d-nb.info/gnd/117298085</p>
+                            <p>k_A</p>
+                        </note>
+                        <idno type="URL">http://d-nb.info/gnd/117298085</idno>
+                    </person>
+                    <person xml:id="thaler-karl-sen">
+                        <persName>
+                            <surname>Thaler</surname>
+                            <forename>Karl sen.</forename>
+                        </persName>
+                        <note>
+                            <p>Freiburg i. B. 1796–1878 Wien</p>
+                            <p>ab 1820 in öster. Staatsdienst in Brixen und Innsbruck, zuletzt
+                                Kreisrat in Innsbruck</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
+                    </person>
+                    <person xml:id="thaler-anna">
+                        <persName>
+                            <surname>Thaler</surname>
+                            <forename>Anna Antonia</forename>
+                        </persName>
+                        <note>
+                            <p>Brünn 1814–1875 Wien</p>
+                            <p>Schriftstellerin, Gattin von Karl Thaler sen., Mutter von Karl
+                                Thaler</p>
+                            <p>http://d-nb.info/gnd/130163554</p>
+                            <p>k_A</p>
+                        </note>
+                        <idno type="URL">http://d-nb.info/gnd/130163554</idno>
                     </person>
                     <person xml:id="theiner-augustin">
                         <persName>
@@ -27391,7 +27419,7 @@
                         </persName>
                         <note>
                             <p>1810–1874</p>
-                            <p>Übersetzer, u.a. der Werke von Heinrich Ahrens in Italienische</p>
+                            <p>Übersetzer, u.a. der Werke von Heinrich Ahrens ins Italienische</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -29065,7 +29093,7 @@
                         <note>
                             <p>Aschaffenburg 1811–1861 München</p>
                             <p>Priester, 1838–1839 Prof. für Neutestamentliche Exegese und
-                                Kirchenrecht an der Universität München, ab1840 Domkapitular zu
+                                Kirchenrecht an der Universität München, ab 1840 Domkapitular zu
                                 Freising, 1846–1856 Generalvikar des Erzbischofs von
                                 München-Freising</p>
                             <p>http://d-nb.info/gnd/117401072</p>
