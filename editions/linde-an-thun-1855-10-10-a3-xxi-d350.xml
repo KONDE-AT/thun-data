@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="linde-an-thun-1855-10-10-a3-xxi-d350.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1854-05-31-ca1055.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1856-01-18-a3-xxi-d365.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
+    xml:id="linde-an-thun-1855-10-10-a3-xxi-d350.xml"
+    prev="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1854-05-31-ca1055.xml"
+    next="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1856-01-18-a3-xxi-d365.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#linde-justin" role="sender:beamter">Justin Linde</rs> an
-                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
-                        Thun</rs>
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_769151408914e2c922087bfa9372d637">Dreis</rs>, <date when="1855-10-10">10. Oktober 1855</date>
+                    <rs type="place" subtype="place" ref="#place_769151408914e2c922087bfa9372d637"
+                        >Dreis</rs>, <date when="1855-10-10">10. Oktober 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB4A-C</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
+                        >http://hdl.handle.net/21.11115/0000-000B-DB4A-C</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -81,16 +85,20 @@
                 </index>
                 <p>Dreis bei Wittlich, den 10. Oktober 1855</p>
                 <p>Euer Excellenz,</p>
-                <p>Sehr schätzbares Schreiben vom 11. vorigen Monats<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/thun-an-linde-1855-09-11-ca1128.xml">Leo
+                <p>Sehr schätzbares Schreiben vom 11. vorigen Monats<note xml:id="note_1">Vgl. <ref
+                            target="thun/thun-korrespondenz/thun-an-linde-1855-09-11-ca1128.xml">Leo
                             Thun an Justin Linde. Wien, 11. September 1855</ref>.</note> hatte ich
-                    hier, wohin es mir von <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> nachgesendet wurde, und
-                    wo ich mich während den Bundestagsferien befinde, zu empfangen die Ehre. Da ich
-                    wegen der Entfernung von <rs type="place" subtype="place" ref="#place_56379b3722203c9ce71d0191081d67f6">Hanau</rs> mich persönlich nicht nach
-                        <rs type="person" ref="#schell-nikolaus">Herrn Schell</rs> erkundigen konnte,
-                    so habe ich es brieflich gethan; aber bis jetzt keine Nachricht bekommen;
-                    wahrscheinlich, weil die Person, an die ich mich wandte, verreist ist. Ich werde
-                    nun wahrscheinlich vor Ende dieses Monats nichts sicheres erfahren. Gegen Ende
-                    dieses Monats gedenke ich nach <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> zurückzugehen
+                    hier, wohin es mir von <rs type="place" subtype="place"
+                        ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> nachgesendet
+                    wurde, und wo ich mich während den Bundestagsferien befinde, zu empfangen die
+                    Ehre. Da ich wegen der Entfernung von <rs type="place" subtype="place"
+                        ref="#place_56379b3722203c9ce71d0191081d67f6">Hanau</rs> mich persönlich
+                    nicht nach <rs type="person" ref="#schell-nikolaus">Herrn Schell</rs> erkundigen
+                    konnte, so habe ich es brieflich gethan; aber bis jetzt keine Nachricht
+                    bekommen; wahrscheinlich, weil die Person, an die ich mich wandte, verreist ist.
+                    Ich werde nun wahrscheinlich vor Ende dieses Monats nichts sicheres erfahren.
+                    Gegen Ende dieses Monats gedenke ich nach <rs type="place" subtype="place"
+                        ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> zurückzugehen
                     und werde, wenn es denn noch Interesse für Euer Excellenz hat, selbst nach Hanau
                     gehen, um zugleich an Ort und Stelle die Person und deren Verhältnisse mit
                     eigenen Augen ansehen, wo ich ein zuverlässiges Urtheil zu fällen, hoffentlich
@@ -99,22 +107,24 @@
                     nicht möglich war.<lb/>Für einen Vertreter des deutschen Rechts weiß ich zwar
                     einige jüngere Personen, die vollkommen qualifizirt sind, die aber bisher nicht
                     die Absicht hatten, die academische Laufbahn zu betreten. Nach meiner Rückkehr
-                    in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> werde ich Gelegenheit haben darüber und über
-                    Philologen noch nähere Notizen einzuziehen, und nicht verfehlen, Hochderselben
-                    das Resultat meiner Nachforschungen dann mitzutheilen. Wenn Hochderselben nur
-                    die Orte, wo die Anstellungen in Aussicht stehen, und die Bedingungen etwas
-                    näher anzugeben geneigen sollten, dann wäre damit für die zu treffende Wahl wohl
-                    Manches gewonnen.<lb/>Man ist in Deutschland sehr gespannt auf den Inhalt des
-                    österreichischen Concordats, was bezüglich dieser Verhältnisse sehr maaßgebend
-                    seyn wird. Ich selbst warte mit Sehnsucht auf die Veröffentlichung. Euer
-                    Excellenz haben darin ein großes Werk zum Abschlusse gebracht, das wohl mit der
-                    Hauptpfeiler der Zukunft des Kaiserstaats seyn wird. Die Aufgabe ist, nach ihrer
-                    Bedeutung bemessen, doch in verhältnismäßig kurzer Zeit zur Lösung
-                    geführt.<lb/>Erlauben Euer Excellenz bei dieser Gelegenheit einen mich
-                    persönlich betreffenden Gegenstand vorzutragen. Mein ältester Sohn, gesunder
-                    Körper und Geist, widmet sich dem geistlichen Stande und wird wahrscheinlich
-                    nach Ablauf eines Jahres die Priesterweihe empfangen. Ich hege den Wunsch, daß
-                    er in dem Kaiserstaate der Kirche diene, bin dort aber ohne alle dahin führende
+                    in <rs type="place" subtype="place"
+                        ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> werde ich
+                    Gelegenheit haben darüber und über Philologen noch nähere Notizen einzuziehen,
+                    und nicht verfehlen, Hochderselben das Resultat meiner Nachforschungen dann
+                    mitzutheilen. Wenn Hochderselben nur die Orte, wo die Anstellungen in Aussicht
+                    stehen, und die Bedingungen etwas näher anzugeben geneigen sollten, dann wäre
+                    damit für die zu treffende Wahl wohl Manches gewonnen.<lb/>Man ist in
+                    Deutschland sehr gespannt auf den Inhalt des österreichischen Concordats, was
+                    bezüglich dieser Verhältnisse sehr maaßgebend seyn wird. Ich selbst warte mit
+                    Sehnsucht auf die Veröffentlichung. Euer Excellenz haben darin ein großes Werk
+                    zum Abschlusse gebracht, das wohl mit der Hauptpfeiler der Zukunft des
+                    Kaiserstaats seyn wird. Die Aufgabe ist, nach ihrer Bedeutung bemessen, doch in
+                    verhältnismäßig kurzer Zeit zur Lösung geführt.<lb/>Erlauben Euer Excellenz bei
+                    dieser Gelegenheit einen mich persönlich betreffenden Gegenstand vorzutragen.
+                    Mein ältester <rs type="person" ref="#linde-rudolph">Sohn</rs>, gesunder Körper
+                    und Geist, widmet sich dem geistlichen Stande und wird wahrscheinlich nach
+                    Ablauf eines Jahres die Priesterweihe empfangen. Ich hege den Wunsch, daß er in
+                    dem Kaiserstaate der Kirche diene, bin dort aber ohne alle dahin führende
                     Verbindungen und Anknüpfungsmittel; und deshalb wäre es mir eine große
                     Beruhigung, wenn Euer Excellenz in der Lage wären, und für mich das gnädige
                     Wohlwollen hätten, mir zur Erfüllung dieses Wunsches eine Aussicht zu eröffnen.
@@ -131,75 +141,84 @@
                 <p>Euer Excellenz gehorsamster<lb/>J. v. Linde</p>
             </div>
         </body>
-    <back>
+        <back>
             <listPerson>
                 <person xml:id="linde-justin">
-                        <persName>
-                            <surname>Linde</surname>
-                            <forename>Justin Timotheus Balthasar</forename>
-                        </persName>
-                        <note>
-                            <p>Brilon 1797–1870 Bonn</p>
-                            <p>1824–1829 Prof. des deutschen Privatrechts und der röm. Rechtsgeschichte an der Universität Gießen, ab 1829 Geh. Regierungsrat im Ministerium des Innern und der Justiz in Darmstadt, ab 1832 Direktor des Oberstudienrats, 1836–1847 Geh. Staatsrat im Ministerium des Innern und der Justiz, 1848/49 Mitglied der Frankfurter Nationalversammlung, 1850–1866 österr. Gesandter beim deutschen Bundestag</p>
-                            <p>http://d-nb.info/gnd/119095645</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119095645</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Linde</surname>
+                        <forename>Justin Timotheus Balthasar</forename>
+                    </persName>
+                    <note>
+                        <p>Brilon 1797–1870 Bonn</p>
+                        <p>1824–1829 Prof. des deutschen Privatrechts und der röm. Rechtsgeschichte
+                            an der Universität Gießen, ab 1829 Geh. Regierungsrat im Ministerium des
+                            Innern und der Justiz in Darmstadt, ab 1832 Direktor des
+                            Oberstudienrats, 1836–1847 Geh. Staatsrat im Ministerium des Innern und
+                            der Justiz, 1848/49 Mitglied der Frankfurter Nationalversammlung,
+                            1850–1866 österr. Gesandter beim deutschen Bundestag</p>
+                        <p>http://d-nb.info/gnd/119095645</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/119095645</tei:idno>
+                </person>
                 <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Thun-Hohenstein</surname>
+                        <forename>Leo (Leopold)</forename>
+                    </persName>
+                    <note>
+                        <p>Tetschen 1811–1888 Wien</p>
+                        <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und
+                            Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung
+                            "Das Vaterland"</p>
+                        <p>http://d-nb.info/gnd/118757393</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118757393</tei:idno>
+                </person>
                 <person xml:id="schell-nikolaus">
-                        <persName>
-                            <surname>Schell</surname>
-                            <forename>Nikolaus</forename>
-                        </persName>
-                        <note>
-                            <p>k_A</p>
-                            <p>Gymnasiallehrer in Hanau</p>
-                            <p>no gnd provided</p>
-                            <p>k_A</p>
-                        </note>
-                    </person>
+                    <persName>
+                        <surname>Schell</surname>
+                        <forename>Nikolaus</forename>
+                    </persName>
+                    <note>
+                        <p>k_A</p>
+                        <p>Gymnasiallehrer in Hanau</p>
+                        <p>no gnd provided</p>
+                        <p>k_A</p>
+                    </note>
+                </person>
             </listPerson>
             <listPlace>
                 <place xml:id="place_769151408914e2c922087bfa9372d637">
-                        <placeName>Dreis</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.9409 6.81845</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/2935117/</idno>
-                    </place>
+                    <placeName>Dreis</placeName>
+                    <location>
+                        <geo decls="#LatLng">49.9409 6.81845</geo>
+                    </location>
+                    <idno>http://sws.geonames.org/2935117/</idno>
+                </place>
                 <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
-                        <placeName>Frankfurt-Eckenheim</placeName>
-                        <placeName type="pref">Frankfurt a. M.</placeName>
-                        <placeName type="alt">Frankfurt a. M.</placeName>
-                        <placeName type="alt">Frankfurt am Main</placeName>
-                        <placeName type="alt">Francfurt a. M.</placeName>
-                        <placeName type="alt">Francfurt</placeName>
-                        <placeName type="alt">Francoforte</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
-                        </location>
-                        <idno>http://d-nb.info/gnd/4093156-0</idno>
-                    </place>
+                    <placeName>Frankfurt-Eckenheim</placeName>
+                    <placeName type="pref">Frankfurt a. M.</placeName>
+                    <placeName type="alt">Frankfurt a. M.</placeName>
+                    <placeName type="alt">Frankfurt am Main</placeName>
+                    <placeName type="alt">Francfurt a. M.</placeName>
+                    <placeName type="alt">Francfurt</placeName>
+                    <placeName type="alt">Francoforte</placeName>
+                    <location>
+                        <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                    </location>
+                    <idno>http://d-nb.info/gnd/4093156-0</idno>
+                </place>
                 <place xml:id="place_56379b3722203c9ce71d0191081d67f6">
-                        <placeName>Hanau</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.13423 8.91418</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/2911007/</idno>
-                    </place>
+                    <placeName>Hanau</placeName>
+                    <location>
+                        <geo decls="#LatLng">50.13423 8.91418</geo>
+                    </location>
+                    <idno>http://sws.geonames.org/2911007/</idno>
+                </place>
             </listPlace>
         </back>
     </text>

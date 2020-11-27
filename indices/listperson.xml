@@ -8276,7 +8276,7 @@
                             <forename>Alessandro</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
+                            <p>Venedig 1814-1878 Parma</p>
                             <p>Jurist, Prof. an der Universität Padua</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
@@ -9073,8 +9073,9 @@
                             <forename>Josef</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
-                            <p>Ministerialkonzipist im Ministerium für Kultus und Unterricht</p>
+                            <p>†1877 Linz</p>
+                            <p>Ministerialkonzipist im Ministerium für Kultus und Unterricht, ab
+                                1869 im Ruhestand</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
@@ -9578,7 +9579,7 @@
                             <forename>André Henri Constant van</forename>
                         </persName>
                         <note>
-                            <p>Maastricth 1806–1874 Brüssel</p>
+                            <p>Maastricht 1806–1874 Brüssel</p>
                             <p>Konservator an der königl. Bibliothek zu Brüssel, Inspektor des
                                 Primärunterrichts und der Écoles Normales, ab 1837 Mitglied der
                                 königl. Akademie</p>
@@ -9671,10 +9672,9 @@
                         <note>
                             <p>k_A</p>
                             <p>k_A</p>
-                            <p>http://d-nb.info/gnd/126375577</p>
+                            <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
-                        <idno type="URL">http://d-nb.info/gnd/126375577</idno>
                     </person>
                     <person xml:id="hauser-gregor">
                         <persName>
@@ -10030,7 +10030,7 @@
                     <person xml:id="helfert-joseph-alexander">
                         <persName>
                             <surname>Helfert</surname>
-                            <forename>Josef Alexander</forename>
+                            <forename>Joseph Alexander</forename>
                         </persName>
                         <note>
                             <p>Prag 1820–1910 Wien</p>
@@ -10063,7 +10063,7 @@
                         </persName>
                         <note>
                             <p>1832–1907</p>
-                            <p>geb. von Gredler, seit 1853 zweite Gattin von Josef Alexander
+                            <p>geb. von Gredler, seit 1853 zweite Gattin von Joseph Alexander
                                 Helfert</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
@@ -10100,7 +10100,7 @@
                             <forename>Karl</forename>
                         </persName>
                         <note>
-                            <p>k_A</p>
+                            <p>1808–1890 Prag</p>
                             <p>Landesadvokat in Prag</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
@@ -10363,7 +10363,7 @@
                             <p>Innsbruck 1817–1885 Hall i. Tirol</p>
                             <p>1846–1849 Kreiskommissär in Istrien, ab 1849 Sekretär im Ministerium
                                 für Kultus und Unterricht (zuständig für die Reorganisation des
-                                Schulwesens in Siebenbürgen),ab 1853 Sektionsrat, ab 1857
+                                Schulwesens in Siebenbürgen), ab 1853 Sektionsrat, ab 1857
                                 Kämmerer</p>
                             <p>http://d-nb.info/gnd/116953462</p>
                             <p>k_A</p>
@@ -11406,7 +11406,7 @@
                             <forename>Friedrich Hugo</forename>
                         </persName>
                         <note>
-                            <p>1807–1888</p>
+                            <p>1807–1888 Würzburg</p>
                             <p>Diplomat, 1855–1866 Gesandter in Hannover, Oldenburg und
                                 Braunschweig</p>
                             <p>http://d-nb.info/gnd/117138959</p>
@@ -12359,7 +12359,7 @@
                         </persName>
                         <note>
                             <p>747/748–814</p>
-                            <p>König der Franken, ab röm. Kaiser</p>
+                            <p>König der Franken, ab 800 röm. Kaiser</p>
                             <p>http://d-nb.info/gnd/187754217</p>
                             <p>k_A</p>
                         </note>
@@ -15113,6 +15113,21 @@
                             <p>k_A</p>
                         </note>
                         <idno type="URL">http://d-nb.info/gnd/119095645</idno>
+                    </person>
+                    <person xml:id="linde-rudolph">
+                        <persName>
+                            <surname>Linde</surname>
+                            <forename>Rudolph</forename>
+                        </persName>
+                        <note>
+                            <p>Darmstadt 1831–1913 Olmütz</p>
+                            <p>1857 in Prag zum Priester geweiht, 1864–1871 Pfarrer in Oberursel
+                                (Bistum Limburg), 1874 von Papst Pius IX. zum Monsignore und
+                                Ehrenkämmerer ernannt, 1889 Domkapitular zu St. Stephan in Wien,
+                                Erzdiakon in Olmütz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
                     </person>
                     <person xml:id="lindemann-heinrich-simon">
                         <persName>
@@ -21745,7 +21760,7 @@
                         </persName>
                         <note>
                             <p>†1887 Lemberg</p>
-                            <p>ab 1840 Assitent für Physik am Polytechnikum in Wien, Prof. für
+                            <p>ab 1840 Assistent für Physik am Polytechnikum in Wien, Prof. für
                                 Mathematik am Polytechnikum in Lemberg , bis zu seinem Ruhestand
                                 1871 Direktor dieser Anstalt</p>
                             <p>no gnd provided</p>
@@ -28238,8 +28253,9 @@
                             <forename>Anton</forename>
                         </persName>
                         <note>
-                            <p>1850–1859 Prof. für Geschichte an der Universität Lemberg</p>
-                            <p>k_A</p>
+                            <p>Biala 1814–1873 Krakau</p>
+                            <p>Historiker, Unterricht in Tarnow, Czernowitz und Krakau, 1850–1859
+                                Prof. für Geschichte an der Universität Lemberg</p>
                             <p>no gnd provided</p>
                             <p>k_A</p>
                         </note>
