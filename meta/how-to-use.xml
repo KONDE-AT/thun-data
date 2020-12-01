@@ -21,11 +21,14 @@
             <publicationStmt>
                 <publisher>Projektteam: Die Korrespondenz von Leo von Thun-Hohenstein.
                     Projektleitung <name>
-                        <ref target="http://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/univ-prof/mazohl-brigitte/">Brigitte Mazohl</ref>
+                        <ref
+                            target="http://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/univ-prof/mazohl-brigitte/"
+                            >Brigitte Mazohl</ref>
                     </name>
                 </publisher>
                 <pubPlace>
-                    <ref target="http://thun-korrespondenz.uibk.ac.at/">http://thun-korrespondenz.uibk.ac.at/</ref>
+                    <ref target="http://thun-korrespondenz.uibk.ac.at/"
+                        >http://thun-korrespondenz.uibk.ac.at/</ref>
                 </pubPlace>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/3.0/">
@@ -74,24 +77,29 @@
                     Bearbeitern gewählt. Durch Anklicken eines Schlagwortes erhalten Sie alle
                     Dokumente, die ebenfalls mit diesem Schlagwort versehen sind.<lb/>Im Abschnitt
                         <hi rend="bold">Text</hi> finden Sie den oder die transkribierten Texte. Zu
-                    den dabei angewandten Editionsrichtlinien finden Sie <ref target="show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta">hier</ref>
-                    <!-- hier müsste man noch einen Link zu der About-Seite setzen und den Editionsgrundsätzen anlegen -->
-                    die notwendigen Informationen.<lb/>Am Ende des Textes findet sich der <hi rend="bold">Fußnotenapparat</hi> sowie die <hi rend="bold">Signatur</hi> des
-                    Dokuments.</p>
+                    den dabei angewandten Editionsrichtlinien finden Sie <ref
+                        target="show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta"
+                        >hier</ref> die notwendigen Informationen.<lb/>Am Ende des Textes findet
+                    sich der <hi rend="bold">Fußnotenapparat</hi> sowie die <hi rend="bold"
+                        >Signatur</hi> des Dokuments.</p>
             </div>
             <div>
-                <head>Welche Informationen bieten die Texte?</head>
+                <head>Welche weiterführenden Informationen bieten die Texte?</head>
                 <p>In den Texten sind die erwähnten Personen, Orte, Institutionen blau markiert.
-                    Durch Anklicken erhalten Sie die Informationen, die mit der Person, der Ort oder
-                    der Institution verbunden sind. Außerdem erhalten Sie durch Anklicken von
-                    „erwähnt in“ eine Liste mit allen anderen Dokumenten, in denen die Person, der
-                    Ort oder die Institution vorkommt. Durch Anklicken der verknüpften Normdaten
-                    gelangen Sie zu den Einträgen in den entsprechenden Datenbanken.<lb/>Bei
-                    Anklicken des Pfeilsymbols unterhalb des Titels jeden einzelnen Dokuments wird
-                    Ihnen der in XML/TEI ausgezeichnete Quellcode angezeigt.</p>
+                    Durch Anklicken erhalten Sie die weiterführende Informationen, die mit der
+                    Person, der Ort oder der Institution verbunden sind. Außerdem erhalten Sie durch
+                    Anklicken von „erwähnt in“ eine Liste mit allen anderen Dokumenten, in denen die
+                    Person, der Ort oder die Institution vorkommt. Durch Anklicken der verknüpften
+                    Normdaten gelangen Sie zu den Einträgen in den entsprechenden
+                    Datenbanken.<lb/>Bei Anklicken des Pfeilsymbols unterhalb des Titels jeden
+                    einzelnen Dokuments wird Ihnen der in XML/TEI ausgezeichnete Quellcode
+                    angezeigt.</p>
             </div>
             <div>
                 <head>Wie kann ich die Edition benutzen?</head>
+                <p>Sie haben unterschiedliche Möglichkeiten, auf die Dokumente in der Edition
+                    zuzugreifen: Über den Reiter Bestände, über die einzelnen Register sowie über
+                    die Volltextsuche.</p>
                 <div>
                     <head>Zugriff über den Reiter Bestände</head>
                     <p>Eine Möglichkeit besteht darin, über den Reiter Bestände im Nachlass nach
@@ -106,8 +114,8 @@
                 </div>
                 <div>
                     <head>Zugriff über die Register</head>
-                    <p>Das <hi rend="bold">Personenregister <ptr target="persons.html"/></hi><!-- hier und dann in der Folge bei den einzelnen Punkten könnte man überlegen ob man das jeweils mit den einzelnen Seiten verlinkt, muss aber nicht sein. -->
-                        ist alphabetisch aufgebaut, allerdings haben Sie die Möglichkeit nach den
+                    <p>Das <hi rend="bold">Personenregister <ptr target="persons.html"/></hi> ist
+                        alphabetisch aufgebaut, allerdings haben Sie die Möglichkeit nach den
                         einzelnen Rubriken zu sortieren. Der Aufbau des Registers folgt dem Schema:
                         Nachname, Vorname, Lebensdaten, Kurzbiographie, Normdaten. Das Register
                         umfasst etwa 2200 Einträge. Bei Anklicken eines Namens werden Ihnen
@@ -143,7 +151,8 @@
                 </div>
                 <div>
                     <head>Die Verwendung der Suche</head>
-                    <p>Die letzte Möglichkeit zum Zugriff besteht schließlich über die <hi rend="bold">Volltextsuche</hi>. Sie finden das entsprechende Suchfeld
+                    <p>Die letzte Möglichkeit zum Zugriff besteht schließlich über die <hi
+                            rend="bold">Volltextsuche</hi>. Sie finden das entsprechende Suchfeld
                         auf jeder Seite ganz oben rechts. Dabei müssen Sie indes beachten, dass
                         durch unterschiedliche Schreibungen im 19. Jahrhundert diese Suche oft nicht
                         zu allen möglichen Treffen führt. Sie können die Suche aber verbessern,
