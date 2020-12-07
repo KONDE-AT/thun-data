@@ -109,40 +109,45 @@
                         Grundeinstellung alphabetisch nach dem Absender geordnet. Durch Anklicken
                         einer Rubrik (Absender, Empfänger, Ausstellungsort, Datum) können Sie die
                         Anordnung der Briefe entsprechend ändern, sodass Sie nach der von Ihnen
-                        gewählten Rubrik sortiert werden. Zu einem Dokument selbst gelangen Sie,
-                        indem Sie ganz rechts auf den blau eingefärbten Dateinamen klicken.</p>
+                        gewählten Rubrik sortiert werden. Sie können in der jeweiligen Rubrik
+                        außerdem gezielt suchen, indem Sie das Suchfeld in der jeweiligen Spalte
+                        verwenden. Zu einem Dokument selbst gelangen Sie, indem Sie auf das
+                        PLUS-Zeichen klicken und dort auf den blau eingefärbten Dateinamen
+                        klicken.</p>
                 </div>
                 <div>
                     <head>Zugriff über die Register</head>
                     <p>Das <hi rend="bold">Personenregister <ptr target="persons.html"/></hi> ist
                         alphabetisch aufgebaut, allerdings haben Sie die Möglichkeit nach den
                         einzelnen Rubriken zu sortieren. Der Aufbau des Registers folgt dem Schema:
-                        Nachname, Vorname, Lebensdaten, Kurzbiographie, Normdaten. Das Register
-                        umfasst etwa 2200 Einträge. Bei Anklicken eines Namens werden Ihnen
-                        sämtliche Dokumente in der Form einer Vorschau der Textstelle, in denen
-                        dieser Name vorkommt, aufgelistet. Auch hier gelangen Sie wieder zum
-                        vollständigen Dokument, indem Sie auf den Dateinamen klicken.<lb/>Sie können
-                        in der Personenliste auch gezielt nach Namen suchen, indem Sie das Suchfeld
-                        direkt über den einzelnen Einträgen nutzen.</p>
+                        Nachname, Vorname, Lebensdaten, Kurzbiographie. Durch Anklicken des
+                        PLUS-Zeichens erhalten Sie zudem die mit dem Eintrag verknüpften Normdaten.
+                        Das Register umfasst etwa 2200 Einträge. Bei Anklicken eines Namens werden
+                        Ihnen sämtliche Dokumente aufgelistet. Bei Anklicken des PLUS-Zeichens
+                        erhalten Sie eine Vorschau der Textstelle, in denen dieser Name vorkommt.
+                        Auch hier gelangen Sie wieder zum vollständigen Dokument, indem Sie auf den
+                        Dateinamen klicken.<lb/>Sie können in der Personenliste auch gezielt nach
+                        Namen suchen, indem Sie das Suchfeld direkt über den einzelnen Einträgen
+                        nutzen.</p>
                     <p>Im <hi rend="bold">Ortsregister</hi> haben Sie zwei Möglichkeiten des
                         Zugriffes: entweder über das Anklicken eines Ortes auf der Karte oder über
                         das alphabetisch sortierte Register. Die Sortierung findet dabei in der
                         Grundeinstellung auf der Grundlage der normalisierten Ortsnamen statt. Sie
                         finden daneben aber auch alle alternativen Schreibweisen, die im Bestand
-                        vorkommen. Bei Anklicken eines Namens werden Ihnen sämtliche Dokumente in
-                        der Form einer Vorschau der Textstelle, in denen dieser Ortsname vorkommt,
-                        aufgelistet. Auch hier gelangen Sie wieder zum vollständigen Dokument, indem
-                        Sie auf den Dateinamen klicken.<lb/>Sie können in der Ortsliste auch gezielt
-                        nach einem Ort suchen, indem Sie das Suchfeld direkt über den einzelnen
-                        Einträgen nutzen.</p>
+                        vorkommen. Bei Anklicken eines Namens werden Ihnen sämtliche Dokumente, in
+                        denen dieser Ortsname vorkommt, aufgelistet. Auch hier gelangen Sie wieder
+                        zum vollständigen Dokument, indem Sie auf den Dateinamen klicken.<lb/>Sie
+                        können in der Ortsliste auch gezielt nach einem Ort suchen, indem Sie das
+                        Suchfeld direkt über den einzelnen Einträgen nutzen.</p>
                     <p>Das <hi rend="bold">Institutionenregister</hi> ist alphabetisch sortiert. Sie
                         können die Sortierung durch Anklicken der Rubrik ändern. Falls vorhanden,
                         sind auch die einzelnen Institutionen mit Normdaten verknüpft. Bei Anklicken
-                        eines Namens werden Ihnen sämtliche Dokumente in der Form einer Vorschau der
-                        Textstelle, in denen diese Institution genannt wird, aufgelistet. Auch hier
-                        gelangen Sie wieder zum vollständigen Dokument, indem Sie auf den Dateinamen
-                        klicken. Sie können in der Liste gezielt nach einer Institution suchen,
-                        indem Sie das Suchfeld direkt über den einzelnen Einträgen nutzen.</p>
+                        eines Namens werden Ihnen sämtliche Dokumente, in denen diese Institution
+                        genannt wird, aufgelistet. Bei Anklicken eines Dokuments wird Ihnen dann
+                        eine Vorschau der entsprechenden Textstelle angezeigt. Zum vollständigen
+                        Dokument gelangen Sie, indem Sie auf den Dateinamen klicken. Sie können in
+                        der Liste gezielt nach einer Institution suchen, indem Sie das Suchfeld
+                        direkt über den einzelnen Einträgen nutzen.</p>
                     <p>Das <hi rend="bold">Schlagwortregister</hi> ist alphabetisch sortiert. Bei
                         Anklicken eines Schlagwortes werden Ihnen sämtliche Dokumente aufgelistet,
                         für die dieses Schlagwort gewählt wurde. Sie können in der Liste auch
@@ -153,13 +158,13 @@
                     <head>Die Verwendung der Suche</head>
                     <p>Die letzte Möglichkeit zum Zugriff besteht schließlich über die <hi
                             rend="bold">Volltextsuche</hi>. Sie finden das entsprechende Suchfeld
-                        auf jeder Seite ganz oben rechts. Dabei müssen Sie indes beachten, dass
-                        durch unterschiedliche Schreibungen im 19. Jahrhundert diese Suche oft nicht
-                        zu allen möglichen Treffen führt. Sie können die Suche aber verbessern,
-                        indem Sie Platzhalter für einzelnen oder mehrere Buchstaben verwenden. Eine
-                        Suche von Jose* zeigt Ihnen beispielsweise Treffer für Joseph, Josef,
-                        Josefowicz, josephinisch usw. an. Die Trefferliste ist nach Relevanz
-                        sortiert.</p>
+                        auf jeder Seite in der Kopfzeile oben rechts (Suche in allen Dokumenten).
+                        Dabei müssen Sie indes beachten, dass durch unterschiedliche Schreibungen im
+                        19. Jahrhundert diese Suche oft nicht zu allen möglichen Treffen führt. Sie
+                        können die Suche aber verbessern, indem Sie Platzhalter für einzelnen oder
+                        mehrere Buchstaben verwenden. Eine Suche von Jose* zeigt Ihnen
+                        beispielsweise Treffer für Joseph, Josef, Josefowicz, josephinisch usw. an.
+                        Die Trefferliste ist nach Relevanz sortiert.</p>
                 </div>
             </div>
             <div>
