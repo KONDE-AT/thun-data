@@ -444,6 +444,10 @@
                         <orgName>Stift Heiligenkreuz</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/80820-9</idno>
                     </org>
+                    <org xml:id="org_akademie-der-bildenden-kuenste-prag">
+                        <orgName>Akademie der Bildenden Künste Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1175899550</idno>
+                    </org>
                 </listOrg>
             </div>
         </body>
