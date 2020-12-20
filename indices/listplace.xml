@@ -7331,7 +7331,7 @@
                         <placeName type="alt">Wilten</placeName>
                     </place>
                     <place xml:id="place_5dac03f57d7cb8586d6e7ee5f9a81bc2" type="placeName">
-                        <placeName type="pref">Ba Gastein</placeName>
+                        <placeName type="pref">Bad Gastein</placeName>
                         <placeName type="alt">Gastein</placeName>
                     </place>
                     <place xml:id="place_5ba859b0a99686e9c549527406f68474" type="placeName">
@@ -7521,7 +7521,7 @@
                         <idno>http://d-nb.info/gnd/4057092-7</idno>
                     </place>
                     <place xml:id="place_ef894a0a9ab2e171eb147ffd9e56cd4b" type="placeName">
-                        <placeName type="pref">Kärnthen</placeName>
+                        <placeName type="pref">Kärnten</placeName>
                         <location>
                             <geo decls="#LatLng">46.761944 13.818889</geo>
                         </location>
