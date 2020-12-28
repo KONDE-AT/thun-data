@@ -2168,17 +2168,16 @@
                         <idno>http://d-nb.info/gnd/402488-6</idno>
                     </place>
                     <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
-                        <placeName>Frankfurt-Eckenheim</placeName>
+                        <placeName>Frankfurt am Main</placeName>
                         <placeName type="pref">Frankfurt a. M.</placeName>
                         <placeName type="alt">Frankfurt a. M.</placeName>
-                        <placeName type="alt">Frankfurt am Main</placeName>
                         <placeName type="alt">Francfurt a. M.</placeName>
                         <placeName type="alt">Francfurt</placeName>
                         <placeName type="alt">Francoforte</placeName>
                         <location>
                             <geo decls="#LatLng">50.1497921 8.6662762</geo>
                         </location>
-                        <idno>http://d-nb.info/gnd/4093156-0</idno>
+                        <idno>http://d-nb.info/gnd/4018118-2</idno>
                     </place>
                     <place xml:id="place_62530da690f678833916ae0e5880bbaa">
                         <placeName>Zsigra</placeName>
