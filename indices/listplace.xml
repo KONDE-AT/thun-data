@@ -7737,8 +7737,7 @@
                         <idno>http://d-nb.info/gnd/4215793-6</idno>
                     </place>
                     <place xml:id="place_6fe90dd680c4a571ed89e631ef2d48ed" type="placeName">
-                        <placeName type="pref">Kroatien und
-                            Slavonien</placeName>
+                        <placeName type="pref">Kroatien und Slavonien</placeName>
                         <location>
                             <geo decls="#LatLng">45.8 15.966667</geo>
                         </location>
