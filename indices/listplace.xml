@@ -5133,8 +5133,8 @@
                         <idno>http://sws.geonames.org/2846523/</idno>
                     </place>
                     <place xml:id="place_1cb537e833afd985097ccfaddffb2ef3">
-                        <placeName>Raab</placeName>
-                        <placeName type="pref">Raab [Győr]</placeName>
+                        <placeName>Győr</placeName>
+                        <placeName type="pref">Raab</placeName>
                         <placeName type="alt">Raaber</placeName>
                         <location>
                             <geo decls="#LatLng">47.68333 17.63512</geo>
