@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-ueber-ungarischen-verhaeltnisse_1859-11_a3-xxi-d527.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-ueber-ungarischen-verhaeltnisse_1859-11_a3-xxi-d527.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bemerkungen <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Leo Thuns</rs> zu den
                     Verhältnissen in Ungarn<lb/>o. O., <date when="1859-11">November
-                    1859</date></title>
+                    1859</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7FE-F</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -54,7 +57,8 @@
                     </msContents>
                     <physDesc>
                         <p>Abschrift.</p>
-                        <p>Beilagen:<lb/><rs type="person" ref="#clam-martinic-heinrich-jaroslav" key="clam-martinic-heinrich-jaroslav">Heinrich
+                        <p>Beilagen:<lb/>
+                            <rs type="person" ref="#clam-martinic-heinrich-jaroslav" key="clam-martinic-heinrich-jaroslav">Heinrich
                                 Clam-Martinic</rs> an Leo Thun. Smečno, 20. November
                             1859.<lb/>Bemerkungen von <rs type="person" ref="#wolkenstein-karl" key="wolkenstein-karl">Karl Wolkenstein</rs> zu den Ausführungen Thuns.
                             Diese sind äußert schlecht lesbar und enhalten daher zahlreiche
@@ -63,7 +67,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -76,7 +84,8 @@
                     <p>Abschrift der <hi>Ausführungen</hi>, deren Original ich ohne Zweifel an
                         Heinrich geschickt habe.<lb/>dazu Bemerkung von Wolkenstein<lb/>2. Brief von
                         Heinrich 20/11 1859.<note>Bleistiftnotiz von Leo Thun am
-                            oberen Blattrand.</note></p>
+                            oberen Blattrand.</note>
+                    </p>
                     <p>Die Lage, in welcher sich die österreichische Regierung durch den
                         unglücklichen Verlauf des italienischen-französischen Krieges befindet, die
                         Erregung der Erwartung unbestimmter Reformen, die Einberufung ungarischer
@@ -220,7 +229,8 @@
                         berechtigt, unbehindert durch die frühere Verfassung zu handeln, wie es
                         Kaiser <rs type="person" ref="#ferdinand-II" key="ferdinand-II">Ferdinand II.</rs> in <rs type="place" subtype="place" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> nach der Schlacht am weißen Berge
                         gethan hat.<lb/>Nichts kann mir erwünschter sein, um meinen Gedanken klar zu
-                        machen als die Vergleichung mit dem was 1620 in <rs type="place" subtype="place" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> geschehen ist.<lb/><rs type="person" ref="#ferdinand-II" key="ferdinand-II">Kaiser Ferdinand</rs> hat ein strenges Gericht gehalten, die
+                        machen als die Vergleichung mit dem was 1620 in <rs type="place" subtype="place" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> geschehen ist.<lb/>
+                        <rs type="person" ref="#ferdinand-II" key="ferdinand-II">Kaiser Ferdinand</rs> hat ein strenges Gericht gehalten, die
                         Protestanten, welche die damalige Revolutionspartei waren, des Landes
                         verwiesen und die Stände derjenigen Rechte verlustig erklärt, die sie sich
                         widerrechtlich angemaßt oder die sie gröblich mißbraucht hatten; aber die
@@ -415,7 +425,8 @@
                         Omega. Ich muß umso fester daran halten, als nichts mich in der Überzeugung
                         wanken machen kann, daß jeder andere Weg uns direkt zur Revolution oder aber
                         zuerst zum Constitutionalismus und durch ihn erst ganz sicher zur
-                        Catastrophe führen muß.<lb/><hi rend="ul">Wenn</hi> wir dieser Catastrophe
+                        Catastrophe führen muß.<lb/>
+                        <hi rend="ul">Wenn</hi> wir dieser Catastrophe
                             <hi rend="ul">noch</hi> vorbeugen können, so kann es – nach <hi rend="ul">meiner</hi> Überzeugung – nur dann geschehen, wenn die
                         Regierung sich rasch wieder ermannt, das Herumtasten und das Herumfragen
                         aufgibt und zur That schreitet. Das Experiment mit den Vertrauensmännern ist

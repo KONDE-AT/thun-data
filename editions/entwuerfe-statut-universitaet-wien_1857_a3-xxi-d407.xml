@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwuerfe-statut-universitaet-wien_1857_a3-xxi-d407.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwuerfe-statut-universitaet-wien_1857_a3-xxi-d407.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Entwürfe, Akten und Stellungnahmen zur Ausarbeitung eines neuen Statutes der
-                    Universität Wien,<lb/><date when="1857">o. D. [1854–1857]</date></title>
+                    Universität Wien,<lb/>
+                    <date when="1857">o. D. [1854–1857]</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p>Teilweise abgedruckt in: Waltraud Heindl, Die Protokolle des Österreichischen
                     Ministerrates 1848–1867. Das Ministerium Buol-Schauenstein. Bd. 3, S.
                     394–415.</p>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7F9-4</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -94,35 +98,59 @@
                     </msContents>
                     <physDesc>
                         <p>Insgesamt 11 Stücke:</p>
-                        <p><ref target="#D407_1a">Promemoria über die Notwendigkeit der definitiven
+                        <p>
+                            <ref target="#D407_1a">Promemoria über die Notwendigkeit der definitiven
                                 Regelung des Universitäts-Statuts. Eigenhändiges Konzept von Leo
                                 Thun, o. D.</ref> und <ref target="#D407_1">dasselbe Promemoria in
                                 eigenhändiger Korrektur von Leo Thun, o. D. [11. April
-                                1855]</ref><note>Die teilweise leicht veränderte
+                                1855]</ref>
+                            <note>Die teilweise leicht veränderte
                                 Abschrift des Konzepts ist abgedruckt als "Gegenbemerkung Thuns zur
                                 statuarischen Verfassung der Wiener Universität", in: Waltraud
                                 Heindl, Die Protokolle des Österreichischen Ministerrates 1848–1867.
                                 Das Ministerium Buol-Schauenstein. Bd. 3, S.
-                                394–399.</note><lb/><ref target="#D407_2">Eigenhändiger Entwurf
-                                eines Statuts von Leo Thun, o. D.</ref><lb/><ref target="#D407_3">Entwurf eines Statuts von unbekannter Hand [Rudolf Kink] mit
-                                Randbemerkungen von Leo Thun, o. D.</ref><note>Dieser Entwurf ist beinahe gleichlautend abgedruckt, in: Waltraud
+                                394–399.</note>
+                            <lb/>
+                            <ref target="#D407_2">Eigenhändiger Entwurf
+                                eines Statuts von Leo Thun, o. D.</ref>
+                            <lb/>
+                            <ref target="#D407_3">Entwurf eines Statuts von unbekannter Hand [Rudolf Kink] mit
+                                Randbemerkungen von Leo Thun, o. D.</ref>
+                            <note>Dieser Entwurf ist beinahe gleichlautend abgedruckt, in: Waltraud
                                 Heindl, Die Protokolle des Österreichischen Ministerrates 1848–1867.
                                 Das Ministerium Buol-Schauenstein. Bd. 3, S. 385–388. Er diente zur
                                 Grundlage der Diskussion im Ministerrat, die Protokolle derselben
-                                siehe ebenda, S. 378–415.</note><lb/><ref target="#D407_4">Bemerkungen zu dem Entwurf von Unbekannt mit Randbemerkungen von
-                                Leo Thun, o. D.</ref><lb/><ref target="#D407_5">Nachtrag zu dem
+                                siehe ebenda, S. 378–415.</note>
+                            <lb/>
+                            <ref target="#D407_4">Bemerkungen zu dem Entwurf von Unbekannt mit Randbemerkungen von
+                                Leo Thun, o. D.</ref>
+                            <lb/>
+                            <ref target="#D407_5">Nachtrag zu dem
                                 Promemoria über das Universitätsstatut mit Randbemerkungen von Leo
-                                Thun.</ref><lb/><ref target="#D407_6">Ergänzter Entwurf des Statuts
+                                Thun.</ref>
+                            <lb/>
+                            <ref target="#D407_6">Ergänzter Entwurf des Statuts
                                 der Universität Wien mit Randbemerkungen von Leo
-                                Thun.</ref><lb/><ref target="#D407_7">Ansichten von <rs type="person" ref="#miklosich-franz" key="miklosich-franz">Franz Miklosich</rs> über den
-                                Entwurf des Statuts. o. D.</ref><lb/><ref target="#D407_8">Ansichten
+                                Thun.</ref>
+                            <lb/>
+                            <ref target="#D407_7">Ansichten von <rs type="person" ref="#miklosich-franz" key="miklosich-franz">Franz Miklosich</rs> über den
+                                Entwurf des Statuts. o. D.</ref>
+                            <lb/>
+                            <ref target="#D407_8">Ansichten
                                 von <rs type="person" ref="#phillips-george" key="phillips-george">George Phillips</rs> über
-                                den Entwurf des Statuts. Wien, 24. Mai 1857.</ref><lb/><ref target="#D407_9">Ansichten von <rs type="person" ref="#bruecke-ernst" key="bruecke-ernst">Ernst
+                                den Entwurf des Statuts. Wien, 24. Mai 1857.</ref>
+                            <lb/>
+                            <ref target="#D407_9">Ansichten von <rs type="person" ref="#bruecke-ernst" key="bruecke-ernst">Ernst
                                     Brücke</rs> zum Entwurf des Statuts. Wien, 23. Mai
-                                1857.</ref><lb/><ref target="#D407_10">Ansichten eines nicht
+                                1857.</ref>
+                            <lb/>
+                            <ref target="#D407_10">Ansichten eines nicht
                                 identifizierbaren Schreibers zum Entwurf des Statuts. Wien, 28.
-                                April 1857.</ref><lb/><ref target="#D407_11">Übersicht über die
-                                einzelnen Paragrafen des Statuts.</ref></p>
+                                April 1857.</ref>
+                            <lb/>
+                            <ref target="#D407_11">Übersicht über die
+                                einzelnen Paragrafen des Statuts.</ref>
+                        </p>
                         <p>Stück 1 besteht aus einer ursprünglichen und einer eigenhändig
                             korrigierten Fassung von Thun, die teilweise nebeneinander auf denselben
                             Blättern standen. Für die bessere Lesbarkeit wurden die beiden Texte
@@ -134,7 +162,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -324,11 +356,13 @@
                     ersticken. Die vom Herrn <rs type="person" ref="#bach-alexander" key="bach-alexander">Minister des
                         Innern</rs> betonte <hi rend="ul">vollständige</hi> Abscheidung der
                     Wirkungskreise wird einerseits nicht möglich sein sein, und würde andererseits
-                    den Keim der Konflikte nicht entfernen.<lb/><hi rend="ul">Denn der Keim dieses
+                    den Keim der Konflikte nicht entfernen.<lb/>
+                    <hi rend="ul">Denn der Keim dieses
                         Übels liegt nicht so sehr in der Unbestimmtheit einzelner Competenz-Fragen,
                         sondern er hat seinen wesentlichen Grund darin, daß die vor und seit 1848
                         bestandene Stellung der Doctoren und Professoren eine unnatürliche
-                    ist.</hi><lb/>Die Professoren rücksichtlich ihrer Stellung an der Universität
+                    ist.</hi>
+                    <lb/>Die Professoren rücksichtlich ihrer Stellung an der Universität
                     den Doctoren unterzuordnen ist ein rein erkünsteltes System, welches sich nur
                     durch die Macht der Gewohnheit und durch die Bedeutungslosigkeit der ganzen
                     Existenz erhalten konnte.<lb/>Der Gegenvorschlag des Herrn <rs type="person" ref="#bach-alexander" key="bach-alexander">Ministers des Innern</rs> hinwiderum ist ein
@@ -371,7 +405,8 @@
                     weil sie keinen Anlaß zur Klage geben? Mit anderen Worten: fehlt es etwa dem
                     Entwurfe an einem positiven Grunde, der nöthig ist, die projektierten Änderungen
                     zu rechtfertigen? -<note>An dieser Stelle ist unsicher, ob
-                        Fortsetzung im Text richtig ist.</note><lb/>Da der Herr <rs type="person" ref="#bach-alexander" key="bach-alexander">Minister des Innern</rs> auf der ersten Seite
+                        Fortsetzung im Text richtig ist.</note>
+                    <lb/>Da der Herr <rs type="person" ref="#bach-alexander" key="bach-alexander">Minister des Innern</rs> auf der ersten Seite
                     seiner Äußerung den Hauptzweck der Universität, nämlich "die Pflege und
                     Ausbreitung der Wissenschaft" anerkennt, so wäre es vielleicht nicht
                     überflüssig, jenen Passus aufzunehmen, welcher ausdrücklich darauf hinweist, daß
@@ -839,26 +874,33 @@
 
                 <div xml:id="D407_3" type="transcript">
                     <p>&lt;§ 1<lb/>Die Wiener Universität besteht aus der theologischen, der
-                        juridischen, der medizinischen und der philosophischen Fakultät.&gt;<note>Eh. Einfügung von Thun.</note></p>
+                        juridischen, der medizinischen und der philosophischen Fakultät.&gt;<note>Eh. Einfügung von Thun.</note>
+                    </p>
                     <p>§ &lt;2 etc.&gt;<note>Eh. Streichung von Thun aus:
-                        1.</note><lb/>Jede der vier Fakultäten besteht:<lb/>a. aus den von Seiner
+                        1.</note>
+                        <lb/>Jede der vier Fakultäten besteht:<lb/>a. aus den von Seiner
                         Majestät ernannten Professoren<lb/>b. aus den der Fakultät einverleibten
                         Doktoren<lb/>Die sämtlichen Mitglieder einer Fakultät bilden die
                         Plenarversammlung.</p>
-                    <p>§ &lt;3&gt;<note>Eh. Streichung von Thun aus § 2.</note><lb/>In
+                    <p>§ &lt;3&gt;<note>Eh. Streichung von Thun aus § 2.</note>
+                        <lb/>In
                         allen Funkzionen welche nicht durch diese oder spätere Anordnungen
                         ausdrücklich der Plenarversammlung vorbehalten sind, wird die Fakultät von
                         einem engeren Ausschusse cum auctoritate pleni vertreten. Derselbe besteht,
                         unter dem Vorsitze des Dekanes, aus den ordentlichen und so vielen
                         außerordentlichen Professoren, daß deren Zahl die Hälfte der ordentlichen
                         Professoren nicht übersteige.&gt;<note>Eh. Einfügung von Thun.
-                            Die Paragrafierung im Text stammt von Thun.</note></p>
+                            Die Paragrafierung im Text stammt von Thun.</note>
+                    </p>
                     <p>§ &lt;5&gt;<note>Eh. Streichung von Thun aus: 2 bzw.
-                        4.</note><lb/>Der Plenarversammlung der Fakultät &lt;sind&gt;<note>Eh. Streichung von Thun aus: kommen.</note> nachstehende
+                        4.</note>
+                        <lb/>Der Plenarversammlung der Fakultät &lt;sind&gt;<note>Eh. Streichung von Thun aus: kommen.</note> nachstehende
                         &lt;Funkzionen vorbehalten:&gt;<note>Eh. Streichung von Thun
-                            aus: Befugnisse zu:</note><lb/>A. Die Wahl der Beamten für die Geschäfte
+                            aus: Befugnisse zu:</note>
+                        <lb/>A. Die Wahl der Beamten für die Geschäfte
                         der Fakultät &lt;als Korporazion.&gt;<note>Eh. Streichung von
-                            Thun aus: als Korporation (Notar, Archivar, Kassaführer).</note><lb/>B.
+                            Thun aus: als Korporation (Notar, Archivar, Kassaführer).</note>
+                        <lb/>B.
                         Die Verwaltung &lt;ihres&gt;<note>Eh. Streichung von Thun aus:
                             des eigenthümlichen.</note> Vermögens und ihrer Stiftungen, die
                         Vertretung derselben und die Approbierung der Rechnungen.<lb/>C. Die
@@ -867,15 +909,18 @@
                         bestimmten Stipendien, welche insoweit nicht die Stiftungsbestimmungen
                         entgegenstehen, von dem engeren Ausschuss cum auctoritate pleni verliehen
                             werden.&gt;<note>Eh. Streichung von Thun aus:
-                            Stiftungsplätze und Stipendien.</note><lb/>D. Die Fassung von
+                            Stiftungsplätze und Stipendien.</note>
+                        <lb/>D. Die Fassung von
                         Beschlüssen, und die Erstattung von Vorschlägen in Angelegenheiten, welche
                         die Fakultät als Korporation betreffen, &lt;wohin auch die Aufnahme neuer
                         Mitglieder gehört.&gt;<note>Eh. Einfügung von
-                        Thun.</note><lb/>&lt;Andere Angelegenheiten können der Plenarversammlung von
+                        Thun.</note>
+                        <lb/>&lt;Andere Angelegenheiten können der Plenarversammlung von
                         dem Konsistorium oder dem Unterrichtsministerium von Fall zu Fall zur
                         Verhandlung zugewiesen werden.&gt;<note>Eh. Streichung von
                             Thun aus: Die Wahl von Gastprüfern bei den Rigorosen und von
-                            Repräsentanten bei den Promotionen.</note><lb/>An allen Verhandlungen,
+                            Repräsentanten bei den Promotionen.</note>
+                        <lb/>An allen Verhandlungen,
                         welche sich auf die kirchlichen Privilegien und Befugnisse der Fakultäten
                         beziehen, sind jedoch nur diejenigen ihrer Glieder theilzunehmen berechtigt,
                         welche der katholischen Kirche angehören.</p>
@@ -883,9 +928,11 @@
                             jenen Funktionen, welche nicht ausdrücklich der Plenarversammlung
                             zugewiesen, wird die Fakultät durch einen engeren Ausschuss cum
                             auctoritate pleni vertreten. Derselbe besteht unter dem Vorsitze es
-                            Dekanes aus den ordentlichen Professoren.</note></p>
+                            Dekanes aus den ordentlichen Professoren.</note>
+                    </p>
                     <p>§ &lt;4&gt;<note>Eh. Streichung von Thun aus: 4 bzw.
-                        3.</note><lb/>&lt;Die übrigen außerordentlichen Professoren und die&gt;<note>Eh. Streichung von Thun aus: Außerordentliche
+                        3.</note>
+                        <lb/>&lt;Die übrigen außerordentlichen Professoren und die&gt;<note>Eh. Streichung von Thun aus: Außerordentliche
                             Professoren und.</note> Privatdozenten sind nicht Mitglieder des engeren
                         Ausschusses, jedoch sind &lt;zwei&gt;<note>Eh. Einfügung von
                             Thun.</note> von &lt;den letzteren&gt;<note>Eh. Einfügung
@@ -897,31 +944,38 @@
                         verhandelt werden, über welche sie nützlichen Aufschluß zu geben, oder zu
                         welchen sie mitzuwirken in der Lage sind.</p>
                     <p>§ &lt;6&gt;<note>Eh. Streichung von Thun aus:
-                        5.</note><lb/>&lt;Der Plenarversammlng präsidiert der Dekan oder sein
+                        5.</note>
+                        <lb/>&lt;Der Plenarversammlng präsidiert der Dekan oder sein
                         Stellvertreter. Er ist für den ordnungsmäßigen Gang der Verhandlungen
                         verantwortlich, und daher auch berechtigt, Glieder, welche denselben stören
                         sollten, zurecht zu weisen, und selbst aus der Versammlung zu
-                            entfernen.&gt;<note>Eh. Einfügung von Thun.</note></p>
+                            entfernen.&gt;<note>Eh. Einfügung von Thun.</note>
+                    </p>
                     <p>§ &lt;7&gt;<note>Eh. Streichung von Thun aus:
                         6.</note>&lt;Ergeben sich Zweifel über den Umfang des der Plenarversammlung
                         zugewiesenen Wirkungskreises, so hat darüber der Vorsitzende und zwar im
                         Falle eines Widerspruchs unter Vorbehalt der einzuholenden Entscheidung des
-                        Konsistoriums und in letzter Instanz des Ministeriums abzusprechen.&gt;<note>Eh. Einfügung von Thun.</note></p>
+                        Konsistoriums und in letzter Instanz des Ministeriums abzusprechen.&gt;<note>Eh. Einfügung von Thun.</note>
+                    </p>
                     <p>§ &lt;8&gt;<note>Eh. Streichung von Thun aus: 5 bzw.
-                        7.</note><lb/>Der Dekan wird jährlich von dem engeren Ausschuße aus
+                        7.</note>
+                        <lb/>Der Dekan wird jährlich von dem engeren Ausschuße aus
                         sämtlichen Fakultätsmitgliedern gewählt. Seine Wahl unterliegt der
                             &lt;Genehmigung&gt;<note>Eh. Streichung von Thun aus:
                             Bestätigung.</note> des Ministeriums</p>
                     <p>§ &lt;9&gt;<note>Eh. Streichung von Thun aus: 6 bzw.
-                        8.</note><lb/>Im Falle der Verhinderung wird der Dekan &lt;&gt;<note>Eh. Streichung von Thun: in den
+                        8.</note>
+                        <lb/>Im Falle der Verhinderung wird der Dekan &lt;&gt;<note>Eh. Streichung von Thun: in den
                             Dekanatsgeschäften.</note> durch den Prodekan vertreten.</p>
                     <p>§ &lt;10&gt;<note>Eh. Streichung von Thun aus: 7 bzw.
-                        9.</note><lb/>Prodekan ist dasjenige Fakultätsmitglied, welches zuletzt aus
+                        9.</note>
+                        <lb/>Prodekan ist dasjenige Fakultätsmitglied, welches zuletzt aus
                         den in Wien domizilierenden das Dekanat und zwar bezüglich der Jahre
                         1849–1854 das Dekanat des Professoren-Kollegiums – bekleidet hat. Im Falle
                         der Verhinderung desselben sein nächster Vorgänger.</p>
                     <p>§ &lt;11&gt;<note>Eh. Streichung von Thun aus: 8 bzw.
-                            10.</note><lb/>&lt;In Berücksichtigung des Umfanges der Geschäfte der
+                            10.</note>
+                        <lb/>&lt;In Berücksichtigung des Umfanges der Geschäfte der
                         juridischen und der medizinischen Fakultät ist von jeder derselben ein
                         Syndikus als permanenter Referent in der Plenarversammlung für die derselben
                         § 5 sub a bis d vorbehaltenen Funkzionen aufzustellen. Dasselbe kann,
@@ -940,9 +994,11 @@
                             Unterrichts-Ministeriums.<lb/>Er hat den nächsten Rang nach dem Dekan
                             oder dem fungierenden Prodekan, vertritt die Stelle des Dekans im Falle
                             der Verhinderung bei feierlichen Gelegenheiten und ist permanenter
-                            Beisitzer im engeren Ausschusse.</note></p>
+                            Beisitzer im engeren Ausschusse.</note>
+                    </p>
                     <p>§ &lt;12&gt;<note>Eh. Streichung von Thun aus: 9 bzw.
-                            11.</note><lb/>Die Dekane und die fungierenden Prodekane &lt;&gt;<note>Eh. Streichung von Thun: und die
+                            11.</note>
+                        <lb/>Die Dekane und die fungierenden Prodekane &lt;&gt;<note>Eh. Streichung von Thun: und die
                         Prokuratoren.</note>führen den Titel "Spectabilis".</p>
                     <p>(§ &lt;a&gt;<note>Eh. Einfügung von Thun.</note>)<lb/>Die
                         Vorschriften über die Aufnahme neuer Mitglieder in die Fakultät bleiben so
@@ -954,11 +1010,13 @@
                         Fakultätsausschüssen zu besonderen Zwecken sind von jeder Fakultät einzeln
                         zu entwerfen, und durch das Konsistorium gutächtlich dem Ministerium zur
                         Genehmigung vorzulegen.</p>
-                    <p>(§ &lt;b&gt;<note>Eh. Einfügung von Thun.</note><lb/>Die
+                    <p>(§ &lt;b&gt;<note>Eh. Einfügung von Thun.</note>
+                        <lb/>Die
                         Bestimmungen bezüglich der Examinatoren bei den Rigorosen und der Vornahme
                         der Promotionen sind der Rigorosen-Ordnung vorbehalten.</p>
                     <p>§ &lt;13&gt;<note>Eh. Streichung von Thun aus: 10 bzw.
-                            12.</note><lb/>Die Fakultäten unterstehen dem Konsistorium und in
+                            12.</note>
+                        <lb/>Die Fakultäten unterstehen dem Konsistorium und in
                         weiterer Instanz dem Unterrichts-Ministerium. &lt;Er hat die
                         Disziplinargewalt über die Glieder aller vier Fakultäten. Er hat das Recht
                         sie zu ermahnen, von ihren Funkzionen zu suspendieren, und unter Freilassung
@@ -972,37 +1030,47 @@
                             aus: welchem letzteren zur Aufrechterhaltung der Disziplin in den
                             Fakultäten das Recht zusteht, gegen deren Mitglieder mit der zeitweisen
                             Suspension oder mit der gänzlichen Entziehung des Doktordiploms
-                            vorzugehen.</note></p>
+                            vorzugehen.</note>
+                    </p>
                     <p>§ &lt;14&gt;<note>Eh. Streichung von Thun aus: 11 bzw.
-                            13.</note><lb/>Das Konsistorium besteht aus dem Rektor, dem Kanzler, den
-                        vier Dekanen, den vier Prodekanen und den vier &lt;Senioren&gt;<note>Eh. Streichung von Thun aus: Prokuratoren.</note></p>
+                            13.</note>
+                        <lb/>Das Konsistorium besteht aus dem Rektor, dem Kanzler, den
+                        vier Dekanen, den vier Prodekanen und den vier &lt;Senioren&gt;<note>Eh. Streichung von Thun aus: Prokuratoren.</note>
+                    </p>
                     <p>§ &lt;15&gt;<note>Eh. Streichung von Thun aus:
-                        15.</note><lb/>Der Rektor wird von drei zu drei Jahren nach dem Turnus der
+                        15.</note>
+                        <lb/>Der Rektor wird von drei zu drei Jahren nach dem Turnus der
                         Fakultäten von dem Konsistorium aus der Mitte der Fakultät und zwar in der
                         Regel ein Jahr vor dem Antritte seines Amtes, gewählt.<lb/>Seine Wahl
                         unterliegt der Bestätigung &lt;Seiner k.k. apostolischen Majestät. Sobald
                         diese Bestätigung erfolgt ist, steht dem Neugewählten das Recht zu, den
                         Sitzungen des Consistoriums, bei welchen ihm ein Ehrensitz an der Seite des
                         fungierenden Rektors anzuweisen ist, beizuwohnen.&gt;<note>Eh.
-                            Streichung von Thun aus: des Unterrichts-Ministeriums.</note><lb/>Im
+                            Streichung von Thun aus: des Unterrichts-Ministeriums.</note>
+                        <lb/>Im
                         Falle zeitweiser Verhinderung ersetzt &lt;den Rektor&gt;<note>Eh. Streichung von Thun aus: ihn.</note> dasjenige Mitglied des
                         Konsistoriums, welches die Rektorswürde zuletzt bekleidete, oder in
                         Ermangelung eines solchen der Dekan oder fungierende Prodekan derjenigen
                         Fakultät, aus welcher der Rektor gewählt worden ist.</p>
                     <p>§ &lt;16&gt;<note>Eh. Streichung von Thun aus: 13 bzw.
-                            15.</note><lb/>Der Rektor führt den Titel "Magnificus".</p>
+                            15.</note>
+                        <lb/>Der Rektor führt den Titel "Magnificus".</p>
                     <p>&lt;§ 17<lb/>Die Senioren werden von dem Konsistorium auf 5 Jahre, in der
                         Regel ein Jahr vor dem Antritte ihrer Würde aus den älteren und erfahrensten
                         Gliedern der vier Fakultäten gewählt.&gt;<note>Eh. Einfügung
-                            von Thun.</note></p>
+                            von Thun.</note>
+                    </p>
                     <p>&lt;§ 18<lb/>Sie führen gleich den Dekanen und fungierenden Prodekanen den
                         Titel Spectabilis. Sie sind berechtigt auch den Sitzungen des engeren
                         Ausschusses ihrer Fakultät beizuwohnen, und haben den Rang nach den
-                            Prodekanen.&gt;<note>Eh. Einfügung von Thun.</note></p>
+                            Prodekanen.&gt;<note>Eh. Einfügung von Thun.</note>
+                    </p>
                     <p>&lt;§ 19<lb/>Das Konsistorium kann Glieder der vier Fakultäten, welche ihm
                         nicht angehören, nach Bedürfnis seinen Berathungen cum voto informativo
-                            beiziehen.&gt;<note>Eh. Einfügung von Thun.</note></p>
-                    <p>(§ &lt;c&gt;<note>Eh. Einfügung von Thun.</note><lb/>Die
+                            beiziehen.&gt;<note>Eh. Einfügung von Thun.</note>
+                    </p>
+                    <p>(§ &lt;c&gt;<note>Eh. Einfügung von Thun.</note>
+                        <lb/>Die
                         akademischen Nationen sind aufgehoben. Hingegen können zur Unterstützung
                         dürftiger Studenten oder zur Förderung ihrer akademischen Zwecke besondere
                         nicht &lt;auf dem Prinzip von Nazionalitäten beruhende&gt;<note>Eh. Streichung von Thun aus: an die
@@ -1011,7 +1079,8 @@
                         einer von demselben mit Genehmigung des Unterrichts-Ministeriums geregelten
                         Leitung gegründet werden.</p>
                     <p>§ &lt;20&gt;<note>Eh. Streichung von Thun aus: 14 bzw.
-                            19.</note><lb/>Wenn die Wahl zu einer akademischen Würde die
+                            19.</note>
+                        <lb/>Wenn die Wahl zu einer akademischen Würde die
                         erforderliche Genehmigung des Ministeriums nicht erhält, so ist eine neue
                         Wahl vorzunehmen. Wird auch die zweite Wahl nicht genehmigt oder führt aus
                         anderen Gründen die Wahl zu keinem Resultate, so tritt die Ernennung durch
@@ -1020,11 +1089,13 @@
                         Zerwürfnisse im Innern einer Fakultät oder der Universität, oder andere
                         gewichtige Gründe die Wahl unzulässig machen.</p>
                     <p>§ &lt;21&gt;<note>Eh. Streichung von Thun aus: 15 bzw.
-                            20.</note><lb/>Die Universität wird bei feierlichen Gelegenheiten,
+                            20.</note>
+                        <lb/>Die Universität wird bei feierlichen Gelegenheiten,
                         &lt;wenn das Consistorium dabei nicht in seiner Gesammtheit erscheint&gt;<note>Eh. Streichung von Thun aus: in der Regel (§ ).</note>
                         von dem Rektor und den vier Dekanen vertreten.</p>
                     <p>§ &lt;22&gt;<note>Eh. Streichung von Thun aus: 16 bzw.
-                            21.</note><lb/>Zu Rektoren, &lt;Senioren und Fakultätssyndiken&gt;<note>Eh. Streichung von Thun aus: und Prokuratoren.</note>
+                            21.</note>
+                        <lb/>Zu Rektoren, &lt;Senioren und Fakultätssyndiken&gt;<note>Eh. Streichung von Thun aus: und Prokuratoren.</note>
                         können nur Katholiken gewählt werden.&lt;Wenn einem anderen christlichen
                         Bekenntnisse angehörige Fakultätsglieder, welche ausnahmsweise in der Lage
                         waren durch mehrjährige Wirksamkeit an der Universität sich Verdienste um
@@ -1039,7 +1110,8 @@
                         jedoch während ihres Dekanates sowohl bei kirchlichen Feierlichkeiten als
                         bei allen Funktionen die auf kirchliche Privilegien und Befugnisse der
                         Universität Bezug haben, vertreten zu lassen. &lt;Deshalb ist eine solche
-                        Wahl nur dann zulässig, wenn der Prodekan ein Katholik ist.&gt;<note>Eh. Einfügung von Thun.</note></p>
+                        Wahl nur dann zulässig, wenn der Prodekan ein Katholik ist.&gt;<note>Eh. Einfügung von Thun.</note>
+                    </p>
                 </div>
 
                 <div xml:id="D407_4" type="transcript">
@@ -1060,18 +1132,23 @@
                         Entwurfes.<lb/>ad § 3<lb/>Der Direktor sollte blos bei den Sitzungen der
                         Fakultät anwesend sein; bei den Sitzungen des Professorencollegiums genügt
                         der Dekan, nur muß dem Direktor die Möglichkeit der Überwachung auch bei
-                        dieser durch angemessene Einrichtungen gewahrt bleiben.<note>Eh. Anmerkung von Thun: Oh!</note><lb/>ad § 4<lb/>Wäre
+                        dieser durch angemessene Einrichtungen gewahrt bleiben.<note>Eh. Anmerkung von Thun: Oh!</note>
+                        <lb/>ad § 4<lb/>Wäre
                         es nicht besser, den alten Ausdruck: Fakultätsmitglieder, statt des hier
                         gebrauchten neuen: Fakultätsräthe, beizubehalten? <note>Eh.
-                            Anmerkung von Thun: Nein!</note><lb/>ad § 9<lb/>Soll der Direktor nicht
+                            Anmerkung von Thun: Nein!</note>
+                        <lb/>ad § 9<lb/>Soll der Direktor nicht
                         aus den Mitgliedern der Fakultät, mindestens <hi rend="ul">in der
                         Regel</hi>, genommen werden? Soll ihm nicht gestattet sein, außerordentliche
                         Vorträge zu halten? <note>Eh. Anmerkung von Thun:
-                            Oh!!</note><lb/>ad § 12<lb/>Die Bestimmung wegen der Wahlmänner ist in
+                            Oh!!</note>
+                        <lb/>ad § 12<lb/>Die Bestimmung wegen der Wahlmänner ist in
                         mehrfacher Beziehung eine sehr unglückliche, und daher wo möglich eine
                         Rücknahme derselben zu erwirken. <note>Eh. Anmerkung von
-                            Thun: Ganz einverstanden.</note></p>
-                    <p><note>Hier ist unsicher ob die Fortsetzung richtig
+                            Thun: Ganz einverstanden.</note>
+                    </p>
+                    <p>
+                        <note>Hier ist unsicher ob die Fortsetzung richtig
                             ist.</note>(§12 des Entwurfes)<lb/>Die Bestimmung der allerhöchsten
                         Entschließung vom 25. August 1856 Punkt 6 des Inhaltes: "Für den Fall, daß
                         die nicht lehrenden Mitglieder der Fakultät an Zahl geringer sind, als die
@@ -1089,7 +1166,8 @@
                         Überrest jenes demagogischen Charakters, welcher sich gerade durch die
                         Doktoren-Collegien in die Universität zu ihrem großen Nachtheile einzunisten
                         gewußt hatte.<note>Eh. Anmerkung von Thun: Sehr
-                            wahr.</note><lb/>2. Allerdings ist durch die allerhöchste Ernennung
+                            wahr.</note>
+                        <lb/>2. Allerdings ist durch die allerhöchste Ernennung
                         dieser Gefahr die Spitze gebrochen. Allein abgesehen von dem hiedurch
                         bedingten langwierigen Vorgehen, welches in einzelnen Fällen leicht zu
                         Verzögerung der betreffenden Wahlen führen kann, erscheint doch auch die
@@ -1108,7 +1186,8 @@
                         gebracht und Allerhöchsten Orts ernannt werden müssen, oder daß man diese
                         Bestimmung dann wieder fallen lassen muss. Es ist gewiß besser, dieser
                         bedenklichen Lage zum vorhinein auszuweichen.<note>Eh.
-                            Anmerkung von Thun: Sehr wahr.</note><lb/>3. Endlich ist aber auch gar
+                            Anmerkung von Thun: Sehr wahr.</note>
+                        <lb/>3. Endlich ist aber auch gar
                         keine Nöthigung vorhanden zu einer solchen Beiziehung von einer gleichen
                         Anzahl nicht lehrender Mitglieder des Doktoren-Collegiums. Sind denn nicht
                         die Professoren selbst Männer, welche das Vertrauen der Regierung besitzen,
@@ -1119,7 +1198,8 @@
                         Zahl der nicht lehrenden Mitglieder jener der lehrenden gleich, oder wo die
                         Umstände es nicht gestatten, etwas geringer sein, die genügende Bürgschaft
                         einer guten Dekanswahl gegeben.<note>Eh. Anmerkung von
-                            Thun: Auch sehr wahr.</note><lb/>Auch eine andere Bemerkung dürfte hier
+                            Thun: Auch sehr wahr.</note>
+                        <lb/>Auch eine andere Bemerkung dürfte hier
                         nicht überflüßig sein. Sie bezieht sich auf die Ernennung der nicht
                         lehrenden Fakultätsmitglieder und deren Zahl. Nachdem die erste Ernennung
                         erfolgt sein wird, entweder in gleicher Zahl mit den lehrenden Mitgliedern
@@ -1146,26 +1226,31 @@
                             derselben<lb/>Einfach die ältesten Fakultätsmitglieder eintreten zu
                             lassen, weil das in der Regel völlig, aczeptable Männer sein werden,
                             welche nun also nicht jene Wahl eintreten lassen, so erübrigte nichts
-                            als.</note><lb/>ad § 18<lb/>Die Ernennung zu Fakultätsmitgliedern soll
+                            als.</note>
+                        <lb/>ad § 18<lb/>Die Ernennung zu Fakultätsmitgliedern soll
                         nicht zwangsweise geschehen, auch die Ablehnung der Wahl zum Dekan nicht zu
                         sehr erschwert werden.<note>Eh. Anmerkung von Thun:
-                            Oh!</note><lb/>Soll nicht auch vom Kanzler Erwähnung geschehen, wo von
+                            Oh!</note>
+                        <lb/>Soll nicht auch vom Kanzler Erwähnung geschehen, wo von
                         der Aufstellung der academischen Behörden die Rede ist.<lb/>ad §
                         21<lb/>Hinsichtlich der Rangordnung mag die Erlangung des Doktorgrades
                         maßgebend sein für die Ordnung in den Doktoren-Collegien, aber in der
                         Fakultät sollte wohl die Ernennung als Fakultäts-Mitglied für die
                         Rangordnung maßgebend sein.<note>Eh. Anmerkung von Thun:
                             Prof. links – die anderen rechts nach der Ernennung und wenn gleich nach
-                            Alter oder ...</note><lb/>ad § 25<lb/>Auch im Universitäts-Consistorium
+                            Alter oder ...</note>
+                        <lb/>ad § 25<lb/>Auch im Universitäts-Consistorium
                         soll der Dekan und der Senior für den Fall ihrer Verhinderung immer
                         vertreten sein und hierfür eine Bestimmung getroffen werden.<note>Eh. Anmerkung von Thun: Der Dekan immer durch den
                             Prodekan<lb/>Der Senior nur bei der Rectorswahl durch das älteste
-                            Fakultätsmitglied.</note><lb/>ad § 32<lb/>Die Bezüge der Examinatoren
+                            Fakultätsmitglied.</note>
+                        <lb/>ad § 32<lb/>Die Bezüge der Examinatoren
                         bei den Rigorosen, und des Präses bei den Disputationen, vielleicht auch der
                         Disputatoren sind ganz unberührt geblieben. Soll ihrer keine Erwähnung
                         geschehen?&lt;gehört in die Rigorosenordnung&gt;<lb/>ad § 33<lb/>Fehlt die Zeit
                         der Amtsdauer des Rektors.<note>Eh. Anmerkung von Thun:
-                            Rektor 2 Jahre.</note><lb/>ad § 43<lb/>Diese Bestimmung trägt den
+                            Rektor 2 Jahre.</note>
+                        <lb/>ad § 43<lb/>Diese Bestimmung trägt den
                         Charakter einer halben Maßregel an sich und wird daher auf beiden Seiten
                         Anstoß geben. Wenn ein Akatholik Dekan werden kann, warum nicht auch Rektor,
                         wenn die gleiche Bedingung der Vertretung beigefügt wird? Das ist die
@@ -1182,35 +1267,43 @@
                         des katholischen Charakters der Wiener Universität verbinden und so bei den
                         eifrigen Katholiken für beide Dinge gleiches Interesse erwecken.<note>Eh. Anmerkung von Thun: ist unserem ersten Entwurf
                             entnommen, doch ist nicht zu verkennen daß diese Anmerkungen sehr viel
-                            für sich haben.</note><lb/>ad § 44–45<lb/>Fehlt die Mitwirkung des
-                        Dekans bei Rigorosen, Disputationen und Promotionen<note>Eh. Anmerkung von Thun: gehört in die Rigorosenordnung.</note><lb/>ad §
+                            für sich haben.</note>
+                        <lb/>ad § 44–45<lb/>Fehlt die Mitwirkung des
+                        Dekans bei Rigorosen, Disputationen und Promotionen<note>Eh. Anmerkung von Thun: gehört in die Rigorosenordnung.</note>
+                        <lb/>ad §
                         52<lb/>Soll nicht eine Fakultätssitzung zu Anfang und gegen das Ende eines
                         jeden Studienjahres abzuhalten und daher eigens vorgeschrieben werden, zu
                         dem Zwecke, damit jedes Mitglied sich äußern könne, ob und was im Interesse
                         der Wissenschaft, des Studiums oder der Disziplin vorgekehrt oder
                         vorgeschlagen werden könnte. <note>Nein! Solche
-                            Vorschriften machen aus den Sitzungen nur Formalitäten.</note><lb/>ad §
+                            Vorschriften machen aus den Sitzungen nur Formalitäten.</note>
+                        <lb/>ad §
                         72.<lb/>Die Doktoren-Collegien bestehen zufolge der Allerhöchsten
                         Entschließung "<hi rend="ul">neben der Fakultät</hi>" daher ist die Fassung
                         dieses § prinzipiell fehlerhaft und könnte etwas so lauten: "Das
                         Doktoren-Collegium <hi rend="ul">bei</hi> jeder Fakultät besteht aus den in
-                        diesselbe auf gehörige Art aufgenommenen Doktoren.<note>Concede.</note><lb/>ad § 74 und 76<lb/>Die Stellung der
+                        diesselbe auf gehörige Art aufgenommenen Doktoren.<note>Concede.</note>
+                        <lb/>ad § 74 und 76<lb/>Die Stellung der
                         Doktoren-Collegien ist zu wenig bestimmt und deutlich ausgesprochen und
                         würde in dieser Fassung höchst wahrscheinlich zu bedeutenden Streitigkeiten
                         Anlaß geben. Es muß hier namentlich gesagt werden:<lb/>Wem gehören die <hi rend="ul">Fakultäts-Schriften</hi>?<note>Eh. Anmerkung
                             von Thun: Das ist wohl Sache der Ausführung, nicht der
                             Gesetzgebung<lb/>darüber glaube ich, kann kein Zweifel obwalten
-                            [?].</note><lb/>Wem gehört die <hi rend="ul">Fakultäts-Casse</hi>?<lb/>Wer macht den Vorschlag für die Stiftplätze und
+                            [?].</note>
+                        <lb/>Wem gehört die <hi rend="ul">Fakultäts-Casse</hi>?<lb/>Wer macht den Vorschlag für die Stiftplätze und
                         Stipendien der Fakultät?<note>Eh. Anmerkung von Thun:
                             Darüber glaube ich, kann kein Zweifel obwalten für
-                        Entwurf.</note><lb/>Man sollte glauben, das gehöre sicherlich alles der
+                        Entwurf.</note>
+                        <lb/>Man sollte glauben, das gehöre sicherlich alles der
                         Fakultät an; wenn es aber nicht ausdrücklich den Doktoren-Collegien
                         abgesprochen wird, so werden diese darauf ihre Ansprüche gelten zu machen
                         suchen. Auch dürfte es geschehen, daß einzelne Bezüge, die zwischen der
                         Fakultät und dem Doktoren-Collegium streitig sind, erst noch einer
                         Entscheidung bedürfen, und daher für diesen Fall Vorsorge zu treffen
-                            ist.<note>Eh. Anmerkung von Thun: Welche?</note><lb/>In
-                        Betreff der Handhabung der Disziplin sind die Bestimmungen ungenügend.<note>Eh. Anmerkung von Thun: Wie so?</note></p>
+                            ist.<note>Eh. Anmerkung von Thun: Welche?</note>
+                        <lb/>In
+                        Betreff der Handhabung der Disziplin sind die Bestimmungen ungenügend.<note>Eh. Anmerkung von Thun: Wie so?</note>
+                    </p>
                     <p>3. Die Bemerkungen über einzelne untergeordnete Punkte.<lb/>Diese werden am
                         besten auf kurzem Wege mündlich gemacht und erledigt.</p>
                 </div>
@@ -1255,9 +1348,11 @@
                         nicht schon vom Stifter hierüber eine eigene Verfügung getroffen ist, und
                         namentlich für alle <hi rend="ul">landesfürstlichen</hi> Stipendien.<lb/>g.
                         Beglaubigung der Würdigkeit des Stipendisten<note>Eh.
-                            Anmerkung von Thun: Direktor.</note><lb/>h. Antrag auf Verlust des
+                            Anmerkung von Thun: Direktor.</note>
+                        <lb/>h. Antrag auf Verlust des
                         Stipendiums<lb/>i. Zulassung zu Rigorosen, Disputationen und
-                        Promotionen<lb/>k. Genehmigung der Disputations-Thesen<note>Eh. Anmerkung von Thun: Direktor.</note><lb/>l. Bestimmung des Stoffes
+                        Promotionen<lb/>k. Genehmigung der Disputations-Thesen<note>Eh. Anmerkung von Thun: Direktor.</note>
+                        <lb/>l. Bestimmung des Stoffes
                         für die Dissertation zur Erlangung des Doktorgrades.<lb/>m. Vorsitz oder
                         Theilnahme an Rigorosen, Disputationen und Promotionen.<lb/>n. Festsetzung
                         der <hi rend="ul">Prüfungen</hi>, wo solche noch üblich sind, Vorsitz bei
@@ -1266,9 +1361,12 @@
                         auf die Abstimmung, aber doch weil sie über den Stand der wissenschaftlichen
                         Bildung der Professoren und Schüler die beste Einsicht gewähren.<lb/>o.
                         Anfertigung des Lektions-Kataloges.<lb/>p. Aufstellung von Supplenten.<note>Eh. Anmerkung von Thun: Direktor mit Einvernehmen des
-                            Collegiums.</note><lb/>q. Habilitierung von Privat-Dozenten.<note>Eh. Anmerkung von Thun: Fakultät.</note><lb/>r. Antrag
+                            Collegiums.</note>
+                        <lb/>q. Habilitierung von Privat-Dozenten.<note>Eh. Anmerkung von Thun: Fakultät.</note>
+                        <lb/>r. Antrag
                         auf die Besetzung erledigter Lehrkanzeln<note>Eh. Anmerkung
-                            von Thun: Fakultät.</note><lb/>s. Abhaltung der Konkursprüfungen und
+                            von Thun: Fakultät.</note>
+                        <lb/>s. Abhaltung der Konkursprüfungen und
                         Vornahme alles dessen, was sich auf die Einleitung derselben und auf die
                         Beurtheilung der Elaborate bezieht.<lb/>t. Überwachung aller Dozenten mit
                         den nothwendigen Folgen daraus, als Bewachung, Verweis, Anzeige höheren
@@ -1276,12 +1374,14 @@
                         verdienter Professoren.<lb/>v. Beilegung von Streitigkeiten und
                         Zerwürfnissen unter den Dozenten und Fakultätsmitgliedern.<lb/>w. Vorschlag
                         zur Errichtung neuer Lehrkanzeln<note>Eh. Anmerkung von
-                            Thun: Fakultät.</note><lb/>x. Vorschläge zur Hebung der Wissenschaft,
+                            Thun: Fakultät.</note>
+                        <lb/>x. Vorschläge zur Hebung der Wissenschaft,
                         Förderung des Studiums und einer bessern Disziplin; Anträge auf Änderung
                         oder Erläuterung bestehender Gesetze.<lb/>y. Akademische Wahlen<lb/>z.
                         Fakultäts-Cassaverwaltung; Geldverwendung und jährliche
                             Rechnungslegung.<note>Eh. Anmerkung von Thun:
-                        ?</note><lb/>Alle diese Gegenstände bedürfen einer namentlichen Erwähnung
+                        ?</note>
+                        <lb/>Alle diese Gegenstände bedürfen einer namentlichen Erwähnung
                         und Zuweisung entweder an den <hi rend="ul">Dekan</hi> (sei es allein oder
                         sei es mit Zuziehung des ordentlichen oder verstärkten
                         Professoren-Collegiums), oder an den <hi rend="ul">Direktor</hi> (allein
@@ -1334,7 +1434,8 @@
                             Einleitung mit mehreren auf den Übergang und die Durchführung sich
                             beziehenden Bestimmungen sollte nach meinem Vorhaben in der das
                             Universitätsstatut kundmachenden Kaiserlichen Verordnung aufgenommen
-                            sein.</note></p>
+                            sein.</note>
+                    </p>
                 </div>
 
                 <div xml:id="D407_6" type="transcript">
@@ -1342,7 +1443,8 @@
                     <p>I.<lb/>Organische Gliederung der akademischen Behörden und äußere
                         Repräsentation</p>
                     <p>&lt;Abzuschreiben mit Ansetzung der Zahlen der §§.<lb/>Thun 15/3&gt;<note>Eh. Randbemerkung von Thun. Die Einteilung in
-                            Paragrafen im ganzen Text stammen von Leo Thun.</note></p>
+                            Paragrafen im ganzen Text stammen von Leo Thun.</note>
+                    </p>
                     <p>§ 1<lb/>Die Wiener Universität besteht aus vier Fakultäten:<lb/>die
                         theologische, rechts- und staatswissenschaftliche, medizinische und
                         philosophische.</p>
@@ -1351,7 +1453,8 @@
                         aus dem Rektor<lb/>b. dem Kanzler<lb/>c. den vier Direktoren<lb/>d. den vier
                         Dekanen, und<lb/>e. den vier Senioren der Fakultäten, dann<note>Eh. Anmerkung von Thun: (Beruht auf der allerhöchsten
                             Entschließung, gibt aber zu dem Bedenken Anlaß, daß 14 Glieder kaum
-                            absolute Stimmenmehrheit sichern).</note><lb/>f. dem Syndikus der
+                            absolute Stimmenmehrheit sichern).</note>
+                        <lb/>f. dem Syndikus der
                         Universität, als Schriftführer.</p>
                     <p>§ 4<lb/>Jede Fakultät besteht aus den an derselben angestellten Professoren
                         und habilitierten Dozenten und aus den Fakultätsräthen</p>
@@ -1359,16 +1462,19 @@
                         Dekan und der Fakultätsausschuß. Der Fakultätsausschuß besteht aus den
                         ordentlichen Professoren und den Fakultätsräthen, &lt;unter dem Vorsitze des
                             Direktors.&gt;<note>Eh. Einfügung von
-                        Thun.</note><lb/>Fakultätsräthe sind:<lb/>a. die emeritierten ordentlichen
+                        Thun.</note>
+                        <lb/>Fakultätsräthe sind:<lb/>a. die emeritierten ordentlichen
                         Professoren, welche ihren Pflichten vollkommen genügt haben. Die
                         ordentlichen Professoren, welche ihres Amtes enthoben werden, bleiben daher
                         Glieder des Fakultätsausschusses, es sei denn, daß sie dieses Rechtes bei
                         ihrer Enthebung verlustig erklärt würden,&lt;oder freiwillig darauf
-                            verzichten&gt;<note>Eh. Einfügung von Thun.</note><lb/>b.
+                            verzichten&gt;<note>Eh. Einfügung von Thun.</note>
+                        <lb/>b.
                         andere in Anerkennung ihrer ausgezeichneten &lt;Eigenschaften&gt;<note>Eh. Streichung von Thun aus: Befähigung.</note>oder
                         Leistungen hierzu ernannte Doktoren. &lt;Die Zahl der Fakultätsräthe hat
                         niemals die Zahl der ordentlichen Professoren der Fakultät zu
-                            überschreiten.&gt;<note>Eh. Einfügung von Thun.</note></p>
+                            überschreiten.&gt;<note>Eh. Einfügung von Thun.</note>
+                    </p>
                     <p>§ 6<lb/>Bei jeder Fakultät besteht ein Kollegium der in dasselbe
                         ordnungsmäßig aufgenommenen Doktoren.</p>
                     <p>§ 7<lb/>Die Universität wird bei feierlichen Gelegenheiten, wenn das
@@ -1401,7 +1507,8 @@
                         werden im November gewählt&gt;<note>Eh. Streichung von Thun
                             aus: Die Wahlen der Dekane erfolgen im Juni.</note>, sie treten ihr Amt
                         mit Beginn des nächsten Studienjahres an &lt;und bekleiden dasselbe durch
-                        zwei Jahre&gt;.<note>Eh. Einfügung von Thun.</note></p>
+                        zwei Jahre&gt;.<note>Eh. Einfügung von Thun.</note>
+                    </p>
                     <p>§ 12<lb/>Die Senioren jeder Fakultät werden von dem Fakultätsausschusse
                         &lt;durch absolute Stimmenmehrheit&gt;<note>Eh. Einfügung von
                             Thun.</note> aus den älteren und erfahrensten Mitgliedern derselben
@@ -1451,7 +1558,8 @@
                         Rektorswahl und zwar durch das älteste Mitglied der betreffenden Fakultät
                             vertreten.<note>Eh. Anmerkung von Thun: (Oder es müßte
                             ein Ersatzmann ad hoc von dem Fakultätsausschusse gewählt
-                            werden).</note></p>
+                            werden).</note>
+                    </p>
                     <p xml:id="D407_8d">§ 17<lb/>Die akademischen Würden können an der Wiener
                         Universität nur von Katholiken bekleidet werden.<lb/>Eine Ausnahme hievon
                         kann nur mit Allerhöchster Bewilligung Seiner Majestät in dem Falle
@@ -1576,7 +1684,8 @@
                         unter Angabe der dabei zu verhandelnden Gegenstände, so wie von den
                         abzuhaltenden Rigorosen und anderen Prüfungen und Kolloquien vorläufige
                         Anzeige zu erstatten&gt;<note>Eh. Einfügung von
-                        Thun.</note><lb/>So oft er sich dabei einfindet, gebührt ihm der
+                        Thun.</note>
+                        <lb/>So oft er sich dabei einfindet, gebührt ihm der
                         Ehrenplatz.<lb/>Er hat das Recht, Beschlüsse des Professorenkollegiums,
                         welche ihm gegen den Wortlaut oder den Geist bestehender Anordnungen zu
                         verstossen, oder offenbar unzweckmäßig scheinen, zu sistieren, und nach
@@ -1617,7 +1726,8 @@
                     <p>§ 44<lb/>Alle Glieder des Fakultätsausschusses sind verpflichtet, bei dessen
                         Sitzungen zu erscheinen, oder ihr Ausbleiben durch genügende Gründe vor dem
                         Direktor zu rechtfertigen.</p>
-                    <p>&lt;C. des Rectors, des Kanzlers und des Universitäts-Konsistoriums&gt;<note>Eh. Einfügung von Thun.</note></p>
+                    <p>&lt;C. des Rectors, des Kanzlers und des Universitäts-Konsistoriums&gt;<note>Eh. Einfügung von Thun.</note>
+                    </p>
                     <p>§ 45<lb/>Der Rektor vertritt die Universität als Gesamtheit, ordnet &lt;im
                         Einvernehmen mit dem Kanzler&gt;<note>Eh. Einfügung von
                             Thun.</note> die kirchlichen und anderweitigen Feierlichkeiten derselben
@@ -1626,7 +1736,8 @@
                         Diplome, die im Namen der Universität ausgestellt werden, ferner alle im
                         Namen der Universität erscheinenden Kundmachungen &lt;sind von ihm
                             auszufertigen.&gt;<note>Eh. Einfügung von
-                        Thun.</note></p>
+                        Thun.</note>
+                    </p>
                     <p>§ 47<lb/>Ihm unterstehen die Universitätskanzlei und Quästur und deren
                         Beamte.</p>
                     <p>§ 48<lb/>Er beruft das Universitäts-Konsistorium, bestimmt die Gegenstände
@@ -1665,7 +1776,8 @@
                         Universitäts-Consistorium bis zum Betrage von 100 fl., wenn es sich aber um
                         höhere Beträge handelt, dem Unterrichts-Ministerium zu.&gt;<note>Eh. Streichung von Thun aus: Universitäts-Kanzleifond
                             und hat das Recht, Beträge bis zu 100 fl aus demselben
-                            anzuweisen.</note></p>
+                            anzuweisen.</note>
+                    </p>
                     <p>V. Von den Bezügen der Universitäts-Dignitarien</p>
                     <p>§ 55<lb/>Der Rektor, der Kanzler und die Dekane beziehen für ihre Funktionen
                         bei den verschiedenen Doktoratsakten Taxen nach den Bestimmungen der
@@ -1704,7 +1816,8 @@
                         so hätte der kaiserliche Kommissär einen Ausspruch in der Form eines
                         Erkenntnisses zu fällen, gegen welches die Vertreter des Doktoren-Collegiums
                         ihm binnen Monatsfrist ihre motivierte Vorstellung zu überreichen obläge.
-                        Hierüber wäre die allerhöchste Entscheidung einzuholen)&gt;.<note>Eh. Anmerkung von Thun.</note></p>
+                        Hierüber wäre die allerhöchste Entscheidung einzuholen)&gt;.<note>Eh. Anmerkung von Thun.</note>
+                    </p>
                     <p>§ 61<lb/>Die bisherigen Fakultätswittwensozietäten werden künftig als
                         Anstalten der Doktoren-Kollegien fortzubestehen haben.</p>
                     <p>§ 62<lb/>Das Verhältnis des medizinischen Doktoren-Kollegiums in seiner
@@ -1749,7 +1862,8 @@
                             Bestimmung zur Förderung von Universitätszwecken aufrecht erhalten, und
                             ist das Unterrichts-Ministerium ermächtigt, die weitere Fortbildung
                             dieser Einrichtung in geeigneter Weise im Verordnungswege zu
-                            regeln.</note></p>
+                            regeln.</note>
+                    </p>
                     <p>§ 68<lb/>Alle gegenwärtig bestehenden Einrichtungen, statutarische
                         Anordnungen oder Privilegien, welche mit gegenwärtigem Statute im
                         Widerspruche stehen, sind hiermit aufgehoben.</p>
@@ -1759,7 +1873,8 @@
                     <p>Dem Verfasser des Entwurfs hat leider nicht beliebt die Verbindung der
                         Professoren- und Doctoren-Collegien an der Wiener Universität zu
                         lösen.<lb/>Erlauben Euer Excellenz, daß ich die für die Aufrechthaltung
-                        dieser Verbindung angeführten Gründe ein wenig beleuchte.<lb/>1. <hi rend="ul">Verknüpfung der Theorie mit der Praxis.</hi><lb/>Dagegen ist
+                        dieser Verbindung angeführten Gründe ein wenig beleuchte.<lb/>1. <hi rend="ul">Verknüpfung der Theorie mit der Praxis.</hi>
+                        <lb/>Dagegen ist
                         einzuwenden: a) die Universität hat überall nur die Aufgabe, den jungen Mann
                         mit der Theorie vertraut zu machen, und es ist nicht zu besorgen, daß ihm,
                         ist er theoretisch gründlich gebildet, die Praxis Schwierigkeiten machen
@@ -2081,7 +2196,8 @@
                             einzeln abgestimmt und absolute Majorität erzielt werden muß, damit in
                             den verschiedenen Fakultätsausschüssen, von denen voraussichtlich jeder
                             seine besondere Geschäftsordnung haben wird, der Wahlact in gleicher
-                            Weise vollzogen werde.</note></p>
+                            Weise vollzogen werde.</note>
+                    </p>
                     <p>§ 9<lb/>Kanzler der Universität ist der jeweilige Dompropst des
                         Metropolitankapitels zu St. Stephan.</p>
                     <p>§ 10<lb/>Die Fakultätsdirektoren werden von Seiner Majestät ernannt, und zwar
@@ -2100,7 +2216,8 @@
                         derselben auf acht Jahre gewählt.<lb/>Die Senioren werden in der Regel im
                         Juni gewählt und treten ihr Amt mit 1. Dezember an.<note>Eh. Bemerkung von Brücke: Die Altersstufe für die Senioren muß genau
                             angegeben werden, weil sonst der Kreis, innerhalb dessen gewählt werden
-                            kann, nicht bekannt ist.</note></p>
+                            kann, nicht bekannt ist.</note>
+                    </p>
                     <p>§ 13<lb/>Die Fakultätsräthe werden insofern sie nicht als emeritierte
                         Professoren in diese Stellung eintreten, von Seiner Majestät ernannt. Der
                         Vorschlag hierzu ist von dem Unterrichts-Minister zu erstatten, doch wird er
@@ -2161,7 +2278,8 @@
                             die Senioren nicht? Würde aber diese Art der Abstimmung allen gestattet,
                             so ist es klar, daß dadurch alle Bande der Ordnung gelöst und alle
                             Garantien für die Beschlüsse des Consistoriums vernichtet
-                        würden.</note></p>
+                        würden.</note>
+                    </p>
                     <p>§ 17<lb/>Die akademischen Würden können an der Wiener Universität nur von
                         Katholiken bekleidet werden.<lb/>Eine Ausnahme hiervon kann nur mit
                         Allerhöchster Bewilligung Seiner Majestät in dem Falle stattfinden, wenn
@@ -2199,7 +2317,8 @@
                                 Kategorie der "Civil disabilities and privations" zu fallen, von
                                 denen die Gerechtigkeit und Milde der Österreichischen Gerichte ihre
                                 zahlreichen protestantischen Unterthanen befreit hat.</note>
-                        </ref></p>
+                        </ref>
+                    </p>
                     <p>III.<lb/>Von den Titeln und den Rangverhältnissen der akademischen Behörden
                         und der Universitäts-Dignitarien.</p>
                     <p>§ 18<lb/>Der Rektor führt den Titel: "Magnifizenz", die Dekane und die
@@ -2268,7 +2387,8 @@
                             Collegiengelderangelegenheiten ohne Ausnahme müssen vors
                             Professorenkollegium kommen, sonst kann der Dekan einem dessen
                             unwürdigen Studierenden die Befreiung fortbestehen lassen, der dies nach
-                            dem Wortlaute dieses Gesetzes stillschweigend thun darf.</note></p>
+                            dem Wortlaute dieses Gesetzes stillschweigend thun darf.</note>
+                    </p>
                     <p>§ 34<lb/>Vor das verstärkte Professorenkollegium gehören:<lb/>a. solche
                         Angelegenheiten, von welchen das gesammte Lehrpersonal der Fakultät berührt
                         wird;<lb/>b. Entwurf des Lektionskataloges;<lb/>c. Angelegenheiten, welche

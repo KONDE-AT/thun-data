@@ -1,13 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bericht-ueber-maturitaetspruefungen-an-ungarischen-gymnasien-von-halder_1860-08-20_a3-xxi-d602.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bericht-ueber-maturitaetspruefungen-an-ungarischen-gymnasien-von-halder_1860-08-20_a3-xxi-d602.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bericht über die Maturitätsprüfungen an ungarischen Gymnasien im Schuljahr
                     1860 von <rs type="person" ref="#halder-konrad" key="halder-konrad" role="sender:beamter">Konrad
-                        Halder</rs><lb/><rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when="1860-08-20">20. August 1860</date></title>
+                        Halder</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when="1860-08-20">20. August 1860</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7F7-6</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -43,8 +48,20 @@
                     <physDesc/>
                 </msDesc>
             </sourceDesc>
-        </fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName ref="#halder-konrad">Konrad Halder</persName><date when="1860-08-20">20. August 1860</date></correspAction></correspDesc></profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#halder-konrad">Konrad Halder</persName>
+                    <date when="1860-08-20">20. August 1860</date>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,7 +75,8 @@
                     <term>Latein</term>
                 </index>
                 <p>&lt;Ungarische Gymnasien 1860&gt;<note>Eigenhändige Anmerkung Thuns
-                        am oberen Blattrand,</note></p>
+                        am oberen Blattrand,</note>
+                </p>
                 <p>Über die an den Gymnasien in <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs>,
                         <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> (a. Staatsgymnasium, b. Piaristengymnasium),
                         <rs type="place" subtype="place">Erlau</rs>, <rs type="place" subtype="place" key="stuhlweissenburg">Stuhlweiszenburg</rs> [Stuhlweißenburg],
@@ -165,7 +183,8 @@
                     keine Beachtung finden. Und nicht etwa bloß die Schüler, sondern auch die Lehrer
                     (in ihren vermeintlichen Berichtigungen und Censuren der schriftlichen Arbeiten)
                     haben sich in den bezeichneten Richtungen verirrt. Nachstehende Fehlerauslese
-                    möge als Beweis dienen.<lb/><hi rend="ul">Unlateinisches</hi>. Superficialitas –
+                    möge als Beweis dienen.<lb/>
+                    <hi rend="ul">Unlateinisches</hi>. Superficialitas –
                     fundamentalis – ineschauribilis – fundamentatum – exsatiatis – versio – commiles
                     – captitutio – hungaricolatinum – coneorelantia – nequidem – inattentio – non
                     adhibet terminos objecto correspondentes – juvenis est, instinctibus animi
@@ -178,7 +197,8 @@
                     possis – versorem sensam classici tantum approximative assecutum asserere
                     anderem – non sunt pares impetiui meo resistendo – veritatem dicere – opus
                     sermonem spectando miserum est – versor in abstraeto vertendo sensum non
-                    expressit – <lb/><hi rend="ul">Unclassisches</hi>. Adinvenio – superficialis –
+                    expressit – <lb/>
+                    <hi rend="ul">Unclassisches</hi>. Adinvenio – superficialis –
                     intellectualis – litteralis – apprehensio – impossibilis – defluxus – saturatio
                     – methodus – conformis – scientiae (plural = tudományok) – adhuc major – juxta
                     proverbium – <lb/>Verkehrter Sinn. nempe für verbi causa – periodus für aetas –
@@ -188,7 +208,8 @@
                     expressio – apprehendo – majestas – erroneus (die Form ist überdies bei Colum.
                     7, 12, 5 zweifelhaft) – punctum – emanere – terminus – queusque – absque – secus
                     – substratus – fluida oratio – fluide vertit –aviditas multarum notionum – non
-                    is intenditur sensus – mox in principio – elaboratum per Arpadom –<lb/><hi rend="ul">Unsyntaktisches</hi> (auch gegen die sogenannte syat. ornata).
+                    is intenditur sensus – mox in principio – elaboratum per Arpadom –<lb/>
+                    <hi rend="ul">Unsyntaktisches</hi> (auch gegen die sogenannte syat. ornata).
                     Porsenna Romanis bellum intulit, ut Tarquinium recepissent – cum animadverterit,
                     ursit socios – repugnavit, donec pons destructus fuisset – ni spatio impediar,
                     jam amplexus te haererem pectori – ut posses, opus est – speramus, quod
@@ -199,9 +220,11 @@
                     excellere cupiens (im substantiven Sinne) – dic, utrum … bei einer einfachen
                     Frage – ad statum vitae eligendum miti egrediendum est – integritas vitae als
                     Aufschrift – lateinische Briefe werden ganz in derselben Form wie ungarische
-                    oder deutsche abgefaßt – <lb/><hi rend="ul">Poetisches unter einfacher
+                    oder deutsche abgefaßt – <lb/>
+                    <hi rend="ul">Poetisches unter einfacher
                         Prosa</hi>. Titulus im Sinne von dignitas – ne eogita – reddere valuit –
-                    Tiberim desiluit – <lb/><hi rend="ul">Unorthographisches</hi>. Rippa / Pyraeum /
+                    Tiberim desiluit – <lb/>
+                    <hi rend="ul">Unorthographisches</hi>. Rippa / Pyraeum /
                     sollecismus / nature / rei-peritus / pro-pter / ade-ptus / sus-picis <lb/>etc.
                     etc. etc.<lb/>Nebenbei sei hier daran erinnert, daß auch in gedruckten
                     Zeugnisformularen Ausdrücke wie progressus <hi rend="ul">sufficiens</hi> statt
@@ -210,8 +233,10 @@
                     zwar die Fehlerhaftigkeit oder Ungenauigkeit der Übersetzungen aus dem
                     Lateinischen ins Ungarische sich als eine nothwendige Folge von selbst ergeben;
                     der Wichtigkeit der Sache wegen jedoch sollen auch hiefür einige Belege
-                    angeführt werden.<lb/><hi rend="ul">Aus Cic. Cat. I, 13 – für das
-                        Piaristengymnasium zu <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs></hi>:<lb/>aestu febrique =
+                    angeführt werden.<lb/>
+                    <hi rend="ul">Aus Cic. Cat. I, 13 – für das
+                        Piaristengymnasium zu <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>
+                    </hi>:<lb/>aestu febrique =
                     forró es hideg leíztól / iste unus = az / hisce ominibus = mindezekre oder igy /
                     erupit = törnekelö / denique = tehát /periculum residebit : a veszély
                     lecsillapdik (statt a. v. hábra marad) / statorem kujus urbis atque imperii = e
@@ -232,8 +257,10 @@
                     gyözetnek ‘s elnyomatnak / Ut saepe homines aegri morbo gravi, quum aestu
                     febrique jactantur, …: sic hic morbus … = Ha az emberek gyakran nagy betegségben
                     vannak, ha hidegleléstóli forróságban szenvednek … itt ez a nyavalya …
-                        u.s.f.<lb/><hi rend="ul">Aus Tac. Agr. 43 – für das Gymnasium zu
-                            <rs type="place" subtype="place">Erlau</rs></hi>:<lb/>per fora = forumon oder Köztéren
+                        u.s.f.<lb/>
+                    <hi rend="ul">Aus Tac. Agr. 43 – für das Gymnasium zu
+                            <rs type="place" subtype="place">Erlau</rs>
+                    </hi>:<lb/>per fora = forumon oder Köztéren
                     / hic aliud agens populus = a napszámok / momenta deficientis per elispositos
                     cursores nuntiate constabat, nullo credente, sic accelerari quae tristis audiret
                     = tudva van, hogy öröket rendelt hogy általuk tudositásst nyerjen a beteg
@@ -243,8 +270,10 @@
                     more principatus, per nuntios visentis, libertorum primi venere = gyakrabban
                     mint külömben láfogató hirnökök által szókás volt, jöttek hozzá az elökelök, a
                     szabadosok föbbjei … / Vulgus quoque, et hic aliud agens populus ventitavere ad
-                    domum = köznép, mely mással foglalkozik, a házhoz ment u.s.f.<lb/><hi rend="ul">Aus Tac. hist. IV. 58 – für das Gymnasium zu
-                            <rs type="place" subtype="place">Szegedin</rs></hi>:<lb/>Cum maxime = leginkább / sane
+                    domum = köznép, mely mással foglalkozik, a házhoz ment u.s.f.<lb/>
+                    <hi rend="ul">Aus Tac. hist. IV. 58 – für das Gymnasium zu
+                            <rs type="place" subtype="place">Szegedin</rs>
+                    </hi>:<lb/>Cum maxime = leginkább / sane
                     ego displiceam = talán én nem tetszem / Adeo nos, si fortuna in praesens
                     virtusque deseruit, etiam vetera exempla deficient = Aunyira ada vagyunk, hogy
                     ha a szerenese a jelen gyözelemben elhagy, akkor még az ösi példák is
@@ -256,8 +285,10 @@
                     es népellen fonditja a tört, a birodalmat és a Gallok háditmányát magának
                     nyilvánitja: ugy azért mi, ha … / at certe pollui foedariqua (e as fra) a Tutore
                     et Classico ne sinatis = azt ne engedjétek, hogy (a tábor) T. és Cl.-tól
-                    megbeistelenittessék u.s.f.<lb/><hi rend="ul">Aus Hor. ep. I, 10 – für das
-                        Gymnasium zu <rs type="place" subtype="place" key="stuhlweissenburg">Stuhlweißenburg</rs></hi>:<lb/>Fraternis animis = igaz lélekkel /
+                    megbeistelenittessék u.s.f.<lb/>
+                    <hi rend="ul">Aus Hor. ep. I, 10 – für das
+                        Gymnasium zu <rs type="place" subtype="place" key="stuhlweissenburg">Stuhlweißenburg</rs>
+                    </hi>:<lb/>Fraternis animis = igaz lélekkel /
                     aquinatem fueum = az aquitaniai festéket / Purior in vicis aqua tendit rumpere
                     plumbum, quam quae per pronum trepidat cum murmure rivum? = Tisztábl a viz, mely
                     a csatornákban ämlik szét, mint a mely a menedékes partook közt cserdegezve

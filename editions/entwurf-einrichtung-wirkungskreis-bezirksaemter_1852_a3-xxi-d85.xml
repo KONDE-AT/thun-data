@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-einrichtung-wirkungskreis-bezirksaemter_1852_a3-xxi-d85.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-einrichtung-wirkungskreis-bezirksaemter_1852_a3-xxi-d85.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Entwurf zur Einrichtung und zu den Kompetenzen der
-                            Bezirksämter<lb/><date>[1851/52]<note>Das Dokument wurde
+                            Bezirksämter<lb/>
+                    <date>[1851/52]<note>Das Dokument wurde
                             im Nachlass auf das Jahr 1850 datiert. Die Verhandlungen zur Einrichtung
                             der Bezirksämter wurden durch eine Kommission unter Beteiligung des
                             Innen-, Justiz- und Finanzministeriums im Jänner 1852 begonnen.
@@ -11,11 +13,13 @@
                             Protokolle des Österreichischen Ministerrates 1848–1867. Das Ministerium
                             Schwarzenberg. Bd. 5, bearbeitet von Stefan Malfèr, Wien 2013, S. XXXIV.
                             Das Gesetz wurde schließlich am 14. September 1852 durch den Kaiser
-                            bewilligt und im RGBl 10/1853 veröffentlicht.</note></date>
+                            bewilligt und im RGBl 10/1853 veröffentlicht.</note>
+                    </date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7FC-1</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -79,25 +83,37 @@
                             und Abschnitten angeführt. In der Transkription werden diese unter dem
                             entsprechenden Paragrafen kursiv wiedergegeben.</p>
                         <p>Mit eigenhändigen Korrekturen und Anmerkungen von Thun.</p>
-                        <p>Insgesamt fünf Beilagen:<lb/><ref target="#D85_1">Stellungnahme von Leo
+                        <p>Insgesamt fünf Beilagen:<lb/>
+                            <ref target="#D85_1">Stellungnahme von Leo
                                 Thun zu dem Entwurf.</ref>
                             <lb/>Beilage zum § 13 des Entwurfs mit einer tabellarischen Übersicht
                             über die Diätsklassen der verschiedenen Beamten in unterschiedlichen
-                            Bezirken. Die Tabelle wird hier nicht wiedergegeben.<lb/><ref target="#D85_2">Stellungnahme von unbekannter Hand zur Frage der
-                                Mitwirkung der Bevölkerung an der Verwaltung.</ref><note>Dasselbe Dokument ist im Nachlass außerdem unter der
+                            Bezirken. Die Tabelle wird hier nicht wiedergegeben.<lb/>
+                            <ref target="#D85_2">Stellungnahme von unbekannter Hand zur Frage der
+                                Mitwirkung der Bevölkerung an der Verwaltung.</ref>
+                            <note>Dasselbe Dokument ist im Nachlass außerdem unter der
                                     <ref target="thun/thun-korrespondenz/tetschen/abschrift-teil-votum-thun-entwurf-bezirksaemter_o. D._A3-XXI-D147.xml">Signatur A3 XXI D147</ref> abgelegt. Die Variante hier ist eine
                                 Abschrift dieses Dokumentes und diente Thun wohl als Quelle für
                                 seine Stellungnahme zum Entwurf, da die Argumentation in großen
-                                Zügen ähnlich ist.</note><lb/><ref target="#D85_3">Eigenhändiges
+                                Zügen ähnlich ist.</note>
+                            <lb/>
+                            <ref target="#D85_3">Eigenhändiges
                                 handschriftliches Konzept Thuns für seine Stellungnahme mit einer
-                                Abschrift desselben.</ref><lb/><ref target="#D85_4">Weitere
+                                Abschrift desselben.</ref>
+                            <lb/>
+                            <ref target="#D85_4">Weitere
                                 eigenhändige handschriftliche Bemerkungen Thuns zum Entwurf mit
-                                ähnlichem Inhalt wie die Stellungnahme.</ref></p>
+                                ähnlichem Inhalt wie die Stellungnahme.</ref>
+                        </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -110,7 +126,8 @@
                 <p>§ 1. Das Bezirksamt ist für den ihm zugewiesenen Bezirke die unterste
                     landesfürstliche Behörde in allen &lt;nicht ausdrücklich anderen Behörden oder
                     Organen vorbehaltenen Verwaltungs- und Justizgeschäften.&gt;<note>Korrektur Thuns aus: Verwaltungs- und Justizgeschäften, die nicht
-                        ausdrücklich anderen Behörden oder Organen vorbehalten sind.</note><lb/>§ 2.
+                        ausdrücklich anderen Behörden oder Organen vorbehalten sind.</note>
+                    <lb/>§ 2.
                     &lt;Das Bezirksamt steht rücksichtlich des Geschäfts- und Instanzenzuges&gt;<note>Korrektur Thuns aus: Rücksichtlich des Geschäfts- und
                         Instanzenzuges steht das Bezirksamt</note>, je nach Verschiedenheit der
                     Angelegenheit unter der höheren politischen, Gerichts-, Steuer- oder
@@ -125,7 +142,8 @@
                     Bezirkes und den Umfang der Geschäfte in zwei Klassen abgetheilt.<lb/>Außer dem
                     Bezirkshauptmann gehört in der Regel zum Personale<lb/>a. des Bezirksamtes
                     erster Klasse:<lb/>ein Bezirksrichter,<lb/>ein Adjunkt oder Aktuar,<note>Anmerkung Thuns mit Bleistift: Justizminister verlangt einen
-                        Aktuar für Bezirksrichter und einen Grundbuchsführer</note><lb/>ein
+                        Aktuar für Bezirksrichter und einen Grundbuchsführer</note>
+                    <lb/>ein
                     Steuereinnehmer und ein ihn kontrollirender Beamter,<lb/>zwei Kanzlisten
                     und<lb/>drei Diener und<lb/>b. des Bezirksamtes II. Klasse:<lb/>ein Adjunkt oder
                     Aktuar,<lb/>ein Steuereinnehmer und ein ihn kontrollirender Beamter,<lb/>ein
@@ -142,7 +160,8 @@
                     erforderlichen Nachwuchses systemisirt sowie ein Pauschalbetrag für Diurnen zur
                     Besorgung von bezirksämtlichen Schreibgeschäften bemessen.<lb/>Die
                     Konzeptspraktikanten und Diurnisten werden jedoch nicht für die einzelnen
-                    Bezirksämter bestellt, sondern nach Verhältnis des Bedarfes zugetheilt.<lb/><hi rend="italic">Minoritätsantrag<lb/>I. Ministerialräthe <rs type="person" ref="#jary-georg" key="jary-georg">Jary</rs>, Laßer [<rs type="person" ref="#lasser-joseph" key="lasser-joseph">Lasser</rs>], <rs type="person" ref="#sachse-von-rothenberg-friedrich" key="sachse-von-rothenberg-friedrich">Sachse</rs> wollen für das Bezirksamt I. Klasse in der Regel nur
+                    Bezirksämter bestellt, sondern nach Verhältnis des Bedarfes zugetheilt.<lb/>
+                    <hi rend="italic">Minoritätsantrag<lb/>I. Ministerialräthe <rs type="person" ref="#jary-georg" key="jary-georg">Jary</rs>, Laßer [<rs type="person" ref="#lasser-joseph" key="lasser-joseph">Lasser</rs>], <rs type="person" ref="#sachse-von-rothenberg-friedrich" key="sachse-von-rothenberg-friedrich">Sachse</rs> wollen für das Bezirksamt I. Klasse in der Regel nur
                         einen Kanzellisten systemisiren, jedoch es zulassen nach Erfordernis auch
                         zwei oder drei Kanzlisten beizugeben.<lb/>II. Die Repräsentanten der
                         Ministerien der Finanzen und des Handels beantragen, daß auch für jedes Land
@@ -150,7 +169,8 @@
                         der angestellten Steuer- und Kanzleibeamten beschränkt werde.<lb/>III.
                         Sektionsrath <rs type="person" ref="#neydisser" key="neydisser">Neydißer</rs> glaubt, daß die
                         Möglichkeit offen zu halten wäre, bei den Bezirksämtern II. Klasse
-                        ausnahmsweise unter den angegebenen Minimalstatus herabzugehen.</hi><lb/>§
+                        ausnahmsweise unter den angegebenen Minimalstatus herabzugehen.</hi>
+                    <lb/>§
                     5. Bei dem Bezirksamte I. Klasse hat die eigentlich richterlichen Geschäfte (§
                     86), namentlich das Strafrichteramt, die Rechtsprechung in bürgerlichen
                     Rechtsstreiten und jene Zweige der freiwilligen Gerichtsbarkeit, bei denen es
@@ -159,7 +179,8 @@
                     besorgen.<lb/>Ausnahmsweise versieht bei Bezirksämtern von kleinerer Ausdehnung
                     der Bezirkshauptmann auch die Justizgeschäfte unter unmittelbarer Verantwortung.
                     Diese Vereinigung der Geschäftsführung findet bei den Bezirksämtern II. Klasse
-                        statt.<lb/><hi rend="italic">Minoritätsantrag<lb/>Die Repräsentanten des
+                        statt.<lb/>
+                    <hi rend="italic">Minoritätsantrag<lb/>Die Repräsentanten des
                         Justizministeriums und Ministerialrath von <rs type="person" ref="#kreissle" key="kreissle">Kreißle</rs> wollen den ersten Satz des §s in folgender Weise
                         textiren: „Bei dem Bezirksamte I. Klasse hat die richterliche
                         Geschäftsführung in ihrem vollen Umfange der dem Bezirksamte beigegebene
@@ -170,13 +191,16 @@
                         nach bei jedem Bezirksamte über Einvernehmen des Oberlandesgerichtes
                         festgesetzt – vor allem nur zu den gerichtlichen Arbeiten verwendet und
                         unter die unmittelbare Aufsicht und Verfügung des Bezirksrichters gestellt
-                        werde.</hi><lb/>§ 6. Für das Kassa- und Rechnungsgeschäft obliegt den beim
+                        werde.</hi>
+                    <lb/>§ 6. Für das Kassa- und Rechnungsgeschäft obliegt den beim
                     Bezirksamte mit Kautionsleistung bestellten Beamten (dem Steuereinnehmer und dem
-                    ihn kontrollirenden Beamten) die unmittelbare Haftung und Verantwortung.<hi rend="italic"><lb/>Minoritätsantrag.<lb/>Ministerialrath von <rs type="person" ref="#kreissle" key="kreissle">Kreißle</rs> beantragt folgende Textirung:<lb/>„Für
+                    ihn kontrollirenden Beamten) die unmittelbare Haftung und Verantwortung.<hi rend="italic">
+                        <lb/>Minoritätsantrag.<lb/>Ministerialrath von <rs type="person" ref="#kreissle" key="kreissle">Kreißle</rs> beantragt folgende Textirung:<lb/>„Für
                         das Steuereinhebungs-, Kassa- und Rechnungsgeschäft werden beim Bezirksamte
                         eigene Individuen bestellt, welche jenes Geschäft unter ihrer unmittelbaren
                         Haftung und Verantwortung zu führen und vorschriftsmäßige Kautionen dafür zu
-                        leisten haben.“</hi><lb/>§ 7. Die Beziehungen der im §§ 5 und 6 erwähnten
+                        leisten haben.“</hi>
+                    <lb/>§ 7. Die Beziehungen der im §§ 5 und 6 erwähnten
                     Beamten zu dem Bezirkshauptmanne als ihrem unmittelbaren Amtsvorsteher und zu
                     den höheren Gerichtssteuer- oder Finanzbehörden werden durch eigene
                     Instruktionen geregelt.<lb/>In Betreff der diesen Beamten besonders zugewiesenen
@@ -230,18 +254,22 @@
                     Bezirkshauptmann genießt freie Wohnung im Amtsgebäude und insolange dies nicht
                     thunlich ist, ein verhältnismäßiges Quartiergeld.<lb/>In welchem Verhältnisse
                     die Bezirksbeamten an Notariats- und Verfaßgebühren Theil zu nehmen haben, wird
-                    besonders bestimmt werden.<lb/><hi rend="italic">Minoritätsantrag<lb/>Die
+                    besonders bestimmt werden.<lb/>
+                    <hi rend="italic">Minoritätsantrag<lb/>Die
                         Repräsentanten des Justizministeriums wollen die Hinweglassung des letzten
-                        Satzes.</hi><lb/>§ 14. Die bei den Bezirksämtern angestellten Beamten
+                        Satzes.</hi>
+                    <lb/>§ 14. Die bei den Bezirksämtern angestellten Beamten
                     derselben Kategorie stehen im Range gleich, wenn auch ihr Gehalt verschieden
                     abgestuft ist.<lb/>Die höhere Gehaltsstufe ist nicht von der Anstellung bei
                     einem Bezirksamte der I. Klasse bedingt.<lb/>Die Vorrückung in die höhere
                     Gehaltsstufe derselben Diensteskategorie ist als eine graduelle
-                        anzusehen.<lb/><hi rend="italic">Minoritätsantrag<lb/>Ministerialrath von
+                        anzusehen.<lb/>
+                    <hi rend="italic">Minoritätsantrag<lb/>Ministerialrath von
                             <rs type="person" ref="#kreissle" key="kreissle">Kreißle</rs> beantragt, daß bei den
                         Steuerbeamten (§ 6) und bei den Conceptsbeamten die Vorrückung in die höhere
                         Gehaltsstufe nicht graduell, sondern im Wege einer eigentlichen Ernennung
-                        stattfinde.</hi><lb/>§ 15. Für den Bezirkshauptmann ist jedenfalls die
+                        stattfinde.</hi>
+                    <lb/>§ 15. Für den Bezirkshauptmann ist jedenfalls die
                     Befähigung der politischen Amtsgeschäfte erforderlich.<lb/>Bei dem Bezirksamte
                     II. Klasse muß er aber auch die Richteramtsbefähigung haben und es ist dafür
                     Sorge zu tragen, daß unter dem subalternen Personale des Bezirksamtes sich
@@ -252,19 +280,32 @@
                     Bestimmungen erfolgen.<lb/>Den Bezirksbeamten steht, insoferne sie die für dem
                     einen oder anderen Dienstzweig vorgeschriebene Qualifikation haben, sistemmäßig
                     der Anspruch auf Beförderung in den höheren Justiz- und Verwaltungsbehörden
-                        zu.<note>Anmerkungen Thuns: <hi rend="ul"><rs type="person" ref="#krauss-karl" key="krauss-karl">Justizminister</rs></hi>: Wo jetzt 1
-                        Bezirkshauptmann war, werden 3 sein; was werden sie zu thun haben?<lb/><hi rend="ul"><rs type="person" ref="#bach-alexander" key="bach-alexander">Minister des
-                            Innern</rs></hi>: für die Zukunft im Prinzip
-                            einverstanden.<lb/><hi rend="ul"><rs type="person" ref="#krauss-karl" key="krauss-karl">Justizminister</rs></hi>: der [?] Befähigte soll der
+                        zu.<note>Anmerkungen Thuns: <hi rend="ul">
+                            <rs type="person" ref="#krauss-karl" key="krauss-karl">Justizminister</rs>
+                        </hi>: Wo jetzt 1
+                        Bezirkshauptmann war, werden 3 sein; was werden sie zu thun haben?<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#bach-alexander" key="bach-alexander">Minister des
+                            Innern</rs>
+                        </hi>: für die Zukunft im Prinzip
+                            einverstanden.<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#krauss-karl" key="krauss-karl">Justizminister</rs>
+                        </hi>: der [?] Befähigte soll der
                         Vorgesetzte [?] des Befähigten sein!<lb/>Der <rs type="person" ref="#krauss-karl" key="krauss-karl">Justizminister</rs> will direkt die Verwaltung in die Hände der
                         Justiz leiten.<lb/>Der <rs type="person" ref="#bach-alexander" key="bach-alexander">Minister des
                             Innern</rs> macht Konzession, die dahin führe, daß dasselbe in
                         Zukunft geschehen wird.<lb/>Ich will, daß diese Erklärung verhindert
-                            wird.<lb/><hi rend="ul">Beschluß: Diese [?] für wünschenswerth zu
-                            erklären!</hi></note><lb/><hi rend="italic">Minoritätsantrag<lb/>Die
+                            wird.<lb/>
+                        <hi rend="ul">Beschluß: Diese [?] für wünschenswerth zu
+                            erklären!</hi>
+                    </note>
+                    <lb/>
+                    <hi rend="italic">Minoritätsantrag<lb/>Die
                         Repräsentanten des Justizministeriums wollen, daß – mit Ausnahme des ersten
                         Besetzungsaktes – auch jeder Bezirkshauptmann bei den Ämtern der I. Klasse
-                        die Richteramtsbefähigung habe.</hi><lb/>§ 16. Zu Bezirkshauptmannsstellen
+                        die Richteramtsbefähigung habe.</hi>
+                    <lb/>§ 16. Zu Bezirkshauptmannsstellen
                     bei Bezirksämtern I. Klasse erstattet die politische Landesstelle den
                     Ternavorschlag an das Ministerium des Innern, dem das Ernennungsrecht
                     zusteht.<lb/>Für die Stelle eines Bezirkshauptmannes bei einem Bezirksamte II.
@@ -294,7 +335,8 @@
                     Steuerlandesbehörde zu bewilligen.<lb/>Die Pensionirung, Quiescirung oder
                     Versetzung des bezirksämtlichen Personales steht jenen Behörden zu, denen die
                     Ernennung zukommt; nur ist die Pensionirung oder Quieszirung eines Dieners der
-                    politischen Landesstelle vorbehalten.<lb/><hi rend="italic">Minoritätsantrag<lb/>I. Die Repräsentanten des Justizministerium
+                    politischen Landesstelle vorbehalten.<lb/>
+                    <hi rend="italic">Minoritätsantrag<lb/>I. Die Repräsentanten des Justizministerium
                         beanspruchen – in Konsequenz der von ihnen beim § 15 für alle
                         Bezirkshauptmänner begehrten Richteramtsbefähigung – bei den Ernennungen der
                         Bezirkshauptmänner I. Klasse gleichfalls die entscheidende Einflußnahme der
@@ -307,7 +349,8 @@
                         Handelsministeriums stellen den Antrag, daß die Ernennung der Steuerbeamten
                         und die Bewilligung von Remunerazionen und Aushilfen an dieselben vom Chef
                         der Steuerlandesbehörde und in höherer Linie vom Finanzministerium
-                        erfolge.</hi><lb/>§ 17. Die Disziplinarstrafgewalt über das bezirksämtliche
+                        erfolge.</hi>
+                    <lb/>§ 17. Die Disziplinarstrafgewalt über das bezirksämtliche
                     Personale wird, insoweit die Bestimmung der §§ 7 und 8 nicht ausreicht, zunächst
                     von der politischen Landesstelle ausgeübt. Bei Degradirungen und Versetzungen im
                     Strafwege entscheidet in erster Instanz die Landesstelle, die Berufung geht an
@@ -331,11 +374,13 @@
                     einem Amte II. Klasse, einem Bezirksrichter oder einem im § 6 bezeichneten
                     Beamten handelt, im Einvernehmen mit dem Oberlandesgerichte und beziehungsweise
                     mit der Steuerlandesbehörde und in dringenden Fällen unter gleichzeitiger
-                    Mittheilung des Verfügten an diese Behörden auszusprechen.<lb/><hi rend="italic">Minoritätsantrag<lb/>Die Repräsentanten des Finanz- und Handelsministeriums
+                    Mittheilung des Verfügten an diese Behörden auszusprechen.<lb/>
+                    <hi rend="italic">Minoritätsantrag<lb/>Die Repräsentanten des Finanz- und Handelsministeriums
                         beantragen, daß die Disciplinarstrafgewalt in Betreff der Steuerbeamten von
                         der Steuerlandesbehörde ausgeübt und daß daher insbesondere von dieser
                         Behörde und im Berufungswege vom Finanzministerium die Suspendirung,
-                        Degradirung und Entlassung ausgesprochen werde.</hi><lb/>§ 18. Für die
+                        Degradirung und Entlassung ausgesprochen werde.</hi>
+                    <lb/>§ 18. Für die
                     Kanzleierfordernisse sowie für die Beleuchtung und Beheizung der Amtslokalitäten
                     wird dem Bezirksamte ein Pauschale bemessen.<lb/>Die Anschaffung der
                     Einrichtungsstücke für die Kanzleien und für die vorschriftmäßig herzustellenden
@@ -408,13 +453,15 @@
                     Einleitung von Sammlungen oder sonstigen Nothstandsabhilfen in größerem Maße
                     oder um Lebensrettungstaglien und Belohnungen für ausgezeichnetes Benehmen bei
                     Feuer, Wasser und anderen Gefahren, so wendet sich das Bezirksamt an die höhere
-                    politische Behörde.<lb/><hi rend="italic">Minoritätsantrag<lb/>Ministerialrath
+                    politische Behörde.<lb/>
+                    <hi rend="italic">Minoritätsantrag<lb/>Ministerialrath
                         von <rs type="person" ref="#lasser-joseph" key="lasser-joseph">Laßer</rs> und die Sektionsräthe von
                             <rs type="person" ref="#neydisser" key="neydisser">Neydißer</rs> und <rs type="person" ref="#regner" key="regner">Regner</rs> beantragen, daß in diesem § sowie überall, wo von dem
                         auszuscheidenden Besitze die Rede ist (§§ 31, 35, 40, 44, 62) der Wortlaut
                         der Art. 9 und 36 der allerhöchsten Organisirungsgrundsätze beibehalten und
                         daher „der aus dem Verbande der Ortsgemeinden ausgeschiedene <hi rend="ul">ehemals herrschaftliche große Grundbesitz</hi>“ bezeichnet
-                    werde.</hi><lb/>§ 28. Bei gewaltsamen oder in böser Absicht vorgenommenen
+                    werde.</hi>
+                    <lb/>§ 28. Bei gewaltsamen oder in böser Absicht vorgenommenen
                     Besitzstörungen hat das Bezirksamt alles vorzukehren, damit die öffentliche
                     Ordnung erhalten und wieder hergestellt und weitere Angriffe hintangehalten
                     werden, insoweit nicht ohnedies das gerichtliche Einschreiten über
@@ -500,7 +547,9 @@
                         Bezirksämtern als politischen Verwaltungsorganen ein friedensrichterliches
                         Amt mit dem Befugnisse zum Abschlusse exekutionsfähiger Vergleiche
                         einzuräumen sein werde, wird ein nachträgliches Gesetz
-                    bestimmen."</note><lb/></p>
+                    bestimmen."</note>
+                    <lb/>
+                </p>
                 <p>B. Polizeiliche Geschäfte<lb/>I. Im Allgemeinen:<lb/>§ 40. Das Bezirksamt trifft
                     alle Maßregeln, welche in Angelegenheiten der Orts und höheren Polizei durch die
                     Gesetze oder Weisungen der vorgesetzten Behörden angeordnet werden oder welche
@@ -592,7 +641,8 @@
                     Verpflichtung der Beischaffung von Einrichtungsstücken, Geräthen, Holz und
                     sonstigen Erfordernissen der Schule und überwacht die Erhaltung der Schulgebäude
                     und den Schulbesuch und wendet wegen gehöriger Frequentation die gesetzlichen
-                    Mittel an; es schreitet endlich ein bei Beschwerden über das<note>Fortsetzung fehlt.</note></p>
+                    Mittel an; es schreitet endlich ein bei Beschwerden über das<note>Fortsetzung fehlt.</note>
+                </p>
                 <div xml:id="D85_1" type="enclosure">
                     <p>Votum des Ministers <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Grafen
                             Thun</rs> über den Entwurf der Einrichtung und des Wirkungskreises
@@ -693,7 +743,8 @@
                         ihre eigenen Organe besorgen läßt und daher nicht in jeder Beziehung die
                         Verantwortung für den Erfolg auf sich nimmt, sondern sich, wo es angeht,
                         darauf beschränkt zu überwachen und Kritik zu üben, statt sich ihr überall
-                        Preis zu geben.<lb/><rs type="person" ref="#napoleon-bonaparte" key="napoleon-bonaparte">Napoleon</rs>
+                        Preis zu geben.<lb/>
+                        <rs type="person" ref="#napoleon-bonaparte" key="napoleon-bonaparte">Napoleon</rs>
                         hat in <rs type="place" subtype="country" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</rs> eine Beamtenregierung hergestellt, in
                         ähnlicher Ausdehnung wie die, welche jetzt für <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> beantragt wird, wenn auch nicht ganz in dem Maaße,
                         insofern die französische Gerichtsverwaltung die ausgedehnte und
@@ -864,7 +915,8 @@
                         hier nicht näher untersuchen. Es dürfte hier die Andeutung genügen, daß ein
                         und der andere Weg offen stehe.<note>Dieses Dokument ist
                             gleichlautend mit dem Dokument, das sich im Nachlass unter der Signatur
-                            A3 XXI D147 befindet.</note></p>
+                            A3 XXI D147 befindet.</note>
+                    </p>
                 </div>
                 <div xml:id="D85_3" type="enclosure">
                     <p>Zwiespalt, ob Bezirksamt oder Gericht?<lb/>Compromiß erreicht nicht die
@@ -885,7 +937,8 @@
                         Resultat in administrativer Beziehung besser als in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, ja selbst
                             <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs>? Grundbücher,
                         Waisenkasse, Straßen, Schulen etc.<note>Anmerkung Thuns mit
-                            Bleistift: Entstehung dieser Institute </note><lb/>2.
+                            Bleistift: Entstehung dieser Institute </note>
+                        <lb/>2.
                         finanziell:<lb/>Die vorliegende Berechnung schon sehr geändert. Noch
                         unzureichend (Vergleich mit Patrimonialämtern); wird gehen wie [1]849.
                         Ersparung unmöglich durch bloße Umstellung der Ämter, nur durch Abnahme von
@@ -894,7 +947,8 @@
                         Personalsachen! (Anstellung, Disziplin, Pension, Unterstützung etc.)<lb/>3.
                         politisch:<lb/>Schicksal von Frankreich; dagegen Gang der Dinge in Böhmen
                         [1]848</p>
-                    <p><hi rend="ul">Also</hi>:<lb/>Die Ausdehnung der Bureaukratie in
+                    <p>
+                        <hi rend="ul">Also</hi>:<lb/>Die Ausdehnung der Bureaukratie in
                         administrativer Beziehung kein Gewinn, finanziell und politisch geradezu
                         verderblich.<lb/>Aber für jetzt nichts anderes möglich. Zugegeben – aber den
                         Zustand nicht als bleibend, nicht als Ziel der Organisation, sondern als
@@ -902,7 +956,8 @@
                         detaillirte Instruktionen festzustellen, die jede berechtigte
                         Selbstthätigkeit im Prinzip ausschließen und jeden Keim davon
                             ersticken.<note>Anmerkung Thuns mit Bleistift: n.
-                            l.</note><lb/>2. mit Errichtung der neuen Behörden sich nicht übereilen,
+                            l.</note>
+                        <lb/>2. mit Errichtung der neuen Behörden sich nicht übereilen,
                         sondern vor allem darnach streben, brauchbare Elemente neben den Behörden zu
                         finden und in Thätigkeit zu setzen.<lb/>Die Möglichkeit dessen, verschieden
                         in den verschiedenen Ländern, daher:<lb/>a. länderweise vorzugehen; ohnehin
@@ -919,7 +974,8 @@
                         Anstellung und Disziplin &lt;und Verwendung der Justizbeamten und
                         Unterscheidung von Bezirkshauptmann I. und II. Klasse mit der auffallenden
                         Verschiedenheit bei der Anstellung.&gt;<note>Hinzufügung Thuns
-                            mit Bleistift</note></p>
+                            mit Bleistift</note>
+                    </p>
                 </div>
                 <div xml:id="D85_4" type="enclosure">
                     <p>Wenn auf dieser Grundlage gebaut wird, so bekommen wir einen bureaukratischen
@@ -988,7 +1044,8 @@
                             omnipotenten Staatsgewalt nur begründet, die neben den bezahlten Organen
                             des Staates gar keine berechtigte Selbstthätigkeit anerkennt. Anerkennen
                             kann man freilich nicht, was jetzt nicht da ist, aber es darf nicht
-                            prinzipiell ausgeschlossen werden.</note></p>
+                            prinzipiell ausgeschlossen werden.</note>
+                    </p>
                 </div>
             </div>
         </body>

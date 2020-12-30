@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="lehrerkollegium-gymnasium-graz-an-thun-1860-a3-xxi-d623a28.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-goerz-an-thun-1860-11-05-a3-xxi-d623a30.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-klagenfurt-an-thun-1860-11-15-a3-xxi-d623a33.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lehrerkollegium-gymnasium-graz-an-thun-1860-a3-xxi-d623a28.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-goerz-an-thun-1860-11-05-a3-xxi-d623a30.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-klagenfurt-an-thun-1860-11-15-a3-xxi-d623a33.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Lehrerkollegium des Gymnasiums in Graz an <rs type="person"
-                        ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                <title>Das Lehrerkollegium des Gymnasiums in Graz an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c"
-                        >o. O. [Graz]</rs>, <date when="1860">o. D. [1860]</date>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">o. O. [Graz]</rs>, <date when="1860">o. D. [1860]</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DB58-C</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB58-C</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -66,8 +60,10 @@
                     Scheidegruß, dargebracht aus Liebe, Dankbarkeit und Verehrung in größter
                     Ehrfurcht</p>
                 <p>von dem treuergebenen Lehrkörper des k.k. Gymnasiums zu Gratz [Graz]</p>
-                <p><rs type="person" ref="#hieber-karlmann">Dr. Karlmann
-                    Hieber</rs><lb/>Director</p>
+                <p>
+                    <rs type="person" ref="#hieber-karlmann">Dr. Karlmann
+                    Hieber</rs>
+                    <lb/>Director</p>
                 <p>Richard Peinlich<lb/>Benedict Propst<lb/>Ferdinand Glaser<lb/>Dr. Dominicus
                     Buswald<lb/>Thassilo Weymayr<lb/>Franz Silly<lb/>Anton Skubic<lb/>Dr. Eduard
                     Trummer<lb/>Mathias Pack<lb/>Friedrich Boser<lb/>Georg Kaas<lb/>Raynald
@@ -90,8 +86,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
             </listPerson>
             <listPlace>

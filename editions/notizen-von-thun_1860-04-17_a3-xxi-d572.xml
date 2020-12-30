@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="notizen-von-thun_1860-04-17_a3-xxi-d572.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="notizen-von-thun_1860-04-17_a3-xxi-d572.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Notizen Leo Thuns zu verschiedenen Angelegenheiten<lb/>o. O., <date when="1860-04-17">17. April 1860</date></title>
+                <title>Notizen Leo Thuns zu verschiedenen Angelegenheiten<lb/>o. O., <date when="1860-04-17">17. April 1860</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p>Teilweise abgedruckt in: Die Protokolle des Österreichischen Ministerrates
                     1848–1867. IV. Abteilung, Das Ministerium Rechberg, Bd. 2, Wien 2007, S.
                     278–279.</p>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7EA-5</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -35,7 +38,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -56,7 +63,8 @@
                         der Sprache der Parthei zu ertheilen. Was Ostgalizien anbelangt, so dürfte
                         als Regel aufzustellen sein, daß die Advokaten sich der deutschen oder
                         ruthenischen und nur bei Vertretung polnischer Partheien der galizischen
-                        Sprache [zu] bedienen berechtigt seien.</note></p>
+                        Sprache [zu] bedienen berechtigt seien.</note>
+                </p>
                 <p>Sprache<lb/>Die Stellung, die in den zu deutschen Ländern gehörigen Ländern die
                     deutsche Sprache einnimmt, soll in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> die ungarische
                     einnehmen.<lb/>Jede andere Volkssprache in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, die welche
@@ -76,7 +84,8 @@
                 <p>Beamte<lb/>[?] ihrer erworbenen Ansprüche, wenn sie fort ihre Schuldigkeit thun,
                     sonst augenblickliche Entlassung.<lb/>In <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> Nichtungarn
                     nicht gesetzlich ausgeschlossen</p>
-                <p>Übergang in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs><lb/>Was während der Zeit der Diktatur von
+                <p>Übergang in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
+                    <lb/>Was während der Zeit der Diktatur von
                     Seiner Majestät oder von der Regierung in ihrem Wirkungskreis erlassen worden
                     ist, besteht zu Recht, ist aber der Revolution unterworfen. [?] der ältern
                     Gesetze und Einrichtung, in so weit sie damit verträglich sind, behalten ihre
@@ -87,7 +96,8 @@
                         Unterricht</rs> zu regeln? Bleibt offene Frage.<lb/>Behandlung der
                     Frage der katholischen Kirche und der griechisch-unierten Kirche muß in einer
                     Hand bleiben und läßt sich vom Unterricht nicht trennen.</p>
-                <p>Wiederverknüpfung der Rechtsentwicklung<lb/><rs type="person" ref="#szoegyeny-marich-ladislaus" key="szoegyeny-marich-ladislaus">Szögyény</rs> will die Bestimmung,
+                <p>Wiederverknüpfung der Rechtsentwicklung<lb/>
+                    <rs type="person" ref="#szoegyeny-marich-ladislaus" key="szoegyeny-marich-ladislaus">Szögyény</rs> will die Bestimmung,
                     daß der Einfluß auf alle Gesetzgebung vom ungarischen Landtag auf den Reichsrath
                     übergehe, solle mit dem ungarischen Landtag vereinbart werden. Wie dann
                     gegenüber von <rs type="place" subtype="region" key="kroatien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroazien</rs>? Soll das wieder den
@@ -99,7 +109,8 @@
                     Landtage.</p>
                 <p>&lt;&gt;<note>Am Ende des Dokuments finden sich einige
                         Bleistiftnotizen von Leo Thun, die jedoch weitgehend unleserlich
-                        sind.</note></p>
+                        sind.</note>
+                </p>
             </div>
         </body>
     </text>

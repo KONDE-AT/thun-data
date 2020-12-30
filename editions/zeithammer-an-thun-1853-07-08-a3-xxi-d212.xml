@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="zeithammer-an-thun-1853-07-08-a3-xxi-d212.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-04-17-a3-xxi-d201.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-1853-08-22-a3-xxi-d225.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="zeithammer-an-thun-1853-07-08-a3-xxi-d212.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-04-17-a3-xxi-d201.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-1853-08-22-a3-xxi-d225.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#zeithammer-gregor" role="sender:beamter">Gregor
-                        Zeithammer</rs> an <rs type="person" ref="#thun-hohenstein-leo"
-                        role="recipient">Leo Thun</rs>
+                        Zeithammer</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108"
-                        >Prag</rs>, <date when="1853-07-08">8. Juli 1853</date>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1853-07-08">8. Juli 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-D98F-0</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D98F-0</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -52,8 +46,7 @@
                             sich jedoch schon jetzt für den Lehrplan der Gymnasien aus.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                target="#d212_1">Liste der im Schuljahr 1852 am Altstädter Gymnasium
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d212_1">Liste der im Schuljahr 1852 am Altstädter Gymnasium
                                 aufgenommenen Schüler.</tei:ref>
                         </p>
                         <p>Verweis auf A3 XXI D201.<lb/>Verweis auf A3 XXI D225.</p>
@@ -89,36 +82,27 @@
                     <term>Sprachenfrage</term>
                 </index>
                 <p>Euere Excellenz!</p>
-                <p>Der hohe Erlaß vom 27. Juni letzten Jahres Z. 6086 lautet für das <rs type="org"
-                        ref="#org_0081">Altstädter Gymnasium</rs> ungünstiger, als ich es erwartete,
-                    umso ungünstiger, da die beiden andern <rs type="place" subtype="place"
-                        ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs> Gymnasien belobt
+                <p>Der hohe Erlaß vom 27. Juni letzten Jahres Z. 6086 lautet für das <rs type="org" ref="#org_0081">Altstädter Gymnasium</rs> ungünstiger, als ich es erwartete,
+                    umso ungünstiger, da die beiden andern <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs> Gymnasien belobt
                     werden, und doch hat das <rs type="org" ref="#org_0081">Altstädter</rs> ebenso
                     tüchtige, wenn nicht tüchtigere Kräfte, die im Ganzen das Angemessene leisten.
                     Daß die Leistungen der Schüler im Deutschen geringer waren, liegt mehr in dem
                     dieser Lehranstalt gegebenen Plane, sie müßten auch in den andern Gegenständen
-                    hie und da, namentlich im Untergymnasium, geringer erscheinen, da der Herr <rs
-                        type="person" ref="#kleemann-johann">Sectionsrath</rs> durchgehend deutsch
+                    hie und da, namentlich im Untergymnasium, geringer erscheinen, da der Herr <rs type="person" ref="#kleemann-johann">Sectionsrath</rs> durchgehend deutsch
                     prüfte, obwohl ich ihn ein- und das andermal erinnerte, daß der Gegenstand
                     böhmisch vorgetragen wird. Manche Beschuldigungen, die den Lehrern gemacht
-                    werden, sind nicht erwiesen; dann hat der Herr <rs type="person"
-                        ref="#kleemann-johann">Sectionsrath</rs> keinen vortragen, die wenigsten
+                    werden, sind nicht erwiesen; dann hat der Herr <rs type="person" ref="#kleemann-johann">Sectionsrath</rs> keinen vortragen, die wenigsten
                     examiniren gehört, den <rs type="person" ref="#svoboda-wenzel">Swoboda</rs> gar
                     nicht und <rs type="person" ref="#frencl-innozenz">Frencls</rs> Vortrag ist eher
                     zu lebhaft als matt und schläfrig. Gegen die Versetzung oder gar Entlassung der
                     Lehrer ohne formulirte Anklage, ohne förmliche Untersuchung und Verurtheilung
-                    sträubt sich mein ganzes Gefühl. <rs type="person"
-                        ref="#klicpera-vaclav-kliment">Klicpera</rs> ist wegen seiner fortdauernden
+                    sträubt sich mein ganzes Gefühl. <rs type="person" ref="#klicpera-vaclav-kliment">Klicpera</rs> ist wegen seiner fortdauernden
                     Kränklichkeit reif zur Pensionirung, um die er aber vielleicht selbst anzusuchen
-                    hätte, damit sie nicht einer Absetzung gleichsähe. Was sich gegen <rs
-                        type="person" ref="#stulc-vaclav">Stulc</rs> in der Untersuchung wegen der
-                    Zeitschriften oder am Hradschin ergeben wird, weiß ich nicht, der Herr <rs
-                        type="person" ref="#mecsery-von-tsoor-karl">Statthalter</rs> und <rs
-                        type="person" ref="#klingler-joseph">Klingler</rs> ist sehr gegen ihn. Die
+                    hätte, damit sie nicht einer Absetzung gleichsähe. Was sich gegen <rs type="person" ref="#stulc-vaclav">Stulc</rs> in der Untersuchung wegen der
+                    Zeitschriften oder am Hradschin ergeben wird, weiß ich nicht, der Herr <rs type="person" ref="#mecsery-von-tsoor-karl">Statthalter</rs> und <rs type="person" ref="#klingler-joseph">Klingler</rs> ist sehr gegen ihn. Die
                     Anzeige wegen <rs type="person" ref="#pecirka-josef">Pečirkas</rs> Erfahrung in
                     einer Classe und der daraus erfolgten Ausweisung eines Schülers stellt er selbst
-                    in Abrede. Auch die Angabe ist falsch, daß mit den Primanern auf der <rs
-                        type="org" ref="#org_0081">Altstadt</rs> keine Aufnahmsprüfung vorgenommen
+                    in Abrede. Auch die Angabe ist falsch, daß mit den Primanern auf der <rs type="org" ref="#org_0081">Altstadt</rs> keine Aufnahmsprüfung vorgenommen
                     worden; sie erhielten 3 deutsche Sätze zum Übersetzen ins Böhmische und 3
                     böhmische zum Übertragen ins Deutsche nebst einer Analyse. Den Aufnahmsbogen für
                     die übrigen Classen, der hier beiliegt <note xml:id="note_1">
@@ -131,8 +115,7 @@
                     Repetenten in die gesetzliche Zahl mit einzubeziehen wären, was er nicht gewußt
                     zu haben vorgab; es werden aber von diesen kaum 60 in die 2. aufsteigen. Eine
                     strenge Aufnahmsprüfung wurde wiederholt eingeschärft und die gehörige Controle
-                    [sic!] wird nicht ausbleiben. Ich überwache die <rs type="org" ref="#org_0081"
-                        >Altstadt</rs>, so viel nur thunlich, bin ich hier, so besuche ich sie jede
+                    [sic!] wird nicht ausbleiben. Ich überwache die <rs type="org" ref="#org_0081">Altstadt</rs>, so viel nur thunlich, bin ich hier, so besuche ich sie jede
                     Woche, auch mehrmals. Alles aber kann ich nicht erfahren, wie selbst der
                     Director und die Lehrer behaupten, daß sie manches nicht wußten. Wird mir aber
                     keine Anzeige gemacht, so kann ich nicht untersuchen und nichts vorkehren. Daß
@@ -152,19 +135,14 @@
                     ich ganz einverstanden und habe mein Gutachten auch in Bezug auf die noch
                     übrigen Gymnasien bereits abgegeben, da ich am 10. schon zu den
                     Maturitätsprüfungen abreise, welche bis zum letzten des Monats währen. Wie
-                    verlautet, kommen Eure Excellenz anfangs August nach <rs type="place"
-                        subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>;
+                    verlautet, kommen Eure Excellenz anfangs August nach <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>;
                     eine Besprechung über manche wichtige Gegenstände wäre mir da sehr erwünscht,
                     und jetzt schon mache ich aufmerksam auf die definitive Regelung der
                     provisorischen Gymnasien, auf das Supplentenunwesen, auf die Maturitätsprüfungen
                     nach dem 1. Semester, auf die Lehramtscandidatenprüfungen, auf die in Aussicht
                     gestellten Versetzungen und Pensionirungen, bei welcher Gelegenheit ich hinweise
-                    auf den braven <rs type="person" ref="#padera-joseph">Padera</rs> in <rs
-                        type="place" subtype="place" ref="#place_b19bff5a3b79c0971a99eefa36cc1670"
-                        >Königgrätz</rs>, welcher der rechte Mann wäre für den <rs type="org"
-                        ref="#org_0081">Altstädter</rs> Directorsposten. Bei dem letzten Examen
-                    waren wenige neue Lehramtscandidaten, für <rs type="place" subtype="region"
-                        ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> nur 7, die meisten
+                    auf den braven <rs type="person" ref="#padera-joseph">Padera</rs> in <rs type="place" subtype="place" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</rs>, welcher der rechte Mann wäre für den <rs type="org" ref="#org_0081">Altstädter</rs> Directorsposten. Bei dem letzten Examen
+                    waren wenige neue Lehramtscandidaten, für <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> nur 7, die meisten
                     vervollständigten ihre Gegenstände fürs Obergymnasium, im Ganzen ging es besser
                     als früher.<lb/>Indem ich mich mit meinen freimüthigen Äußerungen und mit meiner
                     ergebensten Bitte an Eurer Excellenz Edelmuth wende, habe ich die Ehre, mit der
@@ -174,13 +152,11 @@
                 <p>Prag, am 8. Juli 1853</p>
                 <div type="enclosure" xml:id="D212_1">
                     <p>
-                        <hi rend="ul">Vom k.k. <rs type="place" subtype="place"
-                                ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs>
+                        <hi rend="ul">Vom k.k. <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs>
                             <rs type="org" ref="#org_0081">Altstädter akademischen Gymnasium</rs> N.
                             627</hi>
                     </p>
-                    <p>Namen der am k.k. <rs type="place" subtype="place"
-                            ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs>
+                    <p>Namen der am k.k. <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs>
                         <rs type="org" ref="#org_0081">Altstädter Gymnasium</rs> für das Schuljahr
                         1852 <hi rend="ul">neu</hi> aufgenommenen Schüler, sammt den Gründen der
                         Aufnahme.</p>
@@ -190,18 +166,14 @@
                         Mšeno<lb/>Ursache: Weil kein Gymnasium näher liegt und sein Onkel hier ihn
                         unterstützt.<lb/>3. <hi rend="ul">Parkos</hi> Anton, aus Kolodey, Sohn eines
                         Schullehrers<lb/>Ursache: wird hier von Wohlthätern, besonders dem
-                        Herrschaftsbesitzer großentheils erhalten werden.<lb/>4. <hi rend="ul"
-                            >Walther</hi> Karl, aus Prag (Privatist von hier)<lb/>5. <hi rend="ul"
-                            >Welz</hi> Franz, aus Kuttenberg [Kutná Hora] (Privatist von
+                        Herrschaftsbesitzer großentheils erhalten werden.<lb/>4. <hi rend="ul">Walther</hi> Karl, aus Prag (Privatist von hier)<lb/>5. <hi rend="ul">Welz</hi> Franz, aus Kuttenberg [Kutná Hora] (Privatist von
                         hier)<lb/>Ursache: kein Gymnasium näher, der Aufseher Dr. Günther ein
                         Anverwandter, bei dem er auch wohnt.<lb/> 6. <hi rend="ul">Witowsky</hi>
                         Moriz (Privatschüler von hier), muß nach dem Gesetze in das öffentliche
                         Studium übertreten.</p>
                     <p>In der III. Klasse. Zahl der Öffentlichen 54<lb/>1. <hi rend="ul">Bareš</hi>
                         Ladislaus, aus Chotĕboř (ein Waise)<lb/>Ursache: Die Mutter,
-                        Steuerinspektorswitwe, ist nach Prag übersiedelt.<lb/>2. <hi rend="ul"
-                            >Jedlicka</hi> Heinrich, aus Prag (Privatschüler von hier)<lb/>3. <hi
-                            rend="ul">Neumann</hi> Josef, aus Kornhaus [Mšec] (Privatist von
+                        Steuerinspektorswitwe, ist nach Prag übersiedelt.<lb/>2. <hi rend="ul">Jedlicka</hi> Heinrich, aus Prag (Privatschüler von hier)<lb/>3. <hi rend="ul">Neumann</hi> Josef, aus Kornhaus [Mšec] (Privatist von
                         hier)<lb/>4. <hi rend="ul">Richter</hi> Johann, aus Prag (Privatist von
                         hier)<lb/>5. <hi rend="ul">Sigmund</hi> Franz, aus Prag (Privatist von
                         hier)<lb/>6. <hi rend="ul">Wasek</hi> Anton, aus Podhořan<lb/>Ursache:
@@ -221,10 +193,8 @@
                         übersiedelt.<lb/>3. <hi rend="ul">Kalbac</hi> Wenzel, aus
                         Třebochostic<lb/>Ursache: wohnt bei der Großmutter, von der er erhalten
                         wird.<lb/>4. <hi rend="ul">Pfeifer</hi>
-                        <lb/>Ursache: vom Gymnasialdirektor anempfohlen.<lb/>5. <hi rend="ul"
-                            >Schenk</hi> Karl, aus Senftenberg<lb/>Ursache: hat in Brün studirt, den
-                        Eltern daher zu entfernt, hier unter besserer Aufsicht<lb/>6. <hi rend="ul"
-                            >Spillar</hi> Anton, Prusin, Lehrersohn<lb/>Ursache: Kost im
+                        <lb/>Ursache: vom Gymnasialdirektor anempfohlen.<lb/>5. <hi rend="ul">Schenk</hi> Karl, aus Senftenberg<lb/>Ursache: hat in Brün studirt, den
+                        Eltern daher zu entfernt, hier unter besserer Aufsicht<lb/>6. <hi rend="ul">Spillar</hi> Anton, Prusin, Lehrersohn<lb/>Ursache: Kost im
                         Seminarium</p>
                     <p>In der VII. Klasse. Schülerzahl 54<lb/>1. <hi rend="ul">Katz</hi> Moriz, aus
                         [Vrdy]y<lb/>Ursache: der Ort außer jeder Verbindung mit Gjcin, während der
@@ -267,8 +237,7 @@
                         <p>http://d-nb.info/gnd/103366622X</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/103366622X</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/103366622X</tei:idno>
                 </person>
                 <person xml:id="thun-hohenstein-leo">
                     <persName>
@@ -283,8 +252,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
                 <person xml:id="kleemann-johann">
                     <persName>
@@ -338,8 +306,7 @@
                         <p>http://d-nb.info/gnd/11896917X</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/11896917X</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11896917X</tei:idno>
                 </person>
                 <person xml:id="stulc-vaclav">
                     <persName>
@@ -353,8 +320,7 @@
                         <p>http://d-nb.info/gnd/157611957</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/157611957</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/157611957</tei:idno>
                 </person>
                 <person xml:id="mecsery-von-tsoor-karl">
                     <persName>

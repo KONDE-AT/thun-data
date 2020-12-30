@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="linde-an-thun_1856-12-04_a3-xxi-d393.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="linde-an-thun_1856-12-04_a3-xxi-d393.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><rs type="person" ref="#linde-justin" key="linde-justin" role="sender:beamter">Justin Linde</rs> an
+                <title>
+                    <rs type="person" ref="#linde-justin" key="linde-justin" role="sender:beamter">Justin Linde</rs> an
                         <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</rs><lb/><rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, <date when="1856-12-04">4. Dezember 1856</date></title>
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, <date when="1856-12-04">4. Dezember 1856</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7EC-3</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -47,8 +53,23 @@
                     </physDesc>
                 </msDesc>
             </sourceDesc>
-        </fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName ref="#linde-justin">Justin Linde</persName><date when="1856-12-04">4. Dezember 1856</date></correspAction><correspAction type="received"><persName ref="#thun-hohenstein-leo">Leo Thun</persName></correspAction></correspDesc></profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#linde-justin">Justin Linde</persName>
+                    <date when="1856-12-04">4. Dezember 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,8 +86,10 @@
                     genommen, Eurer Excellenz vorzutragen, daß ich einige tüchtige junge Männer zu
                     Professoren für deutsches Recht und deutsche Reichs- und Rechtsgeschichte, so
                     wie für canonisches Recht vorzuschlagen im Stande sei. Wiewohl ich darauf ohne
-                    hohe Entschließung geblieben, so halte ich mich doch, durch das Schreiben<note><ref target="thun/thun-korrespondenz/Oesterreichische-Nationalbibliothek/thun-an-rechberg_1855-12-26_CA910.xml">Vgl. Leo Thun an Bernhard Rechberg-Rothenlöwen, 26. Dezember 1855.
-                        </ref></note> Eurer Excellenz an den Herrn <rs type="person" ref="#rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard">Grafen Rechberg</rs>,
+                    hohe Entschließung geblieben, so halte ich mich doch, durch das Schreiben<note>
+                        <ref target="thun/thun-korrespondenz/Oesterreichische-Nationalbibliothek/thun-an-rechberg_1855-12-26_CA910.xml">Vgl. Leo Thun an Bernhard Rechberg-Rothenlöwen, 26. Dezember 1855.
+                        </ref>
+                    </note> Eurer Excellenz an den Herrn <rs type="person" ref="#rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard">Grafen Rechberg</rs>,
                     verpflichtet, darauf um so mehr zurückzukommen, als es sich ja nicht blos darum
                     handeln kann, Bedenklichkeiten zu erregen, sondern auch Besseres
                     vorzuschlagen.<lb/>Kürzlich hatte ich Gelegenheit, die nähere Bekanntschaft

@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="thun-an-unbekannt-1851-04-03-ca1207.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1858-05-09-ca1000.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-vicari-1851-02-07-ca804.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-unbekannt-1851-04-03-ca1207.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1858-05-09-ca1000.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-vicari-1851-02-07-ca804.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs
-                        type="person" ref="#fries-flora">Flora Fries</rs> [?]<note xml:id="note_1">Im
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs type="person" ref="#fries-flora">Flora Fries</rs> [?]<note xml:id="note_1">Im
                         Katalog der Berliner Staatsbibliothek ist Flora Gräfin Fries als Adressatin
                         verzeichnet.</note>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46"
-                        >o. O.</rs>, <date when="--04-03">3. April [1851]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--04-03">3. April [1851]</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-D9EA-9</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9EA-9</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -101,8 +95,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
                 <person xml:id="pohl-josef">
                     <persName>
@@ -117,8 +110,7 @@
                         <p>http://d-nb.info/gnd/116260297</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/116260297</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116260297</tei:idno>
                 </person>
             </listPerson>
             <listPlace>

@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bericht-ueber-dalmatien_1859_a3-xxi-d537.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bericht-ueber-dalmatien_1859_a3-xxi-d537.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bericht über Dalmatien (Reiseskizzen)<lb/><date when="1859">1859</date></title>
+                <title>Bericht über Dalmatien (Reiseskizzen)<lb/>
+                    <date when="1859">1859</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7E1-E</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -30,7 +34,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -38,7 +46,9 @@
                 <index>
                     <term>Dalmatien</term>
                 </index>
-                <p><hi rend="italic">Dieses Dokument wurde noch nicht transkribiert.</hi></p>
+                <p>
+                    <hi rend="italic">Dieses Dokument wurde noch nicht transkribiert.</hi>
+                </p>
             </div>
         </body>
     </text>

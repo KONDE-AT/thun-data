@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bemerkungen <rs type="person" ref="#athanaczkovicz-plato" key="athanaczkovicz-plato" role="sender:kleriker">Plato
                         Athanaczkovics'</rs> über das Übersetzungsrecht durch den
-                        Kaiser<lb/><rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1849-12-31">31. Dezember 1849</date></title>
+                        Kaiser<lb/>
+                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1849-12-31">31. Dezember 1849</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F802-9</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -33,8 +37,20 @@
                     <physDesc/>
                 </msDesc>
             </sourceDesc>
-        </fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName ref="#athanaczkovicz-plato">Plato Athanaczkovics'</persName><date when="1849-12-31">31. Dezember 1849</date></correspAction></correspDesc></profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#athanaczkovicz-plato">Plato Athanaczkovics'</persName>
+                    <date when="1849-12-31">31. Dezember 1849</date>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,7 +66,8 @@
                     allerhöchsten Rescripte dato 7. April 1778 lautet der § 16 so: „Quoad
                     translationem Episcoporum de una Dioecesi in aliam iure Nobis, qua Reginae
                     Apostolicae et supremo Ecclesiarum Patronae, competente, porro quoque utemur,
-                    neque petitum in contrarium amplius reiterandum erit.“<lb/><lb/>Nicht einmal
+                    neque petitum in contrarium amplius reiterandum erit.“<lb/>
+                    <lb/>Nicht einmal
                     einen Administrator auf ein erledigtes Bisthum kann der Erzbischof einsetzen. Im
                     erwähnten Rescripte § 5 lautet darüber: „Administratorem Episcopatuum dum
                     vacant, denominandi porro Nostrae reservamus <hi rend="ul">potestati</hi>, neque
@@ -67,7 +84,8 @@
                     sind.<lb/>Und jetzt würde man wagen dieses über 70 Jahre festbestandene
                     Majestätsrecht in Zweifel zu ziehen und eigenmächtig aus <hi rend="ul">purer
                         Leidenschaftlichkeit</hi> ohne alle vorhandene Ursache erschleichend sich zu
-                        zueignen!<lb/><rs type="person" ref="#rajacic-joseph" key="rajacic-joseph">Herr Patriarch</rs>
+                        zueignen!<lb/>
+                    <rs type="person" ref="#rajacic-joseph" key="rajacic-joseph">Herr Patriarch</rs>
                     beruft sich auf den Prüfer von Stylus der allerhöchsten Diplomen „ad
                     repraesentationem fidelis Nobis dilecti Archiepiscopi Carlovicensis“. Doch wird
                     es keinem Menschen, selbst dem <rs type="person" ref="#rajacic-joseph" key="rajacic-joseph">Patriarchen</rs> nicht einfallen, zu wagen zu behaupten, <rs type="person" ref="#franz-joseph" key="franz-joseph">Seine Majestät</rs> wäre bemüßigt, ja nicht einem
@@ -155,7 +173,8 @@
                     Metropoliten (was bey uns respective gleichviel ist), sondern einzig und allein
                     durch bischöfliche Synode ausgeübt wird. Wer könnte es von den in die Sache
                     nicht Eingeweiheten glauben, daß bey uns ein Patriarch nicht einmal <hi rend="ul">ein Votum</hi> in der Wahl eines Bischofs hat? Und doch ist es im
-                    strengen Sinne der Kirchensatzungen so und nicht anders.<lb/><rs type="person" ref="#franz-joseph" key="franz-joseph">Seine Majestät</rs> hat dadurch, daß
+                    strengen Sinne der Kirchensatzungen so und nicht anders.<lb/>
+                    <rs type="person" ref="#franz-joseph" key="franz-joseph">Seine Majestät</rs> hat dadurch, daß
                     Allerhöchstdieselben das fragliche Übersetzungsrecht zu behalten geruheten,
                     einen mächtigen Damm gegen die bey uns großartig grassirende Simonie dadurch zu
                     setzen sehr zweckmäßig und nothwendigerweise geruhet. Auch für diesen

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="gutachten-von-kleemann-1857-a3-xxi-440.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-unterricht-fabrikskinder-von-krombholz-1856-08-18-a3-xxi-d383h.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gutachten-von-kleemann-1857-a3-xxi-440.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-unterricht-fabrikskinder-von-krombholz-1856-08-18-a3-xxi-d383h.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -12,19 +9,14 @@
                     <note xml:id="note_1">Das Gutachten ist im Nachlass auf das Jahr 1857 datiert.
                         Die Datierung erscheint plausibel, da in den Jahren 1857/58 eine intensive
                         Debatte über die Reform der Gymnasien geführt wurde. Damals wurde auch die
-                        Frage nach der Erhöhung der Lehrergehälter diskutiert. Vgl. dazu auch <ref
-                            target="thun/thun-korrespondenz/tetschen/bonitz-an-thun-1858-07-a3-xxi-d463.xml"
-                            >Hermann Bonitz an Leo Thun. Juli 1858</ref>. Vgl. auch den Hinweis in
-                            <ref
-                            target="thun/thun-korrespondenz/tetschen/kleemann-an-thun-1858-06-23-a3-xxi-d456.xml"
-                            >Johann Kleemann an Leo Thun. Wien, 23. Juni 1858</ref>. Auch dieser
+                        Frage nach der Erhöhung der Lehrergehälter diskutiert. Vgl. dazu auch <ref target="thun/thun-korrespondenz/tetschen/bonitz-an-thun-1858-07-a3-xxi-d463.xml">Hermann Bonitz an Leo Thun. Juli 1858</ref>. Vgl. auch den Hinweis in
+                            <ref target="thun/thun-korrespondenz/tetschen/kleemann-an-thun-1858-06-23-a3-xxi-d456.xml">Johann Kleemann an Leo Thun. Wien, 23. Juni 1858</ref>. Auch dieser
                         Brief würde für oben vorgeschlagene Datierung sprechen.</note>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DBDB-8</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBDB-8</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -91,17 +83,10 @@
                     zuwenden, muß zugestanden werden; sie bestand aber auch und in vielleicht
                     größerem Umfange vor der Reform der Gymnasien. Ursache hiefür ist nicht der
                     Lehrergehalt; dieselbe liegt in der Wesenheit des Lehramtes für Mittelschulen
-                    und in den eigenthümlichen Grundanschauungen, welche in <rs type="place"
-                        subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17"
-                        >Österreich</rs> über Bildung und Beruf herrschen. Während in Deutschland
-                    als Regel anzunehmen ist, daß nur der Bemittelte "studiere", kann in Betreff <rs
-                        type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17"
-                        >Österreichs</rs> ohne Übertreibung behauptet werden, daß zwei Drittel der
+                    und in den eigenthümlichen Grundanschauungen, welche in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> über Bildung und Beruf herrschen. Während in Deutschland
+                    als Regel anzunehmen ist, daß nur der Bemittelte "studiere", kann in Betreff <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> ohne Übertreibung behauptet werden, daß zwei Drittel der
                     Gymnasialschüler nicht so viele Mittel von zu Hause besitzen, um damit die mit
-                    dem Gymnasialstudium verbundenen Auslagen bestreiten zu können. (<rs
-                        type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93"
-                        >Wien</rs> ausgenommen, aber <rs type="place" subtype="place"
-                        ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> kann hier weder den
+                    dem Gymnasialstudium verbundenen Auslagen bestreiten zu können. (<rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> ausgenommen, aber <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> kann hier weder den
                     Maßstab noch den Ausschlag geben.) Wer kein Vermögen besitzt, läßt eben deshalb
                     seine Söhne studieren; bemittelte oder gar wohlhabende Familien betrachten eben
                     weil ihre Söhne Mittel zur selbständigen Existenz zu erwarten haben, das
@@ -142,9 +127,7 @@
                     man in anderen Ständen als jenen des Lehramts so viele Männer findet, die in
                     literärischen und wissenschaftlichen Kreisen sich einen rühmlichen Namen
                     erworben haben.<lb/>Eine dritte Ursache liegt in der hergebrachten bürgerlichen
-                    und sozialen Stellung der Lehrer. Das Ansehen des Lehrstandes in <rs
-                        type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17"
-                        >Österreich</rs> war und ist verhältnißmäßig ein geringes. Mag die
+                    und sozialen Stellung der Lehrer. Das Ansehen des Lehrstandes in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> war und ist verhältnißmäßig ein geringes. Mag die
                     moralische Achtung, die derselbe genießt auch noch so ehrenvoll sein, die äußere
                     Ehre in der bürgerlichen Gesellschaft und neben anderen Beamten reduziert sich
                     auf das kleinste unerläßliche Maß. Der Gymnasiallehrer bleibt überall da
@@ -166,8 +149,7 @@
                     stehenden auch seinem kleinsten Theile nach nicht gedeckt werden konnte und
                     kann, wie folgender statistischer Ausweis zeigt: Seit der Gymnasial-Reform
                     wurden:<lb/>a: Neu errichtet i.e. mit weltlichen Lehrern besetzt 15 sogenannte
-                    Staatsobergymnasien à 11 Lehrer (mit Ausschluß der Katecheten), in Summa = <hi
-                        rend="ul">165 Lehrer</hi>
+                    Staatsobergymnasien à 11 Lehrer (mit Ausschluß der Katecheten), in Summa = <hi rend="ul">165 Lehrer</hi>
                     <lb/>b. Eben so 8 (weltliche) Untergymnasien à 5 Lehrer (mit Ausschluß des
                     Religionslehrers), in Summa = <hi rend="ul">40 Lehrer</hi>
                     <lb/>c. Vermehrt mit der 7. und 8. Klasse 26 (weltliche) Gymnasien à 4 Lehrer
@@ -177,15 +159,9 @@
                         Lehrer</hi>, um welche gegenwärtig sich der Bedarf bloß an den mit
                     weltlichen Lehrer besetzten, von der Regierung unmittelbar abhängigen Gymnasien
                     gesteigert hat. Hiebei sind, wie gesagt, die Ordensgymnasien, die
-                    protestantischen Gymnasien in <rs type="place" subtype="country"
-                        ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, die zum Theile
-                    mit weltlichen Lehrern besetzten katholischen Gymnasien in <rs type="place"
-                        subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4"
-                        >Siebenbürgen</rs>, die Gymnasien der Militärgränze und des <rs type="place"
-                        subtype="region" ref="#place_f7197ed66a15667400bf934725fd7c3c"
-                        >venetianischen Königreichs</rs>, dann jene Volksschulräthe nicht gerechnet,
-                    welche, wie Lankossky [<rs type="person" ref="#laukotsky-vinzenz"
-                        >Lautkotzky</rs>], Linzlaner[?], Bojdoch[?]) dem Gymnasiallehrstande
+                    protestantischen Gymnasien in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, die zum Theile
+                    mit weltlichen Lehrern besetzten katholischen Gymnasien in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, die Gymnasien der Militärgränze und des <rs type="place" subtype="region" ref="#place_f7197ed66a15667400bf934725fd7c3c">venetianischen Königreichs</rs>, dann jene Volksschulräthe nicht gerechnet,
+                    welche, wie Lankossky [<rs type="person" ref="#laukotsky-vinzenz">Lautkotzky</rs>], Linzlaner[?], Bojdoch[?]) dem Gymnasiallehrstande
                     entnommen wurden.<lb/>In Anbetracht dieser Ziffer muß man die gedachten Kosten
                     als eine Nothwendigkeit, aber zugleich als eine solche erkennen, die
                     vorübergehend ist, so gut als es im Jahr 1819 eine Nothwendigkeit war, die
@@ -234,30 +210,21 @@
                     doch, was Talent und Vorbildung anbelangt, bei weitem höhere Anforderungen
                     gestellt werden;<lb/>c) sie ist endlich bedeutend günstiger, als sie vor dem
                     Jahre 1848 gewesen.<lb/>Es dürfte genügen, bloß ad c) dasjenige anzuführen, was
-                    seit dem Bestande des <rs type="org" ref="#org_0005"
-                        >Unterrichts-Ministeriums</rs> für die gedachte Stellung erwirkt worden ist,
+                    seit dem Bestande des <rs type="org" ref="#org_0005">Unterrichts-Ministeriums</rs> für die gedachte Stellung erwirkt worden ist,
                     woraus sich die Begründung der Behauptungen ad a) und b) von selbst
                     ergibt.<lb/>1. die Gehalte an allen Gymnasien sind um 200 fl CM erhöht worden.
                     Daß dieser Betrag nicht überall als ein Äquivalent für die entgangenen
                     Korrepetitionsgelder angesehen werden kann, läßt sich nicht in Abrede stellen,
                     da an manchem Gymnasium diese Gelder wenigsten das doppelte betrugen. Allein
-                    dieß war nur an den übermäßig besuchten Gymnasien zu <rs type="place"
-                        subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <rs
-                        type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500"
-                        >Brünn</rs>, <rs type="place" subtype="place"
-                        ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</rs> und <rs
-                        type="place" subtype="place" ref="#place_1dcf667c86986e2bbadf65ed2de41e47"
-                        >Laibach</rs> der Fall. Dagegen muß nicht übersehen werden, daß nunmehr auch
+                    dieß war nur an den übermäßig besuchten Gymnasien zu <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <rs type="place" subtype="place" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</rs> und <rs type="place" subtype="place" ref="#place_1dcf667c86986e2bbadf65ed2de41e47">Laibach</rs> der Fall. Dagegen muß nicht übersehen werden, daß nunmehr auch
                     die Pension um 200 fl. CM erhöht ist.<lb/>2. bei Beförderung und Vorrückung in
-                    einen höheren Gehalt bleiben die bereits erworbenen Dezennalzulagen <hi
-                        rend="ul">unverkürzt</hi>. Nach diesem zeigt sich die Behauptung, daß früher
+                    einen höheren Gehalt bleiben die bereits erworbenen Dezennalzulagen <hi rend="ul">unverkürzt</hi>. Nach diesem zeigt sich die Behauptung, daß früher
                     die Lehrer an Gymnasien I. Klasse ihren Gehalt von 700 oder 800 fl nach 30
                     Dienstjahren verdoppelten, i.e. auf 1400 oder 1600 fl brachten, was gegenwärtig
                     der Fall nicht sei, als ein Irrthum. Denn nach dem damaligen Prinzip der
                     Anciennität gelang es einem Lehrer an einem Gymnasium III. Klasse selten früher
                     als nach 20jähriger Dienstleistung an ein Gymnasium I. Klasse befördert zu
-                    werden, deren es übrigens sehr wenige gab. Um so viel nun als die <hi rend="ul"
-                        >Gehalts</hi>-Erhöhung betrug, wurde die Dezennalzulage eingezogen.<lb/>Eine
+                    werden, deren es übrigens sehr wenige gab. Um so viel nun als die <hi rend="ul">Gehalts</hi>-Erhöhung betrug, wurde die Dezennalzulage eingezogen.<lb/>Eine
                     Ausnahme bildete nur das Görzer Gymnasium, aus dem Grunde, weil dieses im Jahr
                     1820 (?) neu errichtet, mit jungen Lehrern nach der III. Gehaltsklasse besetzt
                     um schon nach wenigen Jahren zu einem Gymnasium der I. Gehaltsklasse erhoben
@@ -326,20 +293,10 @@
                     genüge der für mich erfreulichen Thatsache zu erwähnen, daß die von mir als
                     ehemaligem Schulrathe und als inspizierendem Ministerial-Comissär veranlaßten
                     Vereine zur Unterstützung armer, braver und fleißiger Gymnasialschüler in vielen
-                    Städten (<rs type="place" subtype="place"
-                        ref="#place_1563f0890ca9564b24de375c526e50eb">Cilli</rs> [<rs type="place"
-                        subtype="place" ref="#place_1563f0890ca9564b24de375c526e50eb">Celje</rs>],
-                    Marburg [<rs type="place" subtype="place"
-                        ref="#place_5d32722eb37746f42ea031ac604e15aa">Maribor</rs>], Gratz [<rs
-                        type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c"
-                        >Graz</rs>], <rs type="place" subtype="place"
-                        ref="#place_104b5ac4af06263707f5418d171ffe3d">Agram</rs>, <rs type="place"
-                        subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>,
-                        <rs type="place" subtype="place"
-                        ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Troppau</rs> [<rs type="place"
-                        subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Opava</rs>],
-                        <rs type="place" subtype="place"
-                        ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> [Olomouc] u.a.)
+                    Städten (<rs type="place" subtype="place" ref="#place_1563f0890ca9564b24de375c526e50eb">Cilli</rs> [<rs type="place" subtype="place" ref="#place_1563f0890ca9564b24de375c526e50eb">Celje</rs>],
+                    Marburg [<rs type="place" subtype="place" ref="#place_5d32722eb37746f42ea031ac604e15aa">Maribor</rs>], Gratz [<rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>], <rs type="place" subtype="place" ref="#place_104b5ac4af06263707f5418d171ffe3d">Agram</rs>, <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>,
+                        <rs type="place" subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Troppau</rs> [<rs type="place" subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Opava</rs>],
+                        <rs type="place" subtype="place" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> [Olomouc] u.a.)
                     sehr viel Anklang gefunden und gedeihen, indem nicht bloß der Unterstützungsfond
                     jährlich vermehrt, sondern unter Obsorge und Leitung der Lehrkörper,
                     insbesondere der Religionslehrer, wobei dieselben zugleich mehr Einfluß auf die
@@ -356,12 +313,9 @@
                     sich nachweisen lassen. Ein hoher Schulgeld-Ansatz und eine indirekte
                     Ausschließung fähiger Schüler vom Gymnasialstudium bloß deshalb weil sie
                     mittellos sind, widerstreitet aber sehr den festgewurzelten hergebrachten
-                    Anschauungen der Provinz- und selbst Städtebevölkerungen in <rs type="place"
-                        subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17"
-                        >Österreich</rs>. Eine solche Maßregel dürfte für Oberrealschulen für
+                    Anschauungen der Provinz- und selbst Städtebevölkerungen in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>. Eine solche Maßregel dürfte für Oberrealschulen für
                     gerechtfertigter und gerathener gehalten werden. Trotzdem möchte ich, soweit
-                    meine Kenntnis <rs type="place" subtype="country"
-                        ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> Verhältnisse
+                    meine Kenntnis <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> Verhältnisse
                     reicht, zweifeln, daß die betreffenden politischen Behörden darauf einrathen
                     würden.<lb/>Eine Parallele mit dem Auslande ist hier nicht zutreffend, da dort
                     eben die hier berührten Bedingungen sämmtlich ganz anders, d.h. in Betreff der
@@ -370,8 +324,7 @@
                     große Anzahl Gymnasien Communalanstalten sind, zu deren Erhaltung eben das
                     Schulgeld das Meiste beitragen muß. Dort giebt es aber auch Gymnasien, an
                     welchen die erste Anstellung nur mit 100 oder 200 Thalern Einkommen verbunden
-                    ist. Da that es z.B. vor 1 1/2 Jahren in <rs type="place" subtype="country"
-                        ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs> allerdings noth,
+                    ist. Da that es z.B. vor 1 1/2 Jahren in <rs type="place" subtype="country" ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs> allerdings noth,
                     auf Verbesserung der Gehalte bedacht zu nehmen und dieß, um den Staatsschatz zu
                     schonen, nicht ohne lange Debatten durch Erhöhung des Schulgeldes
                     durchzusetzen.<lb/>2. Würde aber bei erhöhtem Schulgeld von der bisherigen

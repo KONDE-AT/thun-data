@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="sammelakt-prozess-aigner-vs-ruben_1856_a3-xxi-d402.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="sammelakt-prozess-aigner-vs-ruben_1856_a3-xxi-d402.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -7,6 +8,7 @@
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7E0-F</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -39,36 +41,73 @@
                     </msContents>
                     <physDesc>
                         <p>Unter der Signatur sind insgesamt 16 Stücke abgelegt:<note>Die Reihenfolge folgt dabei der vorgefundenen
-                                Ordnung im Nachlass von Leo Thun.</note><lb/><ref target="#D402_1">Eh. Notiz von Leo Thun. o. O., o. D.</ref><lb/><ref target="#D402_2">Abschrift einer Darstellung des Sachverhaltes nach
-                                einem eh. Konzept von Leo Thun.</ref><note>Das
-                                Konzept ist ebenfalls im Nachlass erhalten.</note><lb/><ref target="#D402_3">Urteil und Urteilsbegründung im Prozess zwischen
+                                Ordnung im Nachlass von Leo Thun.</note>
+                            <lb/>
+                            <ref target="#D402_1">Eh. Notiz von Leo Thun. o. O., o. D.</ref>
+                            <lb/>
+                            <ref target="#D402_2">Abschrift einer Darstellung des Sachverhaltes nach
+                                einem eh. Konzept von Leo Thun.</ref>
+                            <note>Das
+                                Konzept ist ebenfalls im Nachlass erhalten.</note>
+                            <lb/>
+                            <ref target="#D402_3">Urteil und Urteilsbegründung im Prozess zwischen
                                 Josef Matthäus Aigner und Christian Ruben. Wien, 24. November
-                                1856.</ref><lb/><ref target="#D402_4">Übersicht über die
+                                1856.</ref>
+                            <lb/>
+                            <ref target="#D402_4">Übersicht über die
                                 Anklagepunkte und Entkräftigung derselben von unbekannter Hand, mit
-                                Korrekturen von Franz Thun. o. O., o. D.</ref><lb/><ref target="#D402_5">Darstellung der Sachlage im
+                                Korrekturen von Franz Thun. o. O., o. D.</ref>
+                            <lb/>
+                            <ref target="#D402_5">Darstellung der Sachlage im
                                 Ehrenbeleidigungsprozess zwischen Josef Matthäus Aigner und
                                 Christian Ruben aus der Sicht von Franz Thun. o. O., o.
-                                D.</ref>.<lb/><ref target="#D402_6">Abschrift des Protokolls der
+                                D.</ref>.<lb/>
+                            <ref target="#D402_6">Abschrift des Protokolls der
                                 Schlussverhandlung im Gerichtsprozess zwischen Josef Matthäus Aigner
-                                und Christian Ruben. Wien, 25. November 1857</ref>.<lb/><ref target="#D402_7">Entwurf für einen Zeitungsartikel [?] von Christian
+                                und Christian Ruben. Wien, 25. November 1857</ref>.<lb/>
+                            <ref target="#D402_7">Entwurf für einen Zeitungsartikel [?] von Christian
                                 Ruben mit Korrekturen von Leo Thun. Wien, 20. Juli 1855</ref>.</p>
                         <p>Briefe von mehreren Professoren der Akademie der bildenden
-                                Künste:<lb/><ref target="#D402_8a">Joseph Führich an Christian
-                                Ruben. Wien, 14. Januar 1857.</ref><lb/><ref target="#D402_8b">Carl
-                                Rösner an Christian Ruben. Wien, 16. November 1855.</ref><lb/><ref target="#D402_8c">Leopold Kupelwieser an Christian Ruben. Wien, 15.
-                                Dezember 1856.</ref><lb/><ref target="#D402_8d">Eduard van der Nüll
-                                an Christian Ruben. Wien, 15. Dezember 1856.</ref><lb/><ref target="#D402_8e">Peter Johann Nepomuk Geiger an Christian Ruben.
-                                Wien, 13. Dezember 1856.</ref><lb/><ref target="#D402_8e_1">Carl
+                                Künste:<lb/>
+                            <ref target="#D402_8a">Joseph Führich an Christian
+                                Ruben. Wien, 14. Januar 1857.</ref>
+                            <lb/>
+                            <ref target="#D402_8b">Carl
+                                Rösner an Christian Ruben. Wien, 16. November 1855.</ref>
+                            <lb/>
+                            <ref target="#D402_8c">Leopold Kupelwieser an Christian Ruben. Wien, 15.
+                                Dezember 1856.</ref>
+                            <lb/>
+                            <ref target="#D402_8d">Eduard van der Nüll
+                                an Christian Ruben. Wien, 15. Dezember 1856.</ref>
+                            <lb/>
+                            <ref target="#D402_8e">Peter Johann Nepomuk Geiger an Christian Ruben.
+                                Wien, 13. Dezember 1856.</ref>
+                            <lb/>
+                            <ref target="#D402_8e_1">Carl
                                 Radnitzky an Christian Ruben. Wien, 18. Dezember
-                                1856.</ref><lb/><ref target="#D402_8f">Johann Trost an Christian
-                                Ruben. o. O., 12. Dezember 1856.</ref><lb/><ref target="#D402_8g">Franz Steinfeld an Christian Ruben. Wien, 16. Januar
-                                1857.</ref><lb/><ref target="D402_8h">Heinrich Zülzer an Christian
-                                Ruben. Wien, 20. Dezember 1856.</ref><lb/><ref target="#D402_8i">Christian Ruben an Franz Thun. Wien, 15. Januar 1857.</ref></p>
+                                1856.</ref>
+                            <lb/>
+                            <ref target="#D402_8f">Johann Trost an Christian
+                                Ruben. o. O., 12. Dezember 1856.</ref>
+                            <lb/>
+                            <ref target="#D402_8g">Franz Steinfeld an Christian Ruben. Wien, 16. Januar
+                                1857.</ref>
+                            <lb/>
+                            <ref target="D402_8h">Heinrich Zülzer an Christian
+                                Ruben. Wien, 20. Dezember 1856.</ref>
+                            <lb/>
+                            <ref target="#D402_8i">Christian Ruben an Franz Thun. Wien, 15. Januar 1857.</ref>
+                        </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -145,9 +184,13 @@
                         stenographischer Bericht vorliegt, zu begründen versucht wurde, sowie den
                         darauf bezüglichen bei dieser Gerichtsverhandlung erhobenen und theilweise
                         durch weitere ämtliche Erhebungen vervollständigten thatsächlichen
-                        Sachverhalt darzustellen.<lb/><hi rend="ul">1.
-                        Beschuldigung:</hi><lb/>Direktor <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> hat in den Zeitungen gegen <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
-                            Kunstverein</rs> intriguirt.<lb/><hi rend="ul">Sachverhalt</hi><lb/>Durch die vom Gerichte vernommenen Zeugen wurde
+                        Sachverhalt darzustellen.<lb/>
+                        <hi rend="ul">1.
+                        Beschuldigung:</hi>
+                        <lb/>Direktor <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> hat in den Zeitungen gegen <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
+                            Kunstverein</rs> intriguirt.<lb/>
+                        <hi rend="ul">Sachverhalt</hi>
+                        <lb/>Durch die vom Gerichte vernommenen Zeugen wurde
                         festgestellt, daß Direktor <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
                         auf die Zeitungspolemik niemals irgend welchen Einfluß genommen hat.
                         Vielmehr ergab es sich, daß im Jahre 1850, als die Berufung des Direktors
@@ -162,10 +205,14 @@
                             Kunstvereines</rs> sichergestellt, daß er selbst der Verfasser von
                         Artikeln sei, welche gleichzeitig mit dem inkrimierten Artikel der "Donau"
                         in der "Presse" erschienen und die Belobung der Thätigkeit des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereines</rs> als Anlaß zu
-                        bitteren Ausfällen auf die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">k.k. Akademie</rs> benützten.<lb/><hi rend="ul">2.
-                            Beschuldigung:</hi><lb/>Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe die Professoren der Akademie zum Austritte aus
+                        bitteren Ausfällen auf die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">k.k. Akademie</rs> benützten.<lb/>
+                        <hi rend="ul">2.
+                            Beschuldigung:</hi>
+                        <lb/>Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe die Professoren der Akademie zum Austritte aus
                         dem Kunstvereine und den <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Kanzlei-Vorstand</rs> der Akademie zum Austritte aus der
-                        Direkzion des Vereines bewogen.<lb/><hi rend="ul">Sachverhalt</hi><lb/>Die
+                        Direkzion des Vereines bewogen.<lb/>
+                        <hi rend="ul">Sachverhalt</hi>
+                        <lb/>Die
                         gerichtlichen Zeugenaussagen haben bewiesen, daß Direktor <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> auf den Austritt obiger Personen
                         aus dem <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                             Kunstverein</rs> durchaus nicht eingewirkt hat. Es liegt uns
@@ -181,20 +228,29 @@
                         Mitglieder in den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Verein</rs> treten gestattet ist, daß er für die ferneren Jahre
                         keine Karte mehr löste, weil er die Richtungen des Vereines seinen Ansichten
                         nicht entsprechend fand; daß endlich zwei Professoren der Akademie noch
-                        fortwährend Mitglieder des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereines</rs> sind.<lb/><hi rend="ul">3.
-                        Vorwurf:</hi><lb/>Direktor <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        fortwährend Mitglieder des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereines</rs> sind.<lb/>
+                        <hi rend="ul">3.
+                        Vorwurf:</hi>
+                        <lb/>Direktor <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
                         habe den Schülern der Akademie die unentgeldlichen Eintrittskarten
                         vorenthalten, welche ihm der Kunstverein für diesselben geschickt
-                            hat.<lb/><hi rend="ul">Sachverhalt</hi><lb/>Aus den gerichtlichen
+                            hat.<lb/>
+                        <hi rend="ul">Sachverhalt</hi>
+                        <lb/>Aus den gerichtlichen
                         Zeugenaussagen ergab sich, daß Direktor <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> diese Karten den Professoren zur Vertheilung an die
                         Schüler übergeben habe und daß sie bei diesen unerhoben blieben, insofern
-                        die Schüler davon keinen Gebrauch machen wollten.<lb/><hi rend="ul">4.
-                            Vorwurf:</hi><lb/>Direktor <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe das von dem Schüler der Kupferstecherschule
+                        die Schüler davon keinen Gebrauch machen wollten.<lb/>
+                        <hi rend="ul">4.
+                            Vorwurf:</hi>
+                        <lb/>Direktor <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe das von dem Schüler der Kupferstecherschule
                             <rs type="person" ref="#zitek-johann" key="zitek-johann">Z[itek]</rs> nach <rs type="person" ref="#fuehrich-joseph" key="fuehrich-joseph">Führichs</rs> "ersten Kommunion" gestochene
                         Blatt dem <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                             Kunstvereine</rs> entziehen und dem <rs type="org" ref="#prager-kunstverein" key="prager-kunstverein">Prager Kunstvereine</rs> zuwenden wollen,
                         und als ihm dieses nicht gelang, den <rs type="person" ref="#zitek-johann" key="zitek-johann">Z[itek]</rs> durch Eintreibung des ihm von der Akademie für den
-                        Stich gewährten Vorschusses hart bedrängt.<lb/><hi rend="ul">Sachverhalt</hi><lb/><rs type="person" ref="#zitek-johann" key="zitek-johann">Z[itek]</rs>,
+                        Stich gewährten Vorschusses hart bedrängt.<lb/>
+                        <hi rend="ul">Sachverhalt</hi>
+                        <lb/>
+                        <rs type="person" ref="#zitek-johann" key="zitek-johann">Z[itek]</rs>,
                         Schüler der von Professor <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs> geleiteten Kupferstecher Schule, hatte den Stich des
                         bezeichneten Blattes unternommen und war zu dem Ende von der <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> durch Vorschüsse
                         unterstützt worden. Er hatte das Blatt dem <rs type="org" ref="#">Prager
@@ -212,9 +268,13 @@
                             Kunstverein</rs> erhalten hatte, wurde er von Professor <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs> seiner Pflicht gemäß
                         verhalten, den bezogenen Aerarialvorschuß zu erstatten, ohne daß Direktor
                             <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> einen Anlaß hatte, auf
-                        diese Angelegenheit Einfluß zu nehmen.<lb/><hi rend="ul">5.
-                        Vorwurf:</hi><lb/>Die Akademie-Direkzion habe die Auflösung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
-                            Kunstvereines</rs> beantragt.<lb/><hi rend="ul">Sachverhalt</hi><lb/>Als der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> den bestehenden Gesetzen gemäß seine Statuten der
+                        diese Angelegenheit Einfluß zu nehmen.<lb/>
+                        <hi rend="ul">5.
+                        Vorwurf:</hi>
+                        <lb/>Die Akademie-Direkzion habe die Auflösung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
+                            Kunstvereines</rs> beantragt.<lb/>
+                        <hi rend="ul">Sachverhalt</hi>
+                        <lb/>Als der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> den bestehenden Gesetzen gemäß seine Statuten der
                         Regierung zur Beurtheilung und Bestätigung vorlegte, wurde die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> nach dem Wunsche
                         des <rs type="org" ref="#org_0046" key="ministerium-des-innern">Ministeriums des Inneren</rs>
                         von dem <rs type="org" ref="#org_0005" key="ministerium-fuer-kultus-und-unterricht">Ministerium
@@ -287,12 +347,16 @@
                             <rs type="person" ref="#gunesch-wilhelm" key="gunesch-wilhelm">Gunesch</rs> als Schriftführer in
                         der Untersuchungs-Angelegenheit gegen den auf freiem Fuß angeklagten
                             <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Josef Matthias
-                        Aigner</rs><lb/>wegen des Vergehens der Ehrenbeleidigung<lb/>laut
+                        Aigner</rs>
+                        <lb/>wegen des Vergehens der Ehrenbeleidigung<lb/>laut
                         Anklagebeschluß vom 29. Oktober 1856 Zahl 9114 begangen an <rs type="person" ref="#ruben-christian" key="ruben-christian">Christian Christoph Ruben</rs> in Gemäßheit
                         des § 491 strafbar nach § 493 des allgemeinen StG<lb/>nach der am 24.
-                        November 1856 in Anwesenheit<lb/>des k.k. Staatsanwaltes <rs type="person" ref="#schwarz-adolph" key="schwarz-adolph">Schwarz</rs><lb/>des Privatklägers <rs type="person" ref="#ruben-christian" key="ruben-christian">Ch. Christoph Ruben</rs> und seines
+                        November 1856 in Anwesenheit<lb/>des k.k. Staatsanwaltes <rs type="person" ref="#schwarz-adolph" key="schwarz-adolph">Schwarz</rs>
+                        <lb/>des Privatklägers <rs type="person" ref="#ruben-christian" key="ruben-christian">Ch. Christoph Ruben</rs> und seines
                         Vertreters Hof und Gerichts Advokat <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Dr. Mayer vom Alsó
-                            Russbach</rs><lb/>des Angeklagten <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Christof Mathias Aigner</rs><lb/> und
+                            Russbach</rs>
+                        <lb/>des Angeklagten <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Christof Mathias Aigner</rs>
+                        <lb/> und
                         des Vertheidigers Hof und Gerichts Advokaten Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Johann Nep. Berger
                         jun</rs>.<lb/>durchgeführten Schlußverhandlung zu Recht erkannt:
                             <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Josef Mathias Aigner</rs>,
@@ -555,7 +619,8 @@
                 </div>
                 <div xml:id="D402_4">
                     <p>I.</p>
-                    <p><hi rend="ul">Der Academiedirector <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe in öffentlichen Blättern – namentlich in der
+                    <p>
+                        <hi rend="ul">Der Academiedirector <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe in öffentlichen Blättern – namentlich in der
                             Österreichischen Zeitung und in dem Litteraturblatte der Wiener Zeitung
                             gegen den neuen <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen Kunstverein</rs> agitiert.</hi>
                     </p>
@@ -573,25 +638,32 @@
                         den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs>
                         gerichteten Artikel, weder auf Veranlassung des Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>, noch auf Veranlassung irgend
                         eines Academie Professors geschrieben worden seien.<lb/>Der als Zeuge
-                        vorgerufene Kanzleivorstand der k. Academie der bildenden Künste – <hi rend="ul"><rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs></hi> –
+                        vorgerufene Kanzleivorstand der k. Academie der bildenden Künste – <hi rend="ul">
+                            <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs>
+                        </hi> –
                         bestätigte, daß Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
                         niemals und in keiner Weise gegen den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> agitiert
                             habe.<note>Bleistiftnotiz am linken Rand von Franz Thun:
                             Alle Aussagen stellen gerade das Gegentheil heraus – während [?]
                             dasselbe hervorgeht, daß die [?] fortwährend gegen die Akademie
-                            intriguiert, und [es folgen mehrere unleserliche Zeilen].</note></p>
+                            intriguiert, und [es folgen mehrere unleserliche Zeilen].</note>
+                    </p>
                     <p>II.</p>
-                    <p><hi rend="ul">Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe
+                    <p>
+                        <hi rend="ul">Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe
                             die Professoren der Academie von der ferneren Theilnahme an dem
                             Kunstverein abgehalten und auch den Kanzleivorstand <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs> veranlaßt aus dem Vereine
                             auszutreten.</hi>
                     </p>
-                    <p>Der Zeuge <hi rend="ul">Prof. <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs></hi> gibt an, daß der Austritt der
+                    <p>Der Zeuge <hi rend="ul">Prof. <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>
+                        </hi> gibt an, daß der Austritt der
                         Professoren vorzüglich der einmüthigen Entrüstung zugeschrieben werden
                         müsse, mit welcher dieselben die häufigen und ungerechten Angriffe gegen die
-                        Person ihres Vorstandes und Directors aufgenommen hatten.<lb/>Der Zeuge <hi rend="ul">Prof. <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">Siccardsburg</rs></hi> sagte, alle Professoren der Academie
+                        Person ihres Vorstandes und Directors aufgenommen hatten.<lb/>Der Zeuge <hi rend="ul">Prof. <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">Siccardsburg</rs>
+                        </hi> sagte, alle Professoren der Academie
                         müßten einmüthig bestättigen, daß Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> sich einer jeden, wie immer gearteten Einwirkung auf
-                        sie enthalten habe.<lb/>Der <hi rend="ul">Kanzlei-Vorstand <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs></hi> erklärte, Director
+                        sie enthalten habe.<lb/>Der <hi rend="ul">Kanzlei-Vorstand <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs>
+                        </hi> erklärte, Director
                             <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe ihm im Gegentheile
                         wiederholt zugeredet, nicht aus dem Kunstverein zu treten, als er (<rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs>) der eingetretenen Reibungen
                         und seiner ämtlichen Stellung wegen aus den Ausschußsitzungen des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Vereines</rs> weggeblieben ist,
@@ -600,49 +672,59 @@
                         noch schriftliche Erklärungen der Mehrzahl der Academieprofessoren und eine
                         schriftliche Äußerung <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzers</rs>
                         vor.<lb/>Der Inhalt dieser in Zuschriften an den Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> abgegebenen Erklärungen ist kurz
-                        gefaßt folgender:<lb/>1. <hi rend="ul">Prof. <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs></hi> bezeichnet
+                        gefaßt folgender:<lb/>1. <hi rend="ul">Prof. <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>
+                        </hi> bezeichnet
                         als Motive seines im Frühjahr 1856 erfolgten Austrittes aus dem Kunstverein
                         die Angriffe gegen die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">k.
                             Academie</rs>, und das Vorgehen der Vereines rücksichtlich des von
                         seinem Schüler <rs type="person" ref="#kessler-josef" key="kessler-josef">Kessler</rs> gemalten
-                        Bildes des heiligen Franciskus.<lb/>2. <hi rend="ul">Prof. <rs type="person" ref="#nuell-van-der-eduard" key="nuell-van-der-eduard">van der Nüll</rs></hi> erklärt, daß
+                        Bildes des heiligen Franciskus.<lb/>2. <hi rend="ul">Prof. <rs type="person" ref="#nuell-van-der-eduard" key="nuell-van-der-eduard">van der Nüll</rs>
+                        </hi> erklärt, daß
                         er über ausdrücklichen Wunsch des damaligen Civil und Militär Gouverneur von
                         Wien <rs type="person" ref="#welden-ludwig" key="welden-ludwig">Freiherrn von Welden</rs>, eine
                         Verschmelzung mit dem alten Kunstverein anstrebte, in welcher Richtung er
                         auch als Ausschuß thätig gewesen, da er in dieser Verschmelzung das einzige
                         Mittel zu einer günstigen Neugestaltung erkannt habe. Als seine diesfälligen
                         Bemühungen aber wiederholt gescheitert waren, sei er aus dem <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs>
-                        ausgetreten.<lb/>Seinem Beispiele sei bald darauf aus dem selben Grunde <hi rend="ul">Prof. <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">Siccardsburg</rs></hi> gefolgt.<lb/>3. <hi rend="ul">Prof. P.
+                        ausgetreten.<lb/>Seinem Beispiele sei bald darauf aus dem selben Grunde <hi rend="ul">Prof. <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">Siccardsburg</rs>
+                        </hi> gefolgt.<lb/>3. <hi rend="ul">Prof. P.
                                 <rs type="person" ref="#geiger-peter-johann-nepomuk" key="geiger-peter-johann-nepomuk">J. N.
-                            Geiger</rs></hi> sagt, er sei zu seinem Austritte durch keinerlei
+                            Geiger</rs>
+                        </hi> sagt, er sei zu seinem Austritte durch keinerlei
                         persönliche Einwirkung, sondern einzig und allein nur durch den Umstand
                         bewogen worden, daß die Grundsätze von welchen der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> ausging, ihm
                         für die Interessen der Kunst nicht förderlich erschienen, und daß er, als er
                         diese Überzeugung zu Geltung bringen wollte, anstatt irgend einen Erfolg zu
                         erringen, bloß Unannehmlichkeiten erntete.<lb/>4. <hi rend="ul">Prof.
-                                <rs type="person" ref="#radnitzky-carl" key="radnitzky-carl">Radnitzky</rs></hi> erklärt nur
+                                <rs type="person" ref="#radnitzky-carl" key="radnitzky-carl">Radnitzky</rs>
+                        </hi> erklärt nur
                         durch die unter dem "Einfluß" des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereins</rs> oft
                         wiederholten Angriffe gegen die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">k. Academie</rs> und den
                         Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> veranlaßt worden
                         zu sein, im Jahre 1855 aus dem Verein auszutreten. Irgend eine Einflußnahme
                         von Seite <rs type="person" ref="#ruben-christian" key="ruben-christian">Rubens</rs> auf seinen
                         Austritt stellt er entschieden in Abrede.<lb/>5. <hi rend="ul">Prof.
-                                <rs type="person" ref="#trost-johann" key="trost-johann">Brost</rs></hi> [sic! richtig
+                                <rs type="person" ref="#trost-johann" key="trost-johann">Brost</rs>
+                        </hi> [sic! richtig
                         Trost] war bis Anfangs Jänner 1857 Mitglied, sowohl des alten wie des
                             <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">neuen
                             Kunstvereines</rs>. Jetzt sei er aus beiden Vereinen ausgetreten,
                         weil nur dadurch, daß ein jeder andere dasselbe thäte, eine Verschmelzung
                         beider einander feindselig gegenüberstehenden Vereine erzielt werden
-                        könnte.<lb/>6. <hi rend="ul">Prof. <rs type="person" ref="#fuehrich-joseph" key="fuehrich-joseph">Führich</rs></hi> – schon seit mehreren Jahren nicht mehr
+                        könnte.<lb/>6. <hi rend="ul">Prof. <rs type="person" ref="#fuehrich-joseph" key="fuehrich-joseph">Führich</rs>
+                        </hi> – schon seit mehreren Jahren nicht mehr
                         Mitglied des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereines</rs>, gibt als Grund seines Austrittes an, daß er
                         überhaupt von Kunstvereinen nicht viel für die Kunst erwarte und die Tendenz
                         des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                             Kunstvereines</rs> seine Überzeugungen in den höchsten Dingen des
-                        Lebens vielfach verletzt habe.<lb/>7. <hi rend="ul">Prof. <rs type="person" ref="#roesner-carl" key="roesner-carl">Rösner</rs></hi> sagte er sei bei
+                        Lebens vielfach verletzt habe.<lb/>7. <hi rend="ul">Prof. <rs type="person" ref="#roesner-carl" key="roesner-carl">Rösner</rs>
+                        </hi> sagte er sei bei
                         Gelegenheit seiner Wahl zum Directions-Mitgliede der Gesellschaft der
                         Musikfreunde am 16. November 1855 aus beiden in Wien bestehenden
-                        Kunstvereinen ausgetreten.<lb/>8. <hi rend="ul">Prof. <rs type="person" ref="#steinfeld-franz" key="steinfeld-franz">Steinfeld</rs></hi> erklärt dem
-                        Kunstverein auch gegenwärtig noch als Mitglied anzugehören.<lb/>9. <hi rend="ul">Der Kanzleivorstand <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs></hi> bezeichnet die in den öffentlichen Blättern
+                        Kunstvereinen ausgetreten.<lb/>8. <hi rend="ul">Prof. <rs type="person" ref="#steinfeld-franz" key="steinfeld-franz">Steinfeld</rs>
+                        </hi> erklärt dem
+                        Kunstverein auch gegenwärtig noch als Mitglied anzugehören.<lb/>9. <hi rend="ul">Der Kanzleivorstand <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs>
+                        </hi> bezeichnet die in den öffentlichen Blättern
                         gegen die Person des Directors <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> und gegen die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> gerichteten
                         perfiden Angriffe als Grund seines Austrittes, welchen er ungeachtet dem
                         Zureden von Seite des Directors im Jahr 1855 dem Kunstverein einfach durch
@@ -651,37 +733,49 @@
                         geblieben, als bereits mehrere der genannten Professoren (<rs type="person" ref="#fuehrich-joseph" key="fuehrich-joseph">Führich</rs>, <rs type="person" ref="#geiger-peter-johann-nepomuk" key="geiger-peter-johann-nepomuk">Geiger</rs>) ausgetreten waren.
                         Der Absicht auch seinen Austritt zu erklären, sei der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Verein</rs> dadurch
                         zuvorgekommen, daß er ihm gar keine Karte mehr zuschickte.<lb/>So wie Prof.
-                            <rs type="person" ref="#steinfeld-franz" key="steinfeld-franz">Steinfeld</rs>, sei auch <hi rend="ul">Prof. <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs></hi> fortan noch Mitglied des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereins</rs>, dagegen
+                            <rs type="person" ref="#steinfeld-franz" key="steinfeld-franz">Steinfeld</rs>, sei auch <hi rend="ul">Prof. <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs>
+                        </hi> fortan noch Mitglied des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereins</rs>, dagegen
                         seien die <hi rend="ul">Professoren <rs type="person" ref="#bauer-franz" key="bauer-franz">Bauer</rs>, <rs type="person" ref="#mayer-karl" key="mayer-karl">Meyer</rs> und
-                                <rs type="person" ref="#perger-anton" key="perger-anton">v. Perger</rs></hi> niemals
+                                <rs type="person" ref="#perger-anton" key="perger-anton">v. Perger</rs>
+                        </hi> niemals
                         Mitglieder desselben gewesen.</p>
                     <p>III.</p>
-                    <p><hi rend="ul">Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe
+                    <p>
+                        <hi rend="ul">Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe
                             die Karten, welche der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> für die Schüler der <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs>, an diese
                             Letztere eingeschickt hat, denselben vorenthalten.</hi>
                     </p>
-                    <p><hi rend="ul">Prof. <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs></hi> erklärt als Zeuge bei der oben
+                    <p>
+                        <hi rend="ul">Prof. <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>
+                        </hi> erklärt als Zeuge bei der oben
                         erwähnten Schlußverhandlung diese Karten selbst zur Vertheilung übernommen
                         zu haben. Mehre von den Schülern weigerten sich jedoch die Karten
                         anzunehmen, indem sie erklärten den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> nicht besuchen
                         zu wollen. Deshalb seien nun diese Karten bei ihm (<rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>) unbenützt liegen
                         geblieben.</p>
                     <p>IV.</p>
-                    <p><hi rend="ul"><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> – respective
+                    <p>
+                        <hi rend="ul">
+                            <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> – respective
                             die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs> –
                             habe die Auflösung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereines</rs> beantragt, als sie den Auftrag erhielt, die
                             Statuten des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Vereines</rs> zu begutachten.</hi>
                     </p>
                     <p>Der <hi rend="ul">Zeuge <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf
-                                Franz Thun</rs></hi> sagt, daß die Academie bei dieser
+                                Franz Thun</rs>
+                        </hi> sagt, daß die Academie bei dieser
                         Gelegenheit bloß die Beschränkung einiger §§ der Vereinsstatuten beantragt
-                        habe.<lb/>Auch <hi rend="ul">Prof. <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">Siccardsburg</rs></hi>
+                        habe.<lb/>Auch <hi rend="ul">Prof. <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">Siccardsburg</rs>
+                        </hi>
                         bestättigt in seiner Zeugenaussage, daß bei der Begutachtung dieser
                         Statuten, der Antrag auf Auflösung des Vereins nicht gestellt worden
-                        sei.<lb/>Der als Zeuge vernommene <hi rend="ul">Kanzleivorstand <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs></hi> erklärt, daß von der
+                        sei.<lb/>Der als Zeuge vernommene <hi rend="ul">Kanzleivorstand <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs>
+                        </hi> erklärt, daß von der
                         Aufhebung des Kunstvereines niemals die Rede gewesen sei.</p>
                     <p>V.</p>
-                    <p><hi rend="ul"><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe das vom
+                    <p>
+                        <hi rend="ul">
+                            <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe das vom
                             Kupferstecher <rs type="person" ref="#zitek-johann" key="zitek-johann">Zytek</rs> gestochene
                             Blatt "die erste Kommunion" nach <rs type="person" ref="#fuehrich-joseph" key="fuehrich-joseph">Führich</rs>, dem <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> entziehen
                             wollen, um es dem <rs type="org" ref="#prager-kunstverein" key="prager-kunstverein">Prager
@@ -704,20 +798,25 @@
                         zur Rede gestellt worden.<lb/>Die Art der Einbringung des dem <rs type="person" ref="#zitek-johann" key="zitek-johann">Zytek</rs> während seiner Arbeit von der
                             <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs>
                         geleisteten Vorschusses von beiläufig 900 fl sei seine (<rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöbers</rs>) Sache gewesen, nicht die
-                        des Directors <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>.<lb/><hi rend="ul">Der Kanzleivorstand <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs></hi> führt in seiner Zeugenaussage an, <rs type="person" ref="#zitek-johann" key="zitek-johann">Zytek</rs> habe nach dem Absatze seiner Platte
+                        des Directors <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>.<lb/>
+                        <hi rend="ul">Der Kanzleivorstand <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs>
+                        </hi> führt in seiner Zeugenaussage an, <rs type="person" ref="#zitek-johann" key="zitek-johann">Zytek</rs> habe nach dem Absatze seiner Platte
                         gestrebt, während ihm der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichische Kunstverein</rs>, bloß 1000 Abdrücke abgenommen
                         hatte. Deshalb habe er bei den Verhandlungen mit <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> wohl sagen dürfen, er könne frei
                         über diese Platte verfügen, hätte dabei aber nicht verschweigen sollen, daß
                         er bezüglich seiner Arbeit doch auch schon Verbindlichkeiten gegen den
                             <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
-                            Kunstverein</rs> eingegangen habe.<lb/><rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs> bestättigt ferner auch, daß
+                            Kunstverein</rs> eingegangen habe.<lb/>
+                        <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs> bestättigt ferner auch, daß
                             <rs type="person" ref="#zitek-johann" key="zitek-johann">Zytek</rs> bei der Rückzahlung des
                         erwähnten Vorschußes durchaus nicht mit Härte behandelt worden sei.</p>
                     <p>VI.</p>
-                    <p><hi rend="ul">Bezüglich der im Academiegebäude aufgestellten Lambert-Gallerie
+                    <p>
+                        <hi rend="ul">Bezüglich der im Academiegebäude aufgestellten Lambert-Gallerie
                             sei eine Veränderung der Localität vorgenommen worden, ohne daß dem
                             Custos dieser Gallerie, dem Prof. <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Waldmüller</rs> davon
-                            Mittheilung gemacht worden wäre.</hi></p>
+                            Mittheilung gemacht worden wäre.</hi>
+                    </p>
                     <p>Diese Änderung des Locales der Lambert-Gallerie wurde vom <rs type="org" ref="#org_0005" key="ministerium-fuer-kultus-und-unterricht">Ministerium für Cultus und
                             Unterricht</rs> zu einer Zeit angeordnet, zu welcher <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> im Auftrage dieses Ministeriums
                         sich in <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs> befand. <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Prof. Waldmüller</rs> wurde von
@@ -727,7 +826,8 @@
                             <rs type="person" ref="#schweninger-karl" key="schweninger-karl">Schwenninger</rs>) mit der
                         Weisung erging die Übertragung der Lambert-Gallerie zu leiten.</p>
                     <p>VII.</p>
-                    <p><hi rend="ul">Die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs> habe sich der Beschickung der Pariser
+                    <p>
+                        <hi rend="ul">Die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs> habe sich der Beschickung der Pariser
                             Kunstausstellung nicht angeschlossen.</hi>
                     </p>
                     <p>Mit dem Erlasse des <rs type="org" ref="#org_0005" key="ministerium-fuer-kultus-und-unterricht">Ministeriums für Cultus und Unterricht</rs> vom 14. Juli 1854 Nr.
@@ -757,7 +857,8 @@
                         letztern, durch die lange Entbehrung ihrer Bilder bei der Gelegenheit der
                         Münchner Ausstellung abgeschreckt waren und sie wieder her zu leihen
                             verweigerten.&gt;<note>Einfügung von Franz
-                        Thun.</note><lb/>In der Presse vom 17. Juni 1855 (Nr. 162) erschien unter
+                        Thun.</note>
+                        <lb/>In der Presse vom 17. Juni 1855 (Nr. 162) erschien unter
                         der Überschrift "Ausstellung des österreichischen Kunstvereins" ein anonymer
                         Artikel, welcher die Art der bezüglich der Beschickung der Pariser
                         Ausstellung getroffenen Einleitungen in heftiger, die Wahrheit entstellenden
@@ -768,11 +869,14 @@
                         den wahren Sachverhalt in dieser Angelegenheit hinstellte, denselben der
                         unpartheischen Beurtheilung des Publicums überließ.</p>
                     <p>VIII.</p>
-                    <p><hi rend="ul"><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe seit
+                    <p>
+                        <hi rend="ul">
+                            <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe seit
                             seiner Hierherkunft von <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> – also durch volle 6
                             Jahre – nichts künstlerisches geleistet.</hi>
                     </p>
-                    <p><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> hatte seine
+                    <p>
+                        <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> hatte seine
                         Leistungsfähigkeit als Künstler schon während seines Aufenthaltes in
                             <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, und später als Director der <rs type="org" ref="#org_akademie-der-bildenden-kuenste-prag" key="akademie-der-bildenden-kuenste-prag">Prager Academie der bildenden
                             Künste</rs> so glänzend bewährt, und sich schon längt einen so
@@ -802,16 +906,24 @@
                         ausgestellt war.</p>
                 </div>
                 <div xml:id="D402_5">
-                    <p><hi rend="ul">Hauptinhalt der Ehrenbeleidung</hi></p>
-                    <p><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe im Bewußtsein seiner
+                    <p>
+                        <hi rend="ul">Hauptinhalt der Ehrenbeleidung</hi>
+                    </p>
+                    <p>
+                        <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe im Bewußtsein seiner
                         künstlerischen Schwäche nöthig befunden, sich in seiner Stellung, die er
                         durch andere Mittel erlangt habe, auch in anderer Weise als durch
                         künstlerische Leistungen zu befestigen, und deshalb im Trüben gefischt und
                         Umtriebe eingeleitet um den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen Kunstverein</rs> zu stürzen, zu dem Zweck, um
                         hiedurch die Kontrollierung der eigenen Impotenz zu beseitigen und den Boden
                         für eigene Ernte zu gewinnen.</p>
-                    <p><hi rend="ul">Im Besonderen</hi></p>
-                    <p><hi rend="ul">1. Vorwurf</hi><lb/><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe <hi rend="ul">in den Zeitungen gegen den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
+                    <p>
+                        <hi rend="ul">Im Besonderen</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">1. Vorwurf</hi>
+                        <lb/>
+                        <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe <hi rend="ul">in den Zeitungen gegen den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                                 Kunstverein</rs> intriguirt</hi> und Artikel in Feuilleton der
                         Wiener Zeitung, in der österreichischen Zeitung (Lloyd) und in dem
                         Kunstblatt der .. Zeitung veranlaßt.</p>
@@ -832,7 +944,9 @@
                         und den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                             Kunstverein</rs> anpriesen, <hi rend="ul">selbst</hi> geschrieben
                         zu haben.</p>
-                    <p>2. <hi rend="ul">Vorwurf</hi><lb/><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe die Professoren von der Theilnahme an dem
+                    <p>2. <hi rend="ul">Vorwurf</hi>
+                        <lb/>
+                        <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe die Professoren von der Theilnahme an dem
                             <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                             Kunstverein</rs> abgehalten und sie und den Kanzleivorstand
                             <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs> zum gleichzeitigen
@@ -852,27 +966,56 @@
                         österreichische Kunst betrachteten, theils angeeckelt und empört über die
                         Zeitungspolemik und die im Ausschuße zur Zeit als sie dessen Mitglieder
                         waren, über die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs> gefallenen Ausdrücke zu ganz verschiedenen Zeiten
-                        ausgetreten sind und zwar<lb/><hi rend="ul"><rs type="person" ref="#nuell-van-der-eduard" key="nuell-van-der-eduard">van der Nüll</rs></hi> schon vor
+                        ausgetreten sind und zwar<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#nuell-van-der-eduard" key="nuell-van-der-eduard">van der Nüll</rs>
+                        </hi> schon vor
                             <rs type="person" ref="#ruben-christian" key="ruben-christian">Rubens</rs> Eintritt als Director
                         aus Anlaß des Benehmens des Ausschußes des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                             Kunstvereins</rs> bei den mißglückten Vereinigungsverhandlungen mit
-                        dem älteren Kunstverein.<lb/><hi rend="ul"><rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">von Siccardsburg</rs></hi>
-                        zur gleichen Zeit<lb/><hi rend="ul"><rs type="person" ref="#fuehrich-joseph" key="fuehrich-joseph">Führich</rs></hi> nach dem Ankauf seines Bildes die Hexen und
+                        dem älteren Kunstverein.<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">von Siccardsburg</rs>
+                        </hi>
+                        zur gleichen Zeit<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#fuehrich-joseph" key="fuehrich-joseph">Führich</rs>
+                        </hi> nach dem Ankauf seines Bildes die Hexen und
                         Macbeth behufs dessen Aufnahme in die Ausstellung er hatte Mitglied werden
-                            müssen.<lb/><hi rend="ul"><rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs></hi> durch Rückweisung seiner Karte im
-                        Frühjahr 1855.<lb/><hi rend="ul"><rs type="person" ref="#radnitzky-carl" key="radnitzky-carl">Radnitzky</rs> und <rs type="person" ref="#roesner-carl" key="roesner-carl">Rösner</rs></hi> im Herbst 1855<lb/><hi rend="ul"><rs type="person" ref="#trost-johann" key="trost-johann">Trost</rs></hi> erst im Dezember 1856 durch
-                        Rückweisung der Karte pro 1857.<lb/><hi rend="ul"><rs type="person" ref="#geiger-peter-johann-nepomuk" key="geiger-peter-johann-nepomuk">Geiger</rs></hi> schon viel
-                            früher<lb/><hi rend="ul"><rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs></hi> durch Rückweisung der Karte pro
-                        1856<lb/>Während <hi rend="ul"><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi> selbst der Nothwendigkeit einer
+                            müssen.<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>
+                        </hi> durch Rückweisung seiner Karte im
+                        Frühjahr 1855.<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#radnitzky-carl" key="radnitzky-carl">Radnitzky</rs> und <rs type="person" ref="#roesner-carl" key="roesner-carl">Rösner</rs>
+                        </hi> im Herbst 1855<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#trost-johann" key="trost-johann">Trost</rs>
+                        </hi> erst im Dezember 1856 durch
+                        Rückweisung der Karte pro 1857.<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#geiger-peter-johann-nepomuk" key="geiger-peter-johann-nepomuk">Geiger</rs>
+                        </hi> schon viel
+                            früher<lb/>
+                        <hi rend="ul">
+                            <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zülzer</rs>
+                        </hi> durch Rückweisung der Karte pro
+                        1856<lb/>Während <hi rend="ul">
+                            <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi> selbst der Nothwendigkeit einer
                         Austrittserklärung und der Zahlungsverweigerung dadurch überhoben war, daß
                         ihm der österreichische Kunstverein gar keine Karte mehr zusandte.</p>
-                    <p>3. <hi rend="ul">Vorwurf</hi><lb/>Direktor Ruben hat den Academie-Zöglingen
+                    <p>3. <hi rend="ul">Vorwurf</hi>
+                        <lb/>Direktor Ruben hat den Academie-Zöglingen
                         die ihm von dem <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen Kunstverein</rs> für dieselben übersandten
                         unentgeldlichen Eintrittskarten vorenthalten.</p>
                     <p>Aus den Zeugenaussagen geht hervor, daß <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> diese Karte den Professoren namentlich <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs> zur Vertheilung
                         übergeben habe, daß die Zöglinge aber von ihnen keinen Gebrauch machen
                         wollten und sie deshalb bei letzteren unerhoben liegenblieben.</p>
-                    <p>4. <hi rend="ul">Vorwurf</hi><lb/><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> resp. die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs> habe die
+                    <p>4. <hi rend="ul">Vorwurf</hi>
+                        <lb/>
+                        <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> resp. die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs> habe die
                         Auflösung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                             Kunstvereins</rs> beantragt.</p>
                     <p>Aus allen Zeugenaussagen ergibt sich, daß ein solcher Antrag von der <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs> nie gestellt und
@@ -882,7 +1025,9 @@
                         diese ihr von der vorgesetzten Behörde zur Pflicht gemachte Aufgabe und den
                         Antrag auf Abänderung einzelner Bestimmungen und Paragraphen vom Standpunkt
                         der Förderung der Kunst aus beschränkt habe.</p>
-                    <p>5. <hi rend="ul">Vorwurf</hi><lb/><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe das vom Schüler der Kupferstecherschule <rs type="person" ref="#zitek-johann" key="zitek-johann">Zitek</rs> gestochene Blatt: "Die erste
+                    <p>5. <hi rend="ul">Vorwurf</hi>
+                        <lb/>
+                        <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> habe das vom Schüler der Kupferstecherschule <rs type="person" ref="#zitek-johann" key="zitek-johann">Zitek</rs> gestochene Blatt: "Die erste
                         Kommunion" nach <rs type="person" ref="#fuehrich-joseph" key="fuehrich-joseph">Führich</rs> dem
                             <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                             Kunstverein</rs> entziehen und dem <rs type="org" ref="#prager-kunstverein" key="prager-kunstverein">Prager Verein</rs> zuwenden wollen und
@@ -933,9 +1078,12 @@
                         Disposition erhielten, gar nicht nach – während die Galeriebesitzer, welche
                         ihre Kunstwerke so spät von <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> zurückerhalten
                         hatten, das Ansinnen fast durchwegs ablehnten.</p>
-                    <p>7. <hi rend="ul">Vorwurf</hi><lb/><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> sei als Künstler impotent und habe während seiner
+                    <p>7. <hi rend="ul">Vorwurf</hi>
+                        <lb/>
+                        <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> sei als Künstler impotent und habe während seiner
                         6jährigen Anwesenheit hier nichts geleistet.</p>
-                    <p><rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> war schon für die Prager
+                    <p>
+                        <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> war schon für die Prager
                         Stelle von den tüchtigsten Künstlern und Autoritäten namentlich von
                             <rs type="person" ref="#kaulbach-wilhelm" key="kaulbach-wilhelm">Kaulbach</rs> als äußerst
                         geschickter namentlich zur Ausbildung jugendlicher Talente ausgezeichnet
@@ -1025,7 +1173,8 @@
                         Bewußtsein seiner künstlerischen Schwäche auf eine andere Art als durch
                         Kunstleistung seine Stellung zu befestigen sich gezwungen sah, begann im
                         Verein mit einigen Gleichgesinnten, welche ebenfalls am liebsten im Trüben
-                        fischten, <hi rend="ul">diejenigen Umtriebe</hi>, deren Endziel war, den <hi rend="ul"><rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
+                        fischten, <hi rend="ul">diejenigen Umtriebe</hi>, deren Endziel war, den <hi rend="ul">
+                            <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen
                                 Verein</rs> zu stürzen</hi>, um jeder gefährlichen
                         Controllierung der eigenen Impotenz überhoben zu sein, und zugleich den so
                         vorbereiteten Boden zu eigener Ernte zu erobern."<lb/>Durch diesen Ausfall
@@ -1044,7 +1193,9 @@
                         Beweis als hergestellt nicht angenommen werden, weil die Abgehörten in ihren
                         Behauptungen nur von Ansichten und empfangenen Eindrücken sprachen, ohne
                         Thatsachen anführen zu können.</p>
-                    <p><hi rend="ul">Staatsanwalt</hi><lb/>erklärt in dem gegenwärtigen Processe in
+                    <p>
+                        <hi rend="ul">Staatsanwalt</hi>
+                        <lb/>erklärt in dem gegenwärtigen Processe in
                         seiner amtlichen Stellung zu interveniren, und die Anklage gegen Herrn
                             <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Aigner</rs> aufrecht zu
                         halten.<lb/>Der Vorsitzende macht hierauf an die Herren Zeugen die
@@ -1053,7 +1204,10 @@
                         (Die Zeugen entfernen sich)<lb/>Hierauf fordert der Vorsitzende den
                         Angeklagten auf, sich gegenüber der wider ihn erhobenen Anklage zu
                         rechtfertigen.</p>
-                    <p><hi rend="ul">Der <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs></hi><lb/>beginnt seine Vertheidigung damit,
+                    <p>
+                        <hi rend="ul">Der <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs>
+                        </hi>
+                        <lb/>beginnt seine Vertheidigung damit,
                         daß er erklärt, er wolle keine Geheimniskrämerei machen und erklären, daß
                         der angefochtene Artikel unmittelbar von ihm komme, und dem Drucke übergeben
                         worden sei.<lb/>Was die einzelnen in dem fraglichen Artikel vorkommenden
@@ -1185,7 +1339,10 @@
                         größeren Städten große Künstler Directoren der Akademien seien, nicht aber
                         bloße Beamte, da sonst jeder Ministerialbeamte besser dazu geeignet wäre,
                         wie Herr <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>.</p>
-                    <p><hi rend="ul">Herr <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>bemerkt, daß er nie einen Schritt gemacht hätte,
+                    <p>
+                        <hi rend="ul">Herr <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>bemerkt, daß er nie einen Schritt gemacht hätte,
                         um den <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagten</rs> für
                         oder gegen den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> zu gewinnen, daß aber dieser ihm wiederholt seine
                         Dienste angetragen hat, um seine Gegner zu bekämpfen, welche schon im Jahr
@@ -1204,7 +1361,10 @@
                         Angeklagten als richtig anerkannt)<lb/>Hierauf begann die Zeugenvernehmung,
                         und zwar zuerst mit dem Herrn Moriz König, Secretär des österreichischen
                         Kunstvereines.</p>
-                    <p><hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs></hi><lb/>Ich habe mehrmals mit dem Herrn <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagten</rs> in den Jahren 1854
+                    <p>
+                        <hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs>
+                        </hi>
+                        <lb/>Ich habe mehrmals mit dem Herrn <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagten</rs> in den Jahren 1854
                         und 55 über die Begebenheiten im hiesigen Kunstleben Rücksprache
                         gehalten.<lb/>Was die Angelegenheit mit dem Kupferstecher <rs type="person" ref="#zitek-johann" key="zitek-johann">Zittek</rs> betrifft, vermag ich darüber soviel
                         anzugeben, was ich aus dem Munde des Herrn <rs type="person" ref="#zitek-johann" key="zitek-johann">Zittek</rs> selbst vernommen habe. Nachdem nämlich der
@@ -1251,37 +1411,67 @@
                         Augsburger Allgemeine Zeitung. Der Zeuge bemerkt schließlich, daß er allhier
                         angegebene Thatsachen wohl nicht aus eigener Überzeugung kenne, aber daß er
                         sie nach den Aussagen höchst achtbarer Leute für wahr annehmen müsse.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs></hi> &lt;(Anwalt des Angeklagten)&gt;<note>Anmerkung von Leo Thun[?].</note><lb/>Ist im August
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs>
+                        </hi> &lt;(Anwalt des Angeklagten)&gt;<note>Anmerkung von Leo Thun[?].</note>
+                        <lb/>Ist im August
                         vorigen Jahres in den artistischen Kreisen nicht die Meinung festgestanden,
                         daß die Existenz des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Vereines</rs> bedroht sei?</p>
-                    <p><hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs></hi><lb/>Ja.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs></hi><lb/>Und was hat man sich als Zweck der Auflösung
+                    <p>
+                        <hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs>
+                        </hi>
+                        <lb/>Ja.</p>
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs>
+                        </hi>
+                        <lb/>Und was hat man sich als Zweck der Auflösung
                         des Vereines gedacht?</p>
-                    <p><hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs></hi><lb/>Man hat sich nicht nur <hi rend="ul">gedacht</hi>, sondern mit voller Bestimmtheit angegeben, daß damit die
+                    <p>
+                        <hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs>
+                        </hi>
+                        <lb/>Man hat sich nicht nur <hi rend="ul">gedacht</hi>, sondern mit voller Bestimmtheit angegeben, daß damit die
                         Creirung eines neuen Vereines durch die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> der Künste
                         bezweckt werde, oder daß die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> die Leitung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Vereines</rs> in die Hand
                         bekomme.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs></hi><lb/>Ist man zur Erreichung dieses Zweckes mit
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs>
+                        </hi>
+                        <lb/>Ist man zur Erreichung dieses Zweckes mit
                         Offenheit zu Werke gegangen, und hat man dabei eine bestimmte Persönlichkeit
                         genannt?</p>
-                    <p><hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs></hi><lb/>Man muß allerdings sagen, daß man durchaus nicht
+                    <p>
+                        <hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs>
+                        </hi>
+                        <lb/>Man muß allerdings sagen, daß man durchaus nicht
                         mit Offenheit dabei zu Werke gegangen, und man hat allerdings eine
                         Persönlichkeit genannt, nämlich den Herrn Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>, welchen man als den Gegner des
                             <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Vereines</rs>
                         hinstellte.<lb/>Ich glaube nicht, daß irgend ein Künstler, den man fragen
                         wird, sich so unwissend stellen und so wenig um die Interessen der Kunst
                         kümmern wird, daß er nicht die Wahrheit dieser Angabe bestättigen muß.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs></hi><lb/>Ich bitte mir diejenigen Personen zu
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs>
+                        </hi>
+                        <lb/>Ich bitte mir diejenigen Personen zu
                         bezeichnen, von welchen der Herr Zeuge vernommen haben will, daß die
                             <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Academie</rs> die
                         Schließung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereines</rs> bei der hohen Behörde beantragte.</p>
-                    <p><hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs></hi><lb/>Erlauben Sie, ich glaube nicht, daß ich diese
+                    <p>
+                        <hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs>
+                        </hi>
+                        <lb/>Erlauben Sie, ich glaube nicht, daß ich diese
                         Personen näher bezeichnen muß.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs></hi><lb/>Der Herr Angeklagte gab früher an, daß
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs>
+                        </hi>
+                        <lb/>Der Herr Angeklagte gab früher an, daß
                         der Herr Graf <rs type="person" ref="#waldstein-wartemberg-johann" key="waldstein-wartemberg-johann">Waldstein</rs> und der Notar <rs type="person" ref="#bach-august" key="bach-august">Dr.
                             August Bach</rs>, Bruder Seiner Excellenz des Herrn <rs type="person" ref="#bach-alexander" key="bach-alexander">Ministers des Innern</rs>, es Ihnen gesagt
                         haben soll. Ist das so richtig?</p>
-                    <p><hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs></hi><lb/>Da
+                    <p>
+                        <hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs>
+                        </hi>
+                        <lb/>Da
                         der Herr <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs> selbst
                         Persönlichkeiten genannt hat, die ich aus Discretion verschweigen wollte, so
                         kann ich allerdings nur diese Namen wiederhohlen, nämlich der Herr <rs type="person" ref="#waldstein-wartemberg-johann" key="waldstein-wartemberg-johann">Graf Waldstein</rs> und der Herr
@@ -1289,10 +1479,16 @@
                         daß sie sich selbst davon überzeugt haben, daß die Auflösung durch die
                             <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs>
                         beantragt wurde.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs></hi><lb/>Kann der Herr Zeuge mir nicht sagen, ob
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs>
+                        </hi>
+                        <lb/>Kann der Herr Zeuge mir nicht sagen, ob
                         er Kenntnis davon hat, wer den darauf bezüglichen Artikel in der "Presse"
                         verfaßt habe.</p>
-                    <p><hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs></hi><lb/>frägt den Vorsitzenden, ob er diese Frage
+                    <p>
+                        <hi rend="ul">Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs>
+                        </hi>
+                        <lb/>frägt den Vorsitzenden, ob er diese Frage
                         beantworten müsse. Nachdem der Vorsitzende darauf erklärt, daß sobald er
                         gegen eine Fragestellung keine Einwendung mache, der Zeuge allerdings zu
                         antworten habe, bekennt sich der Zeuge als der Verfasser dieses
@@ -1303,7 +1499,10 @@
                         spricht der Vertheidiger des Angeklagten für die Beeidigung. Der Gerichtshof
                         zieht sich zurück und verkündet nach seinem Erscheinen, daß die Beeidigung
                         des Zeugen beschlossen sei, welche auch vorgenommen wird. Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs> entfernt sich darauf)</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs></hi><lb/>stellt darauf den Antrag, es möge dem hohen
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs>
+                        </hi>
+                        <lb/>stellt darauf den Antrag, es möge dem hohen
                         Gerichtshofe belieben, die Herren Graf <rs type="person" ref="#waldstein-wartemberg-johann" key="waldstein-wartemberg-johann">Waldstein</rs> und Dr. <rs type="person" ref="#bach-august" key="bach-august">August Bach</rs>, welche beide hier in
                             <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> anwesend sind, zur Vernehmung vorzuladen,
                         oder falls diese heute nicht vorgeladen werden könnten, die Verhandlung zu
@@ -1311,7 +1510,9 @@
                         Thatsachen, welche sie aus unmittelbarer Vernehmung erfahren haben, und die
                         der Zeuge <rs type="person" ref="#koenig-moriz" key="koenig-moriz">König</rs> aus der Mittheilung
                         derselben kennen gelernt habe, gehört würden.</p>
-                    <p><hi rend="ul">Staatsanwalt</hi><lb/>Er beabsichtige nicht im entferntesten
+                    <p>
+                        <hi rend="ul">Staatsanwalt</hi>
+                        <lb/>Er beabsichtige nicht im entferntesten
                         die Vertheidigung in irgend einer Beziehung zu beschränken, und würde daher
                         auch keinen Anstand nehmen, diesem Antrage beizustimmen, allein er glaube,
                         daß die Aussage dieser Herrn für den Gang des Processes von keiner
@@ -1323,7 +1524,10 @@
                         Belange, und keineswegs geeignet, um den ihm gemachten Vorwurf zu
                         rechtfertigen. Deshalb sei er der Ansicht, daß diese Zeugen nicht vorzuladen
                         seien.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs></hi><lb/>Auch er hält die Vernehmung dieser Herren
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs>
+                        </hi>
+                        <lb/>Auch er hält die Vernehmung dieser Herren
                         Zeugen für ganz überflüssig, und zwar umso mehr als aus den Aussagen der
                         vorgeladenen Zeugen, welcher er selbst mitbrachte, nämlich der Herren
                         Professoren, die in der <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> angestellt sind, und die allerdings aus eigener
@@ -1332,7 +1536,10 @@
                         abgegeben wurde. Nur dann, wenn die Aussagen dieser Zeugen nicht als
                         genügend betrachtet werden sollten, könnte man sich für die Vorladung der
                         genannten Herren entscheiden.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs></hi><lb/>erwidert dagegen, daß es sich ja darum gar
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs>
+                        </hi>
+                        <lb/>erwidert dagegen, daß es sich ja darum gar
                         nicht handle, ob ein solches Gutachten bestehe, oder nicht, dies sei im
                         Interesse der Vertheidigung ganz gleichgiltig, aber es läßt sich in dem
                         jetzigen Augenblicke gar nicht angeben, was Alles die genannten Herren
@@ -1343,12 +1550,17 @@
                         sich bestimmt, auf die Vorladung der von ihm nahmhaft gemachten Zeugen zu
                         bestehen, um nämlich durch diese die Aussagen der anderen Zeugen zu
                         paralysiren.</p>
-                    <p><hi rend="ul">Staatsanwalt</hi><lb/>Er fühle sich auch aus formellen Gründen
+                    <p>
+                        <hi rend="ul">Staatsanwalt</hi>
+                        <lb/>Er fühle sich auch aus formellen Gründen
                         nach den Bestimmungen der St.G.O. veranlaßt, gegen die Vorladung dieser
                         Zeugen sich auszusprechen, weil nämlich von dem <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Herrn Vertheidiger</rs> keine
                         bestimmten Thatsachen angegeben wurden, worüber diese eigentlich zu
                         vernehmen seien.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs></hi><lb/>Der hohe Gerichtshof wird wohl in Erinnerung
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs>
+                        </hi>
+                        <lb/>Der hohe Gerichtshof wird wohl in Erinnerung
                         behalten haben, daß auf seine gestellte Anfrage, ob man das Benehmen der
                             <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs>
                         gegenüber dem <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Vereine</rs>
@@ -1364,8 +1576,11 @@
                         Zeugen nicht eingehe)<lb/>Hierauf wird als Zeuge vorgerufen der Referent in
                         Kunstangelegenheiten im <rs type="org" ref="#org_0005" key="ministerium-fuer-kultus-und-unterricht">Ministerium des Cultus und
                             des Unterrichtes</rs>.</p>
-                    <p><hi rend="ul">Herr Graf <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Franz
-                                Thun</rs></hi><lb/>Dieser äußert, daß der <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs> ihm persönlich
+                    <p>
+                        <hi rend="ul">Herr Graf <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Franz
+                                Thun</rs>
+                        </hi>
+                        <lb/>Dieser äußert, daß der <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs> ihm persönlich
                         dadurch bekannt worden sei, daß er kurz darauf, nachdem in der "Ostdeutschen
                         Post" ein sehr gehässiger Artikel gegen Herrn <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> erschienen sei, zu ihm kam, um
                         sich diesfalls bei ihm zu entschuldigen. Herr <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Aigner</rs> hat dabei geäußert, daß
@@ -1385,7 +1600,13 @@
                         viel Lobendes über den Herrn <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> gesagt, und mehrmals um eine Anstellung und um die
                         Zuweisung eines Atelier in der <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> gebeten. Dies wäre wenige Monate noch vor dem
                         erfolgten Angriff geschehen.</p>
-                    <p><hi rend="ul"><rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus"><rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagter</rs></rs></hi><lb/>Was den Artikel in der
+                    <p>
+                        <hi rend="ul">
+                            <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">
+                                <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagter</rs>
+                            </rs>
+                        </hi>
+                        <lb/>Was den Artikel in der
                         "Ostdeutschen Post" betrifft, so sei dieser allerdings von ihm im Vereine
                         mit einigen Gleichdenkenden zu Stande gekommen und bei ihm im Zimmer
                         durchgelesen worden.&lt;<hi rend="ul">Anmerkung</hi>: Der hier erwähnte
@@ -1420,8 +1641,11 @@
                         einzufinden. Er erwähnt ferner einer zweiten "Comedie" die ihm von dem
                             <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Herrn Grafen</rs> in
                         der Hofburg mitgetheilt worden, wo auch der Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> zugegen gewesen sei.</p>
-                    <p><hi rend="ul">Herr Zeuge <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf
-                                Thun</rs></hi><lb/>Er wisse nichts von einem heftigen
+                    <p>
+                        <hi rend="ul">Herr Zeuge <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf
+                                Thun</rs>
+                        </hi>
+                        <lb/>Er wisse nichts von einem heftigen
                         Auftritte zwischen ihm und Herrn Dr. <rs type="person" ref="#heider-gustav" key="heider-gustav">Heider</rs>. Er glaube auch nicht, daß der Angeklagte ein Atelier
                         in der <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs>
                         gehabt habe, obwohl es möglich sei, daß er dort in einem Zimmer für sich
@@ -1431,20 +1655,32 @@
                             <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs> sein
                         Benehmen ein zudringliches benennen wolle, habe er Nichts dagegen
                         einzuwenden.</p>
-                    <p><hi rend="ul">Herr <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>Ich bitte Herrn <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Zeugen</rs>, sich darüber zu
+                    <p>
+                        <hi rend="ul">Herr <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>Ich bitte Herrn <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Zeugen</rs>, sich darüber zu
                         äußern, ob die Akademie bei der Gelegenheit, als sie den Auftrag bekam, die
                         Statuten des Kunstvereines zu begutachten, angetragen hat, den Verein
                         aufzulösen, oder ob sich die Akademie darauf beschränkte, in einzelnen
                         Paragraphen eine Verbesserung anzurathen.</p>
-                    <p><hi rend="ul">Herr Zeuge <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf
-                                Thun</rs></hi><lb/>Das hat allerdings seine Richtigkeit, daß
+                    <p>
+                        <hi rend="ul">Herr Zeuge <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf
+                                Thun</rs>
+                        </hi>
+                        <lb/>Das hat allerdings seine Richtigkeit, daß
                         bloß eine Beschränkung einzelner Paragraphen beantragt wurde. Übrigens war
                         ich damals krank, und habe bei dieser Angelegenheit nicht selbst mitarbeiten
                         können.</p>
-                    <p><hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>Da man mich als Protectionskind hingestellt
+                    <p>
+                        <hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>Da man mich als Protectionskind hingestellt
                         hat, so ersuche ich den Herrn <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Grafen</rs> zu sagen, wie ich hergekommen bin.</p>
-                    <p><hi rend="ul">Herr Zeuge <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf
-                                Thun</rs></hi><lb/>Ich bin selbst gegen meinen Willen hier her
+                    <p>
+                        <hi rend="ul">Herr Zeuge <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf
+                                Thun</rs>
+                        </hi>
+                        <lb/>Ich bin selbst gegen meinen Willen hier her
                         berufen worden, und weigerte mich anfangs, weil ich keine Hoffnung auf die
                         Verbesserung der hiesigen Zustände gehegt habe. Als ich nach
                             <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> kam, habe ich gesehen, "daß es einen Mann
@@ -1478,7 +1714,10 @@
                         sehr viele Opfer brachte.<lb/>(Es kam nun die Frage hinsichtlich der
                         Beeidigung dieses Herrn Zeugen zur Sprache)<lb/>Die Staatsbehörde und der
                         Vertreter des Privatklägers sprachen sich dafür aus.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs></hi><lb/>Ich glaube, daß die Aussage des Herrn
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs>
+                        </hi>
+                        <lb/>Ich glaube, daß die Aussage des Herrn
                             <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Grafen</rs> in der
                         Hauptsache so unwesentlich ist, daß ich seine Beeidigung für gänzlich
                         überflüssig erachte. Die gedruckte Stelle ist der eigentliche objective
@@ -1491,7 +1730,10 @@
                         welche Beeidigung auch erfolgt. Der Herr <rs type="person" ref="#thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf</rs> zieht sich hierauf auf
                         die Zeugenbank zurück.)<lb/>Er verfolgt nun die Vorrufung des Herrn
                         Zeugen:</p>
-                    <p><hi rend="ul">Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs></hi><lb/>Ich weiß nur, äußert der Herr
+                    <p>
+                        <hi rend="ul">Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>
+                        </hi>
+                        <lb/>Ich weiß nur, äußert der Herr
                         Zeuge, von der höchsten Entrüstung, welche sich kundgegeben hat, durch die
                         Ehrenbeleidigung des Herrn Directors <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> in den Artikeln der "Donau". Die Professoren haben
                         auch diesfalls eine öffentliche Erklärung abgegeben. Der Herr <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Zeuge</rs> äußert ferner sich eines
@@ -1499,37 +1741,57 @@
                         Bürstenabzug gebracht und zur Beurtheilung ihm vorgelegt &lt;den zu lesen er
                         sich aber geweigert habe&gt;<note>Anmerkung von Leo Thun[?]
                             am linken Rand.</note> habe.</p>
-                    <p><hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>Ich ersuche den <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Herr Professor</rs> sich darüber zu
+                    <p>
+                        <hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>Ich ersuche den <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Herr Professor</rs> sich darüber zu
                         äußern, was mit den Karten geschehen sei, welche der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> der <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> geschickt hat,
                         ob ich sie den Herren Professoren übergeben habe, was damit gemacht wurde
                         und warum sie an die Schüler nicht abgegeben wurden?</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs></hi><lb/>Diese Karten kamen an mich, ich
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>
+                        </hi>
+                        <lb/>Diese Karten kamen an mich, ich
                         vertheilte sie anfangs an die Schüler, jedoch haben sie mehrere Schüler gar
                         nicht angenommen, und gesagt, sie gehen nicht hinein, und so sind diese
                         Karten bei mir liegen geblieben</p>
-                    <p><hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>Der Herr <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Aigner</rs> hat so großes Gewicht
+                    <p>
+                        <hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>Der Herr <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Aigner</rs> hat so großes Gewicht
                         darauf gelegt, daß ich die Herrn Professoren abgehalten habe, Mitglieder des
                             <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereins</rs> zu
                         bleiben. Ich bitte den Herrn Zeugen, sich darüber zu äußern, ob ich Sie
                         veranlaßt habe, den Verein zu meiden.</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs></hi><lb/>Nicht im entferntesten. Die
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>
+                        </hi>
+                        <lb/>Nicht im entferntesten. Die
                         Tendenzen, welche die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> und der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> verfolgen, sie gehen weit voneinander, sie gehen
                         aus den Leistungen dieser beiden Institute hervor. Es ist in beiden eine
                         ganz andere Richtung der Kunst, daß die Professoren den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> meideten, dazu
                         gab die Veranlassung die häufige Herabwürdigung, welche der Vorstand der
                         Professoren in Zeitungsartikeln erfahren mußte. Das hat eine solche
                         Mißstimmung zur Folge gehabt, daß wir endlich nicht mehr hingingen.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs></hi><lb/>Der Herr <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Zeuge</rs> hat gesprochen von den
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs>
+                        </hi>
+                        <lb/>Der Herr <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Zeuge</rs> hat gesprochen von den
                         Angriffen gegen die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> in den öffentlichen Blättern. Sind von Seite der
                             <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> auch
                         Versuche gemacht worden, den Kunstverein anzugreifen?</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs></hi>
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>
+                        </hi>
                         <lb/>O nein, die Professoren haben sich das Wort gegeben, daß sie diese
                         Angriffe als ungerecht zurückweisen, das war das einzige, was wir darüber
                         veröffentlicht haben, und wir haben es unter unserer Würde gehalten, im Wege
                         der Polemik weiters etwas zu erwiedern, oder gegen den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> Angriffe
                         zuweisen.</p>
-                    <p><hi rend="ul">Der <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs></hi><lb/>Der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> hat ebenso
+                    <p>
+                        <hi rend="ul">Der <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs>
+                        </hi>
+                        <lb/>Der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> hat ebenso
                         wenig die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs>
                         selbstständig angegriffen, wie diese den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Verein</rs>, sondern die
                         Journalisten selbst haben sich gegenseitig für eine der beiden Parteien
@@ -1539,19 +1801,31 @@
                         in der "österreichischen Zeitung" und in den "Literaturblättern der Wiener
                         Zeitung". Die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> als solche habe wohl selbst nichts
                         veröffentlicht.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs></hi><lb/>Ich bitte den Herrn <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Zeugen</rs> sich darüber zu äußern, ob
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs>
+                        </hi>
+                        <lb/>Ich bitte den Herrn <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Zeugen</rs> sich darüber zu äußern, ob
                         diese Artikel in der "Österreichischen" und "Wiener Zeitung" auf Anstiften
                         des Herrn <rs type="person" ref="#ruben-christian" key="ruben-christian">Directors</rs> oder einer
                         der Herrn Professoren entstanden seien?</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs></hi><lb/>Durchaus nicht.</p>
-                    <p><hi rend="ul">Der <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs></hi><lb/>Es ist durchaus kein Geheimnis, daß
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#kupelwieser-leopold" key="kupelwieser-leopold">Kuppelwieser</rs>
+                        </hi>
+                        <lb/>Durchaus nicht.</p>
+                    <p>
+                        <hi rend="ul">Der <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagte</rs>
+                        </hi>
+                        <lb/>Es ist durchaus kein Geheimnis, daß
                         Professor <rs type="person" ref="#eitelberger-rudolf" key="eitelberger-rudolf">Eitelberger</rs> und
                         Ministerial-Secretär Dr. <rs type="person" ref="#heider-gustav" key="heider-gustav">Haider</rs>
                         Mitredakteure der Wiener Zeitung waren, und daß gerade die Kunstberichte von
                         ihnen in diesem Blatte erschienen sind.<lb/>(Der Herr Zeuge wird hierauf
                         beeidet und begibt sich sodann auf die Zeugenbank)<lb/>Hierauf wird als
                         Zeuge aufgerufen</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs></hi><lb/>Dieser äußert, von dem Angriffe gehört
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs>
+                        </hi>
+                        <lb/>Dieser äußert, von dem Angriffe gehört
                         zu haben, der in einem Journale gegen Herrn Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> gerichtet war, er selbst habe ihn
                         nicht gelesen, da er überhaupt nie eine Zeitung lese. Auf ihn mache es stets
                         einen höchst peinlichen Eindruck, wenn Persönlichkeiten vor die
@@ -1561,13 +1835,20 @@
                         Directors <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>, der seine
                         Stellung so treulich ausfülle, nur höchst lobenswerth und mit voller Achtung
                         äußern.</p>
-                    <p><hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>Der Herr <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Professor</rs> war bei allen Gelegenheiten zugegen, wo mit dem
+                    <p>
+                        <hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>Der Herr <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Professor</rs> war bei allen Gelegenheiten zugegen, wo mit dem
                         Kupferstecher <rs type="person" ref="#zitek-johann" key="zitek-johann">Zittek</rs> Verhandlung
                         gepflogen wurde. Ich ersuche den Herrn <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Professor</rs>, sich darüber zu äußern, ob ich irgend etwas
                         gethan habe, um dem <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Verein</rs> das Blatt zu entziehen, und dem <rs type="org" ref="#prager-kunstverein" key="prager-kunstverein">Prager Verein</rs> zuzuwenden, und ob ich
                         mir hinsichtlich der Rückvergütung des Vorschusses irgend einen Übergriff
                         erlaubt habe.</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs></hi><lb/><rs type="person" ref="#zitek-johann" key="zitek-johann">Zittek</rs> hat sich sehr darum beworben, sein Blatt bei dem
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs>
+                        </hi>
+                        <lb/>
+                        <rs type="person" ref="#zitek-johann" key="zitek-johann">Zittek</rs> hat sich sehr darum beworben, sein Blatt bei dem
                             <rs type="person" ref="#prager-kunstverein" key="prager-kunstverein">Prager Kunstverein</rs>
                         anzubringen und diesfalls mit dem Herrn Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> Rücksprache gehalten. Herr
                         Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> hat <rs type="person" ref="#zitek-johann" key="zitek-johann">Zittek</rs> auf das Ernstlichste befragt, ob er
@@ -1587,11 +1868,17 @@
                         eigentlich meine Sache, und in meiner Instruction steht, daß ich darauf zu
                         sehen habe, daß diese Vorschüsse zurückgezahlt werden, sobald das Werk
                         vollendet ist, an welchem der Schüler gearbeitet hat.</p>
-                    <p><hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>Ich ersuche den Herrn <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Zeugen</rs> sich zu äußern, ob bei der
+                    <p>
+                        <hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>Ich ersuche den Herrn <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Zeugen</rs> sich zu äußern, ob bei der
                         Berathung der Statuten des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">österreichischen Kunstvereines</rs> im Professoren-Collegium der
                         Antrag gestellt wurde, auf die Aufhebung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Vereines</rs>, oder bloß auf
                         die Abänderung einzelner § der Statuten.</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs></hi><lb/>Im Collegium sind die Statuten des
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Stöber</rs>
+                        </hi>
+                        <lb/>Im Collegium sind die Statuten des
                             <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereines</rs>
                         beurtheilt worden.<lb/>Trotz mehrmaliger Fragen kann der Herr <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Zeuge</rs> zu einer bestimmten
                         Beantwortung der vorigen Frage nicht gebracht werden, und aus seinen
@@ -1600,7 +1887,10 @@
                         der Existenz von Kunstvereinen überhaupt für die Interessen der Kunst
                         gesprochen wurde.<lb/>(Der Herr <rs type="person" ref="#stoeber-franz-xaver" key="stoeber-franz-xaver">Zeuge</rs> wird beeidet und begibt sich auf die
                         Zeugenbank)<lb/>Hierauf wird als Zeuge vorgerufen.</p>
-                    <p><hi rend="ul">Herr Professor von <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">Siccardsburg</rs></hi><lb/>Er äußert ebenfalls von dem verletzenden
+                    <p>
+                        <hi rend="ul">Herr Professor von <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">Siccardsburg</rs>
+                        </hi>
+                        <lb/>Er äußert ebenfalls von dem verletzenden
                         Artikel gehört zu haben, der in irgend einer Zeitung gegen Herrn Director
                             <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> erschienen sei, welcher
                         ihn nicht weniger als seine Collegen empört hat. Bei den ungünstigen
@@ -1618,7 +1908,10 @@
                             Kunstvereins</rs> die Auflösung desselben nicht beantragt
                         wurde.<lb/>(Der <rs type="person" ref="#sicard-von-sicardsburg-august" key="sicard-von-sicardsburg-august">Zeuge</rs> wird beeidet und begibt sich auf die Zeugenbank.)
                         Hierauf wird vorgerufen.</p>
-                    <p><hi rend="ul">Herr Zeuge <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs></hi><lb/>Dieser erklärt, Kanzlei-Vorstand der
+                    <p>
+                        <hi rend="ul">Herr Zeuge <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs>
+                        </hi>
+                        <lb/>Dieser erklärt, Kanzlei-Vorstand der
                             <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie der bildenden
                             Künste</rs> zu sein. Er könne auf Ehr und Treue geloben, daß Alles
                         was in dem Artikel vorkomme, dem Herrn Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> mit Unrecht zur Last gelegt
@@ -1630,19 +1923,38 @@
                         Er ist ein Mann voll Eifer, und ist edel in seinen Grundsätzen, er habe das
                         volle Vertrauen verdient, welches von den vorgesetzten Behörden in ihn
                         gesetzt wurde.</p>
-                    <p><hi rend="ul"><rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagter</rs></hi><lb/>Ich ersuche den Herrn <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeugen</rs> sich zu erklären, wann und
+                    <p>
+                        <hi rend="ul">
+                            <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagter</rs>
+                        </hi>
+                        <lb/>Ich ersuche den Herrn <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeugen</rs> sich zu erklären, wann und
                         weshalb er aus dem <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> ausgetreten sei?</p>
-                    <p><hi rend="ul">Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs></hi><lb/>Ich habe keine schriftliche Erklärung meines
+                    <p>
+                        <hi rend="ul">Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs>
+                        </hi>
+                        <lb/>Ich habe keine schriftliche Erklärung meines
                         Austrittes abgegeben, und bin einfach weggeblieben, weil mir die damaligen
                         Richtungen und Gespräche nicht gefielen, die ich auch in meiner amtlichen
                         Stellung nicht mit anhören konnte.</p>
-                    <p><hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>Ich ersuche den Herrn <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeugen</rs>, sich darüber zu äußern, ob ich
+                    <p>
+                        <hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>Ich ersuche den Herrn <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeugen</rs>, sich darüber zu äußern, ob ich
                         ihm gerathen habe, aus den Ausschußsitzungen wegzubleiben.</p>
-                    <p><hi rend="ul">Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs></hi><lb/>Nie</p>
-                    <p><hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>Ob der Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeuge</rs> nicht selbst mir gegenüber die Äußerung gemacht hat,
+                    <p>
+                        <hi rend="ul">Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs>
+                        </hi>
+                        <lb/>Nie</p>
+                    <p>
+                        <hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>Ob der Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeuge</rs> nicht selbst mir gegenüber die Äußerung gemacht hat,
                         er könne unter den jetzigen Verhältnissen im Ausschuße nicht zugegen sein,
                         und ob ich ihm nicht zugeredet habe, daselbst zu bleiben.</p>
-                    <p><hi rend="ul">Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs></hi><lb/>Ich habe von dem <rs type="person" ref="#ruben-christian" key="ruben-christian">Herrn Director</rs> nie eine Aufforderung erhalten, aus dem
+                    <p>
+                        <hi rend="ul">Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs>
+                        </hi>
+                        <lb/>Ich habe von dem <rs type="person" ref="#ruben-christian" key="ruben-christian">Herrn Director</rs> nie eine Aufforderung erhalten, aus dem
                             <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> zu
                         treten. Im Gegentheil sagte er mir öfters, ich solle daselbst bleiben, ich
                         bin auch nicht aus dem <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> ausgetreten und es ist sehr sonderbar, daß von
@@ -1651,16 +1963,24 @@
                         Comité weggeblieben sind, die solange ich dabei war, nie in die
                         Comitésitzungen gekommen sind, ohne daß man von ihrem Austritte gesprochen
                         hat.</p>
-                    <p><hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs></hi><lb/>Ich ersuche den Herrn <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeugen</rs> sich darüber zu äußern, ob von
+                    <p>
+                        <hi rend="ul">Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
+                        </hi>
+                        <lb/>Ich ersuche den Herrn <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeugen</rs> sich darüber zu äußern, ob von
                         der <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> der
                         Antrag auf die Aufhebung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Vereins</rs> gestellt wurde.</p>
-                    <p><hi rend="ul">Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs></hi><lb/>Von der Aufhebung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereines</rs> ist nie mit
+                    <p>
+                        <hi rend="ul">Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs>
+                        </hi>
+                        <lb/>Von der Aufhebung des <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstvereines</rs> ist nie mit
                         einer Silbe die Rede gewesen.</p>
-                    <p>Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs><lb/>Sind
+                    <p>Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs>
+                        <lb/>Sind
                         dem Herrn <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeugen</rs> die pecuniären
                         Verhältnisse mit Herrn <rs type="person" ref="#zitek-johann" key="zitek-johann">Zittek</rs>
                         bekannt?</p>
-                    <p>Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs><lb/>So viel mir
+                    <p>Herr <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zulzer</rs>
+                        <lb/>So viel mir
                         bekannt ist, hatte <rs type="person" ref="#zitek-johann" key="zitek-johann">Zittek</rs> vorzüglich
                         nach dem Absatze seiner Platte gestrebt; der <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> ist aber nur
                         darauf eingegangen, ihm 1.000 Exemplare abzunehmen. In der Zwischenzeit hat
@@ -1684,10 +2004,17 @@
                         monatlich 40–50 fl zu ihrer Subsistenz, und haben dann die Verpflichtung,
                         sobald sie dasjenige, was sie arbeiten, vollendet haben, den erhaltenen
                         Betrag zurückzuzahlen.</p>
-                    <p><hi rend="ul"><rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagter</rs></hi><lb/>Ja; aber in der Regel nimmt man nicht
+                    <p>
+                        <hi rend="ul">
+                            <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Angeklagter</rs>
+                        </hi>
+                        <lb/>Ja; aber in der Regel nimmt man nicht
                         auf einmal den Vorschuß zurück, wie es bei <rs type="person" ref="#zitek-johann" key="zitek-johann">Zittek</rs> der Fall war.<lb/>(Der <rs type="person" ref="#zuelzer-heinrich" key="zuelzer-heinrich">Zeuge</rs> wird beeidet und begibt sich auf
                         die Zeugenbank)<lb/>Hierauf wird als Zeuge vorgerufen:</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Waldmüller</rs></hi><lb/>Ich habe, sagt er, gehört was das
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Waldmüller</rs>
+                        </hi>
+                        <lb/>Ich habe, sagt er, gehört was das
                         alltägliche Geschwätz, nämlich das Journal-Geschwätz vorbringt: Die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> sei beflissen,
                         den <rs type="org" ref="#oesterreichischer-kunstverein" key="oesterreichischer-kunstverein">Kunstverein</rs> zu
                         stürzen, um den alten Verein zu stützen, um Einfluß auszuüben in
@@ -1730,10 +2057,16 @@
                         Bettler ausstelle. Ich habe selbst eine Schule gehabt, und sie aufgegeben,
                         weil keine Aussicht da war, daß je einer dieser Schüler, wenn er nicht
                         Protection hat, es zu etwas bringt.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs></hi><lb/>Ist Ihnen bekannt, daß die Zuweisung der
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs>
+                        </hi>
+                        <lb/>Ist Ihnen bekannt, daß die Zuweisung der
                         Malerei im Arsenal durch Herrn <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>, Director der Akademie der bildenden Künste, geschehen
                         ist?</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Waldmüller</rs></hi><lb/>Das weiß ich nicht, aber ich muß
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Waldmüller</rs>
+                        </hi>
+                        <lb/>Das weiß ich nicht, aber ich muß
                         einen Umstand erwähnen, welcher mich selbst betrifft. Ich bin Custos der
                         Lambert-Gallerie, welche in der <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> aufgestellt ist.
                         Es geschah eine Umwandlung der Localität, wovon mir als Custos nicht einmal
@@ -1746,13 +2079,24 @@
                         anderes, als eine Art Versorgungs-Anstalt, und ich bin eben daran, meine
                         Ansicht über die <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie</rs> in einem Artikel der Öffentlichkeit zu
                         übergeben.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs></hi><lb/>Glaubt der Herr <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Zeuge</rs>, daß Herr <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> durch jenen Aufsatz in seinem
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs>
+                        </hi>
+                        <lb/>Glaubt der Herr <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Zeuge</rs>, daß Herr <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> durch jenen Aufsatz in seinem
                         sittlichen Charakter oder bloß als Künstler angegriffen wurde.</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Waldmüller</rs></hi><lb/>Durchaus nur als Künstler.</p>
-                    <p><hi rend="ul">Vorsitzender</hi><lb/>Was versteht der Herr <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Zeuge</rs> unter dem Ausdrucke:
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Waldmüller</rs>
+                        </hi>
+                        <lb/>Durchaus nur als Künstler.</p>
+                    <p>
+                        <hi rend="ul">Vorsitzender</hi>
+                        <lb/>Was versteht der Herr <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Zeuge</rs> unter dem Ausdrucke:
                         "auf eine andere Art als durch künstlerische Leistung seine Stellung zu
                         befestigen suche"?</p>
-                    <p><hi rend="ul">Herr Professor <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Waldmüller</rs></hi><lb/>Ich verstehe dieses so, daß Herr
+                    <p>
+                        <hi rend="ul">Herr Professor <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Waldmüller</rs>
+                        </hi>
+                        <lb/>Ich verstehe dieses so, daß Herr
                             <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> die Gelegenheit hat,
                         durch seine Protection einzuwirken, besonders durch seine Beliebtheit bei
                         dem Herrn <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Unterrichtsminister</rs>. Ich glaube, daß dieses so gedeutet werden
@@ -1761,7 +2105,10 @@
                         sind.<lb/>(Der <rs type="person" ref="#waldmueller-ferdinand-georg" key="waldmueller-ferdinand-georg">Zeuge</rs>
                         wird beeidet und entfernt sich sogleich aus dem Gerichtssaale)<lb/>Hierauf
                         wird vorgerufen als Zeuge, der akademische Architekt</p>
-                    <p><hi rend="ul">Herr <rs type="person" ref="#ernst-leopold" key="ernst-leopold">Ernst</rs></hi><lb/>Dieser äußert, den Angeklagten nur aus der
+                    <p>
+                        <hi rend="ul">Herr <rs type="person" ref="#ernst-leopold" key="ernst-leopold">Ernst</rs>
+                        </hi>
+                        <lb/>Dieser äußert, den Angeklagten nur aus der
                         Kunstausstellung durch seine verschiedenen Leistungen zu kennen. Was den
                         Angriff gegen Herrn <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs>
                         anbelange, könne er darüber gar keine Auskunft geben, weil ihm der Herr
@@ -1781,10 +2128,14 @@
                         Aufgabe es ist, die Kunst zu schützen, jedem Künstler seinen Ruf zu wahren
                         trachten, nicht aber diesen zu hindern bemüht sein. Ich will aber darauf
                         nicht weiter eingehen.</p>
-                    <p><hi rend="ul">Vorsitzender</hi><lb/>Kann der Herr <rs type="person" ref="#ernst-leopold" key="ernst-leopold">Zeuge</rs> angeben, ob die Person des Herrn
+                    <p>
+                        <hi rend="ul">Vorsitzender</hi>
+                        <lb/>Kann der Herr <rs type="person" ref="#ernst-leopold" key="ernst-leopold">Zeuge</rs> angeben, ob die Person des Herrn
                         Directors <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> oder andere
                         Verhältnisse an diesen Übelständen Schuld tragen.</p>
-                    <p><hi rend="ul">Herr Ernst</hi><lb/>Diese meine Äußerung soll sich nicht auf
+                    <p>
+                        <hi rend="ul">Herr Ernst</hi>
+                        <lb/>Diese meine Äußerung soll sich nicht auf
                         Herrn <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> allein beziehen,
                         sondern auf die Akademiker überhaupt. Inwiefern er thätig, ist mir
                         unbekannt. Er ist überhaupt Maler und ich bin Architekt. Ein Umstand hat
@@ -1803,7 +2154,9 @@
                         entfernt hatte.)<lb/>(Das Beweisverfahren wurde hierauf als geschlossen
                         erklärt, und die Staatsbehörde ertheilt das Wort zur Stellung Ihres
                         Schlußantrages)</p>
-                    <p><hi rend="ul">Staatsanwalt</hi><lb/>Die Staatsbehörde muß vor Allem erklären,
+                    <p>
+                        <hi rend="ul">Staatsanwalt</hi>
+                        <lb/>Die Staatsbehörde muß vor Allem erklären,
                         daß sie sich auch jetzt noch bestimmt finde, der Anklage des Herrn Directors
                             <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> gegen Herrn <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Aigner</rs> ihre Mitwirkung
                         zuzuwenden, und diese in ihrem vollen Umfange aufrecht zu erhalten. Denn aus
@@ -1859,7 +2212,10 @@
                         Jahre ausspricht, zu beantragen, indem sie sich nicht veranlaßt fühlt, dem
                         Gerichtshofe vorzuschlagen, daß dieser unter das Minimum der gesetzlichen
                         Strafe herabgehe.</p>
-                    <p><hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs></hi><lb/>Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> ist durch den incriminirten
+                    <p>
+                        <hi rend="ul">Dr. <rs type="person" ref="#mayer-von-also-russbach-leopold" key="mayer-von-also-russbach-leopold">Mayer</rs>
+                        </hi>
+                        <lb/>Herr Director <rs type="person" ref="#ruben-christian" key="ruben-christian">Ruben</rs> ist durch den incriminirten
                         Artikel zunächst in seiner Ehre angegriffen worden, wie die löbliche
                         Staatsbehörde bereits nachgewiesen hat. Aber auch seine Befähigung als
                         Künstler wurde auch auf Null dadurch reducirt. Hierin liegt ebenfalls eine
@@ -1881,7 +2237,10 @@
                         Angeklagten zu veröffentlichen sei. Ich würde glauben, daß es in irgendeinem
                         geistesverwandten Blatte, z.B. in der "Presse" möge veröffentlicht
                         werden.</p>
-                    <p><hi rend="ul">Vertheidiger Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs></hi><lb/>Die heutige Schlußverhandlung hat das
+                    <p>
+                        <hi rend="ul">Vertheidiger Dr. <rs type="person" ref="#berger-johann-nepomuk" key="berger-johann-nepomuk">Berger</rs>
+                        </hi>
+                        <lb/>Die heutige Schlußverhandlung hat das
                         traurige Bild von Conflicten dargestellt, welche im Bereiche der Kunst
                         einzutreten scheinen, traurig ist es, daß dieser Conflict statt mit dem
                         Pinsel des Malers mit der Feder des hohen Gerichtshofes ausgeglichen werden
@@ -1982,7 +2341,8 @@
                         seinem Standtpunkte aus, liegen müßte, die Sache von einem allzuscharfen
                         Gesichtspunkte aus betrachtet zu sehen.<lb/>Der hohe Gerichtshof zieht sich
                         zur Urtheilsfällung zurück, und bei seinem Wiedererscheinen verkündet der
-                        Vorsitzende das Urtheil:<lb/><rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Josef
+                        Vorsitzende das Urtheil:<lb/>
+                        <rs type="person" ref="#aigner-josef-matthaeus" key="aigner-josef-matthaeus">Josef
                             Mathäus Aigner</rs> ist des Vergehens der Ehrenbeleidigung durch
                         die Presse nach § 491 St.G.B. schuldig, und wird mit Anwendung des § 493 und
                         266 St.P.O. zu der Strafe von 6 Wochen Arrest und zum Ersatz der Kosten
@@ -2046,7 +2406,8 @@
                             bewegen.</note> ihre Bilder &lt;der&gt;<note>Streichung
                             von Leo Thun: für die</note> Pariser Ausstellung &lt;zur Verfügung zu
                             stellen&gt;<note>Streichung von Leo Thun aus:
-                            herzuleihen.</note><lb/>Eine große Anzahl von Künstlern haben den
+                            herzuleihen.</note>
+                        <lb/>Eine große Anzahl von Künstlern haben den
                         wiederholten Aufforderungen auch durch Anmeldungen ihrer Werke entsprochen,
                         aber theilweise dieselben wieder zurückgezogen, indem sie ihre Werke
                         entweder vorher verkauften, oder nicht zu rechten Zeit &lt;vollendet

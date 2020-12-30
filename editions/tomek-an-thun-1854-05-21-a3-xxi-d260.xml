@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="tomek-an-thun-1854-05-21-a3-xxi-d260.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/tomek-an-thun-1860-05-14-a3-xxi-d584.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="tomek-an-thun-1854-05-21-a3-xxi-d260.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/tomek-an-thun-1860-05-14-a3-xxi-d584.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#tomek-vaclav-vladivoi" role="sender:gelehrter">Václav
-                        Tomek</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient"
-                        >Leo Thun</rs>
+                        Tomek</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108"
-                        >Prag</rs>, <date when="1854-05-21">21. Mai 1854</date>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1854-05-21">21. Mai 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>Abgedruckt in: Ladislav Kubik, Česká korespondence se Lvem Thunem, Praha 1970, S.
-                        134–137.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-D9D4-1</tei:idno>
+                        134–137.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9D4-1</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -86,8 +80,7 @@
                         <p>http://d-nb.info/gnd/117404845</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/117404845</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117404845</tei:idno>
                 </person>
                 <person xml:id="thun-hohenstein-leo">
                     <persName>
@@ -102,8 +95,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
             </listPerson>
             <listPlace>

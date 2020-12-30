@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="linde-an-thun-1855-10-10-a3-xxi-d350.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1854-05-31-ca1055.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1856-01-18-a3-xxi-d365.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="linde-an-thun-1855-10-10-a3-xxi-d350.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1854-05-31-ca1055.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1856-01-18-a3-xxi-d365.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -10,14 +7,12 @@
                     <rs type="person" ref="#linde-justin" role="sender:beamter">Justin Linde</rs> an
                         <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_769151408914e2c922087bfa9372d637"
-                        >Dreis</rs>, <date when="1855-10-10">10. Oktober 1855</date>
+                    <rs type="place" subtype="place" ref="#place_769151408914e2c922087bfa9372d637">Dreis</rs>, <date when="1855-10-10">10. Oktober 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DB4A-C</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB4A-C</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -85,20 +80,16 @@
                 </index>
                 <p>Dreis bei Wittlich, den 10. Oktober 1855</p>
                 <p>Euer Excellenz,</p>
-                <p>Sehr schätzbares Schreiben vom 11. vorigen Monats<note xml:id="note_1">Vgl. <ref
-                            target="thun/thun-korrespondenz/thun-an-linde-1855-09-11-ca1128.xml">Leo
+                <p>Sehr schätzbares Schreiben vom 11. vorigen Monats<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/thun-an-linde-1855-09-11-ca1128.xml">Leo
                             Thun an Justin Linde. Wien, 11. September 1855</ref>.</note> hatte ich
-                    hier, wohin es mir von <rs type="place" subtype="place"
-                        ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> nachgesendet
+                    hier, wohin es mir von <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> nachgesendet
                     wurde, und wo ich mich während den Bundestagsferien befinde, zu empfangen die
-                    Ehre. Da ich wegen der Entfernung von <rs type="place" subtype="place"
-                        ref="#place_56379b3722203c9ce71d0191081d67f6">Hanau</rs> mich persönlich
+                    Ehre. Da ich wegen der Entfernung von <rs type="place" subtype="place" ref="#place_56379b3722203c9ce71d0191081d67f6">Hanau</rs> mich persönlich
                     nicht nach <rs type="person" ref="#schell-nikolaus">Herrn Schell</rs> erkundigen
                     konnte, so habe ich es brieflich gethan; aber bis jetzt keine Nachricht
                     bekommen; wahrscheinlich, weil die Person, an die ich mich wandte, verreist ist.
                     Ich werde nun wahrscheinlich vor Ende dieses Monats nichts sicheres erfahren.
-                    Gegen Ende dieses Monats gedenke ich nach <rs type="place" subtype="place"
-                        ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> zurückzugehen
+                    Gegen Ende dieses Monats gedenke ich nach <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> zurückzugehen
                     und werde, wenn es denn noch Interesse für Euer Excellenz hat, selbst nach Hanau
                     gehen, um zugleich an Ort und Stelle die Person und deren Verhältnisse mit
                     eigenen Augen ansehen, wo ich ein zuverlässiges Urtheil zu fällen, hoffentlich
@@ -107,8 +98,7 @@
                     nicht möglich war.<lb/>Für einen Vertreter des deutschen Rechts weiß ich zwar
                     einige jüngere Personen, die vollkommen qualifizirt sind, die aber bisher nicht
                     die Absicht hatten, die academische Laufbahn zu betreten. Nach meiner Rückkehr
-                    in <rs type="place" subtype="place"
-                        ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> werde ich
+                    in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> werde ich
                     Gelegenheit haben darüber und über Philologen noch nähere Notizen einzuziehen,
                     und nicht verfehlen, Hochderselben das Resultat meiner Nachforschungen dann
                     mitzutheilen. Wenn Hochderselben nur die Orte, wo die Anstellungen in Aussicht
@@ -159,8 +149,7 @@
                         <p>http://d-nb.info/gnd/119095645</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/119095645</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119095645</tei:idno>
                 </person>
                 <person xml:id="thun-hohenstein-leo">
                     <persName>
@@ -175,8 +164,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
                 <person xml:id="schell-nikolaus">
                     <persName>

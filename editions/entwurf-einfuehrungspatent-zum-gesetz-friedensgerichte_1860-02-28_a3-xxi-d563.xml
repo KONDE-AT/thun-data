@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -6,12 +7,14 @@
                     für eine Stellungnahme Thuns hierzu<lb/>1860<note>Der
                         Gesetzesentwurf wurde in den Ministerkonferenzen am 28. Februar und 6. März
                         1860 besprochen. Das Gesetz wurde per Verordnung am 26. Mai 1860 eingeführt.
-                        Siehe RGBl 130/1860.</note></title>
+                        Siehe RGBl 130/1860.</note>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p>Die Stellungnahme Thuns ist leicht verändert abgedruckt in: Die Protokolle des
                     Österreichischen Ministerrates 1848–1867. Das Ministerium Rechberg. Bd. 2,
                     bearbeitet von Stefan Malfèr, Wien 2007, S. 6–7.</p>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7FF-E</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -41,14 +44,21 @@
                     <physDesc>
                         <p>Mit eigenhändigen Anmerkungen Leo Thuns.</p>
                         <p>Beilagen: <ref target="#D563_1">Vier Formulare zu den Paragrafen 5, 21
-                                und 23</ref>.<lb/><ref target="#D563_2">Eigenhändiger Entwurf für
+                                und 23</ref>.<lb/>
+                            <ref target="#D563_2">Eigenhändiger Entwurf für
                                 eine Stellungnahme Leo Thuns zum Gesetzesvorschlag.<note>Die Stellungnahme wurde in der Ministerkonferenz
-                                    vom 28. Februar 1860 vorgetragen.</note></ref></p>
+                                    vom 28. Februar 1860 vorgetragen.</note>
+                            </ref>
+                        </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,9 +67,12 @@
                     <term>Gerichtswesen</term>
                     <term>Friedensgerichte</term>
                 </index>
-                <p>&lt;Vom <hi rend="ul"><rs type="person" ref="#nadasdy-franz" key="nadasdy-franz">Herrn
-                            Justizminister</rs></hi> zur Conferenzberathung am 28. Februar
-                        1860&gt;<note>Hinzufügung am oberen Blattrand.</note></p>
+                <p>&lt;Vom <hi rend="ul">
+                        <rs type="person" ref="#nadasdy-franz" key="nadasdy-franz">Herrn
+                            Justizminister</rs>
+                    </hi> zur Conferenzberathung am 28. Februar
+                        1860&gt;<note>Hinzufügung am oberen Blattrand.</note>
+                </p>
                 <p>Entwurf des Einführungspatentes zum Gesetz über die Friedensgerichte</p>
                 <p>Wir Franz Joseph der Erste von Gottes Gnaden Kaiser von Oesterreich, König von
                     Ungarn und Böhmen, König der Lombardie und Venedigs, von Dalmatien, Kroatien,
@@ -104,7 +117,8 @@
                     Rechtsgrund, wenn sie in Städten oder Märkten den Betrag von Sechzig Gulden
                     österreichischer Währung, in anderen Gemeinden aber den Betrag von
                     fünfundzwanzig Gulden österreichischer Währung nicht übersteigen.<note>Anmerkung Thuns: ob Markt oder Dorf [?] zu unterscheiden
-                        (vgl. § 3 in Art. XX 1836)</note><lb/>b. über andere bewegliche Sachen und
+                        (vgl. § 3 in Art. XX 1836)</note>
+                    <lb/>b. über andere bewegliche Sachen und
                     über persönliche Leistungen, wenn der Kläger statt derselben eine Geldsumme
                     anzunehmen sich ausdrücklich erbiethet, welche in Städten oder Märkten den
                     Betrag von Sechzig Gulden österreichischer Währung, in anderen Gemeinden aber
@@ -180,16 +194,19 @@
                     Hausgenossen, Beamten und Diener oder Verwandte vertreten werden; eine
                     Vertretung durch Advokaten ist unzulässig. <note>Anmerkung
                         Thuns: im siebenbürgischen Gesetz Advokaten ausdrücklich
-                    zulässig!!</note></p>
+                    zulässig!!</note>
+                </p>
                 <p>§ 10.<lb/>Das Verfahren vor den Friedensgerichten darf nur mündlich stattfinden;
                     es dürfen weder schriftliche Klagen angenommen noch überhaupt Protokolle verfaßt
-                    werden. <note>Anmerkung Thuns: Art. XX 8, 10, 12.</note><lb/>Das
+                    werden. <note>Anmerkung Thuns: Art. XX 8, 10, 12.</note>
+                    <lb/>Das
                     Friedensgericht hat sich vor Allem davon zu überzeugen:<lb/>a. daß es zur
                     Entscheidung der Streitsache zuständig ist,<lb/>b. daß die Streittheile sich
                     selbst zu vertreten fähig sind oder<lb/>c. daß, wenn sie wegen Minderjährigkeit,
                     Kuratel, Konkurs oder aus einem anderen Grunde nicht fähig wären, sie durch jene
                     Personen vertreten sind, welche nach dem Gesetze für sie vor Gericht zu handeln
-                    haben und <note>Anmerkung Thuns: Bauern!</note><lb/>d. daß die
+                    haben und <note>Anmerkung Thuns: Bauern!</note>
+                    <lb/>d. daß die
                     etwa in Vertretung eines Streittheiles erschienene Person (§ 9) von ihm zur
                     Verhandlung geschickt wurde.</p>
                 <p>§ 11.<lb/>Sind beide Streittheile erschienen, so hat das Friedensgericht die
@@ -201,7 +218,8 @@
                     Streitsache gehören und von dem Gegentheile in Abrede gestellt werden, zu
                     überzeugen und zu diesem Zwecke Zeugen und Sachverständige zu vernehmen,
                     vorhandene Urkunden einzusehen und dem Gegentheile zur Einsicht vorzulegen oder
-                    auch einen Augenschein vorzunehmen. Eide sind unzulässig. <note>Anmerkung Thuns: Bauern!</note></p>
+                    auch einen Augenschein vorzunehmen. Eide sind unzulässig. <note>Anmerkung Thuns: Bauern!</note>
+                </p>
                 <p>§ 12.<lb/>Ist der Geklagte zur bestimmten Zeit vor dem Friedensgerichte nicht
                     erschienen, so hat dasselbe zu erheben, warum er ausgeblieben ist.<lb/>Zeigt
                     sich hiebei, daß er entweder vor seiner Vorladung keine genaue Kenntnis erhalten
@@ -222,7 +240,8 @@
                     Wissen und Gewissen abzugeben.<lb/>Den Streittheilen steht frei, bei deren
                     Vernehmung zugegen zu sein und die Umstände zu bezeichnen, über welche sie
                     befragt werden sollen. <note>Anmerkung Thuns: Dies soll ein
-                        Bauer[?] leiten[?]!.</note><lb/>Jeder Zeuge oder Sachverständige hat vor
+                        Bauer[?] leiten[?]!.</note>
+                    <lb/>Jeder Zeuge oder Sachverständige hat vor
                     Ablegung seiner Aussage dem Gerichte durch Handschlag zu bekräftigen, daß er
                     über alle Umstände, über welche er befragt werden wird, unzweideutig, das ist,
                     daß er nicht anders rede, als er denkt und nicht anders denke, als er redet,
@@ -235,11 +254,13 @@
                     vorzugehen. Die Entscheidung ist auf Grund der geschlossenen Verhandlung und
                     nach der Stimmenmehrheit unverzüglich zu fällen und wenn beide Streittheile
                     anwesend sind, sogleich zu verkünden. <note>Anmerkung Thuns: in
-                        Siebenbürgen sind die [?] nur [?].</note><lb/>Wurde die Verhandlung in
+                        Siebenbürgen sind die [?] nur [?].</note>
+                    <lb/>Wurde die Verhandlung in
                     Abwesenheit des Geklagten erschlossen und ist er sachfällig geworden, so ist ihm
                     die Entscheidung durch eine schriftliche Ausfertigung unverzüglich bekannt zu
                         machen.<note>Anmerkung Thuns: von einem
-                    Bauern!</note><lb/>Die Entscheidung ist sogleich in das Amtsbuch einzutragen (§
+                    Bauern!</note>
+                    <lb/>Die Entscheidung ist sogleich in das Amtsbuch einzutragen (§
                     23 c.)</p>
                 <p>§ 16.<lb/>Wurde den Sachfälligen die Zahlung einer Summe Geldes aufgetragen, so
                     ist ihm dazu eine Frist zu bestimmen, welche aber vierzehn Tage nie
@@ -325,17 +346,23 @@
                     gebührenfrei.<lb/>Zeugen und Sachverständige können eine Entlohnung nicht
                     ansprechen; auch darf außer dem im § 12 bestimmten Falle keinem Streittheile die
                     Vergütung der etwa von dem Gegner gemachten Auslagen auferlegt werden. <note>Anmerkung Thuns: nichts über Tragung der
-                        Prozeßkosten!</note></p>
+                        Prozeßkosten!</note>
+                </p>
                 <p/>
                 <div xml:id="D563_1" type="enclosure">
                     <p>ad Z. 349/J.M.</p>
-                    <p><hi rend="ul">Formularien</hi> zu dem Entwurfe einer Verordnung über die
+                    <p>
+                        <hi rend="ul">Formularien</hi> zu dem Entwurfe einer Verordnung über die
                         Bestellung von Friedensgerichten und das Verfahren von denselben gehörig</p>
-                    <p><hi rend="ul">Anmerkung</hi>: Das in den Formularien Unterstrichene ist für
+                    <p>
+                        <hi rend="ul">Anmerkung</hi>: Das in den Formularien Unterstrichene ist für
                         die praktische Anwendung vorzudrucken.</p>
                     <p/>
-                    <p><hi rend="ul">I. Formular zu § 5.</hi></p>
-                    <p><hi rend="ul">Eidesformel</hi> für die Mitglieder eines Friedensgerichtes </p>
+                    <p>
+                        <hi rend="ul">I. Formular zu § 5.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Eidesformel</hi> für die Mitglieder eines Friedensgerichtes </p>
                     <p>Sie werden einen Eid zu Gott dem Allmächtigen schwören, Seiner k.k.
                         apostolischen Majestät, Franz Josef dem Ersten, von Gottes Gnaden Kaiser von
                         Oesterreich und dessen Erben treu und gehorsam zu sein und die Ihnen als
@@ -344,21 +371,36 @@
                         vorgehalten worden und ich wohl und deutlich verstanden habe, dem soll und
                         will ich getreu nachkommen.<lb/>So wahr mir Gott helfe!</p>
                     <p/>
-                    <p><hi rend="ul">II. Formular zu § 21.</hi></p>
-                    <p><hi rend="ul">Es wird hiemit bestätiget, daß</hi> Franz N. Schneider,
+                    <p>
+                        <hi rend="ul">II. Formular zu § 21.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Es wird hiemit bestätiget, daß</hi> Franz N. Schneider,
                         wohnhaft Nr. 3, in A. <hi rend="ul">auf seine ihm entweder: durch
                             Entscheidung dieses Friedensgerichtes vom ... 18.. zuerkannte</hi>
-                        <lb/><hi rend="ul">oder: vermöge des bei diesem Friedensgerichte am ... 18..
+                        <lb/>
+                        <hi rend="ul">oder: vermöge des bei diesem Friedensgerichte am ... 18..
                             abgeschlossenen Vergleiches zustehende Forderung im Betrage von ... fl
                             ... kr wider den</hi> Georg N. Inwohner, wohnhaft Nr. 5, in A. <hi rend="ul">wegen Unzulänglichkeit der von dem Friedensgerichte versuchten
                             Execution entweder: noch keine Bezahlung oder: die Bezahlung nur in dem
                             Betrage von ... fl ... kr erhalten hat.</hi>
-                        <lb/><hi rend="ul">Von dem Friedensgerichte für die Gemeinde</hi> A.
-                            <lb/><hi rend="ul">den</hi> 4. Juli 1859<lb/>N. N.<lb/><hi rend="ul">Obmann</hi></p>
+                        <lb/>
+                        <hi rend="ul">Von dem Friedensgerichte für die Gemeinde</hi> A.
+                            <lb/>
+                        <hi rend="ul">den</hi> 4. Juli 1859<lb/>N. N.<lb/>
+                        <hi rend="ul">Obmann</hi>
+                    </p>
                     <p/>
-                    <p><hi rend="ul">III. Formular zu § 23.</hi></p>
-                    <p><hi rend="ul">Kronland N.</hi><lb/><hi rend="ul">Bezirk N.</hi></p>
-                    <p><hi rend="ul">Amtsbuch</hi> über die Amtshandlungen, welche von dem
+                    <p>
+                        <hi rend="ul">III. Formular zu § 23.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Kronland N.</hi>
+                        <lb/>
+                        <hi rend="ul">Bezirk N.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Amtsbuch</hi> über die Amtshandlungen, welche von dem
                         Friedensgerichte der Gemeinde N. kraft der demselben von Seiner k.k.
                         apostolischen Majestät verliehenen Amtsgewalt vorgenommen wurden.</p>
                     <p>
@@ -457,8 +499,11 @@
                         </table>
                     </p>
                     <p/>
-                    <p><hi rend="ul">IV. Formular zu § 23.</hi></p>
-                    <p><hi rend="ul">Das Friedensgericht zu</hi> N. hat <hi rend="ul">laut seinem
+                    <p>
+                        <hi rend="ul">IV. Formular zu § 23.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Das Friedensgericht zu</hi> N. hat <hi rend="ul">laut seinem
                             Amtsbuche Seite 2, Zahl 8, kraft der ihm von Seiner k.k. apostolischen
                             Majestät verliehenen Amtsgewalt</hi> am 24. Jänner 1860 <hi rend="ul">zu
                             Recht erkannt</hi>:<lb/>Johann N., Bauer in C. Nr. 11, ist schuldig, dem
@@ -539,7 +584,8 @@
                         Erfahrung. Wenn durch eine [?] Justizpflege dafür gesorgt ist, daß nicht
                         jeder Prozeß, so schwer auch das endliche Ergebnis sein mag, [?] [?] werden
                         kann, so werde in einfachen Angelegenheiten die Parthei ganz freiwillig auf
-                        die Entscheidung eines rechtskundigen Obmannes sich [?].&gt;<note>Streichung.</note></p>
+                        die Entscheidung eines rechtskundigen Obmannes sich [?].&gt;<note>Streichung.</note>
+                    </p>
                 </div>
             </div>
         </body>

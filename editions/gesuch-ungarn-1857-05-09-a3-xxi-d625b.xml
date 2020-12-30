@@ -4,8 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>Petition zahlreicher ungarischer Bischöfe, Adeliger und Beamter an den
-                    Kaiser<lb/><rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>
-                    , <date when="1857-05-09">9. Mai 1857</date></title>
+                    Kaiser<lb/>
+                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>
+                    , <date when="1857-05-09">9. Mai 1857</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p>

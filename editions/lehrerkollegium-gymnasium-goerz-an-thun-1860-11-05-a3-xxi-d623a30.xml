@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="lehrerkollegium-gymnasium-goerz-an-thun-1860-11-05-a3-xxi-d623a30.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-cilli-1860-10-31-a3-xxi-d623a39.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-graz-an-thun-1860-a3-xxi-d623a28.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lehrerkollegium-gymnasium-goerz-an-thun-1860-11-05-a3-xxi-d623a30.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-cilli-1860-10-31-a3-xxi-d623a39.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-graz-an-thun-1860-a3-xxi-d623a28.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Lehrerkollegium des Gymnasiums in Görz an <rs type="person"
-                        ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                <title>Das Lehrerkollegium des Gymnasiums in Görz an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_4de166ce82fade94306232184d2c4387"
-                        >Görz</rs>, <date when="1860-11-05">5. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs>, <date when="1860-11-05">5. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DB59-B</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB59-B</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -72,8 +66,7 @@
                     ächter Wissenschaftlichkeit, das in diesem Jahrzehend allüberall in unserm
                     großen Vaterlande erblühte, es wird Euer Excellenz liebender Pflege entwunden,
                     in sich selber Kräfte finden, die seine Erstarkung, seinen Bestand verbürgen.
-                    <lb/>Wir vertrauen dem guten Genius <rs type="place" subtype="country"
-                        ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>. Er wird
+                    <lb/>Wir vertrauen dem guten Genius <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>. Er wird
                     nicht zugeben, daß der Kampf, den Euer Excellenz rastlos gekämpft hie mit
                     banaler Bequemlichkeit und Mittelmäßigkeit, dort mit der Verschiedenheit
                     provinzieller Sprach- und Kulturzustände, allerorts mit der mannigfachen Ungunst
@@ -87,8 +80,7 @@
                     Entwicklung des Charakters findet; diese Bildungsanstalten erfreuen sich einer
                     ehrenhaften Stellung unter bewährten, aus ihrem eigenen Mittel hervorgehenden
                     Schulmännern; sie stehen nicht mehr isolirt, sondern sowohl mit dem Inland als
-                    mit den vorgeschrittenen Anstalten <rs type="place" subtype="country"
-                        ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs> in einem
+                    mit den vorgeschrittenen Anstalten <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs> in einem
                     regen Wechselverkehre, der den Austausch ihrer pädagogischen Erfahrungen und
                     wissenschaftlichen Erstrebnisse vermittelt; die hohen Behörden, von der humanen
                     Gesinnung Euer Excellenz beseelt, greifen nicht mehr mit Machtgeboten, sondern
@@ -100,20 +92,35 @@
                     Ausdruck unsers innigsten Dankgefühls, die aufrichtige Huldigung unserer Herzen.
                     Der Himmel segne das Werk, das Euer Excellenz in begeisterter Brust getragen und
                     lasse Sie die reifen Früchte desselben in freudiger Bewunderung schauen!</p>
-                <p><rs type="person" ref="#holzinger-carl">C. Holzinger Director</rs><lb/><rs
-                        type="person" ref="#gatti-ferdinand">Ferd. Gatti</rs><lb/><rs type="person"
-                        ref="#leitgeb-hubert">Hubert Leitgeb</rs><lb/><rs type="person"
-                        ref="#preiss-ludwig">L. Preiß</rs><lb/><rs type="person"
-                        ref="#steiner-joseph">J. Steiner</rs><lb/><rs type="person"
-                        ref="#hohenwarter-thomas">Thom. Hohenwarter</rs><lb/><rs type="person"
-                        ref="#scholar-johann">J. Sólar</rs><lb/><rs type="person"
-                        ref="#marusic-andreas">A. Marusić</rs><lb/><rs type="person"
-                        ref="#pertout-lorenz">Pertout</rs><lb/><rs type="person"
-                        ref="#schaffenhauer-franz">Franz Schaffenhauer</rs><lb/><rs type="person"
-                        ref="#pauschitz-philipp">Filip Pauschitz</rs><lb/><rs type="person"
-                        ref="#trojanschek-johann">Johann Trojanschek</rs><lb/><rs type="person"
-                        ref="#indrak-josef">Josef Indrak</rs><lb/><rs type="person"
-                        ref="#diak-anton">Anton Diak</rs></p>
+                <p>
+                    <rs type="person" ref="#holzinger-carl">C. Holzinger Director</rs>
+                    <lb/>
+                    <rs type="person" ref="#gatti-ferdinand">Ferd. Gatti</rs>
+                    <lb/>
+                    <rs type="person" ref="#leitgeb-hubert">Hubert Leitgeb</rs>
+                    <lb/>
+                    <rs type="person" ref="#preiss-ludwig">L. Preiß</rs>
+                    <lb/>
+                    <rs type="person" ref="#steiner-joseph">J. Steiner</rs>
+                    <lb/>
+                    <rs type="person" ref="#hohenwarter-thomas">Thom. Hohenwarter</rs>
+                    <lb/>
+                    <rs type="person" ref="#scholar-johann">J. Sólar</rs>
+                    <lb/>
+                    <rs type="person" ref="#marusic-andreas">A. Marusić</rs>
+                    <lb/>
+                    <rs type="person" ref="#pertout-lorenz">Pertout</rs>
+                    <lb/>
+                    <rs type="person" ref="#schaffenhauer-franz">Franz Schaffenhauer</rs>
+                    <lb/>
+                    <rs type="person" ref="#pauschitz-philipp">Filip Pauschitz</rs>
+                    <lb/>
+                    <rs type="person" ref="#trojanschek-johann">Johann Trojanschek</rs>
+                    <lb/>
+                    <rs type="person" ref="#indrak-josef">Josef Indrak</rs>
+                    <lb/>
+                    <rs type="person" ref="#diak-anton">Anton Diak</rs>
+                </p>
                 <p>Görz, den 5. November 1860</p>
             </div>
         </body>
@@ -132,8 +139,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
             </listPerson>
             <listPlace>

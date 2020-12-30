@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-zuschrift-rektorwahl-universitaet-wien_1849-12_a3-xxi-d19.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-zuschrift-rektorwahl-universitaet-wien_1849-12_a3-xxi-d19.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Entwurf von Franz Tomaschek für eine Zuschrift an den niederösterreichischen
-                        Landeschef<lb/><rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date from="1849-12-06" to="1849-12-17">6. bis 17. Dezember 1849</date></title>
+                        Landeschef<lb/>
+                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date from="1849-12-06" to="1849-12-17">6. bis 17. Dezember 1849</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7E4-B</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -44,7 +48,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,27 +68,38 @@
                     Studienjahr 1849/50 in der Person des Dr. <rs type="person" ref="#baumgartner-andreas" key="baumgartner-andreas">Andreas Ritter von Baumgartner</rs>, k.k. Sektionschefs im <rs type="org" ref="#org_0012" key="ministerium-der-finanzen">Finanzministerium</rs> und Vizepräsident
                     der <rs type="org" ref="#org_0015" key="akademie-der-wissenschaften">Akademie der
                         Wissenschaften</rs> zu <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, und dem Bemerken,
-                    daß er diese Wahl bestäthiget habe.<lb/><rs type="person" ref="#paumann-johann" key="paumann-johann">Paumann</rs><note>Der Bericht des Wiener
+                    daß er diese Wahl bestäthiget habe.<lb/>
+                    <rs type="person" ref="#paumann-johann" key="paumann-johann">Paumann</rs>
+                    <note>Der Bericht des Wiener
                         Universitätskonsistoriums fehlt. Es ist nur der Entwurf einer Antwort an den
-                        niederösterreichischen Landeschef von Franz Tomaschek vorhanden.</note></p>
+                        niederösterreichischen Landeschef von Franz Tomaschek vorhanden.</note>
+                </p>
                 <p>Den Herrn Ministerialrathe Dr. <rs type="person" ref="#exner-franz" key="exner-franz">Exner</rs> und
                     Sektionsrat <rs type="person" ref="#koller-marian" key="koller-marian">Koller</rs> zur geneigten
                     Äußerung b. m. mitgetheilt <lb/>9.12.1849<lb/>Tomaschek</p>
                 <p>&lt;Ich ersuche, lieber gleich eine kurze Nachtragsbestimmung zur Erläuterung der
                     §§ 11 und 32 zu entwerfen, durch deren Kundmachung dann die spezielle Vorlage
                     ihre Erledigung findet. <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Thun</rs>&gt;<note>Eigenhändige Hinzufügung
-                        Thuns.</note></p>
+                        Thuns.</note>
+                </p>
                 <p>&lt;Wenn die Auslegung des betreffenden [?] richtig ist, daß nämlich auch
                     ehemalige Professoren der <rs type="org" key="universitaet-wien" ref="#org_0018">Wiener
                         Universität</rs> wählbar sind, da wäre dies hierwohl zu
-                        [?]<lb/><rs type="person" ref="#exner-franz" key="exner-franz">F[ranz] Exner</rs><lb/>9.12.&gt;<note>Hinzufügung Exners.</note></p>
+                        [?]<lb/>
+                    <rs type="person" ref="#exner-franz" key="exner-franz">F[ranz] Exner</rs>
+                    <lb/>9.12.&gt;<note>Hinzufügung Exners.</note>
+                </p>
                 <p>&lt;Da Dr. <rs type="person" ref="#baumgartner-andreas" key="baumgartner-andreas">Andr[eas] Baumgartner</rs>
                     immatriculiertes Mitglied des Doctorencollegiums ist und die Motivirung seiner
                     Wahl mir genügend erscheint – mithin den Vorschriften des § 33 in Beziehung auf
-                    die Wählbarkeit entsprochen wurde – wäre diese Wahl zu bestätigen.<lb/><rs type="person" ref="#koller-marian" key="koller-marian">Koller</rs><lb/>10.12.1849&gt;<note>Hinzufügung Kollers.</note></p>
+                    die Wählbarkeit entsprochen wurde – wäre diese Wahl zu bestätigen.<lb/>
+                    <rs type="person" ref="#koller-marian" key="koller-marian">Koller</rs>
+                    <lb/>10.12.1849&gt;<note>Hinzufügung Kollers.</note>
+                </p>
                 <p/>
                 <p>1.) An den <rs type="person" ref="#chorinsky-gustav-ignaz" key="chorinsky-gustav-ignaz">Landesschef von
-                        Niederösterreich</rs><lb/>Über den Bericht vom 6.12.[18]49 53382,
+                        Niederösterreich</rs>
+                    <lb/>Über den Bericht vom 6.12.[18]49 53382,
                     dessen Beilagen zur geeigneten weiteren Rückmittlung in % zurückfolgen, nehme
                     ich die Wahl des Sektionschefs <rs type="person" ref="#baumgartner-andreas" key="baumgartner-andreas">Andreas
                         Ritter von Baumgartner</rs> zum Rector der <rs type="org" key="universitaet-wien" ref="#org_0018">Wiener Hochschule</rs> genehmigend zur
@@ -142,7 +161,8 @@
                         vereinzelt, sondern nur im Zusammenhange mit den §§ 32 und 11 aufgefaßt
                         werden dürfe, ergibt sich schon daraus, weil sonst auch ein
                         außerordentlicher oder sogar ein in <rs type="org" key="universitaet-wien" ref="#org_0018">Wien</rs> gar nicht anwesender Professor gewählt werden könnte,
-                        was mit der Natur der Sache unvereinbar ist.</note><lb/>Wenn es hiernach
+                        was mit der Natur der Sache unvereinbar ist.</note>
+                    <lb/>Wenn es hiernach
                     zweifellos ist, daß nebst dem immatriculirten Doctoren betreffenden
                     Doctorencollegiums nicht nur die wirklich lehrenden ordentlichen
                     Facultätsprofessoren, sondern auch diejenigen, welche ordentliche Professoren
@@ -171,8 +191,11 @@
                     Rücksicht auf den Umstand, daß Ministerialrath <rs type="person" ref="#exner-franz" key="exner-franz">Exner</rs> nie ordentlicher Professor der <rs type="org" key="universitaet-wien" ref="#org_0018">Wiener Universität</rs> war und nicht
                     immatriculirtes Mitglied ihres Doctorencollegiums ist, zurückwies<note> Korrektur aus: zur Erstattung eines anderen Vorschlages
                         zurückzumitteln.</note>, und das philosophische Professorencollegium zu
-                    einer zweiten Wahl aufforderte.<lb/>17.12.1849<lb/><rs type="person" ref="#tomaschek-eduard" key="tomaschek-eduard">Tomaschek</rs></p>
-                <p>&lt;gelesen <rs type="person" ref="#helfert-joseph-alexander" key="helfert-joseph-alexander">Helfert</rs> mp.&gt;<note>Hinzufügung Helferts</note></p>
+                    einer zweiten Wahl aufforderte.<lb/>17.12.1849<lb/>
+                    <rs type="person" ref="#tomaschek-eduard" key="tomaschek-eduard">Tomaschek</rs>
+                </p>
+                <p>&lt;gelesen <rs type="person" ref="#helfert-joseph-alexander" key="helfert-joseph-alexander">Helfert</rs> mp.&gt;<note>Hinzufügung Helferts</note>
+                </p>
             </div>
         </body>
     </text>

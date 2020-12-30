@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="jaeger-an-thun-1851-04-23-a3-xxi-d114.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/jaeger-an-thun-1851-02-26-ca949.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/jaeger-an-thun-1854-05-06-a3-xxi-d257.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="jaeger-an-thun-1851-04-23-a3-xxi-d114.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/jaeger-an-thun-1851-02-26-ca949.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/jaeger-an-thun-1854-05-06-a3-xxi-d257.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -10,14 +7,12 @@
                     <rs type="person" ref="#jaeger-albert" role="sender:gelehrter">Albert Jäger</rs>
                     an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_834e1bca2cb7d2238249e70860ed8ae8"
-                        >Meran</rs>, <date when="1851-04-23">23. April 1851</date>
+                    <rs type="place" subtype="place" ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs>, <date when="1851-04-23">23. April 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DB9F-C</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB9F-C</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -101,18 +96,15 @@
                     geschöpfte Kunde der vaterländischen Geschichte ist es, was unserer Jugend
                     noththut, und diese wünschen Euere Excellenz der Jugend beibringen zu lassen.
                     Die Erreichung dieser Absicht lag in der Richtung meiner eigenen Studien seit
-                    Jahren, wenngleich nur vom engen tirolischen Standpunkte aus. Ich machte in <rs
-                        type="org" ref="#org_0020">Innsbruck</rs> Versuche, talentvolle Jünglinge
-                    dafür zu gewinnen; es gelang mir mit dem ausgezeichnet fähigen <rs type="person"
-                        ref="#kink-rudolph">Rudolph Kink</rs> und würde mir wahrscheinlich mit noch
+                    Jahren, wenngleich nur vom engen tirolischen Standpunkte aus. Ich machte in <rs type="org" ref="#org_0020">Innsbruck</rs> Versuche, talentvolle Jünglinge
+                    dafür zu gewinnen; es gelang mir mit dem ausgezeichnet fähigen <rs type="person" ref="#kink-rudolph">Rudolph Kink</rs> und würde mir wahrscheinlich mit noch
                     mehreren gelungen sein, wären sie nicht durch die Ereignisse des Jahres 48 zu
                     sehr auf die Bahn der Politik geleitet worden, ein damals fast allgemein
                     gewordener Fehler der studierenden Jugend. Diesem, meinen Neigungen und Studien
                     so ganz zusagenden Berufe wollen Euere Excellenz mich wieder zurückgeben; ich
                     kann für den ehrenvollen und erfreulichen Antrag nur den wärmsten Dank
                     aussprechen, darf aber nicht verbergen, daß mich einige Furcht befällt, ob ich
-                    den Erwartungen Eurer Excellenz auf dem höhern Standpunkte in <rs type="org"
-                        ref="#org_0018">Wien</rs> zu entsprechen vermögend sein werde. Ich habe die
+                    den Erwartungen Eurer Excellenz auf dem höhern Standpunkte in <rs type="org" ref="#org_0018">Wien</rs> zu entsprechen vermögend sein werde. Ich habe die
                     Universalgeschichte und aus specieller Neigung die Tiroler Geschichte zum
                     Gegenstande vieljähriger Studien gemacht, nicht aber in gleichem Maaße die
                     österreichische Staatengeschichte, und weiß daher nicht, ob ich sie auf
@@ -128,11 +120,9 @@
                     Directoratsgeschäfte können durch <rs type="person" ref="#zingerle-pius">Pius
                         Zingerle</rs> so gut besorgt werden wie durch mich; die Lücke, die
                     meinetwegen entsteht, kann der <rs type="person" ref="#mayr-karl">Herr
-                        Prälat</rs> augenblicklich durch ein sehr brauchbares Stiftsmitglied, <rs
-                        type="person" ref="#hauser-gregor">Gregor Hauser</rs>, der schon 10 Jahre
+                        Prälat</rs> augenblicklich durch ein sehr brauchbares Stiftsmitglied, <rs type="person" ref="#hauser-gregor">Gregor Hauser</rs>, der schon 10 Jahre
                     Professor am <rs type="org" ref="#org_0048">Gymnasium</rs> war und gegenwärtig
-                    als Seelsorgspriester in der unbedeutenden Alpengemeinde <rs type="place"
-                        subtype="place" ref="#place_2f899f54cc8d01d7b657a336e9b5abe4">Schlinig</rs>
+                    als Seelsorgspriester in der unbedeutenden Alpengemeinde <rs type="place" subtype="place" ref="#place_2f899f54cc8d01d7b657a336e9b5abe4">Schlinig</rs>
                     für eine Bevölkerung von 120 Seelen verwendet wird, ausfüllen. Ich zweifle
                     nicht, daß der <rs type="person" ref="#tschiderer-johannes">Bischof von
                         Trient</rs> oder <rs type="person" ref="#galura-bernhard">Brixen</rs> auch
@@ -146,8 +136,7 @@
                     was mit dem Obergymnasium in der fernern Zukunft, vielleicht schon in 2–3 Jahren
                     geschehen wird? Diese Frage steht aber ganz unabhängig von mir da, und ich kann
                     das künftige Schicksal des Gymnasiums nicht anders gestalten, als es die
-                    Verhältnisse thun werden. Nach meiner Überzeugung hat sich das <rs type="org"
-                        ref="#org_0049">Stift Marienberg</rs> eine Aufgabe gestellt, deren Lösung
+                    Verhältnisse thun werden. Nach meiner Überzeugung hat sich das <rs type="org" ref="#org_0049">Stift Marienberg</rs> eine Aufgabe gestellt, deren Lösung
                     weit über seine Kräfte geht. Der Personalstand des Stiftes besteht, mit Ausnahme
                     der 5 Novizen und eines Laienbruders, aus 24 Individuen, von denen 6 Männer von
                     65 bis nahe 80 Jahren sind und 4 für das Lehrfach sich nicht eignen. Mit den
@@ -160,8 +149,7 @@
                     können oder nacheinander vollenden müssen. Woher man Hilfe nehmen wird, wenn
                     Erkrankungs- oder Sterbefälle eintreten oder wenn von den 7 noch ungeprüften
                     Lehramtscandidaten einer oder mehrere die Prüfungen nicht bestehen, vermag ich
-                    nicht zu bestimmen, das Stift hat keine Ersatzmänner.<lb/>Der <rs type="person"
-                        ref="#mayr-karl">Herr Prälat</rs> selbst fühlt diese Aufliegenheit und
+                    nicht zu bestimmen, das Stift hat keine Ersatzmänner.<lb/>Der <rs type="person" ref="#mayr-karl">Herr Prälat</rs> selbst fühlt diese Aufliegenheit und
                     deutete sie in seiner Bitte um Reduzirung des Gymnasiums auf 6 Kurse an. Der
                     Leutemangel lag aber schon klar vor, als man um das Obergymnasium petitionirte,
                     und dennoch mußte ich gehorchen und gegen meine Überzeugung und mit Aufopferung
@@ -173,26 +161,17 @@
                     wird durch mich weder gesicherter noch gefährdeter, sondern muß wegen der zu
                     großen Aufgabe für ein so kleines Stift bald – vielleicht in 2 Jahren schon – in
                     sich zusammenfallen. Überdies scheint kaum ein Bedürfnis nach einem
-                    Obergymnasium in <rs type="place" subtype="place"
-                        ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs> vorhanden zu sein.
+                    Obergymnasium in <rs type="place" subtype="place" ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs> vorhanden zu sein.
                     Die Lehranstalt zählt im 8. Kurse nur sieben, im 7. neun und im 6. Kurse 16
                     Schüler. Vom vorigen Jahre auf heuer herüber haben 22 Schüler dieser Kurse das
                     Gymnasium verlassen. Dem Vernehmen nach werden die 2 obersten Klassen im
                     nächsten Jahre noch mehr zusammenschwinden. Der Grund davon liegt zum Theil in
-                    der zu großen Nähe der 3 Obergymnasien von <rs type="place" subtype="place"
-                        ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs>, <rs type="place"
-                        subtype="place" ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</rs> und
-                        <rs type="place" subtype="place"
-                        ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>, zum Theil in den
+                    der zu großen Nähe der 3 Obergymnasien von <rs type="place" subtype="place" ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs>, <rs type="place" subtype="place" ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</rs> und
+                        <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>, zum Theil in den
                     wegen des großen Andranges fremder Kurgäste höchst ungünstigen
-                    Quartierverhältnissen in <rs type="place" subtype="place"
-                        ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs> und zum Theil in
-                    dem bessern Unterkommen, welches arme Studenten in den wohlhabendern Städten <rs
-                        type="place" subtype="place" ref="#place_3859ff9074d497ed0cb3c08be85996ad"
-                        >Bozen</rs> und <rs type="place" subtype="place"
-                        ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> und selbst in
-                        <rs type="place" subtype="place"
-                        ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs> finden.<lb/>Da nun
+                    Quartierverhältnissen in <rs type="place" subtype="place" ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs> und zum Theil in
+                    dem bessern Unterkommen, welches arme Studenten in den wohlhabendern Städten <rs type="place" subtype="place" ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</rs> und <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> und selbst in
+                        <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs> finden.<lb/>Da nun
                     wegen meines Austrittes dem <rs type="org" ref="#org_0048">Meraner
                         Gymnasium</rs> zunächst kein Nachtheil zugeht, künftige Nachtheile und
                     selbst das Eingehen des Obergymnasiums mein Hierbleiben nicht verhindern kann:
@@ -225,8 +204,7 @@
                         <p>http://d-nb.info/gnd/117051845</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/117051845</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117051845</tei:idno>
                 </person>
                 <person xml:id="thun-hohenstein-leo">
                     <persName>
@@ -241,8 +219,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
                 <person xml:id="mayr-karl">
                     <persName>
@@ -257,8 +234,7 @@
                         <p>http://d-nb.info/gnd/1020257628</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/1020257628</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1020257628</tei:idno>
                 </person>
                 <person xml:id="kink-rudolph">
                     <persName>
@@ -276,8 +252,7 @@
                         <p>http://d-nb.info/gnd/124862748</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/124862748</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/124862748</tei:idno>
                 </person>
                 <person xml:id="zingerle-pius">
                     <persName>
@@ -292,8 +267,7 @@
                         <p>http://d-nb.info/gnd/117004588</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/117004588</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117004588</tei:idno>
                 </person>
                 <person xml:id="hauser-gregor">
                     <persName>
@@ -320,8 +294,7 @@
                         <p>http://d-nb.info/gnd/119247259</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/119247259</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119247259</tei:idno>
                 </person>
                 <person xml:id="galura-bernhard">
                     <persName>
@@ -334,8 +307,7 @@
                         <p>http://d-nb.info/gnd/119095866</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/119095866</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119095866</tei:idno>
                 </person>
             </listPerson>
             <listPlace>

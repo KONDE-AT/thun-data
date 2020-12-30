@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="stimmungsbericht-ungarn-1856-12-28-a3-xxi-d395.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-rom-1856-05-16-a3-xxi-d381.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/stimpel-an-thun-1860-10-25-a3-xxi-d623a16.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stimmungsbericht-ungarn-1856-12-28-a3-xxi-d395.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-rom-1856-05-16-a3-xxi-d381.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stimpel-an-thun-1860-10-25-a3-xxi-d623a16.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bericht über die Stimmung unter den Protestanten Ungarns<lb/>
-                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b"
-                        >Pest</rs>, <date when="1856-12-28">28. Dezember 1856</date>
+                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when="1856-12-28">28. Dezember 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DA69-A</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA69-A</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -70,14 +65,10 @@
                         Verwaltung und ihres Schulwesens. Nach allen Stimmen, die ich bisher darüber
                         vernommen habe, und nach dem Urtheile der besten Köpfe ist selbst von sonst
                         loyal gesinnten Mitgliedern dieser Gemeinden an Nachgiebigkeit nicht zu
-                        denken, und der ausgesprochene Wunsch einer großen Synode in <rs
-                            type="place" subtype="place"
-                            ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> zielt mehr
+                        denken, und der ausgesprochene Wunsch einer großen Synode in <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> zielt mehr
                         darauf hin, Zeit zu gewinnen, ihre Argumente zu kräftigen und solche in
                         Massen um so nachdrücklicher zu vertheidigen.<lb/>Die große Empfindlichkeit,
-                        namentlich der Calviner in diesem Punkte, liegt schon in der den <rs
-                            type="place" subtype="country"
-                            ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> angebornen
+                        namentlich der Calviner in diesem Punkte, liegt schon in der den <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> angebornen
                         Leidenschaft der Selbstregierung, der sie wohl jedes Opfer zu bringen fähig
                         sind, welche zu opfern aber nur Gewalt sie zwingen kann. <lb/>Man ist um so
                         hartnäckiger in Behauptung altdocumentirter Rechte auf diesem Felde, als
@@ -88,12 +79,10 @@
                         Betheiligung bleibt, und die wenigen Einfluß nehmenden höher stehenden
                         Familien, welche dem protestantischen Glauben angehören als: die Teleki’s,
                         ein Graf Řaday und andere, in ihren Tendenzen genügend bekannt sind. Man
-                        erwähnt bei dieser Gelegenheit vielseitig der Zeit, wo unter <rs
-                            type="person" ref="#pius-III">Pius III.</rs> [sic!] ein Theil der
+                        erwähnt bei dieser Gelegenheit vielseitig der Zeit, wo unter <rs type="person" ref="#pius-III">Pius III.</rs> [sic!] ein Theil der
                         ungarischen Aristokratie, der früher gleichfalls dem Protestantismus
                         angehörte, wie ein <rs type="person" ref="#batthyany-adam">Batthyányi</rs>
-                        und selbst ein <rs type="person" ref="#esterhazy-von-galantha-nikolaus"
-                            >Eszterházy</rs>, zum katholischen Glauben überzutreten sich bestimmen
+                        und selbst ein <rs type="person" ref="#esterhazy-von-galantha-nikolaus">Eszterházy</rs>, zum katholischen Glauben überzutreten sich bestimmen
                         ließen.<lb/>Man ist der Ansicht, daß unter heutigen Verhältnissen Einflüsse
                         und Zwangsmaßnahmen der katholischen Kirche ganz gegentheilige Wirkungen
                         hervorrufen dürften, wie überhaupt die große Apathie, die unter Katholiken

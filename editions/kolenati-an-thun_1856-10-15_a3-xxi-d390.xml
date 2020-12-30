@@ -1,12 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="kolenati-an-thun_1856-10-15_a3-xxi-d390.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><rs type="person" ref="#kolenati-friedrich" key="kolenati-friedrich" role="sender:gelehrter">Friedrich
-                        Kolenati</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs><lb/><rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <date when="1856-10-15">15. Oktober 1856</date></title>
+                <title>
+                    <rs type="person" ref="#kolenati-friedrich" key="kolenati-friedrich" role="sender:gelehrter">Friedrich
+                        Kolenati</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <date when="1856-10-15">15. Oktober 1856</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7FA-3</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -50,8 +56,23 @@
                     </physDesc>
                 </msDesc>
             </sourceDesc>
-        </fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName ref="#kolenati-friedrich">Friedrich Kolenati</persName><date when="1856-10-15">15. Oktober 1856</date></correspAction><correspAction type="received"><persName ref="#thun-hohenstein-leo">Leo Thun</persName></correspAction></correspDesc></profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#kolenati-friedrich">Friedrich Kolenati</persName>
+                    <date when="1856-10-15">15. Oktober 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -103,7 +124,8 @@
                         Angelegenheit vor das Forum der Öffentlichkeit gezerrt worden ist, eine
                         allseitige Beleuchtung und Gewehr im wahren Interesse der angegriffenen
                         Anstalt liegen müsse, als bekanntlich eine Reorganisation der technischen
-                        Institute des Kaiserreichs ernstlich in Angriff genommen ist.&gt;<note>Einfügung durch Winkler.</note><lb/>Da die obige Notiz
+                        Institute des Kaiserreichs ernstlich in Angriff genommen ist.&gt;<note>Einfügung durch Winkler.</note>
+                        <lb/>Da die obige Notiz
                         zum größten Theile das im Jahre 1850 eröffnete k.k. technische Institut zu
                             <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> in <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> betrifft und von
                         einem Manne verfaßt ist, welcher Glaubensgenosse der Redakzion des
@@ -196,7 +218,8 @@
                         wahres Glück nur für das Institut und die Professoren, wenn das Institut
                             &lt;soferne&gt;<note>Korrektur von Winkler aus:
                             nachdem.</note> man es nicht schützen könnte oder wollte, &lt;aufgehoben
-                            würde.&gt;<note>Ergänzung von Winkler.</note><lb/>3.
+                            würde.&gt;<note>Ergänzung von Winkler.</note>
+                        <lb/>3.
                         Hat es sich im verflossenen Jahre herausgestellt, daß die selbst mit
                             &lt;[?]&gt;<note>Korrektur von Winkler.</note> aus der
                         Brünner Realschule ausgetretenen Schüler in den technischen Studien
@@ -269,7 +292,8 @@
                         der öffentlichen Meinung über eine gewiß sehr wichtige vaterländische
                         Angelegenheit; soviel auch zu [?], die gelegentlich der nothwendig [?]
                         Reformen ein „Geschäft“ machen möchten.&gt;<note>Ergänzung
-                            von Winkler.</note></p>
+                            von Winkler.</note>
+                    </p>
                 </div>
             </div>
         </body>

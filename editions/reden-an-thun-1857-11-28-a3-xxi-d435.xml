@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="reden-an-thun-1857-11-28-a3-xxi-d435.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/rede-thuns-bei-promotion-1852-05-11-a3-xxi-d165.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/redwitz-an-thun-1851-12-22-a3-xxi-d138.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="reden-an-thun-1857-11-28-a3-xxi-d435.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rede-thuns-bei-promotion-1852-05-11-a3-xxi-d165.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/redwitz-an-thun-1851-12-22-a3-xxi-d138.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#reden-friedrich-wilhelm" role="sender:beamter">Friedrich
-                        Wilhelm Reden</rs> an <rs type="person" ref="#thun-hohenstein-leo"
-                        role="recipient">Leo Thun</rs>
+                        Wilhelm Reden</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place"
-                        ref="#habe die Einträge gelöscht bzw. so geändert, dass sie bei Wien sind."
-                        >o. O. [Wien]</rs>, <date when="1857-11-28">o. D. [28. November 1857]</date>
+                    <rs type="place" subtype="place" ref="#habe die Einträge gelöscht bzw. so geändert, dass sie bei Wien sind.">o. O. [Wien]</rs>, <date when="1857-11-28">o. D. [28. November 1857]</date>
                     <note xml:id="note_1">Ort und Datum sind im Nachlass verzeichnet, allerdings
                         erschließt sich nicht, wie diese Datierung erfolgt ist, sie muss daher
                         unsicher bleiben.</note>
@@ -21,8 +15,7 @@
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DAB8-0</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAB8-0</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -65,9 +58,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#reden-friedrich-wilhelm">Friedrich Wilhelm Reden</rs>
-                    <settlement
-                        ref="#habe die Einträge gelöscht bzw. so geändert, dass sie bei Wien sind."
-                        >o. O. [Wien]</settlement>
+                    <settlement ref="#habe die Einträge gelöscht bzw. so geändert, dass sie bei Wien sind.">o. O. [Wien]</settlement>
                     <date when="1857-11-28">o. D. [28. November 1857]</date>
                 </correspAction>
                 <correspAction type="received">
@@ -96,8 +87,7 @@
                         Universitäten</hi>, aus meinen statistisch-volkswirthschaftlichen Sammlungen
                     bearbeitet, verlangt.<lb/>Die Aufgabe war an und für sich keineswegs schwierig,
                     weil in meiner Bibliothek und den zugehörigen Mappen alles überhaupt darüber
-                    vorhandene Material sich findet. Allein ein unübersteigliches <hi rend="ul"
-                        >Hindernis genauer</hi> Vollführung des Auftrages bildete die Vorschrift:
+                    vorhandene Material sich findet. Allein ein unübersteigliches <hi rend="ul">Hindernis genauer</hi> Vollführung des Auftrages bildete die Vorschrift:
                     daß dabei die Ausgabeneintheilung der österreichischen Universitäten zum Grunde
                     gelegt werden solle. Um dieses zu bewerkstelligen, mußten die Rechnungen jeder
                     deutschen Universität gänzlich <hi rend="ul">umgearbeitet</hi> werden, denn
@@ -106,8 +96,7 @@
                     selbst die Universitätsverwaltungen würden (ohne ganz neue Bearbeitung der
                     Rechnungen) die Ausweise <hi rend="ul">nicht</hi> in der Form des
                     österreichischen Etats liefern <hi rend="ul">können</hi>.<lb/>Unter diesen
-                    Umständen und da der <hi rend="ul">Zweck</hi> meiner Arbeit mir <hi rend="ul"
-                        >nicht</hi> bekannt ist – blieb nichts Anderes übrig, als: die Darstellung
+                    Umständen und da der <hi rend="ul">Zweck</hi> meiner Arbeit mir <hi rend="ul">nicht</hi> bekannt ist – blieb nichts Anderes übrig, als: die Darstellung
                     bei jeder einzelnen Universität nach dem vorhandenen Stoffe einzurichten. Über
                     einzelne Hülfsanstalten lassen sich allerdings noch mehr Einzelangaben machen,
                     z.B. über die <hi rend="ul">Bibliotheken</hi>; hinsichtlich welcher Herr
@@ -122,17 +111,13 @@
                     "<lb/>Würzburg 16 ½ " "<lb/>München 12 ½ " "<lb/>Wer aus eigener Anschauung die
                     einzelnen Universitäten kennt, dem können auch die Ursachen (zum Theil
                     Mißbräuche) dieser großen Abweichungen nicht verborgen bleiben.<lb/>Ein anderes
-                    Hindernis der Vergleichbarkeit ist die Unvollständigkeit sogar der <hi rend="ul"
-                        >Gesamtsummen</hi>. Wenn ich annehmen dürfte, daß in den <hi rend="ul"
-                        >österreichischen</hi> Ausweisen <hi rend="ul">alle</hi> Ausgaben jeder Art
+                    Hindernis der Vergleichbarkeit ist die Unvollständigkeit sogar der <hi rend="ul">Gesamtsummen</hi>. Wenn ich annehmen dürfte, daß in den <hi rend="ul">österreichischen</hi> Ausweisen <hi rend="ul">alle</hi> Ausgaben jeder Art
                     für Universitätszwecke – (ohne Rücksicht auf die eigenthümliche Quelle, aus
                     welcher die Einnahme fließt und ohne Rücksicht auf den formellen Zusammenhang
                     des Gegenstandes der Ausgabe) – enthalten sind, so mußte ich ehrerbietigst
                     anheim geben bei den anzustellenden Vergleichungen mit großer Vorsicht zu
                     verfahren. Denn, wie aus den nachfolgenden Angaben bei den einzelnen
-                    Universitäten erhellt, die Endsumme stellt gewöhnlich die <hi rend="ul"
-                        >vollständige</hi> Verwendung für Universitätszwecke <hi rend="ul"
-                        >nicht</hi> dar. Entweder die Honorare gehen nicht durch die Rechnung oder
+                    Universitäten erhellt, die Endsumme stellt gewöhnlich die <hi rend="ul">vollständige</hi> Verwendung für Universitätszwecke <hi rend="ul">nicht</hi> dar. Entweder die Honorare gehen nicht durch die Rechnung oder
                     die besonderen Einnahmen (beziehungsweise Ausgaben) einzelner Zweige fehlen oder
                     einzelne Hülfsanstalten werden aus ganz fremdartigen Fonds erhalten usw. Hieraus
                     ergiebt sich leider, daß die Universitätsstatistik von dem wünschenswerthen
@@ -145,12 +130,10 @@
                     bezahlter Lehrkräfte.<lb/>Wer in diesem wissenschaftlichen Wettkampf zögert oder
                     gar zurück bleibt, dem würde es schwer werden nachzukommen, wenn der Schaden
                     sichtbar geworden ist.</p>
-                <p>I.<hi rend="ul"> Königreich <rs type="place" subtype="country"
-                            ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>
+                <p>I.<hi rend="ul"> Königreich <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>
                     </hi>
                 </p>
-                <p>Nach dem Etat der Unterrichtsverwaltung für 1857 beträgt der <hi rend="ul"
-                        >Staatszuschuß</hi> der preußischen <hi rend="ul">Universitäten</hi> und der
+                <p>Nach dem Etat der Unterrichtsverwaltung für 1857 beträgt der <hi rend="ul">Staatszuschuß</hi> der preußischen <hi rend="ul">Universitäten</hi> und der
                     katholisch-theologischen <rs type="org" ref="#org_0105">Akademie in
                     Münster</rs>, 476249 Thaler Konv. Außer dem Staatszuschuße beziehen die
                     Lehranstalten aus eigenem Erwerbe, aus dem Ertrage ihres Vermögens und aus
@@ -272,17 +255,14 @@
                     Unteranlage jenes Budgetsberichts nachgewiesen.<lb/>Über die Einnahmen und
                     Ausgaben <hi rend="ul">der einzelnen Institute, Hülfsanstalten</hi> usw.,
                     scheinen in neuester Zeit gar keine Aufstellungen gemacht oder veröffentlicht zu
-                    sein, weil sonst ohne Zweifel von <rs type="person" ref="#roenne-ludwig"
-                        >Rönne</rs> in seiner vortrefflichen Darstellung der höheren Schulen und
+                    sein, weil sonst ohne Zweifel von <rs type="person" ref="#roenne-ludwig">Rönne</rs> in seiner vortrefflichen Darstellung der höheren Schulen und
                     Universitäten des preußischen Staats (Berlin 1855) <note xml:id="note_2">Vgl.
                         Ludwig von Rönne, Das Unterrichtswesen des preußischen Staates, Berlin
                         1855.</note> davon Mittheilung gemacht haben würde. Auch dürften in meinen
                     Sammlungen die entsprechenden Nachweise sich finden, wenn sie überhaupt
                     vorhanden wären. <hi rend="ul">Ältere</hi> Nachrichten aus den Rechnungen
-                    solcher Institute finden sich allerdings, z.B. in: <rs type="person"
-                        ref="#dieterici-karl">Dieterici</rs>, Geschichtliche und statistische
-                    Nachrichten über die Universitäten im preußischen Staate (Berlin 1836)<note
-                        xml:id="note_3">Vgl. Karl Friedrich Wilhelm Dieterici, Geschichtliche und
+                    solcher Institute finden sich allerdings, z.B. in: <rs type="person" ref="#dieterici-karl">Dieterici</rs>, Geschichtliche und statistische
+                    Nachrichten über die Universitäten im preußischen Staate (Berlin 1836)<note xml:id="note_3">Vgl. Karl Friedrich Wilhelm Dieterici, Geschichtliche und
                         statistische Nachrichten über die Universitäten im preußischen Staate,
                         Berlin 1836.</note> und in: Koch, Die preußischen Universitäten (Berlin
                         1839)<note xml:id="note_4">Vgl. Johann Friedrich Wilhelm Koch, Die
@@ -297,10 +277,8 @@
                         von Reden, Allgemeine Vergleichende Finanz-Statistik. Vergleichende
                         Darstellung des Haushalts, Abgabenwesens und der Schulden Deutschlands und
                         des übrigen Europa, Darmstadt 1851.</note>. Das Staatshandbuch für 1857
-                    (welches ich auf Erfordern vorlegen kann) enthält Einzelheiten über das <hi
-                        rend="ul">Personal</hi> der Gegenwart.</p>
-                <p>II. <hi rend="ul">Königreich <rs type="place" subtype="country"
-                            ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</rs>
+                    (welches ich auf Erfordern vorlegen kann) enthält Einzelheiten über das <hi rend="ul">Personal</hi> der Gegenwart.</p>
+                <p>II. <hi rend="ul">Königreich <rs type="place" subtype="country" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</rs>
                     </hi>
                 </p>
                 <p>Bei dem gänzlichen Mangel neuer selbstständiger Schriften über die Universitäten
@@ -308,8 +286,7 @@
                     die einzige zuverlässige Quelle für die finanziellen Verhältnisse der
                     Universitäten. Obgleich man nun glauben sollte, daß schon in den sehr langen
                     (6jährigen) Budgetperioden eine dringende Aufforderung liege, sowohl bei der
-                    Aufstellung als bei den Untersuchungen der Voranschläge, auf alle wichtige <hi
-                        rend="ul">Einzelheiten</hi> einzugehen, ist dieses doch keineswegs der Fall.
+                    Aufstellung als bei den Untersuchungen der Voranschläge, auf alle wichtige <hi rend="ul">Einzelheiten</hi> einzugehen, ist dieses doch keineswegs der Fall.
                     Die ministeriellen Vorlagen sind sehr summarisch gehalten und auch die Berichte
                     der Budgetkommission gehen auf Einzelheiten <hi rend="ul">nur dann e</hi>in,
                     wenn eine Erhöhung der Etatsumme beantragt wird. Allein selbst in solchen Fällen
@@ -321,25 +298,19 @@
                     112760 fl. beantragt (meine Finanzstatistik von Bayern von S. 75); er wurde aber
                     später auf 132760 fl. erhöht.<lb/>Nach dem Etat der VII (die Jahre 1855–61
                     umfassenden) Finanzperiode stellen die Staatszuschüsse sich wie folgt (in fl.
-                    rhein.):<lb/>Fundationsmäßige [?] Besondere budgetmäßige Zuschüsse<lb/>1. <rs
-                        type="org" ref="#org_0028">München</rs> – 57.400<lb/>2. <rs type="org"
-                        ref="#org_0033">Erlangen</rs> 44.466 36.000<lb/>3. <rs type="org"
-                        ref="#org_0064">Würzburg</rs> 8.000 32.000<lb/> Zusammen 52.466
+                    rhein.):<lb/>Fundationsmäßige [?] Besondere budgetmäßige Zuschüsse<lb/>1. <rs type="org" ref="#org_0028">München</rs> – 57.400<lb/>2. <rs type="org" ref="#org_0033">Erlangen</rs> 44.466 36.000<lb/>3. <rs type="org" ref="#org_0064">Würzburg</rs> 8.000 32.000<lb/> Zusammen 52.466
                     125.400<lb/>177.866<lb/>Ungeachtet dieser Erhöhungen und obgleich schon im Jahre
                     1851 auch die Übernahme von Pensionen und Alimentationen im Betrage von jährlich
                     23.043 fl auf die allgemeine Pensionsamortisationskasse beschlossen wurde,
                     entsprechen doch die Einnahmen der bayerischen Universitäten deren jetzigem
-                    Ausgabebedarfe noch keineswegs.<lb/>Sonstige Ziffern liegen <hi rend="ul"
-                        >nicht</hi> vor und auch von den sonstigen kurzen Erörterungen ist nur noch
+                    Ausgabebedarfe noch keineswegs.<lb/>Sonstige Ziffern liegen <hi rend="ul">nicht</hi> vor und auch von den sonstigen kurzen Erörterungen ist nur noch
                     hervorzuheben, daß (außer bei München) wenig eigenes fruchttragendes Vermögen
                     vorhanden seyn soll. Das <hi rend="ul">Personal</hi> ergiebt sich aus dem
                     Staatshandbuche.</p>
-                <p>III. <hi rend="ul">Königreich <rs type="place" subtype="country"
-                            ref="#place_d3339865dfd97ccc0793c342cbd8094f">Württemberg</rs>
+                <p>III. <hi rend="ul">Königreich <rs type="place" subtype="country" ref="#place_d3339865dfd97ccc0793c342cbd8094f">Württemberg</rs>
                     </hi>
                 </p>
-                <p>Über die Verhältnisse der württembergischen Landesuniversität <rs type="org"
-                        ref="#org_0044">Tübingen</rs> fehlt es nicht an vielseitigen und guten
+                <p>Über die Verhältnisse der württembergischen Landesuniversität <rs type="org" ref="#org_0044">Tübingen</rs> fehlt es nicht an vielseitigen und guten
                     Nachrichten. (Beispielsweise sind zu nennen: Klüpfel, Geschichte und
                     Beschreibung der Universität Tübingen 1849<note xml:id="note_6">Vgl. Karl
                         Klüpfel, Geschichte und Beschreibung der Universität Tübingen, Tübingen
@@ -371,28 +342,22 @@
                     92.000 fl rhein.; im Jahresdurchschnitt der Finanzperiode 1855/8 hingegen ist
                     sie 103.000 fl. Mit Einschluß der (ebenberührten) sonstigen Staatsbeiträge und
                     der durch eigenthümliche Einnahmen einzelner Anstalten gedeckten Ausgaben
-                    scheint das Gesamterfordernis der Universität etwa 164.000 fl.<lb/>Die <hi
-                        rend="ul">Vertheilung</hi> dieser Summe auf einzelne Ausgabszweige ist nicht
+                    scheint das Gesamterfordernis der Universität etwa 164.000 fl.<lb/>Die <hi rend="ul">Vertheilung</hi> dieser Summe auf einzelne Ausgabszweige ist nicht
                     gedruckt. Das <hi rend="ul">Personal</hi> ergiebt sich aus dem Staatshandbuch
                     und den Bekanntmachungen der Vorlesungen usw. im Regierungsblatt.</p>
-                <p>IV. <hi rend="ul">Königreich <rs type="place" subtype="country"
-                            ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs>
+                <p>IV. <hi rend="ul">Königreich <rs type="place" subtype="country" ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs>
                     </hi>
                 </p>
                 <p>
                     <rs type="org" ref="#org_0039">Göttingen</rs> ist vertragsmäßig zugleich
-                    Landesuniversität für <rs type="place" subtype="country"
-                        ref="#place_f213e3074e0c95c49458e3e8cc8335df">Braunschweig</rs> und <rs
-                        type="place" subtype="country" ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2"
-                        >Nassau</rs>; jedoch empfängt die Universitätskasse aus diesen Staaten keine
+                    Landesuniversität für <rs type="place" subtype="country" ref="#place_f213e3074e0c95c49458e3e8cc8335df">Braunschweig</rs> und <rs type="place" subtype="country" ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</rs>; jedoch empfängt die Universitätskasse aus diesen Staaten keine
                     Zuschüsse, obgleich einzelne Lehrer dergleichen sich erfreuen. Die Universität
                     ist ferner mit keinem Ertrag gebenden Vermögen von irgend einer Bedeutung
                     ausgestattet, denn sie bezieht nur einen Pachtzins von jährlich 60 Thlr. für den
                     Universitätsweinkeller, wozu für Freitischstellen usw. 1.531 Thlr. kommen,
                     endlich noch Gerichtssporteln etwa 1.200 Thaler. Ihre Einnahmen kommen daher
                     fast sämmtlich aus der General- und aus der Haupt-Klosterkasse; aus jener mit
-                    40.699 Thaler, aus dieser mit 105.963 Thaler.<lb/>Die ordentlichen <hi rend="ul"
-                        >Gesamtausgaben</hi> beliefen sich im Jahre 1814 auf 77.000 Thlr.; 1830 auf
+                    40.699 Thaler, aus dieser mit 105.963 Thaler.<lb/>Die ordentlichen <hi rend="ul">Gesamtausgaben</hi> beliefen sich im Jahre 1814 auf 77.000 Thlr.; 1830 auf
                     99.008 Thaler; 1840 auf 106.888 Thlr.; 1850 auf 125.156 Thlr.; 1856 auf 146.584
                     Thaler.<lb/>Diese bedeutende und rasche Kostensteigerung findet in der
                     nothwendigen Schaffung neuer und Erweiterung der älteren Hülfsanstalten, sowie
@@ -430,8 +395,7 @@
                         <p>http://d-nb.info/gnd/11856370X</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/11856370X</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11856370X</tei:idno>
                 </person>
                 <person xml:id="thun-hohenstein-leo">
                     <persName>
@@ -446,8 +410,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
                 <person xml:id="heufler-von-hohenbuehel-ludwig">
                     <persName>
@@ -462,8 +425,7 @@
                         <p>http://d-nb.info/gnd/116953462</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/116953462</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116953462</tei:idno>
                 </person>
             </listPerson>
             <listPlace>

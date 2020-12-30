@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="jaksch-an-unbekannt-1854-12-22-a3-xxi-d311.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1856-05-06-a3-xxi-d373c.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/jarcke-an-thun-1852-08-07-a3-xxi-d171.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="jaksch-an-unbekannt-1854-12-22-a3-xxi-d311.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1856-05-06-a3-xxi-d373c.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/jarcke-an-thun-1852-08-07-a3-xxi-d171.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#jaksch-anton" role="sender:gelehrter">Anton Jaksch</rs>
                     an Unbekannt<lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108"
-                        >o. O. [Prag]</rs>, <date when="1854-12-22">22. Dezember 1854</date>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">o. O. [Prag]</rs>, <date when="1854-12-22">22. Dezember 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DB98-3</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB98-3</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -77,18 +72,15 @@
                 </index>
                 <p>Liebster Freund!</p>
                 <p>So eben erhielt ich dein Schreiben und beantworte es augenblicklich, weil ich
-                    Dich bitten muß, über dessen Inhalt dem <rs type="person"
-                        ref="#thun-hohenstein-leo">Herrn Minister</rs> keine Mittheilungen zu
+                    Dich bitten muß, über dessen Inhalt dem <rs type="person" ref="#thun-hohenstein-leo">Herrn Minister</rs> keine Mittheilungen zu
                     machen. Ich habe ihm schon früher direkt meine Ansichten offen mittgetheilt und
                     wenn ich es für zweckdienlich hielte, würde ich es auch ferner eben so offen
-                    gethan haben. Allein ich würde ihn nur kränken, der <rs type="person"
-                        ref="#thun-hohenstein-leo">Herr Minister</rs> ist von der Richtigkeit seiner
+                    gethan haben. Allein ich würde ihn nur kränken, der <rs type="person" ref="#thun-hohenstein-leo">Herr Minister</rs> ist von der Richtigkeit seiner
                     Ansichten durchdrungen und wird darin von allen denen bestärkt, deren Rath ihm
                     zu Gebote steht. Hier kann nur die Erfahrung entscheiden, wer Recht hat, und
                     eben, weil ich weiß, daß der <rs type="person" ref="#thun-hohenstein-leo">Herr
                         Minister</rs> von dem Streben, Gutes und Segen zu verbreiten, durchdrungen
-                    ist, baue ich fest auf die Zukunft. Der <rs type="person"
-                        ref="#thun-hohenstein-leo">Herr Minister</rs> muß in Kurzem dahinter kommen,
+                    ist, baue ich fest auf die Zukunft. Der <rs type="person" ref="#thun-hohenstein-leo">Herr Minister</rs> muß in Kurzem dahinter kommen,
                     daß es auf dem eingeschlagenen Wege weder mit dem Gedeihen der Universitäten,
                     noch insbesondere mit einer gehörigen Ausbildung der Jugend vorwärts gehe, und
                     wird eben seiner edlen hochherzigen Bestrebungen wegen um so entschiedener das
@@ -143,8 +135,7 @@
                         <p>http://d-nb.info/gnd/117610909</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/117610909</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117610909</tei:idno>
                 </person>
                 <person xml:id="thun-hohenstein-leo">
                     <persName>
@@ -159,8 +150,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
             </listPerson>
             <listPlace>

@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="broggi-ueber-bischof-romilli_1855-07-26_a3-xxi-d346.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="broggi-ueber-bischof-romilli_1855-07-26_a3-xxi-d346.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Memorandum "L’Archiepiscopato di Bartolammeo Romilli" von Ferdinando
-                        Broggi<lb/><rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>, <date when="1855-07-26">26. Juli 1855</date></title>
+                        Broggi<lb/>
+                    <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>, <date when="1855-07-26">26. Juli 1855</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7E3-C</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -32,7 +36,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -42,7 +50,9 @@
                     <term>Lombardo-Venetien</term>
                     <term>Revolution</term>
                 </index>
-                <p><hi rend="italic">Dieses umfangreiche Dokument wurde nicht transkribiert.</hi></p>
+                <p>
+                    <hi rend="italic">Dieses umfangreiche Dokument wurde nicht transkribiert.</hi>
+                </p>
             </div>
         </body>
     </text>

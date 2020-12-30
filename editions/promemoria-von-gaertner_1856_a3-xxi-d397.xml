@@ -1,11 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="promemoria-von-gaertner_1856_a3-xxi-d397.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="promemoria-von-gaertner_1856_a3-xxi-d397.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Auszug aus einem Promemoria von Prof. <rs type="person" ref="#gaertner-wilhelm" key="gaertner-wilhelm">Wilhelm Gärtner</rs><lb/><rs type="place" subtype="place">o. O.</rs>, <date when="1856">o. D. [1856]</date></title>
+                <title>Auszug aus einem Promemoria von Prof. <rs type="person" ref="#gaertner-wilhelm" key="gaertner-wilhelm">Wilhelm Gärtner</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">o. O.</rs>, <date when="1856">o. D. [1856]</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7DF-2</tei:idno>
             </publicationStmt>
 
             <sourceDesc>
@@ -46,7 +51,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -154,7 +163,8 @@
                     juridisch-politischen Hörer, welche zu <hi rend="ul">zwei</hi> geschichtlichen
                     Kollegien verpflichtet sind, als ein <hi rend="ul">obligates</hi> gelte, d.h.
                     daß es die Stelle des zweiten Kollegiums über Weltgeschichte vertreten
-                        könne.<lb/><hi rend="ul">Ich hatte von der hohen Genehmigung dieser Bitte
+                        könne.<lb/>
+                    <hi rend="ul">Ich hatte von der hohen Genehmigung dieser Bitte
                         meine Rückkehr auf die Lehrkanzel nach Pest abhängig</hi> gemacht und fühlte
                     mich für solchen Entsagungsmuth nicht wenig erfreut, als ich nach Verlauf von
                     kaum 4 Tagen von der hohen Verordnung, die im Sinne meiner ehrfürchtigen Bitte
@@ -191,11 +201,13 @@
                     Gott, meine Zeit auf dieser Lehrkanzel werde bald ihr Ende erreichen!<lb/>Im <hi rend="ul">Interesse dieser wichtigsten</hi> Lehrkanzel an der <rs type="org" ref="#org_0008" key="universitaet-pest">Pester Universität</rs> einzig und allein <hi rend="ul">wage ich es, der hohen und höchsten Einflußnahme Kaiserlicher
                         Hoheit die Umwandlung dieses "außerordentlichen" Lehrstuhls in einen
                         "ordentlichen" aufs devoteste und flehentlichste
-                    anzuempfehlen.</hi><lb/>etc. etc. etc.</p>
+                    anzuempfehlen.</hi>
+                    <lb/>etc. etc. etc.</p>
 
             </div>
             <div type="enclosure" xml:id="D397_1">
-                <p>Gärtner ord. Prof. – Rector.<lb/>[?] ist gewesener Präses.<note>Eh. Notiz von Thun.</note></p>
+                <p>Gärtner ord. Prof. – Rector.<lb/>[?] ist gewesener Präses.<note>Eh. Notiz von Thun.</note>
+                </p>
                 <p>Nach einer Besprechung Seiner Exzellenz des Herr Minister <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Grafen Thun</rs> mit dem <rs type="person" ref="#scitovsky-jan" key="scitovsky-jan">Primas</rs> über den Zustand des Pesther
                     "Piaristen"-Gymnasiums schrieb der Letztere dem Stadtpfarrer <rs type="person" ref="#szantofy-anton" key="szantofy-anton">Szántoffy</rs> einen eigenhändigen lateinischen
                     Brief, mit der Weisung denselben dem Ordens-Provinzial vorzuweisen und

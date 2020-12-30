@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="hoefler-an-thun-1857-06-05-a3-xxi-d418.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1857-04-12-a3-xxi-d413.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1858-06-26-a3-xxi-d458.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hoefler-an-thun-1857-06-05-a3-xxi-d418.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1857-04-12-a3-xxi-d413.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1858-06-26-a3-xxi-d458.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="#hoefler-karl-adolf-constantin" role="sender:gelehrter"
-                        >Constantin Höfler</rs> an <rs type="person" ref="#thun-hohenstein-leo"
-                        role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108"
-                        >Prag</rs>, <date when="1857-06-05">5. Juni 1857</date>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1857-06-05">5. Juni 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DBAA-F</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBAA-F</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -57,8 +50,7 @@
                             Vorschlag unterstützen wird.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                target="#d418_1">Zusammenfassung der Beratungen zur baulichen
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d418_1">Zusammenfassung der Beratungen zur baulichen
                                 Umgestaltungen der Prager Universität.</tei:ref>
                         </p>
                     </physDesc>
@@ -94,11 +86,8 @@
                 </index>
                 <p>Euer Excellenz!</p>
                 <p>Ich hielt es für meine Pflicht, das erste Exemplar meiner am 28. vorigen Monats
-                    in der akademischen Aula in Gegenwart Seiner Eminenz des <rs type="person"
-                        ref="#schwarzenberg-friedrich">Herrn Universitätskanzlers</rs> gehaltenen
-                        Rede<note xml:id="note_1">Vgl. <ref
-                            target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10447669-8"
-                            >Constantin Höfler, Die philosophische Fakultät, ihre Stellung zur
+                    in der akademischen Aula in Gegenwart Seiner Eminenz des <rs type="person" ref="#schwarzenberg-friedrich">Herrn Universitätskanzlers</rs> gehaltenen
+                        Rede<note xml:id="note_1">Vgl. <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10447669-8">Constantin Höfler, Die philosophische Fakultät, ihre Stellung zur
                             Wissenschaft und zum Staate. Eine Rede, gehalten in der akademischen
                             Aula der Carolo-Ferdinanda bei Gelegenheit der ersten Verkündigung von
                             Preis-Aufgaben durch die philosophische Fakultät, Prag
@@ -107,8 +96,7 @@
                     gehalten wurde, 12 Uhr, sich in den Händen Eurer Excellenz befinden sollte. Da
                     mir aber Herr Dr. <rs type="person" ref="#nowak-august">Nowak</rs> meldete, sie
                     sei unbegreiflicher Weise nicht Eurer Excellenz zu Handen gekommen, während ich
-                    sie doch selbst auf die Post trug und in Gegenwart des <rs type="person"
-                        ref="#gindely-anton">Dr. Gindely</rs> in den Kasten legte, so beeile ich
+                    sie doch selbst auf die Post trug und in Gegenwart des <rs type="person" ref="#gindely-anton">Dr. Gindely</rs> in den Kasten legte, so beeile ich
                     mich Eurer Excellenz ein anderes Exemplar zu Füßen zu legen. Ich würde mich sehr
                     glücklich fühlen, wenn Euer Excellenz es lesen wollten. Nach Allem, was mir von
                     den verschiedensten Seiten gesagt wurde, ist der Gegensatz zwischen dem Alten
@@ -125,16 +113,12 @@
                     beherziget und eben deshalb mich entschieden gegen eine derartige Auffassung
                     ausgesprochen. Die philosophische Preisaufgabe ist mit bestimmter Rücksicht auf
                     die Philologen, die historische mit gleicher Beziehung auf die cand. juris
-                    gegeben und berührt die Zeit, in welcher <rs type="place" subtype="region"
-                        ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> die Verwirrung im
+                    gegeben und berührt die Zeit, in welcher <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> die Verwirrung im
                     deutschen Reiche klug benützend, sich aus der Zersplitterung zu staatlicher
                     Einheit, aus dem Verfalle zu so großem Ansehen emporarbeitete, daß die Wendung
-                    der europäischen Politik durch die Erhebung <rs type="person"
-                        ref="#friedrich-II">Friedrichs II.</rs> von einem Könige Siciliens auf den
+                    der europäischen Politik durch die Erhebung <rs type="person" ref="#friedrich-II">Friedrichs II.</rs> von einem Könige Siciliens auf den
                     deutschen Thron von <rs type="person" ref="#ottokar-I-premysl">Otokar I.</rs>
-                    ausging. Gebe Gott zum Ganzen seinen Segen!<lb/>Der Engländer <rs type="person"
-                        ref="#raby-richard">Raby</rs> aus <rs type="place" subtype="place"
-                        ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, welcher in
+                    ausging. Gebe Gott zum Ganzen seinen Segen!<lb/>Der Engländer <rs type="person" ref="#raby-richard">Raby</rs> aus <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, welcher in
                     diesen Tagen hier war, ist wie ich eben hörte, vom Verwaltungsrath der
                     Handelsschule zum Lehrer der englischen Sprache designirt. Ich führte ihn zu dem
                     Herrn Generalgroßmeister, welcher ihm für den Fall, daß Euer Excellenz den
@@ -145,8 +129,7 @@
                     Dasselbe hat so viel ich weiß auch Dr. Walter<note xml:id="note_2">In diesem
                         Zusammenhang ist unklar, wer genau gemeint ist. Es kann sein, dass Carl
                         Walther gemeint ist, der ebenfalls Mitglieder Prüfungskommission und des
-                        Prager Stadtrates war.</note> gethan. Endlich liegt von <rs type="person"
-                        ref="#raby-richard">Herrn Raby</rs> auch eine Eingabe an das philosophische
+                        Prager Stadtrates war.</note> gethan. Endlich liegt von <rs type="person" ref="#raby-richard">Herrn Raby</rs> auch eine Eingabe an das philosophische
                     Professorencollegium um eine Lectorstelle der englischen Sprache und Literatur
                     vor. <rs type="person" ref="#ricard-anselme">Mr. Ricard</rs>, Professor der
                     französischen Sprache und Literatur an der Handelsschule, hat mir heute ein
@@ -154,22 +137,19 @@
                     Facultät gebracht. Er spricht vortrefflich, hat ein sehr angenehmes Äußeres und
                     scheint ein Mann von vieler Bildung zu sein. Ich darf vielleicht bei dieser
                     Gelegenheit hinzufügen, daß die Sache seiner Ernennung als Privatdocent mit
-                    Sehnsucht entgegensieht – daß in <rs type="place" subtype="place"
-                        ref="#place_2a355a5b0521435f8248f11b12db208a">Bamberg</rs> ein Professor der
+                    Sehnsucht entgegensieht – daß in <rs type="place" subtype="place" ref="#place_2a355a5b0521435f8248f11b12db208a">Bamberg</rs> ein Professor der
                     Philosophie, namens <rs type="person" ref="#katzenberger-martin">Dr.
                         Katzenberger</rs>, sich befinde, welcher als Geistlicher ebenso die
                     allgemeine Achtung erlangte wie als Professor, wage ich in Bezug auf die bei dem
                     Polytechnicum beantragte Stelle ganz unmaßgeblich zu bemerken.<lb/>Morgen findet
                     eine Commissionssitzung in Betreff des Neubaues für naturwissenschaftliche
-                    Fächer statt. Der Rector, der philosophische Professorendecan und <rs
-                        type="person" ref="#pierre-viktor">Prof. Pierre</rs> werden sich hiebei für
+                    Fächer statt. Der Rector, der philosophische Professorendecan und <rs type="person" ref="#pierre-viktor">Prof. Pierre</rs> werden sich hiebei für
                     die Versetzung der Anatomie aus der Universität, dem Centrum der Stadt und dem
                     Aufenthalt der Lebenden in das Krankenhaus und Unterbringung der Physik in den
                     Räumen des Carolins aussprechen und in dieser Beziehung einen submissen Antrag
                     stellen. Wie mir Prof. <rs type="person" ref="#loeschner-josef">Löscher</rs>
                     [sic, richtig Löschner] sagt, scheitern viele sanitätspoliceiliche Maßregeln in
-                        <rs type="place" subtype="place"
-                        ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> an der Thatsache,
+                        <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> an der Thatsache,
                     welche freilich einzig in ihrer Art sein dürfte, daß die Leichen vom
                     Krankenhause durch den belebtesten Theil der Stadt ins Carolinum gebracht
                     werden, daß dort Sectionen und Präparationen statt finden. Daß die
@@ -192,18 +172,14 @@
                         Dagegen sollen Eure Excellenz gebeten werden, das Altstädter Gymnasium zu
                         verlegen – eventuell in das Bouquoische Haus – und dessen Räumlichkeiten den
                         naturhistorischen Fächern zu übergeben.<lb/>2. Solle der erste Stock –
-                        unbeschadet der Wohnung des Bibliothekars – <rs type="person"
-                            ref="#pierre-viktor">Prof. Pierre</rs> für das physikalische Cabinet,
+                        unbeschadet der Wohnung des Bibliothekars – <rs type="person" ref="#pierre-viktor">Prof. Pierre</rs> für das physikalische Cabinet,
                         Laboratorium, Hörsal, Wohnung des Cabinetsdieners eingeräumt werden.<lb/>3.
-                        Der zweite Stock, wie ihn das Altstädter Gymnasium besessen, solle dem <rs
-                            type="person" ref="#stein-samuel-friedrich">Prof. Stein</rs> für das
-                        zoologische Museum überwiesen werden.<lb/>4. <rs type="person"
-                            ref="#reuss-august">Prof. Reuß</rs> erhält für mineralogisches Cabinet,
+                        Der zweite Stock, wie ihn das Altstädter Gymnasium besessen, solle dem <rs type="person" ref="#stein-samuel-friedrich">Prof. Stein</rs> für das
+                        zoologische Museum überwiesen werden.<lb/>4. <rs type="person" ref="#reuss-august">Prof. Reuß</rs> erhält für mineralogisches Cabinet,
                         Hörsal, Arbeitszimmer, Lokalität für den Amtsdiener das bisherige
                         zoologische Cabinet und die mineralogischen Localitäten zusammen.<lb/>5.
                         Prof. <rs type="person" ref="#kosteletzky-vinzenz">Dr. Kosteletzký</rs>
-                        erhält einen Hörsal im Carolinum und zwar den, wo bisher der Buchhändler <rs
-                            type="person" ref="#schalek-josef">Schalek</rs> wohnte. Dieser Hörsal,
+                        erhält einen Hörsal im Carolinum und zwar den, wo bisher der Buchhändler <rs type="person" ref="#schalek-josef">Schalek</rs> wohnte. Dieser Hörsal,
                         welchen weder die medicinische noch die juristische Facultät benützt, wird
                         zugleich von denjenigen Professoren der philosophischen Facultät benutzt,
                         welche obligate Collegien für die Juristen lesen und bisher wegen Mangel an
@@ -222,11 +198,7 @@
                         Betreff der übrigen naturhistorischen Fächer nicht ausgiebig wäre. Es müßte
                         dann doch der Neubau geführt werden, während man so dem Staate die
                         bedeutende Ausgabe erspart.<lb/>Ich erlaube mir nun Eurer Excellenz diese
-                        unmaßgeblichen Vorschläge, in welchen sich Prof. <rs type="person"
-                            ref="#kosteletzky-vinzenz">Kosteletzký</rs>, <rs type="person"
-                            ref="#reuss-august">Reuß</rs>, <rs type="person"
-                            ref="#stein-samuel-friedrich">Stein</rs>, <rs type="person"
-                            ref="#pierre-viktor">Pierre</rs> mit mir einigten, um so mehr zu
+                        unmaßgeblichen Vorschläge, in welchen sich Prof. <rs type="person" ref="#kosteletzky-vinzenz">Kosteletzký</rs>, <rs type="person" ref="#reuss-august">Reuß</rs>, <rs type="person" ref="#stein-samuel-friedrich">Stein</rs>, <rs type="person" ref="#pierre-viktor">Pierre</rs> mit mir einigten, um so mehr zu
                         empfehlen, als von unserer Seite nur das wissenschaftliche Interesse
                         vorwaltet und wir ja bei einer Verlegung des Gymnasiums in das Bouquoische
                         Haus nicht wohlfeile Mieten verlieren, wie dieses der Fall bei den
@@ -252,8 +224,7 @@
                         <p>http://d-nb.info/gnd/118774654</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118774654</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118774654</tei:idno>
                 </person>
                 <person xml:id="thun-hohenstein-leo">
                     <persName>
@@ -268,8 +239,7 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
                 <person xml:id="schwarzenberg-friedrich">
                     <persName>
@@ -283,8 +253,7 @@
                         <p>http://d-nb.info/gnd/118763024</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118763024</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118763024</tei:idno>
                 </person>
                 <person xml:id="nowak-august">
                     <persName>
@@ -312,8 +281,7 @@
                         <p>http://d-nb.info/gnd/116632607</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/116632607</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116632607</tei:idno>
                 </person>
                 <person xml:id="friedrich-II">
                     <persName>
@@ -327,8 +295,7 @@
                         <p>http://d-nb.info/gnd/118535765</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118535765</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535765</tei:idno>
                 </person>
                 <person xml:id="ottokar-I-premysl">
                     <persName>
@@ -341,8 +308,7 @@
                         <p>http://d-nb.info/gnd/11949129X</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/11949129X</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11949129X</tei:idno>
                 </person>
                 <person xml:id="raby-richard">
                     <persName>
@@ -355,8 +321,7 @@
                         <p>http://d-nb.info/gnd/104232390</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/104232390</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104232390</tei:idno>
                 </person>
                 <person xml:id="ricard-anselme">
                     <persName>
@@ -383,8 +348,7 @@
                         <p>http://d-nb.info/gnd/116067888</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/116067888</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116067888</tei:idno>
                 </person>
                 <person xml:id="pierre-viktor">
                     <persName>
@@ -400,8 +364,7 @@
                         <p>http://d-nb.info/gnd/118897578</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118897578</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118897578</tei:idno>
                 </person>
                 <person xml:id="loeschner-josef">
                     <persName>
@@ -417,8 +380,7 @@
                         <p>http://d-nb.info/gnd/126556717</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/126556717</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/126556717</tei:idno>
                 </person>
                 <person xml:id="karl-IV">
                     <persName>
@@ -431,8 +393,7 @@
                         <p>http://d-nb.info/gnd/118560085</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118560085</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118560085</tei:idno>
                 </person>
                 <person xml:id="schalek-josef">
                     <persName>
@@ -459,8 +420,7 @@
                         <p>http://d-nb.info/gnd/117240265</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/117240265</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117240265</tei:idno>
                 </person>
                 <person xml:id="reuss-august">
                     <persName>
@@ -474,8 +434,7 @@
                         <p>http://d-nb.info/gnd/10082594X</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/10082594X</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/10082594X</tei:idno>
                 </person>
                 <person xml:id="kosteletzky-vinzenz">
                     <persName>
@@ -489,8 +448,7 @@
                         <p>http://d-nb.info/gnd/104330643</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/104330643</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104330643</tei:idno>
                 </person>
             </listPerson>
             <listPlace>

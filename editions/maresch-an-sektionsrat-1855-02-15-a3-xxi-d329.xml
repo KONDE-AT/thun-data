@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="maresch-an-sektionsrat-1855-02-15-a3-xxi-d329.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-sektionsrat-1854-08-11-a3-xxi-d275.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-thun-1858-08-25-a3-xxi-d467.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="maresch-an-sektionsrat-1855-02-15-a3-xxi-d329.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-sektionsrat-1854-08-11-a3-xxi-d275.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-thun-1858-08-25-a3-xxi-d467.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -12,14 +9,12 @@
                         Herr Sektionsrat" legt nahe, dass es sich bei dem Adressaten entweder um
                         Johann Simor oder Anton Krombholz handelt.</note>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108"
-                        >Prag</rs>, <date when="1855-02-15">15. Februar 1855</date>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1855-02-15">15. Februar 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DB35-3</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB35-3</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -97,10 +92,8 @@
                     mich, daß wichtige Verordnungen an die Gymnasialdirekzionen ergehen, von denen
                     er erst aus den Konferenzprotokollen Kunde erhält, daß Schüler aus den Anstalten
                     ausgeschlossen werden, ohne daß der Referent um die Zustimmung des Inspektors
-                    sich kümmert, weßhalb <rs type="person" ref="#effenberger-franz-ferdinand"
-                        >Effenberger</rs> allen Muth verliere. Ich kann das Gleiche berichten. Der
-                    älteste Lehrer in <rs type="place" subtype="place"
-                        ref="#place_0b6cbdf7ad2928078f1600a3e8979485">Plan</rs> erhielt das silberne
+                    sich kümmert, weßhalb <rs type="person" ref="#effenberger-franz-ferdinand">Effenberger</rs> allen Muth verliere. Ich kann das Gleiche berichten. Der
+                    älteste Lehrer in <rs type="place" subtype="place" ref="#place_0b6cbdf7ad2928078f1600a3e8979485">Plan</rs> erhielt das silberne
                     Verdienstkreuz, ohne daß ich über seine Verdienste befragt ward, der Katechet
                     für die Czeslauer Hauptschule wurde auf diesen Posten angestellt, ohne daß ich
                     mein Votum abzugeben veranlaßt ward, Privatinstitute werden bewilligt, ohne daß
@@ -109,8 +102,7 @@
                     Kurz, wir sind nur noch der Schatten der früheren Schulräthe, und bald werden
                     wir unwissender in dem sein was im Departement vorgeht, als die Konzipisten und
                     Konzeptsadjunkten, welche bei uns arbeiten.<lb/>Wie man uns anderweitig achtet
-                    geht daraus hervor, daß <rs type="person" ref="#zeithammer-gregor"
-                        >Zeithammer</rs> und ich ein gemeinsames Bureau haben, wodurch besonders bei
+                    geht daraus hervor, daß <rs type="person" ref="#zeithammer-gregor">Zeithammer</rs> und ich ein gemeinsames Bureau haben, wodurch besonders bei
                     Besuchen einer den anderen stört, und die Parteien nicht wenig genirt sind,
                     welche mit uns zu sprechen haben. Keine Tafel besagt, wo ein Schulrath zu
                     finden, nur für die Statthaltereiräthe sind welche angebracht; ich kaufe mir
@@ -160,26 +152,18 @@
                     K. N. (ohne Kiste). Sie werden in den Unterrealschulen für Konturzeichnungen
                     gute Dienste leisten, an den Oberrealschulen aber zu Ausführungen in
                     verschiedener Manier benutzt werden.<lb/>Herzlichen Dank für die 500 fr zur
-                    Anstellung eines Zeichnenlehrers in <rs type="place" subtype="place"
-                        ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> [Kamenický
-                    Šenov]. Schon ist der Grund zu einem kleinen Fonde dadurch gelegt, daß Herr <rs
-                        type="person" ref="#hofmann-wilhelm">Hofmann</rs>, Glasraffineur und
-                    Glashändler in <rs type="place" subtype="place"
-                        ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, den ich bei allen
-                    Schritten für <rs type="place" subtype="place"
-                        ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> theils
+                    Anstellung eines Zeichnenlehrers in <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> [Kamenický
+                    Šenov]. Schon ist der Grund zu einem kleinen Fonde dadurch gelegt, daß Herr <rs type="person" ref="#hofmann-wilhelm">Hofmann</rs>, Glasraffineur und
+                    Glashändler in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, den ich bei allen
+                    Schritten für <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> theils
                     berieth, theils von dem Geschehen verständigte, zu den bereits auf Zeichnungen
                     für Steinschönau jüngst gewidmeten Betrage von 100 fr einen weiteren Betrag von
                     400 fr widmete. Daß ich durch diese Gabe erfreut, bereits den Vikär und
                     Ortsseelsorger davon in Kenntnis setzte und aufforderte für Bildung des Fondes
-                    in <rs type="place" subtype="place"
-                        ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> um so mehr
+                    in <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> um so mehr
                     thätig zu sein, als selbst ein Prager Bürger solche Opfer bringt, versteht sich
                     von selbst. Sobald die Sammlung in Steinschönau vollendet ist, werde ich einen
-                    Bericht darüber für den Schulboten einsenden. Bereits hat man in <rs
-                        type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474"
-                        >Steinschönau</rs> erklärt die 500 fr von <rs type="person"
-                        ref="#hofmann-wilhelm">Hoffmann</rs> ungeschmälert zu erhalten und die
+                    Bericht darüber für den Schulboten einsenden. Bereits hat man in <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> erklärt die 500 fr von <rs type="person" ref="#hofmann-wilhelm">Hoffmann</rs> ungeschmälert zu erhalten und die
                     bereits beigeschafften Zeichnungsvorlagen aus Gemeindemitteln zu bezahlen.
                     Wieder ein Samenkörnlein des Guten in unserem lieben Heimathslande.<lb/>Für
                     heute genug. Leben Sie wohl. Meine gute Mutter meldet ihren Handkuß. In aller
@@ -201,8 +185,7 @@
                         <p>http://d-nb.info/gnd/116769041</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/116769041</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116769041</tei:idno>
                 </person>
                 <person xml:id="effenberger-franz-ferdinand">
                     <persName>
@@ -216,8 +199,7 @@
                         <p>http://d-nb.info/gnd/11585309X</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/11585309X</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11585309X</tei:idno>
                 </person>
                 <person xml:id="zeithammer-gregor">
                     <persName>
@@ -231,8 +213,7 @@
                         <p>http://d-nb.info/gnd/103366622X</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/103366622X</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/103366622X</tei:idno>
                 </person>
                 <person xml:id="hofmann-wilhelm">
                     <persName>

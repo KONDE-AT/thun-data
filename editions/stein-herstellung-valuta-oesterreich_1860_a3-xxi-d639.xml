@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stein-herstellung-valuta-oesterreich_1860_a3-xxi-d639.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stein-herstellung-valuta-oesterreich_1860_a3-xxi-d639.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -6,10 +7,12 @@
                     Herstellung der Valuta in Österreich"<lb/>o. D. [1857/58?]<note>Es erscheint als möglich, dass der Vorschlag im Zusammenhang mit der
                         Diskussion um eine Währungsreform in Österreich enstanden ist. Diese Reform
                         wurde in den Jahren 1857/58 im Ministerrat diskutiert und im November 1858
-                        abgeschlossen.</note></title>
+                        abgeschlossen.</note>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F801-A</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -38,7 +41,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,7 +56,8 @@
                     <term>Finanzen</term>
                 </index>
                 <div>
-                    <p><hi rend="ul">Die Herstellung der Valuta in Österreich</hi>
+                    <p>
+                        <hi rend="ul">Die Herstellung der Valuta in Österreich</hi>
                     </p>
                     <p>Es ist <hi rend="ul">möglich</hi>, die feste Valuta in Österreich in kurzer
                         Zeit und dauernd herzustellen. Dies kann aber nicht anders als durch
@@ -75,13 +83,16 @@
                         darum, sie neben der Silberfundation zur Geltung zu bringen.<lb/>Dies
                         geschieht, indem man erstlich eine Summe von 120–150 Millionen Gulden an
                         Banknoten vertilgt, und statt derselben die <hi rend="ul">gleiche Summe</hi>
-                        in Kassenscheinen ausgibt.<lb/><hi rend="ul">Zweitens</hi> diesen
+                        in Kassenscheinen ausgibt.<lb/>
+                        <hi rend="ul">Zweitens</hi> diesen
                         Kassenscheinen das ausschließliche Recht beilegt als Steuerzahlungsmittel
                         gebraucht werden zu können, während man das Recht der Einlösung derselben
                         bei der Bank aufhebt und dadurch die Silberfonde der Bank um das doppelte
-                        ihres Betrages liberiert,<lb/><hi rend="ul">drittens</hi> die übrig
+                        ihres Betrages liberiert,<lb/>
+                        <hi rend="ul">drittens</hi> die übrig
                         bleibenden eigentlichen Banknoten von c. 300 Millionen Gulden ausschließlich
-                        auf den Silbervorrath der Bank anweißt.<lb/><hi rend="ul">viertens</hi> alle
+                        auf den Silbervorrath der Bank anweißt.<lb/>
+                        <hi rend="ul">viertens</hi> alle
                             <hi rend="ul">kleine Noten</hi> bis 50 fl aufhebt und statt diesen
                         Kassenscheine ausgiebt, während die Bank nur große Noten von mindestens 50
                         f. ausgeben darf.<lb/>Als dann wird das kleine Papiergeld anfangen, eine
@@ -94,7 +105,8 @@
                         ohne dies kann die Bank auch jene eigentlichen Noten nicht gegen Entwährung
                         durch Agioactionen gegen ihre Baarfonds schützen.<lb/>Diese dauernde
                         Begründung der Valuta kann nur dadurch geschehen, daß die Nationalbank
-                        gänzlich von den Finanzen <hi rend="ul">getrennt wird.</hi><lb/>Eine solche
+                        gänzlich von den Finanzen <hi rend="ul">getrennt wird.</hi>
+                        <lb/>Eine solche
                         Trennung ist verhältnismäßig leicht herzustellen. Die einmal hergestellte
                         Trennung allein, nützt aber nichts, da es schwer sein wird, den
                         Glauben festzuhalten, daß der Staat bei jedem vorkommenden Falle nicht

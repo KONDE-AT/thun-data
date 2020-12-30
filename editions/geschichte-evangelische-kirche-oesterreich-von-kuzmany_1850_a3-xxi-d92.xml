@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="geschichte-evangelische-kirche-oesterreich-von-kuzmany_1850_a3-xxi-d92.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="geschichte-evangelische-kirche-oesterreich-von-kuzmany_1850_a3-xxi-d92.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Geschichte der evangelischen Kirche im Kaisertum Österreich von <rs type="person" ref="#kuzmany-karl" key="kuzmany-karl">Karl Kuzmany</rs><lb/>o. O., 1850</title>
+                <title>Geschichte der evangelischen Kirche im Kaisertum Österreich von <rs type="person" ref="#kuzmany-karl" key="kuzmany-karl">Karl Kuzmany</rs>
+                    <lb/>o. O., 1850</title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7F1-C</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -31,7 +34,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -46,7 +53,8 @@
                     evangelischen Kirche im <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserstaate
                         Oesterreich</rs> nach den verschiedenen Ländern und beiden
                     Confessionen.</p>
-                <p>1. Die A.C. in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs><lb/>Anfangs der Reformation und durch
+                <p>1. Die A.C. in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
+                    <lb/>Anfangs der Reformation und durch
                     das ganze XVI. Jahrhundert wurden die A.C. in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> durch
                     die römisch-katholischen Erzbischöfe und Bischöfe gleichsam als Zweige ihrer
                     Diöcesen betrachtet und als „Hochwürdige Verehrungswürdige Brüder“ angesprochen
@@ -177,7 +185,8 @@
                         hatten, befinden sich im Archiv der Bergsuperintendenz n.B. der Synoden von
                             <rs type="place" subtype="place">Trentschin</rs> 1619, <rs type="place" subtype="place">Szered</rs>
                         1620, <rs type="place" subtype="place">Prividz</rs> 1620, <rs type="place" subtype="place">Mossotz</rs>
-                        1621, <rs type="place" subtype="place">Sz. Martin</rs> 1623.</note><lb/>So hatte die
+                        1621, <rs type="place" subtype="place">Sz. Martin</rs> 1623.</note>
+                    <lb/>So hatte die
                     evangelische Kirche A.C. in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> zu dieser Zeit 6
                     Superintendenten und eine episcopalsynodale Verfassungsform, die vom Staate
                     anerkannt war. Die zweite, für die Evangelischen so traurige Hälfte des XVII.
@@ -222,9 +231,11 @@
                             statu relig[ionis] evang[elicae] in Hungaria in tres periodos distincta
                             1710</ref>.<lb/>2. <ref target="http://data.onb.ac.at/ABO/%2BZ173607900 ">Memorabilia ecclesiae
                             A.C. in regno Hung[ariae], recensuit Joh[ann] Ribini Posonii Tor. I.
-                            1781. T. 2. 1789.</ref><lb/>3. Tentamen juris ecclesiastici
+                            1781. T. 2. 1789.</ref>
+                        <lb/>3. Tentamen juris ecclesiastici
                         evangelicorum A.C. addictorum. Samuel Klein. Lipsio 1840.<lb/>4. <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10448853-1">Corpus maxime memorabilium Synodorum evang[elicarum] A.C. in Hungaria,
-                            edidit Joh[ann] Szeberinyi. Pest 1848</ref>.</note><lb/>Die Synode von
+                            edidit Joh[ann] Szeberinyi. Pest 1848</ref>.</note>
+                    <lb/>Die Synode von
                         <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> 1791<note>Anmerkung Kuzmanys:
                         Wird noch weiter unten II. H.C. etwas mehr über sie berührt werden. Ihre
                         Acta (Canonen) befinden sich im obigen Nr. 4. angezogenen Werke, von S.
@@ -252,7 +263,8 @@
                         deutschen Übersetzung befindet sich in Schimko’s Werk: „Das Leben der K.“
                         usw. von S. 207–224.</note> Die Berathungen darüber hätten 1848 gehalten
                     werden sollen.</p>
-                <p>II. Der H.C. in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs><lb/>Seit der Zeit, als die Protestanten
+                <p>II. Der H.C. in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
+                    <lb/>Seit der Zeit, als die Protestanten
                     in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> sich in zwei Partheien schieden, nahmen die H.C.
                     die Zürcher Verfassung zum Muster<note>Anmerkung Kuzmanys: Wie
                         diese beschlossen war, kann man lesen in: <ref target="http://books.google.at/books?id=YNxNAAAAcAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;amp;cad=0#v=onepage&amp;q&amp;f=false">Lavatter: De ritibus et institutis ecclesiae Tigurinae
@@ -396,7 +408,8 @@
                     nie dazu kommen, sondern faßten und sprachen die Beschlüsse ohne Sammlung der
                     Virilstimmen, sondern nach der Meinung der Versammlung, zu der jedermann
                     zugelassen und ein Recht mitzusprechen hatte.</p>
-                <p>III. Die A.C. in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs><lb/>Nachdem
+                <p>III. Die A.C. in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
+                    <lb/>Nachdem
                     die Reformation bei den Sachsen in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> schon 1545 durchgeführt wurde, blieb die
                     Geistlichkeit sowohl im Besitz der frühern Einkünfte und Rechte als auch der
                     Benennungen und meist auch der Verfassungsform. Sie wählten 1553 den ersten
@@ -447,7 +460,8 @@
                     dem Superintendenten, Gen. Dechant, Gen. Syndicus und einigen Pfarrern. Der
                     Superintendent ist dem Oberconsistorium nicht subordinirt, sondern coordinirt
                     und steht unmittelbar unter der Landesstelle. </p>
-                <p>IV. Die H.C. in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs><lb/>Die <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürger</rs> H.C. hielten anfangs der
+                <p>IV. Die H.C. in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
+                    <lb/>Die <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürger</rs> H.C. hielten anfangs der
                     Reformation und lange hernach mit den H.C. in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> jenseits
                     der Theiss, beriethen mit diesen zusammen und hatten dieselben <rs type="person" ref="#katona-stephan-gelei" key="katona-stephan-gelei">St[ephan] Katona (Geleii)schen</rs>
                     Canonen, welcher eben ein siebenbürgischer H.C. Superintendent

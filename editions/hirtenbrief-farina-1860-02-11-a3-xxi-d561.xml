@@ -4,7 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Hirtenbrief von Giovanni <rs type="person" ref="#farina-giovanni-antonio">Antonio Farina</rs>
-                    <lb/><rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs>,
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs>,
                     <date when="1860-02-11">11. Februar 1860</date>
                 </title>
             </titleStmt>

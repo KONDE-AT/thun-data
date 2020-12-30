@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="diepenbrock-an-thun_1850-05-06_a3-xxi-d50.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="diepenbrock-an-thun_1850-05-06_a3-xxi-d50.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><rs type="person" ref="#diepenbrock-melchior" key="diepenbrock-melchior" role="sender:kleriker">Melchior
-                        Diepenbrock</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs><lb/><rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>,
-                        <date when="1850-05-06">6. Mai 1850</date></title>
+                <title>
+                    <rs type="person" ref="#diepenbrock-melchior" key="diepenbrock-melchior" role="sender:kleriker">Melchior
+                        Diepenbrock</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>,
+                        <date when="1850-05-06">6. Mai 1850</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7F3-A</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -49,13 +55,32 @@
                         <p>Unter der Signatur A3 XXI D50 befinden sich noch zwei weitere Briefe, die
                             inhaltlich an diesen anschließen und daher wohl bei der Ordnung unter
                             einer Signatur zusammengefasst worden sind. Diese beiden Briefe sind
-                            hier jeweils einzeln aufgenommen:<lb/><ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-05-08_A3-XXI-D50a.xml">Melchior Diepenbrock an Leo Thun, Breslau, 8. Mai
-                                1850.</ref><lb/><ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-05-10_A3-XXI-D50b.xml">Melchior Diepenbrock an Leo Thun, Breslau, 10. Mai 1850.</ref></p>
+                            hier jeweils einzeln aufgenommen:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-05-08_A3-XXI-D50a.xml">Melchior Diepenbrock an Leo Thun, Breslau, 8. Mai
+                                1850.</ref>
+                            <lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-05-10_A3-XXI-D50b.xml">Melchior Diepenbrock an Leo Thun, Breslau, 10. Mai 1850.</ref>
+                        </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
-        </fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName ref="#diepenbrock-melchior">Melchior Diepenbrock</persName><date when="1850-05-06">6. Mai 1850</date></correspAction><correspAction type="received"><persName ref="#thun-hohenstein-leo">Leo Thun</persName></correspAction></correspDesc></profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#diepenbrock-melchior">Melchior Diepenbrock</persName>
+                    <date when="1850-05-06">6. Mai 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -120,7 +145,8 @@
                     mitgetheilt; von ihm rühren die Verbesserungen, die ich meistens adaptirt. Um
                     einen sorgfältig correcten Abdruck müßte ich schon dringend bitten.</p>
                 <div xml:id="D50_1" type="enclosure">
-                    <p><rs type="person" ref="#diepenbrock-melchior" key="diepenbrock-melchior">Melchior</rs>, von Gottes
+                    <p>
+                        <rs type="person" ref="#diepenbrock-melchior" key="diepenbrock-melchior">Melchior</rs>, von Gottes
                         Barmherzigkeit und des apostolischen Stuhles Gnade, Fürstbischof von Breslau
                         etc.<lb/>seinem Ehrwürdigen Clerus und seinen geliebten Diözesanen
                         österreichischen Antheils Gruß und Segen in Christo unserm Herrn!</p>
@@ -204,7 +230,8 @@
                         Bischöfe nur, was die (1800 Jahre später gekommenen) Staatscensoren
                         gutheißen.“<lb/>&lt;Ich möchte lieber sagen – Wundert Euch nicht über diese
                         unverblümte Darstellung einer Wahrheit, die an sich so furchtbar ernst, in
-                        ihrer Verkennung so unheilbringend ist.&gt;<lb/><note>Korrektur aus: Man könnte lachen über diese getreue Darstellung der
+                        ihrer Verkennung so unheilbringend ist.&gt;<lb/>
+                        <note>Korrektur aus: Man könnte lachen über diese getreue Darstellung der
                             Fakten, Wahrheit, wäre die Sache nicht so heilig ernst, und nicht so
                             tief betrübend ihre unheilige Verkennung.</note>Sodann wird in der
                         kaiserlichen Entschließung auf den begründeten Antrag des <rs type="org" ref="#org_0005" key="ministerium-fuer-kultus-und-unterricht">Ministeriums</rs> der
@@ -281,7 +308,9 @@
                         Geschichtsforschers und vielgeprüften Staatsmannes vernehmen, die er
                         (Nichtkatholik) vor wenigen Tagen seinem an demokratischer Freiheit
                         krampfhaft versiechenden Volke zurief:<lb/>„Wahnsinn ist’s“, sprach
-                            <rs type="person" ref="#guizot-francois" key="guizot-francois"><hi rend="ul">Guizot</hi></rs> in
+                            <rs type="person" ref="#guizot-francois" key="guizot-francois">
+                            <hi rend="ul">Guizot</hi>
+                        </rs> in
                             <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, „Wahnsinn ist’s, bürgerliche Freiheit und
                         Volksherrschaft durch Nachlaß von der Strenge des Glaubens und der Sitten
                         verbreiten zu wollen. Starke Gläubigkeit und strenge Sitten sind für die
@@ -307,7 +336,11 @@
                         nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, Euch aufforderte, um aus Eurer Einsicht
                         und Erfahrung nützlichen Rath für das wichtige Werk der Episkopalversammlung
                         zu schöpfen und mitzubringen, habt Ihr nicht in den ausführlichen
-                        gründlichen Interessen, welche aus beiden Commissariaten, <hi rend="ul"><rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs></hi> und <hi rend="ul"><rs type="place" subtype="place" ref="#place_c9bfa1cea49dab52be2b1735db4d6b6f">Neiße</rs></hi>, mir am 17. April vorigen Jahres
+                        gründlichen Interessen, welche aus beiden Commissariaten, <hi rend="ul">
+                            <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs>
+                        </hi> und <hi rend="ul">
+                            <rs type="place" subtype="place" ref="#place_c9bfa1cea49dab52be2b1735db4d6b6f">Neiße</rs>
+                        </hi>, mir am 17. April vorigen Jahres
                         eingesandt wurden, mit treuem und erleuchtetem priesterlichen Sinne ganz
                         dieselben Wünsche und Anträge hinsichtlich der Freigebung<note place="bottom">Korrektur aus: Freiheit.</note>der Kirche, ihrer
                         Verwaltung, ihrer Disciplin und ihres Lehramtes usw. ausgesprochen, deren
@@ -319,8 +352,11 @@
                         sie, „hat soeben einen seiner großartigen Acte der Gerechtigkeit und der
                         Genugthuung vollzogen, welche hinreichen, eine Regierung glorreich zu machen
                         und im Volk auf eine bewunderte Höhe in der Achtung der Welt zu erheben.
-                        Durch eine, auf den Antrag der Unterrichtsministers <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Grafen <hi rend="ul">Thun</hi></rs>
-                        erlassene Entschließung hat Seine Majestät der Kaiser <rs type="person" ref="#franz-joseph" key="franz-joseph"><hi rend="ul">Franz Joseph</hi></rs> der
+                        Durch eine, auf den Antrag der Unterrichtsministers <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Grafen <hi rend="ul">Thun</hi>
+                        </rs>
+                        erlassene Entschließung hat Seine Majestät der Kaiser <rs type="person" ref="#franz-joseph" key="franz-joseph">
+                            <hi rend="ul">Franz Joseph</hi>
+                        </rs> der
                         katholischen Kirche ihre Freiheit, ihre Rechte, ihre Selbstständigkeit
                         wiedergegeben. … Nichts konnte auf Oesterreichs <rs type="person" ref="#franz-joseph" key="franz-joseph">Kaiser</rs> einen reineren Ruhm und verdientere Segnungen
                         herabziehen. Durch ihn nimmt das Haus Habsburg in der Geschichte den

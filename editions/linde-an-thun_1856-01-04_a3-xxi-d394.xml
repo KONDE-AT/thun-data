@@ -1,19 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="linde-an-thun_1856-01-04_a3-xxi-d394.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="linde-an-thun_1856-01-04_a3-xxi-d394.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><rs type="person" ref="#linde-justin" key="linde-justin" role="sender:beamter">Justin Linde</rs> an
+                <title>
+                    <rs type="person" ref="#linde-justin" key="linde-justin" role="sender:beamter">Justin Linde</rs> an
                         <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</rs><lb/><rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, <date when="1856-01-04">4. Januar 1856</date><note>Der Brief trägt
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, <date when="1856-01-04">4. Januar 1856</date>
+                    <note>Der Brief trägt
                         das Datum 4. Dezember 1856, allerdings ist davon auszugehen, dass sich Linde
                         beim Schreiben, kurz nach Monats-/Jahreswechsel, im Monat geirrt hat. Der
                         Inhalt des Briefs sowie die zahlreichen Verweise auf vorangegangene Briefe
                         bzw. Hinweise in nachfolgenden Briefen sprechen für eine Datierung auf den
                         4. Januar 1856. Bei der Ordnung des Nachlasses wurde diese falsche Datierung
-                        nicht bemerkt.</note></title>
+                        nicht bemerkt.</note>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7DE-3</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -49,8 +56,23 @@
                     </msContents>
                 </msDesc>
             </sourceDesc>
-        </fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName ref="#linde-justin">Justin Linde</persName><date when="1856-01-04">4. Januar 1856</date></correspAction><correspAction type="received"><persName ref="#thun-hohenstein-leo">Leo Thun</persName></correspAction></correspDesc></profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#linde-justin">Justin Linde</persName>
+                    <date when="1856-01-04">4. Januar 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
 
     <text>
@@ -78,7 +100,8 @@
                     Ihren entfernten Verehrern, nichts übrig, als dafür zu beten, daß Gott Sie dem
                     Kaiser und dem Reiche noch lange erhalte, und nun bin ich im Herzen froh, für
                     die Erfüllung dieser Bitte danken zu können.<lb/>Gleichzeitig mit dem geehrten
-                    Schreiben Eurer Excellenz an mich, theilte mir <rs type="person" ref="#rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard">Herr Graf Rechberg</rs> das <ref target="thun/thun-korrespondenz/Oesterreichische_Nationalbibliothek/thun-an-rechberg_1855-12-26_CA910.xml"> Schreiben</ref><note>Vgl. Leo Thun an Bernhard
+                    Schreiben Eurer Excellenz an mich, theilte mir <rs type="person" ref="#rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard">Herr Graf Rechberg</rs> das <ref target="thun/thun-korrespondenz/Oesterreichische_Nationalbibliothek/thun-an-rechberg_1855-12-26_CA910.xml"> Schreiben</ref>
+                    <note>Vgl. Leo Thun an Bernhard
                         Rechberg-Rothenlöwen, 26. Dezember 1855.</note>wegen des <rs type="person" ref="#roessler-emil" key="roessler-emil">Dr. Rößler</rs> mit und sprach den Wunsch aus,
                     Hochdemselben deshalb direct und unmittelbar bald die gewünschte Aufklärung zu
                     geben. Ich habe deshalb um einige nähere Notizen mich an eine zuverlässige

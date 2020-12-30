@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-verfassungspatent-tirol_1849_a3-xxi-d25.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-verfassungspatent-tirol_1849_a3-xxi-d25.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,6 +9,7 @@
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7E6-9</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -53,32 +55,44 @@
                         <p>Insgesamt 7 Beilagen:</p>
                         <p>Beilage 1: ein zweites Exemplar des Entwurfes, dieses entspricht dem ersten
                             Entwurf inkl. der von Thun vorgenommenen Korrekturen, weshalb keine
-                            Transkription erfolgte.<lb/><ref target="#D25_1">Beilage 2: Entwurf der
+                            Transkription erfolgte.<lb/>
+                            <ref target="#D25_1">Beilage 2: Entwurf der
                                 Wahlordnung für die Stände der gefürsteten Grafschaft Tirol mit
                                 handschriftlichen Korrekturen von Thun</ref>.<lb/>Beilage 3: ein
                             zweites Exemplar des Wahlordnungsentwurfes, dieses entspricht dem ersten
                             Entwurf inkl. der von Thun vorgenommenen Korrekturen, weshalb keine
-                            Transkription erfolgte.<lb/><ref target="#D25_2">Beilage 4: Entwurf der
+                            Transkription erfolgte.<lb/>
+                            <ref target="#D25_2">Beilage 4: Entwurf der
                                 Geschäftsordnung mit handschriftlichen Korrekturen von Thun
-                            </ref><lb/>Beilage 5: Ein zweites Exemplar des
+                            </ref>
+                            <lb/>Beilage 5: Ein zweites Exemplar des
                             Geschäftsordnungsentwurfes, dieses entspricht dem ersten Entwurf inkl. der von
                             Thun vorgenommenen Korrekturen, weshalb keine Transkription
-                                erfolgt.<lb/><ref target="#D25_3">Beilage 6: Votum des
-                                Kultusministers</ref>.<lb/><ref target="#D25_4">Beilage 7:
+                                erfolgt.<lb/>
+                            <ref target="#D25_3">Beilage 6: Votum des
+                                Kultusministers</ref>.<lb/>
+                            <ref target="#D25_4">Beilage 7:
                                 Bemerkungen von <rs type="person" ref="#wolkenstein-leopold" key="wolkenstein-leopold">Leopold
                                     Wolkenstein</rs> zum Verfassungsentwurf Tirols, von Thun
-                                zusammengefasst</ref></p>
-                        <p><hi rend="italic">Die einzelnen Entwürfe sind mit handschriftlichen
+                                zusammengefasst</ref>
+                        </p>
+                        <p>
+                            <hi rend="italic">Die einzelnen Entwürfe sind mit handschriftlichen
                                 Korrekturen von Thun versehen. Die mit Bleistift vorgenommenen, laut
                                 Thun nicht zu berücksichtigenden Korrekturen sowie die mit Tinte
                                 vorgenommenen Korrekturen und Streichungen werden in den Fußnoten
                                 wiedergegeben. Einfügungen von Thun werden mit spitzen Klammern ohne
-                                Fußnote gekennzeichnet.</hi></p>
+                                Fußnote gekennzeichnet.</hi>
+                        </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -91,7 +105,8 @@
                     Geschäftsordnung mit Tinte eingetragenen Änderungen (auf Bleistiftzeichen ist
                     keine Rücksicht zu nehmen) sind mit rother Tinte in die beiden anderen Exemplare
                     einzutragen – das Votum abzuschreiben. Thun&gt;<note>Bemerkung
-                        Thuns am Anfang des Entwurfes</note></p>
+                        Thuns am Anfang des Entwurfes</note>
+                </p>
                 <p>Verfaßungspatent</p>
                 <p>Wir <rs type="person" ref="#franz-joseph" key="franz-joseph">Franz Joseph</rs> von Gottes Gnaden,
                     Kaiser von <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> etc. etc. etc.</p>
@@ -110,11 +125,15 @@
                         verschiedenen Beschaffenheit der sozialen [?] seiner Bevölkerung und der in
                         eigenthümlichen Interessen eine abgesonderte Vertretung derselben erheischt,
                         so behalten Wir Uns vor in dieser Beziehung besondere Bestimmungen zu
-                        treffen.</note><lb/>§ 1. Unsere gefürstete Grafschaft
-                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs><note>mit Bleistift: nebst
-                            <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs></note>bildet im <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Staatsverbande</rs> ein innerhalb seiner
+                        treffen.</note>
+                    <lb/>§ 1. Unsere gefürstete Grafschaft
+                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
+                    <note>mit Bleistift: nebst
+                            <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs>
+                    </note>bildet im <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Staatsverbande</rs> ein innerhalb seiner
                     gegenwärtigen Grenzmarken untheilbares Land.<lb/>§ 2. Dieselbe<note>mit Bleistift: Unsere gefürstete Grafschaft <rs type="place" subtype="region" key="tirol" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tyrol</rs> mit Ausschluß von
-                        <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs></note>wird durch die vier Stände, nemlich den
+                        <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs>
+                    </note>wird durch die vier Stände, nemlich den
                     Prälaten, den Adelstand, den Bürger und Bauernstand auf dem Landtage
                     vertreten.<lb/>§ 3. Der Landtag hat aus 56 Mitgliedern und zwar 14 aus jedem
                     Stande zu bestehen.<lb/>§ 4. Der Prälatenstand wird vertreten:<lb/>1. durch den
@@ -133,7 +152,8 @@
                         <rs type="place" subtype="place" ref="#place_2781d78cf5bdbb757c7c275e91694387">Innichen</rs>,<lb/>12. durch den Probst von
                         <rs type="place" subtype="place" ref="#place_99b3a2abb4050d5bef6da28efdc9552f">Arco</rs>,<lb/>13. durch den Arciprete von
                         <rs type="place" subtype="place" ref="#place_e610955f9b1286d934a0a5447e5e5192">Roveredo</rs>,<note>mit Bleistift: aus 14
-                        4 Welschtyroler</note><lb/>14. durch den Probst von
+                        4 Welschtyroler</note>
+                    <lb/>14. durch den Probst von
                         <rs type="place" subtype="place" ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</rs>, den Prior von <rs type="place" subtype="place" ref="#place_7580f5f486c19fc6b5b0dec742ca1949">Gries</rs> und
                     den Landcomenthur des deutschen Ordens, welche sich über die Art der gemeinsamen
                     Vertretung wechselseitig zu verständigen haben.<lb/>§ 5. Der Adelstand wird
@@ -172,7 +192,8 @@
                     katholischer Religion sind und das 30. Lebensjahr zurückgelegt haben, zugelassen
                         werden.<note>mit Bleistift: Wer nicht österreichischer
                         Staatsbürger ist, kann nur durch landesfürstliche Begünstigung die
-                        Befähigung erlangen, auf dem Landtage zu erscheinen.</note><lb/>§ 10.
+                        Befähigung erlangen, auf dem Landtage zu erscheinen.</note>
+                    <lb/>§ 10.
                     Personen, welche wegen eines Verbrechens, Vergehens oder wegen einer aus
                     Gewinnsucht oder gegen die öffentliche Sittlichkeit begangenen Übertretung in
                     Untersuchung gezogen wurden, können, wenn und in so lange sie nicht schuldlos
@@ -194,7 +215,8 @@
                         jedoch sind bei den theilweisen Neuwahlen die Bestimmungen der §§ 5 bis 7
                         rücksichtlich der Vertheilung der Stimmen zu beachten.<lb/>Bei jeder
                         späteren Theilerneuerung haben jene Mitglieder auszuscheiden, deren 6jährige
-                        Funktionsdauer abgelaufen ist.</note><lb/>Die Ausgetretenen können wieder
+                        Funktionsdauer abgelaufen ist.</note>
+                    <lb/>Die Ausgetretenen können wieder
                     gewählt werden.<lb/>Mitglieder, welche vor Vollendung ihrer Funktionsdauer aus
                     dem Landtag austreten, sind Fall für Fall durch neue Wahlen zu ersetzen.<lb/>Die
                     Berufung der Neugewählten hat nur für die Funktionsdauer derjenigen Wirksamkeit,
@@ -204,7 +226,8 @@
                     Mitgliedern des Landtages und auf die ganze Funktionsdauer den Landeshauptmann
                     zu ernennen, in der Folge gestatten Wir den Ständen von Fall zu Fall einen
                     Vorschlag zur Besetzung dieser Stelle an Uns gelangen zu lassen;<note>Streichung: damit verfügen Wir, daß dieses Amt mit einer
-                        Unserer landesfürstlichen Dienststellen nicht vereiniget werde.</note><lb/>§
+                        Unserer landesfürstlichen Dienststellen nicht vereiniget werde.</note>
+                    <lb/>§
                     15. Der Landeshauptmann führt den Vorsitz in den Versammlungen der Stände,
                     leitet die Berathung, er eröffnet und schließt den Landtag nach Beendigung der
                     Geschäfte.<lb/>§ 16. Wir überlassen es dem Landtage für Verhinderungsfälle des
@@ -222,7 +245,8 @@
                     lassen.<lb/>§ 18. Wir weisen ferner dem Landtage folgende Rechte und Befugnisse
                     zu:<lb/>a. Über die allgemeinen gesetzlichen Anordnungen und Einrichtungen in
                     Beziehung auf ihre besondere Rückwirkung auf das Wohl <rs type="place" subtype="region" key="tirol" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">dieses
-                        Landes</rs> zu berathen und Anträge an Uns zu stellen.<note>mit Bleistift: [?] auch nachträglich</note><lb/>b. Zu allen
+                        Landes</rs> zu berathen und Anträge an Uns zu stellen.<note>mit Bleistift: [?] auch nachträglich</note>
+                    <lb/>b. Zu allen
                     Gesetzen, die Wir in Absicht auf die besonderen Verhältnisse <rs type="place" subtype="region" key="tirol" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">dieses Landes</rs> zu erlassen gesonnen sind, den Beirath zu
                     üben.<lb/>c. Über besondere Landesangelegenheiten zu berathen und Beschlüsse zu
                     fassen, welche Beschlüsse, wenn sie Neuerungen oder Abweichungen von bestehenden
@@ -265,7 +289,8 @@
                     seiner sämmtlichen Mitglieder für deren Funktionsdauer und aus denselben
                     gewählt, wobei nach Ständen und mit Berücksichtigung der verschiedenen
                     Landestheile vorzugehen ist.&gt;<note>Einfügung Thuns mit der
-                        Bemerkung: (einzuschalten)</note><lb/>§ 22. Die Vollziehung der Beschlüsse
+                        Bemerkung: (einzuschalten)</note>
+                    <lb/>§ 22. Die Vollziehung der Beschlüsse
                     des Landtages und die Führung der laufenden Geschäfte werden unter der
                     Oberleitung des Landeshauptmannes oder seines Stellvertreters, welcher vom
                     Landtage auf die gleiche Amtsperiode des Landeshauptmannes gewählt wird, durch
@@ -293,27 +318,34 @@
                     Beobachtung der hiefür bestehenden Normen wie bisher dem Obersterblandmarschalle
                     überlassen.</p>
                 <div xml:id="D25_1" type="enclosure">
-                    <p><hi rend="ul">Wahlordnung</hi><lb/>für die Stände der gefürsteten Grafschaft
-                            <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs></p>
-                    <p><hi rend="ul">Wahlbefähigung</hi>:<lb/>§ 1. Um an den Wahlen für den Landtag
+                    <p>
+                        <hi rend="ul">Wahlordnung</hi>
+                        <lb/>für die Stände der gefürsteten Grafschaft
+                            <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
+                    </p>
+                    <p>
+                        <hi rend="ul">Wahlbefähigung</hi>:<lb/>§ 1. Um an den Wahlen für den Landtag
                         überhaupt theilnehmen zu können, ist die österreichische
                             Staatsbürgerschaft<note>mit Bleistift: oder der lf.
                             Dispens von diesem Erfordernisse dann,</note>die Angehörigkeit zu einer
                         tirolischen Gemeinde nebst dem Vollgenusse der bürgerlichen Rechte
-                        erforderlich.<lb/>§ 2. Besondere Erfordernisse sind:<lb/><hi rend="ul">Für
+                        erforderlich.<lb/>§ 2. Besondere Erfordernisse sind:<lb/>
+                        <hi rend="ul">Für
                             den Adelstand</hi>,<lb/>daß jeder Wähler und Gewählte der tirolischen
                         Adelsmatrikel angehöre, einen Grundbesitz in <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> habe,
                         von welchem wenigstens 25 fl ÖW jährlich an landefürstlicher Grundsteuer zu
                         entrichten sind,<note>Streichung: oder welcher einen
                             nachweisbaren Besitz im Werthe von 5000 fl ÖW hat</note>und daß der
                         Gewählte seit wenigstens einem Jahre in <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> wohnhaft
-                            sei.<lb/><hi rend="ul">Für den Bürgerstand</hi>,<lb/>daß jeder
+                            sei.<lb/>
+                        <hi rend="ul">Für den Bürgerstand</hi>,<lb/>daß jeder
                             Gewählte<note>Streichung: Wähler oder</note>einer Stadt
                         oder einem Markte seines Wahlkreises als Gemeindeglied angehöre und als
                         solches zur Wahl der Gemeindevertretung stimmberechtigt sei.<lb/>Für die
                         Vertretung des Handels und Gewerbe:<lb/>daß der Gewählte der betreffenden
                         Handels- und Gewerbekammer als Wahlberechtigter angehöre und in deren
-                        Umkreise wohnhaft sei.<lb/><hi rend="ul">Für den Bauernstand</hi>,<lb/>daß
+                        Umkreise wohnhaft sei.<lb/>
+                        <hi rend="ul">Für den Bauernstand</hi>,<lb/>daß
                         jeder Gewählte<note>Streichung: Wähler oder</note>einer
                         Gemeinde seines Wahlkreises als Gemeindeglied angehöre, als solches zu den
                         Gemeindewahlen stimmberechtigt sei und einen Grundbesitz, eigenthümlich oder
@@ -321,7 +353,8 @@
                         landesfürstliche Steuer von wenigstens 10 fl ÖW jährlich entrichte. Wer bei
                         einem Stande schon gewählt hat, kann bei einem anderen Stande nicht mehr
                         mitwählen.</p>
-                    <p><hi rend="ul">Wahlvorgang</hi>:<lb/>§ 3. Zum Behufe der im Adelstande
+                    <p>
+                        <hi rend="ul">Wahlvorgang</hi>:<lb/>§ 3. Zum Behufe der im Adelstande
                         vorzunehmenden Wahlen hat der Obersterblandmarschall nach vorläufiger
                         Erhebung ein Verzeichnis derjenigen, welche wählen und gewählt werden
                         können, den Betheiligten zur allfälligen Berichtigung innerhalb einer
@@ -333,7 +366,8 @@
                         einzelnen Wahlakte zu wählen sind.<lb/>Die Wahlzettel werden bei dem
                         Obersterbmarschall unter Mitwirkung von 2 Mitgliedern des ständigen
                         Ausschusses, welches nicht dem Adelstande angehören, eröffnet und
-                            verzeichnet.<lb/><hi rend="ul">Die</hi> relative Mehrheit der Stimmen
+                            verzeichnet.<lb/>
+                        <hi rend="ul">Die</hi> relative Mehrheit der Stimmen
                         entscheidet.<lb/>Jene, welche die meisten Stimmen erhalten haben, sind zu
                         Abgeordneten, jene aber, auf welche die nächst zahlreichen Stimmen gefallen
                         sind, zu Stellvertreter ernannt, falls auch die Wahl der letztern
@@ -372,7 +406,8 @@
                             Wahlmänner gewählt, bei Stimmengleichheit gibt das Loos den
                             Ausschlag.<lb/>Allfällige Anstände entscheidet das Comité sogleich aus
                             sich, es verständiget die Gewählten von der auf sie gefallenen Wahl.
-                        </note><lb/>§ 6. Die zweite Wahlabstufung, das ist die Wahl der Abgeordneten
+                        </note>
+                        <lb/>§ 6. Die zweite Wahlabstufung, das ist die Wahl der Abgeordneten
                         durch die Wahlmänner, wird in jedem Wahlbezirke durch einen Kommissär
                         geleitet, welcher von Fall zu Fall vom Landeshauptmanne, für die ersten
                         Landtagswahlen aber vom ständischen Präsidium für jeden Wahlkreis ernannt
@@ -399,7 +434,8 @@
                             den städtischen Wahlmännern sind jene berufen, welche dem Handels- und
                             Gewerbestande angehören.<lb/>Sollten deren zu wenige oder zu viele sein,
                             so entscheidet die größere Zahl der Stimmen, die sie als Wahlmänner
-                            erhalten haben.</note><lb/>Für den Wahlvorgang gelten übrigens die
+                            erhalten haben.</note>
+                        <lb/>Für den Wahlvorgang gelten übrigens die
                         Bestimmungen des § 6.<lb/>§ 8. Für die Abgeordneten des 3. und 4. Standes
                         sowie der Handels- und Gewerbekammern sind Stellvertreter, und zwar für
                         jeden Abgeordneten Einer auf die nämliche Art und Weise, wie die
@@ -415,7 +451,8 @@
                 </div>
                 <div xml:id="D25_2" type="enclosure">
                     <p>Geschäftsordnung für den Landtag der gefürsteten Grafschaft
-                            <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs></p>
+                            <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
+                    </p>
                     <p>1. Für den ersten Landtag, und zwar bis zur Ernennung des Landeshauptmanns,
                         läßt das ständische Präsidium die Vorarbeiten, welche für den Zusammentritt
                         des Landtages nöthig sind, besorgen.<lb/>2. Die Eröffnung des Landtages
@@ -461,7 +498,8 @@
                         ihren eigenen Angelegenheiten an den Landtag gerichtet werden. Petitionen
                         anderer Art sind von dem Landtage nicht anzunehmen und zu keiner Verhandlung
                             geeignet.&gt;<note>Korrektur aus: in Form von
-                            Petitionen.</note><lb/>9. Alle Einlagen sind durch den Landeshauptmann
+                            Petitionen.</note>
+                        <lb/>9. Alle Einlagen sind durch den Landeshauptmann
                         zur Kenntnis und Verhandlung des Landtages zu bringen.<lb/>Anonyme Schriften
                         werden nie angenommen.<lb/>10. Wichtige Berichte oder Anträge können nur
                         dann zur Berathung kommen, wenn sie wenigstens 24 Stunden vorher den
@@ -519,8 +557,10 @@
                         Bestimmungen der Vorlage, welche in dem von der Ministerkonferenz
                         angenommenen Statute beseitiget würden, erlaube ich mir folgende
                         großtentheils schon in dem Protokolle der Ministerkonferenz an verschiedenen
-                        Orten vorkommenden Bemerkungen:<lb/><hi rend="ul">Zum
-                        Verfassungspatent</hi><lb/>§ 9. Die Ministerkonferenz hat sich dafür
+                        Orten vorkommenden Bemerkungen:<lb/>
+                        <hi rend="ul">Zum
+                        Verfassungspatent</hi>
+                        <lb/>§ 9. Die Ministerkonferenz hat sich dafür
                         ausgesprochen, eine Dispens von dem Erfordernisse der österreichischen
                         Staatsbürgerschaft in Aussicht zu stellen.<lb/>Ich gebe zu, daß es
                         vielleicht in einigen Ländern gewissen Personen, obgleich sie nicht
@@ -570,8 +610,10 @@
                         Gesetzgebung ohne vorhergegangene Einvernehmung des Landtages zu
                         vertheidigen.<lb/>ad. c. Die beantragten Zusätze scheinen mir genügend, um
                         der Autonomie des Landtags in die Kommunalangelegenheiten des Landes die
-                        nothwendigen Schranken vorzuzeichnen.<lb/><hi rend="ul">Einschaltung nach §
-                            21.</hi><lb/>Die drei nach § 21 eingeschalteten §§ sind von dem Komite
+                        nothwendigen Schranken vorzuzeichnen.<lb/>
+                        <hi rend="ul">Einschaltung nach §
+                            21.</hi>
+                        <lb/>Die drei nach § 21 eingeschalteten §§ sind von dem Komite
                         vorgeschlagen worden, welche den Entwurf für die Berathung des verstärkten
                         Ausschusses verfaßte, worin auch das in § 22 vorkommende Zitat (§ 26) seine
                         Erklärung findet. Der verstärkte Ausschuß hat sie fallen lassen, vielleicht
@@ -624,11 +666,16 @@
                             Wolkenstein</rs> über den vom verstärkten Landesausschuß
                         bearbeiteten Entwurf der <rs type="place" subtype="region" key="tirol" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tyroler</rs> Verfassung</p>
                     <!-- 216 u. 217 -->
-                    <p><hi rend="ul">Motto</hi><lb/><hi rend="ul">nur nicht "schablonenmäßig und
+                    <p>
+                        <hi rend="ul">Motto</hi>
+                        <lb/>
+                        <hi rend="ul">nur nicht "schablonenmäßig und
                             breit"</hi>!</p>
                     <p>Die Veränderung in verstärkten Ausschuß (in dem aus dem Comité nur <rs type="person" ref="#wolkenstein-leopold" key="wolkenstein-leopold">W[olkenstein]</rs> saß) [?]; den
                         modernen Anschauungen und höheren Ministerentwurf wieder näher.<lb/>(die
-                        Bauern [?])<lb/><hi rend="ul">zu § 1-3 des [?]entwurfs</hi><lb/>Der
+                        Bauern [?])<lb/>
+                        <hi rend="ul">zu § 1-3 des [?]entwurfs</hi>
+                        <lb/>Der
                         Deutschtyroler Bauernstand hatte vor [1]848 11 Stimmen von 13, jetzt ihm
                         zugedacht 8 von 14;<lb/>um so mehr findet bei ihm das Verlangen nach
                         zahlreicher Vetretung Anklang.<lb/>Aber der Landtag soll sich auch mit
@@ -636,10 +683,12 @@
                         braucht er andere Elemente - und: nur <hi rend="ul">Ständevertretung</hi>
                         kann sein [?] (nicht Vertretung durch Advokat und [?]) wahren.<note>Anmerkung Thuns am Rande: Solange nicht Wahl, sondern
                             persönliche Vertretung [?]; man müßte durch Abstimmung nach Kurien
-                            [?].</note></p>
+                            [?].</note>
+                    </p>
                     <p>Wird Parität der Mitglieder der Stände aufrecht erhalten, so muß für
                         gestärkte Stellung des Adels gesorgt werden.</p>
-                    <p><rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs> ein [?], modernisirtes, utilitarisches
+                    <p>
+                        <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs> ein [?], modernisirtes, utilitarisches
                         Volk.<lb/>§ 4. in verstärkten Ausschuß Konzession [?] ([?] von
                             <rs type="place" subtype="place" ref="#place_e610955f9b1286d934a0a5447e5e5192">Roveredo</rs>) Welschtyrol zweckmäßig<lb/>§ 5.
                             <rs type="person" ref="#wolkenstein-leopold" key="wolkenstein-leopold">W[olkenstein]</rs> will
@@ -654,12 +703,15 @@
                         wozu Wahlagitation; verstärkter Ausschuß kommt auf 6 Jahre mit 1/2 Ernennung
                         alle 3 Jahre [?]<lb/>§ 20. [?]<lb/>§ 25-26. ständiger Ausschuß<lb/>[?] den
                         Landtage und der Entwicklung überlassen</p>
-                    <p><hi rend="ul">Wahlordnung</hi><lb/>für 3. und 4. Stand moderne Form mit
+                    <p>
+                        <hi rend="ul">Wahlordnung</hi>
+                        <lb/>für 3. und 4. Stand moderne Form mit
                         Vorwahlen und Wahlmännern! Bisher nur [1]848 [?].<lb/>In gewöhnlichen Zeiten
                         als lästig und von wenigen - den [?] - mit Eifer betrieben; in aufgeregter
                         Zeit bei [?]. Früher in Städten und Märkten vonden städtischen
                         Ausschüßen<lb/>unter Bauern von Versammlung Abgeordnete der
-                        Gerichtsausschüße gewählt.<lb/><hi rend="ul">sollte analog
+                        Gerichtsausschüße gewählt.<lb/>
+                        <hi rend="ul">sollte analog
                         bleiben</hi>!<lb/>Es wäre daher Sorge zu tragen, daß die Anzahl der
                         zusammentretenden Wahlmänner nicht zu geringe entfallen, insbesondere bei
                         den gemeinschaftlich wählenden Städten und Märkten den Verhältnissen der

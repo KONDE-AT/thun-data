@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <teiHeader>
         <fileDesc>
@@ -21,14 +22,11 @@
             <publicationStmt>
                 <publisher>Projektteam: Die Korrespondenz von Leo von Thun-Hohenstein.
                     Projektleitung <name>
-                        <ref
-                            target="http://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/univ-prof/mazohl-brigitte/"
-                            >Brigitte Mazohl</ref>
+                        <ref target="http://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/univ-prof/mazohl-brigitte/">Brigitte Mazohl</ref>
                     </name>
                 </publisher>
                 <pubPlace>
-                    <ref target="http://thun-korrespondenz.uibk.ac.at/"
-                        >http://thun-korrespondenz.uibk.ac.at/</ref>
+                    <ref target="http://thun-korrespondenz.uibk.ac.at/">http://thun-korrespondenz.uibk.ac.at/</ref>
                 </pubPlace>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/3.0/">
@@ -77,11 +75,8 @@
                     Bearbeitern gewählt. Durch Anklicken eines Schlagwortes erhalten Sie alle
                     Dokumente, die ebenfalls mit diesem Schlagwort versehen sind.<lb/>Im Abschnitt
                         <hi rend="bold">Text</hi> finden Sie den oder die transkribierten Texte. Zu
-                    den dabei angewandten Editionsrichtlinien finden Sie <ref
-                        target="show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta"
-                        >hier</ref> die notwendigen Informationen.<lb/>Am Ende des Textes findet
-                    sich der <hi rend="bold">Fußnotenapparat</hi> sowie die <hi rend="bold"
-                        >Signatur</hi> des Dokuments.</p>
+                    den dabei angewandten Editionsrichtlinien finden Sie <ref target="show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta">hier</ref> die notwendigen Informationen.<lb/>Am Ende des Textes findet
+                    sich der <hi rend="bold">Fußnotenapparat</hi> sowie die <hi rend="bold">Signatur</hi> des Dokuments.</p>
             </div>
             <div>
                 <head>Welche weiterführenden Informationen bieten die Texte?</head>
@@ -117,7 +112,8 @@
                 </div>
                 <div>
                     <head>Zugriff über die Register</head>
-                    <p>Das <hi rend="bold">Personenregister <ptr target="persons.html"/></hi> ist
+                    <p>Das <hi rend="bold">Personenregister <ptr target="persons.html"/>
+                        </hi> ist
                         alphabetisch aufgebaut, allerdings haben Sie die Möglichkeit nach den
                         einzelnen Rubriken zu sortieren. Der Aufbau des Registers folgt dem Schema:
                         Nachname, Vorname, Lebensdaten, Kurzbiographie. Durch Anklicken des
@@ -156,8 +152,7 @@
                 </div>
                 <div>
                     <head>Die Verwendung der Suche</head>
-                    <p>Die letzte Möglichkeit zum Zugriff besteht schließlich über die <hi
-                            rend="bold">Volltextsuche</hi>. Sie finden das entsprechende Suchfeld
+                    <p>Die letzte Möglichkeit zum Zugriff besteht schließlich über die <hi rend="bold">Volltextsuche</hi>. Sie finden das entsprechende Suchfeld
                         auf jeder Seite in der Kopfzeile oben rechts (Suche in allen Dokumenten).
                         Dabei müssen Sie indes beachten, dass durch unterschiedliche Schreibungen im
                         19. Jahrhundert diese Suche oft nicht zu allen möglichen Treffen führt. Sie

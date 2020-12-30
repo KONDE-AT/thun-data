@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="adamovich-an-thun_1849-10-31_a3-xxi-d12.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="adamovich-an-thun_1849-10-31_a3-xxi-d12.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><rs type="person" ref="#adamovich" key="adamovich" role="sender">Val. And. Adamovich<note>Der Schreiber konnte nicht eindeutig identifiziert
+                <title>
+                    <rs type="person" ref="#adamovich" key="adamovich" role="sender">Val. And. Adamovich<note>Der Schreiber konnte nicht eindeutig identifiziert
                             werden. Im Hof- und Staatshandbuch der Monarchie wird er mehrfach als
                             Ausschussmitglied und Aktionär der Österreichischen Nationalbank
-                        genannt.</note></rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs><lb/>
+                        genannt.</note>
+                    </rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
                     <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1849-10-31">31. Oktober
-                        1849</date></title>
+                        1849</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7FD-0</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -31,9 +37,24 @@
                     </msContents>
                 </msDesc>
             </sourceDesc>
-        </fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName ref="#adamovich">Val. And. Adamovich</persName><date when="1849-10-31">31. Oktober
-                        1849</date></correspAction><correspAction type="received"><persName ref="#thun-hohenstein-leo">Leo Thun</persName></correspAction></correspDesc></profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#adamovich">Val. And. Adamovich</persName>
+                    <date when="1849-10-31">31. Oktober
+                        1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>

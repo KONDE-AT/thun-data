@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Entwurf einer Verordnung über die politische Geschäfts- und Richteramtspraxis
-                    und die entsprechenden Prüfungen<lb/>o. O., <date when="1854">1853/54</date><note>Die Verordnung wurde am 10. Oktober
-                        1854 erlassen. Die Verordnung findet sich in <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18540004&amp;seite=00000987&amp;size=45">RGBl 263/1854</ref>.</note></title>
+                    und die entsprechenden Prüfungen<lb/>o. O., <date when="1854">1853/54</date>
+                    <note>Die Verordnung wurde am 10. Oktober
+                        1854 erlassen. Die Verordnung findet sich in <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18540004&amp;seite=00000987&amp;size=45">RGBl 263/1854</ref>.</note>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p>Die Beilage ist abgedruckt in: Die Protokolle des österreichischen Ministerrates
                     1848–1867. Das Ministerium Buol-Schauenstein, Bd. 3, Wien 1984, S. 152–155.</p>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7F2-B</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -42,15 +46,23 @@
                             Verwaltungsposten dienten.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilagen:<lb/><ref target="#D317_1">Votum Thuns zum
+                        <p>Beilagen:<lb/>
+                            <ref target="#D317_1">Votum Thuns zum
                                 Ministerkonferenzprotokoll vom 14. Februar 1854. o. O., o.
-                                D.</ref><lb/><ref target="#D317_2">Eh. Notizen Thuns für sein
-                                Votum.</ref></p>
+                                D.</ref>
+                            <lb/>
+                            <ref target="#D317_2">Eh. Notizen Thuns für sein
+                                Votum.</ref>
+                        </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,7 +73,9 @@
                     <term>Neoabsolutismus</term>
                     <term>Verwaltung</term>
                 </index>
-                <p><hi rend="ul">Entwurf</hi><lb/>Einer kaiserlichen Verordnung für den Umfang des
+                <p>
+                    <hi rend="ul">Entwurf</hi>
+                    <lb/>Einer kaiserlichen Verordnung für den Umfang des
                     ganzen Reiches, mit Ausnahme der Militärgränze, wodurch neue gesetzliche
                     Bestimmungen über die politische Geschäfts-, und über die Richteramts-Praxis, so
                     wie über die praktischen, politischen und Richteramtsprüfungen angeordnet
@@ -393,7 +407,8 @@
                     denselben, Nachsichten zu bewilligen.<lb/>Dispensen, welche hiernach von einem
                     dieser Minister für seinen Dienstzweig ertheilt wurden, sind jedoch nur für
                     diesen Dienstzweig wirksam.</p>
-                <p>Wien im<note>Streichung: November 1853.</note></p>
+                <p>Wien im<note>Streichung: November 1853.</note>
+                </p>
 
 
                 <div xml:id="D317_1" type="enclosure">

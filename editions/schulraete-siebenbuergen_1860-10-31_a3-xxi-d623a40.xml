@@ -1,12 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schulraete-siebenbuergen_1860-10-31_a3-xxi-d623a40.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schulraete-siebenbuergen_1860-10-31_a3-xxi-d623a40.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Die Schulräte von Siebenbürgen an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
-                    Thun</rs><lb/><rs type="place" subtype="place" key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when="1860-10-31">31. Oktober 1860</date></title>
+                    Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when="1860-10-31">31. Oktober 1860</date>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">21.11115/0000-000D-F7F4-9</tei:idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -30,7 +35,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,7 +60,15 @@
                     apostolische Majestät Eurer Excellenz unsterbliche Verdienste um Staat und
                     Wissenschaft zu belohnen geruhte, und in der Versicherung der ehrfurchtsvollsten
                     Hochachtung auszusprechen, mit welcher wir die Ehre haben zu geharren</p>
-                <p>Eurer Excellenz<lb/>unterthänigste Diener<lb/><rs type="person" ref="#schuller-johann-karl" key="schuller-johann-karl">Johann Carl Schuller</rs><lb/><rs type="person" ref="#vaszits-paul" key="vaszits-paul">Dr. Paul Vaszits</rs><lb/><rs type="person" ref="#festl-karl" key="festl-karl">Dr. Karl Festl</rs><lb/><rs type="person" ref="#salamon-josef" key="salamon-josef">Dr. Joseph Salamon</rs></p>
+                <p>Eurer Excellenz<lb/>unterthänigste Diener<lb/>
+                    <rs type="person" ref="#schuller-johann-karl" key="schuller-johann-karl">Johann Carl Schuller</rs>
+                    <lb/>
+                    <rs type="person" ref="#vaszits-paul" key="vaszits-paul">Dr. Paul Vaszits</rs>
+                    <lb/>
+                    <rs type="person" ref="#festl-karl" key="festl-karl">Dr. Karl Festl</rs>
+                    <lb/>
+                    <rs type="person" ref="#salamon-josef" key="salamon-josef">Dr. Joseph Salamon</rs>
+                </p>
                 <p>Hermannstadt, am 31. Oktober 1860</p>
             </div>
         </body>
