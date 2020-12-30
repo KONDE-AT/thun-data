@@ -104,7 +104,7 @@
 
     <!-- maps arche props to their values via xpath expressions; be aware the current TEI document needs to be encoded as '$doc' -->
     <acdh:TeiLookUps>
-        <acdh:hasTitle type="literal">normalize-space(string-join($item//tei:titleStmt/tei:title//text(), ''))</acdh:hasTitle>
+        <acdh:hasTitle type="literal">normalize-space(string-join($item//tei:titleStmt/tei:title//text()[not(./parent::tei:note)], ''))</acdh:hasTitle>
         <acdh:hasCoverageStartDate type="date">data($item//tei:titleStmt//tei:date/@when)</acdh:hasCoverageStartDate>
         <acdh:isContinuedBy type="resource">$item/@next</acdh:isContinuedBy>
         <acdh:continues type="resource">$item/@pref</acdh:continues>
