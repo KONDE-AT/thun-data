@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Depesche <rs type="person" ref="#albrecht-erzherzog" role="sender:beamter">Erzherzog
-                        Albrechts</rs> an <rs type="person" ref="#franz-joseph" role="recipient">Kaiser
+                <title>Depesche von <rs type="person" ref="#albrecht-erzherzog" role="sender:beamter">Erzherzog
+                        Albrecht</rs> an <rs type="person" ref="#franz-joseph" role="recipient">Kaiser
                         Franz Joseph</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs>, <date when="1860-02-02">2. Februar 1860</date>
