@@ -1617,6 +1617,13 @@
                         </location>
                         <idno>http://sws.geonames.org/715593/</idno>
                     </place>
+                    <place xml:id="place_oldenburg">
+                        <placeName>Oldenburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">53.14118 8.21467</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2857458/</idno>
+                    </place>
                     <place xml:id="place_6379e443edb8331172ed971d4798ccaf">
                         <placeName>Cittadella</placeName>
                         <location>
@@ -3666,8 +3673,7 @@
                         <idno>http://sws.geonames.org/2773913/</idno>
                     </place>
                     <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
-                        <placeName>Munich</placeName>
-                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="pref">München</placeName>
                         <placeName type="alt">München</placeName>
                         <placeName type="alt">Münchner</placeName>
                         <placeName type="alt">München</placeName>
@@ -7346,8 +7352,7 @@
                         <placeName type="alt">Novi Sad</placeName>
                     </place>
                     <place xml:id="place_4bafeb20cbf9d5c7c934c564ec1365ad" type="placeName">
-                        <placeName type="pref">baden</placeName>
-                        <placeName type="alt">Baden</placeName>
+                        <placeName type="pref">Baden</placeName>
                     </place>
                     <place xml:id="place_6d3b365884aa3ff4107b6995e580de1b" type="placeName">
                         <placeName type="pref">solin</placeName>
@@ -7853,8 +7858,8 @@
                         <idno>http://d-nb.info/gnd/4053668-3</idno>
                     </place>
                     <place xml:id="place_5afc76bc69955ce317651a3dc1dbb0d6" type="placeName">
-                        <placeName type="pref">Baviera</placeName>
-                        <placeName type="alt">Bayern</placeName>
+                        <placeName type="alt">Baviera</placeName>
+                        <placeName type="pref">Bayern</placeName>
                         <location>
                             <geo decls="#LatLng">48.949444 11.395</geo>
                         </location>
