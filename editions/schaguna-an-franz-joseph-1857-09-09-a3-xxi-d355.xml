@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schaguna-an-franz-joseph-1857-09-09-a3-xxi-d355.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-prozess-aigner-vs-ruben-1856-a3-xxi-d402.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schaguna-an-rajacic-1850-07-27-a3-xxi-d63.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#schaguna-andreas" role="sender:kleriker">Andreas
                         Schaguna</rs> an Kaiser <rs type="person" ref="#franz-joseph" role="recipient">Franz Joseph</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-09-09">9. September 1857</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1857-09-09">9. September 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -53,7 +52,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#schaguna-andreas">Andreas Schaguna</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1857-09-09">9. September 1857</date>
+                    <date when-iso="1857-09-09">9. September 1857</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#franz-joseph">Franz Joseph</rs>

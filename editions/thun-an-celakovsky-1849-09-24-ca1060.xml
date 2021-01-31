@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-celakovsky-1849-09-24-ca1060.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bonitz-1855-08-26-ca1013.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-celakovsky-1850-11-16-ca1058.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#celakovsky-frantisek-ladislav" role="recipient"> Frantisek
                         Ladislaus Čelakovšký</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1849-09-24">24. September 1849</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1849-09-24">24. September 1849</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -58,7 +57,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1849-09-24">24. September 1849</date>
+                    <date when-iso="1849-09-24">24. September 1849</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#celakovsky-frantisek-ladislav">Frantisek Ladislaus Čelakovšký</rs>

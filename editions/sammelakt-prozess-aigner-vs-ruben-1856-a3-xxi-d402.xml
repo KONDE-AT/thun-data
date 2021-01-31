@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="sammelakt-prozess-aigner-vs-ruben-1856-a3-xxi-d402.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-neuregelung-ehegesetz-1855-a3-xxi-d360.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schaguna-an-franz-joseph-1857-09-09-a3-xxi-d355.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bericht über die Stimmung unter den Protestanten Ungarns<lb/>
-                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when="1856-12-28">28. Dezember
+                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when-iso="1856-12-28">28. Dezember
                         1856</date>
                 </title>
             </titleStmt>

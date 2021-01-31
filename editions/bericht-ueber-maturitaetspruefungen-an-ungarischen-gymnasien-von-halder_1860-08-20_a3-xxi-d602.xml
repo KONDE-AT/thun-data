@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bericht-ueber-maturitaetspruefungen-an-ungarischen-gymnasien-von-halder_1860-08-20_a3-xxi-d602.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     1860 von <rs type="person" ref="#halder-konrad" key="halder-konrad" role="sender:beamter">Konrad
                         Halder</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when="1860-08-20">20. August 1860</date>
+                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when-iso="1860-08-20">20. August 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -53,7 +52,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#halder-konrad">Konrad Halder</persName>
-                    <date when="1860-08-20">20. August 1860</date>
+                    <date when-iso="1860-08-20">20. August 1860</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>

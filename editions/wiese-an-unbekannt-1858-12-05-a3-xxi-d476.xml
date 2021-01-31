@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="wiese-an-unbekannt-1858-12-05-a3-xxi-d476.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1855-04-02-a3-xxi-d337.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Auszug aus einem Brief von <rs type="person" ref="#wiese-ludwig-adolf" role="sender:beamter">Ludwig Wiese</rs> an einen unbekannten
                         Empfänger<lb/>
-                    <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>, <date when="1858-12-05">5.
+                    <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>, <date when-iso="1858-12-05">5.
                         Dezember 1858</date>
                 </title>
             </titleStmt>
@@ -51,7 +50,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#wiese-ludwig-adolf">Ludwig Wiese</rs>
                     <settlement ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</settlement>
-                    <date when="1858-12-05">5.
+                    <date when-iso="1858-12-05">5.
                         Dezember 1858</date>
                 </correspAction>
             </correspDesc>

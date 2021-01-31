@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="vortrag-thun-regelung-verwaltung-religionsfond-1852-05-12-a3-xxi-d166.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/votum-nadasdy-ministerkonferenz-1860-01-07-a3-xxi-d625e.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Abschrift eines Alleruntertänigsten Vortrages <rs type="person" ref="#thun-hohenstein-leo">Leo Thuns</rs> zur Regelung der Verwaltung
                     der Religionsfonds<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1852-05-12">12.
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1852-05-12">12.
                         Mai 1852</date>
                 </title>
             </titleStmt>

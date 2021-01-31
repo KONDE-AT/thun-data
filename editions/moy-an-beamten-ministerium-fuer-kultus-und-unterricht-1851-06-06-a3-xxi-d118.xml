@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="moy-an-beamten-ministerium-fuer-kultus-und-unterricht-1851-06-06-a3-xxi-d118.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1851-11-09-a3-xxi-d128.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs> an
-                        Unbekannt<lb/>[<rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>], <date when="1851-06-06">6.
+                        Unbekannt<lb/>[<rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>], <date when-iso="1851-06-06">6.
                         Juni 1851</date>
                     <note xml:id="note_1">Es ist nicht klar, wer der Empfänger
                         des Schreibens war. Die fehlende Anrede lässt jedoch vermuten, dass das

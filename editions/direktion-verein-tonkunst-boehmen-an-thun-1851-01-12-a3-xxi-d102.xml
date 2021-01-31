@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="direktion-verein-tonkunst-boehmen-an-thun-1851-01-12-a3-xxi-d102.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-11-09-a3-xxi-d76.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/dittrich-an-thun-1849-08-10-a3-xxi-d1.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Die Direktion des Vereins zur Beförderung der Tonkunst in Böhmen an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O.,
-                        <date when="1851-01-12">12. Januar 1851</date>
+                        <date when-iso="1851-01-12">12. Januar 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>

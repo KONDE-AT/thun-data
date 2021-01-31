@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gutachten-ueber-volksschulen-von-krombholz-1850-05-31-a3-xxi-d54.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-ueber-universitaet-von-kink-1853-12-01-a3-xxi-d241.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-unterricht-fabrikskinder-von-krombholz-1856-08-18-a3-xxi-d383h.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Gutachten über die Volksschulen von <rs type="person" ref="#krombholz-anton" role="sender:beamter">Anton Krombholz</rs>
-                    <lb/>o. O., <date when="1850-05-31">31. Mai 1850</date>
+                    <lb/>o. O., <date when-iso="1850-05-31">31. Mai 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>

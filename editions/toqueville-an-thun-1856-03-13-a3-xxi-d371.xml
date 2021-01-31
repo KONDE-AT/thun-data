@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="toqueville-an-thun-1856-03-13-a3-xxi-d371.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/tomek-an-thun-konzept-od-ca1407.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/treitler-an-thun-1855-03-16-a3-xxi-d334.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#toqueville-alexis" role="sender:gelehrter">Alexis de
                         Tocqueville</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, <date when="1856-03-13">13. März 1856</date>
+                    <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, <date when-iso="1856-03-13">13. März 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#toqueville-alexis">Alexis de Tocqueville</rs>
                     <settlement ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</settlement>
-                    <date when="1856-03-13">13. März 1856</date>
+                    <date when-iso="1856-03-13">13. März 1856</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

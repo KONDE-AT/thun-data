@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/tischendorf-an-thun-1850-07-17-a3-xxi-d62.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Tomášek</rs> an <rs type="person" ref="#kuzmany-karl" role="recipient">Karl
                         Kuzmány</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_7a9f61d953841dd7ac7507d4919975f3">Chyžno</rs>, <date when="1860-06-20">20. Juni 1860</date>
+                    <rs type="place" subtype="place" ref="#place_7a9f61d953841dd7ac7507d4919975f3">Chyžno</rs>, <date when-iso="1860-06-20">20. Juni 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#tomasek-samuel">Samuel Tomášek</rs>
                     <settlement ref="#place_7a9f61d953841dd7ac7507d4919975f3">Chyžno</settlement>
-                    <date when="1860-06-20">20. Juni 1860</date>
+                    <date when-iso="1860-06-20">20. Juni 1860</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#kuzmany-karl">Karl Kuzmány</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-juelg-1855-03-04-ca808.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-juelg-1855-01-05-ca807.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-juelg-1855-04-17-ca809.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#juelg-bernhard" role="recipient">Bernhard
                         Jülg</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1855-03-04">4.
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1855-03-04">4.
                         März 1855</date>
                 </title>
             </titleStmt>
@@ -43,7 +42,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1855-03-04">4.
+                    <date when-iso="1855-03-04">4.
                         März 1855</date>
                 </correspAction>
                 <correspAction type="received">

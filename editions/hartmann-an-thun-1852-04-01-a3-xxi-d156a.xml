@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hartmann-an-thun-1852-04-01-a3-xxi-d156a.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/harrach-an-thun-1853-09-07-a3-xxi-d229.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-27-a3-xxi-d156b.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#hartmann-franz" role="sender:beamter">Franz
                         Hartmann</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when="1852-04-01">1. April 1852</date>
+                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when-iso="1852-04-01">1. April 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -55,7 +54,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#hartmann-franz">Franz Hartmann</rs>
                     <settlement ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</settlement>
-                    <date when="1852-04-01">1. April 1852</date>
+                    <date when-iso="1852-04-01">1. April 1852</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

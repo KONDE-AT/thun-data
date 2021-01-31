@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bissingen-an-thun-1854-09-22-a3-xxi-d285.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bissingen-an-thun-1852-05-14-a3-xxi-d167.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/blazina-an-einen-professor-1852-06-10-a3-xxi-d169.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Bissingen</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_5891474b8c1bc6f744b99e2b10c4a3db">Schramberg in Württemberg</rs>,
-                        <date when="1854-09-22">22. September 1854</date>
+                        <date when-iso="1854-09-22">22. September 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -54,7 +53,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#bissingen-cajetan">Cajetan Bissingen</rs>
                     <settlement ref="#place_5891474b8c1bc6f744b99e2b10c4a3db">Schramberg in Württemberg</settlement>
-                    <date when="1854-09-22">22. September 1854</date>
+                    <date when-iso="1854-09-22">22. September 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

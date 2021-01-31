@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/winaricky-an-thun-1860-07-08-a3-xxi-d596.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#winkler-anton" role="sender:gelehrter">Anton
                         Winkler</rs> an <rs type="person" ref="#philippsberg-eugen" role="recipient">Eugen Philippsberg</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</rs>, <date when="1851-11-14">14. November 1851</date>
+                    <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</rs>, <date when-iso="1851-11-14">14. November 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#winkler-anton">Anton Winkler</rs>
                     <settlement ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</settlement>
-                    <date when="1851-11-14">14. November 1851</date>
+                    <date when-iso="1851-11-14">14. November 1851</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#philippsberg-eugen">Eugen Philippsberg</rs>

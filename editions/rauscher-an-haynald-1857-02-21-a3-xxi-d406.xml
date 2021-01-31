@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="rauscher-an-haynald-1857-02-21-a3-xxi-d406.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-haulik-1857-02-05-a3-xxi-d405.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1850-03-07-a3-xxi-d36.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Rauscher</rs> an <rs type="person" ref="#haynald-lajos" role="recipient">Lajos
                         Haynald</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-02-21">21. Februar 1857</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1857-02-21">21. Februar 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -42,7 +41,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#rauscher-joseph">Joseph Othmar Rauscher</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1857-02-21">21. Februar 1857</date>
+                    <date when-iso="1857-02-21">21. Februar 1857</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#haynald-lajos">Lajos Haynald</rs>

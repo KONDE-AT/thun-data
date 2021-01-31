@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="moy-an-thun-1858-01-28-a3-xxi-d445.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1855-01-06-a3-xxi-d322.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when="1858-01-28">28. Januar 1858</date>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1858-01-28">28. Januar 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -57,7 +56,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs>
                     <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
-                    <date when="1858-01-28">28. Januar 1858</date>
+                    <date when-iso="1858-01-28">28. Januar 1858</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

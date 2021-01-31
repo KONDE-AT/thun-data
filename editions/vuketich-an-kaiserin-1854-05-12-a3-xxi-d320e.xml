@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="vuketich-an-kaiserin-1854-05-12-a3-xxi-d320e.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/votum-zu-dudiks-abhandlung-1850-12-a3-xxi-d246.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/wacholz-an-thun-1855-10-06-a3-xxi-d349.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#vuketich-maria-antonia" role="sender:kleriker">Maria Antonia
                         Vuketich</rs> an <rs type="person" ref="#elisabeth" role="recipient">Kaiserin
                         Elisabeth</rs>
-                    <lb/>Lesina [<rs type="place" subtype="place" ref="#place_57e334eca1d4813a6748c74bd094e0e9">Hvar</rs>], <date when="1854-05-12">12. Mai 1854</date>
+                    <lb/>Lesina [<rs type="place" subtype="place" ref="#place_57e334eca1d4813a6748c74bd094e0e9">Hvar</rs>], <date when-iso="1854-05-12">12. Mai 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#vuketich-maria-antonia">Maria Antonia Vuketich</rs>
                     <settlement ref="#place_57e334eca1d4813a6748c74bd094e0e9">Hvar</settlement>
-                    <date when="1854-05-12">12. Mai 1854</date>
+                    <date when-iso="1854-05-12">12. Mai 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#elisabeth">Kaiserin Elisabeth</rs>

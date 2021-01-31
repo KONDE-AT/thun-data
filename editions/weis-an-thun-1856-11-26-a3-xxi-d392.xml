@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="weis-an-thun-1856-11-26-a3-xxi-d392.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/weber-an-thun-1853-07-11-a3-xxi-d213.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1854-09-04-a3-xxi-d279.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#weis-nikolaus" role="sender:kleriker">Nikolaus Weis</rs>
                     an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_9290bf86c029c6030af8166e3bc89cd9">Speyer</rs>, <date when="1856-11-26">26. November 1856</date>
+                    <rs type="place" subtype="place" ref="#place_9290bf86c029c6030af8166e3bc89cd9">Speyer</rs>, <date when-iso="1856-11-26">26. November 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#weis-nikolaus">Nikolaus Weis</rs>
                     <settlement ref="#place_9290bf86c029c6030af8166e3bc89cd9">Speyer</settlement>
-                    <date when="1856-11-26">26. November 1856</date>
+                    <date when-iso="1856-11-26">26. November 1856</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

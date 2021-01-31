@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-haxthausen-1858-06-19-ca1030.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-15-ca1029.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1851-03-20-ca1411.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#haxthausen-august" role="recipient">August
                         Haxthausen</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when="1858-06-19">19. Juni 1858</date>
+                    <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when-iso="1858-06-19">19. Juni 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</settlement>
-                    <date when="1858-06-19">19. Juni 1858</date>
+                    <date when-iso="1858-06-19">19. Juni 1858</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#haxthausen-august">August Haxthausen</rs>

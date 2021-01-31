@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="slavicek-an-thun-1860-10-25-a3-xxi-d623a15.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/slavicek-an-thun-1853-03-12-a3-xxi-d194.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/sommaruga-an-thun-1853-07-19-a3-xxi-d216.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#slavicek-josef" role="sender:gelehrter">Josef
                         Slavíček</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>, <date when="1860-10-25">25. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>, <date when-iso="1860-10-25">25. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -49,7 +48,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#slavicek-josef">Josef Slavíček</rs>
                     <settlement ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</settlement>
-                    <date when="1860-10-25">25. Oktober 1860</date>
+                    <date when-iso="1860-10-25">25. Oktober 1860</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

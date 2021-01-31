@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="haulik-an-thun-1854-11-14-a3-xxi-d299.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-o-d-a3-xxi-d81.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/haulik-an-thun-1860-11-13-a3-xxi-d623a5.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_104b5ac4af06263707f5418d171ffe3d">Agram</rs>, <date when="1854-11-14">14. November 1854</date>
+                    <rs type="place" subtype="place" ref="#place_104b5ac4af06263707f5418d171ffe3d">Agram</rs>, <date when-iso="1854-11-14">14. November 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -56,7 +55,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#haulik-georg">Georg Haulik</rs>
                     <settlement ref="#place_104b5ac4af06263707f5418d171ffe3d">Agram</settlement>
-                    <date when="1854-11-14">14. November 1854</date>
+                    <date when-iso="1854-11-14">14. November 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

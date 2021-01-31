@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gesuch-niederoesterreichischer-grundherren-an-ministerrat-1850-05-14-a3-xxi-d52.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gesetz-fuer-koenigreich-boehmen-1869-02-08-a3-xxi-d86.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/gesuch-ungarn-1857-05-09-a3-xxi-d625b.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Gesuch mehrerer niederösterreichischer Grundherrn an den
                         Ministerrat<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1850-05-14">14. Mai
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1850-05-14">14. Mai
                         1850</date>
                 </title>
             </titleStmt>
@@ -101,7 +100,7 @@
                     gezogen durch die Pflichten aller gegen den Einzelnen, dem sie die Bürgschaft
                     seiner Rechte schulden, ohne deren gewißenhafte Zuhaltung die Bande der
                     Gesellschaft brechen müssen, sie selbst in Verfall gerathen muß. Unter ihre
-                    Ägide und jene des Gesetzes vom <date when="1848-09-07">7. Sept. 1848
+                    Ägide und jene des Gesetzes vom <date when-iso="1848-09-07">7. Sept. 1848
                     </date>gestellt, glauben sie in dem letzteren das Maß ihrer Opfer zur Wohlfahrt
                     des Vaterlandes erkennen zu dürfen und in den darüber hinausschweifenden
                     Ausdehnungen vermögen sie ebenso wenig das Gebot unabweislicher Nothwendigkeit

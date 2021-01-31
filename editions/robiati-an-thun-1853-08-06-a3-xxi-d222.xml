@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="robiati-an-thun-1853-08-06-a3-xxi-d222.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rimpel-an-unbekannt-o-d-a3-xxi-d248.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/roczek-an-thun-1850-01-02-a3-xxi-d29.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     </rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>, <date when="1853-08-06">6. August 1853</date>
+                    <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>, <date when-iso="1853-08-06">6. August 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -53,7 +52,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#robiati-ambrogio">Ambrogio Robiati</rs>
                     <settlement ref="#place_e30630933146ed8683482de23229fd6a">Mailand</settlement>
-                    <date when="1853-08-06">6. August 1853</date>
+                    <date when-iso="1853-08-06">6. August 1853</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

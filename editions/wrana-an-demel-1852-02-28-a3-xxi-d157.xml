@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="wrana-an-demel-1852-02-28-a3-xxi-d157.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-o-d-a3-xxi-d141.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/zaboysky-an-thun-1851-12-11-a3-xxi-d136.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     an <rs type="person" ref="#demel-heinrich-johann" role="recipient:gelehrter">Heinrich
                         Johann Demel</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</rs>, <date when="1852-02-28">28. Februar 1852</date>
+                    <rs type="place" subtype="place" ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</rs>, <date when-iso="1852-02-28">28. Februar 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#wrana-cajetan">Cajetan Wrana</rs>
                     <settlement ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</settlement>
-                    <date when="1852-02-28">28. Februar 1852</date>
+                    <date when-iso="1852-02-28">28. Februar 1852</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#demel-heinrich-johann">Heinrich Johann Demel</rs>

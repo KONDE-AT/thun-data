@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="zell-an-thun-1849-12-31-a3-xxi-d21.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/zeitungsausschnitt-od-a3-xxi-d123.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/zeynek-an-thun-1860-11-01-a3-xxi-d623a23.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#zell-karl" role="sender:gelehrter">Karl Zell</rs> an
                         <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs>, <date when="1849-12-31">31. Dezember
+                    <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs>, <date when-iso="1849-12-31">31. Dezember
                         1849</date>
                 </title>
             </titleStmt>
@@ -49,7 +48,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#zell-karl">Karl Zell</rs>
                     <settlement ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</settlement>
-                    <date when="1849-12-31">31. Dezember
+                    <date when-iso="1849-12-31">31. Dezember
                         1849</date>
                 </correspAction>
                 <correspAction type="received">

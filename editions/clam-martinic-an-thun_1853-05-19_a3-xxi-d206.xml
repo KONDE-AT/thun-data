@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="clam-martinic-an-thun_1853-05-19_a3-xxi-d206.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#clam-martinic-heinrich-jaroslav" key="clam-martinic-heinrich-jaroslav" role="sender:verwandter">Heinrich Clam-Martinic</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
-                    <lb/>o. O., <date when="1853-05-19">19.
+                    <lb/>o. O., <date when-iso="1853-05-19">19.
                         Mai [1853?]<note>Der Brief ist im Nachlass dem Jahr 1853
                             zugeordnet.</note>
                     </date>
@@ -41,7 +40,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#clam-martinic-heinrich-jaroslav">Heinrich Clam-Martinic</persName>
-                    <date when="1853-05-19">19.
+                    <date when-iso="1853-05-19">19.
                         Mai [1853?] Der Brief ist im Nachlass dem Jahr 1853
                             zugeordnet.</date>
                 </correspAction>

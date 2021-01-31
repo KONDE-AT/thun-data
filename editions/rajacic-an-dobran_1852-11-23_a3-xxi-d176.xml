@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="rajacic-an-dobran_1852-11-23_a3-xxi-d176.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Abschrift eines Briefes von <rs type="person" ref="#rajacic-joseph" key="rajacic-joseph" role="sender:kleriker">Joseph Rajačić</rs> an <rs type="person" ref="#dobran-johann" key="dobran-johann" role="recipient:beamter">Johann Dobran</rs>
                     <lb/>o.
-                    O., <date when="1852-11-23">23. November 1852</date>
+                    O., <date when-iso="1852-11-23">23. November 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#rajacic-joseph">Joseph Rajačić</persName>
-                    <date when="1852-11-23">23. November 1852</date>
+                    <date when-iso="1852-11-23">23. November 1852</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="#dobran-johann">Johann Dobran</persName>

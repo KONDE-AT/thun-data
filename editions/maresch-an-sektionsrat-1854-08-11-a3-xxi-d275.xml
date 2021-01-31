@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="maresch-an-sektionsrat-1854-08-11-a3-xxi-d275.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/marckwort-an-thun-1854-06-27-a3-xxi-d264.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-sektionsrat-1855-02-15-a3-xxi-d329.xml">
     <teiHeader>
         <fileDesc>
@@ -9,7 +8,7 @@
                         ist nicht eindeutig identifizierbar. Durch die Anrede als Hochwürden kommen
                         indes aber nur Anton Krombholz und Johann Simor in Frage.</note>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</rs>, <date when="1854-08-11">11. August 1854</date>
+                    <rs type="place" subtype="place" ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</rs>, <date when-iso="1854-08-11">11. August 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -57,7 +56,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#maresch-johann">Johann Maresch</rs>
                     <settlement ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</settlement>
-                    <date when="1854-08-11">11. August 1854</date>
+                    <date when-iso="1854-08-11">11. August 1854</date>
                 </correspAction>
                 <correspAction type="received">einen Sektionsrat im MCU</correspAction>
             </correspDesc>

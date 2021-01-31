@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="radziwill-an-thun-1850-01-21-a3-xxi-d32.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/radziwill-an-thun-1849-11-24-a3-xxi-d17.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran-1852-11-23-a3-xxi-d176.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Wilhelm Radziwiłł</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>,
-                        <date when="1850-01-21">21. Januar 1850</date>
+                        <date when-iso="1850-01-21">21. Januar 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -66,7 +65,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#radziwill-friedrich-wilhelm">Friedrich Wilhelm Radziwiłł</rs>
                     <settlement ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</settlement>
-                    <date when="1850-01-21">21. Januar 1850</date>
+                    <date when-iso="1850-01-21">21. Januar 1850</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

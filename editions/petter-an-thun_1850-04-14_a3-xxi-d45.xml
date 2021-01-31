@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="petter-an-thun_1850-04-14_a3-xxi-d45.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_709f3a6e556e54e97c8bcc39dade6c1d">Spalato</rs> [Split], <date when="1850-04-14">14. April 1850</date>
+                    <rs type="place" subtype="place" ref="#place_709f3a6e556e54e97c8bcc39dade6c1d">Spalato</rs> [Split], <date when-iso="1850-04-14">14. April 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -80,7 +79,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#petter-franz">Franz Petter</persName>
-                    <date when="1850-04-14">14. April 1850</date>
+                    <date when-iso="1850-04-14">14. April 1850</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="#thun-hohenstein-leo">Leo Thun</persName>

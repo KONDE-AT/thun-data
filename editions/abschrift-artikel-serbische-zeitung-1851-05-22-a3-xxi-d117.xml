@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-allgemeine-kirchenzeitung-1850-a3-xxi-d91.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-teil-votum-thun-entwurf-bezirksaemter-o-d-a3-xxi-d147.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Abschrift eines Artikels aus der serbischen Zeitung
                         Wojwodjanka<lb/>
-                    <rs type="place" subtype="place" ref="#place_958705244c5c71f1250c0c0d76838770">Semlin</rs>, <date when="1851-05-22">22.
+                    <rs type="place" subtype="place" ref="#place_958705244c5c71f1250c0c0d76838770">Semlin</rs>, <date when-iso="1851-05-22">22.
                         Mai 1851</date>
                 </title>
             </titleStmt>

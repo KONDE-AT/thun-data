@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="auszug-publikation-von-papiu-ilarian-1853-01-04-a3-xxi-d250.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/baruffi-an-thun-1853-08-10-a3-xxi-d223.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Auszug aus der Geschichte der Romanen Oberdakiens von <rs type="person" ref="#papiu-ilarian-alexandru">Alexandru Papiu-Ilarian</rs>
                     <lb/>o. O.,
-                        <date when="1853-01-04">4. Januar 1853</date>
+                        <date when-iso="1853-01-04">4. Januar 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>

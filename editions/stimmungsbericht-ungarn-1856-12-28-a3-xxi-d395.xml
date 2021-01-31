@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stimmungsbericht-ungarn-1856-12-28-a3-xxi-d395.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-rom-1856-05-16-a3-xxi-d381.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stimpel-an-thun-1860-10-25-a3-xxi-d623a16.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bericht über die Stimmung unter den Protestanten Ungarns<lb/>
-                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when="1856-12-28">28. Dezember 1856</date>
+                    <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when-iso="1856-12-28">28. Dezember 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>

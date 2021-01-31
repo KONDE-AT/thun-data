@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bezdeka-an-thun-1860-10-24-a3-xxi-d623a13.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/besprechung-unierte-kirchen-1858-06-16-a3-xxi-d454.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bezirkskommissariate-an-stadthauptmannschaft-1851-03-a3-xxi-d109.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_3172a77b8607114165d5656e9757720e">Pisek</rs>, <date when="1860-10-24">24. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_3172a77b8607114165d5656e9757720e">Pisek</rs>, <date when-iso="1860-10-24">24. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#bezdeka-franz">Franz Bezděka</rs>
                     <settlement ref="#place_3172a77b8607114165d5656e9757720e">Pisek</settlement>
-                    <date when="1860-10-24">24. Oktober 1860</date>
+                    <date when-iso="1860-10-24">24. Oktober 1860</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

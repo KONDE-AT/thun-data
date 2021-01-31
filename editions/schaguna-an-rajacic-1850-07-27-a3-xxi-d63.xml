@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schaguna-an-rajacic-1850-07-27-a3-xxi-d63.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schaguna-an-franz-joseph-1857-09-09-a3-xxi-d355.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schanda-an-thun-1861-01-03-a3-xxi-d623a25.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Schaguna</rs> an <rs type="person" ref="#rajacic-joseph">Joseph
                         Rajačić</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when="1850-07-27">27. Juli 1850</date>
+                    <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when-iso="1850-07-27">27. Juli 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#schaguna-andreas">Andreas Schaguna</rs>
                     <settlement ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</settlement>
-                    <date when="1850-07-27">27. Juli 1850</date>
+                    <date when-iso="1850-07-27">27. Juli 1850</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#rajacic-joseph">Joseph Rajačić</rs>

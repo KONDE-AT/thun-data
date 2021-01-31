@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="dittrich-an-thun-1849-08-10-a3-xxi-d1.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/direktion-verein-tonkunst-boehmen-an-thun-1851-01-12-a3-xxi-d102.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/dittrich-an-thun-1849-09-05-a3-xxi-d6.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Dittrich</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_8693e2dab442002527fb0f3ebee905c8">Budissin
-                        [Bautzen]</rs>,<date when="1849-08-10">10. August 1849</date>
+                        [Bautzen]</rs>,<date when-iso="1849-08-10">10. August 1849</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -58,7 +57,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#dittrich-josef">Josef Dittrich</rs>
                     <settlement ref="#place_8693e2dab442002527fb0f3ebee905c8">Budissin [Bautzen]</settlement>
-                    <date when="1849-08-10">10. August 1849</date>
+                    <date when-iso="1849-08-10">10. August 1849</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

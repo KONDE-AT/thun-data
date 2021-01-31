@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="fraenzinger-an-thun-1854-08-08-a3-xxi-d274.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/forgach-an-thun-1860-10-28-a3-xxi-d623a1.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/fragen-und-antworten-ungarn-od-a3-xxi-d625c.xml">
     <teiHeader>
         <fileDesc>
@@ -14,7 +13,7 @@
                         ist.</note>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_84741e39bd2250054745bd841d851b05">Freiburg i.
-                        B.</rs>, <date when="1854-08-08">8. August 1854</date>
+                        B.</rs>, <date when-iso="1854-08-08">8. August 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -56,7 +55,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#fraenzinger">Ignaz Fränzinger</rs>
                     <settlement ref="#place_84741e39bd2250054745bd841d851b05">Freiburg i. B.</settlement>
-                    <date when="1854-08-08">8. August 1854</date>
+                    <date when-iso="1854-08-08">8. August 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

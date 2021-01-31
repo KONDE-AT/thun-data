@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="phillips-an-thun-1852-02-24-a3-xxi-d156.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-01-24-a3-xxi-d154.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-03-09-a3-xxi-d158.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1852-02-24">24.
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1852-02-24">24.
                         Februar 1852</date>
                 </title>
             </titleStmt>
@@ -54,7 +53,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#phillips-george">George Phillips</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1852-02-24">24.
+                    <date when-iso="1852-02-24">24.
                         Februar 1852</date>
                 </correspAction>
                 <correspAction type="received">

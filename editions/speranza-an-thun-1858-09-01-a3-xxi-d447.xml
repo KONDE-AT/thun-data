@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="speranza-an-thun-1858-09-01-a3-xxi-d447.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/sommaruga-an-thun-1853-07-19-a3-xxi-d216.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#speranza-pietro-luigi" role="sender:kleriker">Pietro Luigi
                         Speranza</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_3a8f916e8f8560773ac9b8eb6349b1c4">Bergamo</rs>, <date when="1858-09-01">1. September 1858</date>
+                    <rs type="place" subtype="place" ref="#place_3a8f916e8f8560773ac9b8eb6349b1c4">Bergamo</rs>, <date when-iso="1858-09-01">1. September 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +42,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#speranza-pietro-luigi">Pietro Luigi Speranza</rs>
                     <settlement ref="#place_3a8f916e8f8560773ac9b8eb6349b1c4">Bergamo</settlement>
-                    <date when="1858-09-01">1. September 1858</date>
+                    <date when-iso="1858-09-01">1. September 1858</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hirtenbrief-von-wierzchleyski-1854-11-08-a3-xxi-d297.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-von-haynald-1854-11-22-a3-xxi-d301.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1851-12-07-a3-xxi-d133.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Hirtenbrief von Bischof <rs type="person" ref="#wierzchlejski-franciszek">Franciszek
                         Ksawery Wierzchleyski</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemysl</rs>, <date when="1854-11-08">8. November 1854</date>
+                    <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemysl</rs>, <date when-iso="1854-11-08">8. November 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>

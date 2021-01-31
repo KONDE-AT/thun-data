@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-exner-1849-04-11-ca813.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-19-ca78.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1852-08-24-ca79.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#exner-franz" role="recipient">Franz
                         Exner</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1849-04-11">11. April 1849</date>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1849-04-11">11. April 1849</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
-                    <date when="1849-04-11">11. April 1849</date>
+                    <date when-iso="1849-04-11">11. April 1849</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#exner-franz">Franz Exner</rs>

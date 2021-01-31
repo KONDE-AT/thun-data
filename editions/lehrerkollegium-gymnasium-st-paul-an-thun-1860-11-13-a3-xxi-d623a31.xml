@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lehrerkollegium-gymnasium-st-paul-an-thun-1860-11-13-a3-xxi-d623a31.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-pilsen-an-thun-1860-12-10-a3-xxi-d623a35.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-triest-an-thun-1860-a3-xxi-d623a29.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Das Lehrerkollegium des Gymnasiums in St. Paul an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_cab98f16acacdea50dbd91a389d0624d">St. Paul</rs>, <date when="1860-11-13">13. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_cab98f16acacdea50dbd91a389d0624d">St. Paul</rs>, <date when-iso="1860-11-13">13. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>

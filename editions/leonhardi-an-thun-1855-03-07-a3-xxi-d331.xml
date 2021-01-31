@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="leonhardi-an-thun-1855-03-07-a3-xxi-d331.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1852-03-11-a3-xxi-d159.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1855-03-08-a3-xxi-d333.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#leonhardi-hermann" role="sender:gelehrter">Hermann
                         Leonhardi</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1855-03-07">07. März 1855</date>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1855-03-07">07. März 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -56,7 +55,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#leonhardi-hermann">Hermann Leonhardi</rs>
                     <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
-                    <date when="1855-03-07">07. März 1855</date>
+                    <date when-iso="1855-03-07">07. März 1855</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

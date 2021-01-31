@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="simor-an-thun-1859-11-21-a3-xxi-d528.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1858-06-18-a3-xxi-d455.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1860-04-16-a3-xxi-d571.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_aac36cfc2853efb1e6932ef241d56c8b">Kroisbach</rs>, <date when="1859-11-21">21. November 1859</date>
+                    <rs type="place" subtype="place" ref="#place_aac36cfc2853efb1e6932ef241d56c8b">Kroisbach</rs>, <date when-iso="1859-11-21">21. November 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#simor-johann">János Simor</rs>
                     <settlement ref="#place_aac36cfc2853efb1e6932ef241d56c8b">Kroisbach</settlement>
-                    <date when="1859-11-21">21. November 1859</date>
+                    <date when-iso="1859-11-21">21. November 1859</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

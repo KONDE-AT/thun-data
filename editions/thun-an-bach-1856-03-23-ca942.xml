@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-1856-03-23-ca942.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1854-05-03-ca940.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1859-07-08-ca941.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#bach-alexander" role="recipient">Alexander
                         Bach</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when="1856-03-23">Ostersonntag [23. März 1856]</date>
+                    <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when-iso="1856-03-23">Ostersonntag [23. März 1856]</date>
                     <note xml:id="note_1">Die Datierung ergibt sich aus den im Brief erwähnten Abschluss von
                         gesetzlichen Neuregelungen.</note>
                 </title>
@@ -44,7 +43,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</settlement>
-                    <date when="1856-03-23">Ostersonntag [23. März 1856]</date>
+                    <date when-iso="1856-03-23">Ostersonntag [23. März 1856]</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#bach-alexander">Alexander Bach</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="szoeyeny-an-thun-1860-04-21-a3-xxi-d577.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/szoegyeny-an-thun-1860-04-26-a3-xxi-d578.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/taaffe-an-thun-1850-02-15-a3-xxi-d34.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>
                     <rs type="person" ref="#szoegyeny-marich-ladislaus" role="sender:beamter">Ladislaus
                         Szögyény</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
-                    <lb/>o. O., <date when="1860-04-21">21. April
+                    <lb/>o. O., <date when-iso="1860-04-21">21. April
                         1860</date>
                 </title>
             </titleStmt>
@@ -41,7 +40,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#szoegyeny-marich-ladislaus">Ladislaus Szögyény</rs>
-                    <date when="1860-04-21">21. April
+                    <date when-iso="1860-04-21">21. April
                         1860</date>
                 </correspAction>
                 <correspAction type="received">

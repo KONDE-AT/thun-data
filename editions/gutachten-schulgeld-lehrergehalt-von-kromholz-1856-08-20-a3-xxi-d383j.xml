@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gutachten-schulgeld-lehrergehalt-von-kromholz-1856-08-20-a3-xxi-d383j.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-priester-hauptschuldirektoren-von-krombholz-1856-08-21-a3-xxi-d383m.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-schulpatronat-krombholz-1856-08-31-a3-xxi-d383s.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Gutachten von <rs type="person" ref="#krombholz-anton">Anton Krombholz</rs> zu §
                     12 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des
                         Konkordats<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1856-08-20">20.
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1856-08-20">20.
                         August 1856</date>
                 </title>
             </titleStmt>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/strobach-an-thun-1860-10-24-a3-xxi-d623a11.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stumpf-an-thun-1858-09-19-a3-xxi-d470.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Strossmayer</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_6f861448f4b387a81831495aed4acb74">Đakovo</rs>,
-                        <date when="1854-09-17">17. September 1854</date>
+                        <date when-iso="1854-09-17">17. September 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +42,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#strossmayer-joseph">Joseph Strossmayer</rs>
                     <settlement ref="#place_6f861448f4b387a81831495aed4acb74">Đakovo</settlement>
-                    <date when="1854-09-17">17. September 1854</date>
+                    <date when-iso="1854-09-17">17. September 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

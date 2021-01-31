@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="deutsch-an-finanzministerium-1859-1859-04-14-a3-xxi-d502.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/denkschrift-ueber-die-rechte-der-protestanten-in-ungarn-1858-a3-xxi-d485.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-thun-1860-04-10-a3-xxi-d567.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     <rs type="org" ref="#org_0012" role="recipient">k.k.
                         Finanzministerium</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1859-04-14">14. April 1859</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1859-04-14">14. April 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#deutsch-ignaz">Ignaz Deutsch</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1859-04-14">14. April 1859</date>
+                    <date when-iso="1859-04-14">14. April 1859</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>

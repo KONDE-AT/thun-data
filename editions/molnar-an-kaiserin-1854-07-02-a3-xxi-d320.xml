@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/modifikationsentwurf-stellung-kirchlicher-knabenseminare-zu-staatsgymnasien-1850-a3-xxi-d87.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-beamten-ministerium-fuer-kultus-und-unterricht-1851-06-06-a3-xxi-d118.xml">
     <teiHeader>
         <fileDesc>
@@ -9,7 +8,7 @@
                         Elisabeth</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1e6b38f6262c94e732f8d061a68f0523">Hermannseifen</rs> [Rudník],
-                        <date when="1854-07-02">2. Juli 1854</date>
+                        <date when-iso="1854-07-02">2. Juli 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#molnar-christian">Christian Molnár</rs>
                     <settlement ref="#place_1e6b38f6262c94e732f8d061a68f0523">Hermannseifen</settlement>
-                    <date when="1854-07-02">2. Juli 1854</date>
+                    <date when-iso="1854-07-02">2. Juli 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#elisabeth">Kaiserin Elisabeth</rs>

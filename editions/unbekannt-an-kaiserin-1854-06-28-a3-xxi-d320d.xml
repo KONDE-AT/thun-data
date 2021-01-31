@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="unbekannt-an-kaiserin-1854-06-28-a3-xxi-d320d.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-wirkungskreis-mcu-od-a3-xxi-d635.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/unbekannt-an-thun-1851-01-29-a3-xxi-d104.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Der Trivialschullehrer von Louchov an <rs type="person" ref="#elisabeth" role="recipient">Kaiserin
                         Elisabeth</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_6674e988eca2870a152f640ea23af1b1">Laucha</rs> [Louchov], <date when="1854-06-28">28. Juni 1854</date>
+                    <rs type="place" subtype="place" ref="#place_6674e988eca2870a152f640ea23af1b1">Laucha</rs> [Louchov], <date when-iso="1854-06-28">28. Juni 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="debiasi-an-thun-1854-06-22-a3-xxi-d263.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/denkschrift-ueber-die-rechte-der-protestanten-in-ungarn-1858-a3-xxi-d485.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#debiasi-valentino" role="sender:gelehrter">Valentino
                         Debiasi</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_8f37567814d3a88b7c487c48699476fa">Trient</rs>, <date when="1854-06-22">22. Juni 1854</date>
+                    <rs type="place" subtype="place" ref="#place_8f37567814d3a88b7c487c48699476fa">Trient</rs>, <date when-iso="1854-06-22">22. Juni 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -91,7 +90,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#debiasi-valentino">Valentino Debiasi</rs>
                     <settlement ref="#place_8f37567814d3a88b7c487c48699476fa">Trient</settlement>
-                    <date when="1854-06-22">22. Juni 1854</date>
+                    <date when-iso="1854-06-22">22. Juni 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

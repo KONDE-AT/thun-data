@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="ueberblick-konkordate-von-helfert-1851-07-31-a3-xxi-d119.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ueberlegungen-zur-neuregulierung-der-professorengehaelter-od-a3-xxi-d649.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                         <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander
                         Helfert</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1851-07-31">31. Juli 1851</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1851-07-31">31. Juli 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>

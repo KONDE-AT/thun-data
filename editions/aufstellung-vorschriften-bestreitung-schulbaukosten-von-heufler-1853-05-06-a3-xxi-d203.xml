@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="aufstellung-vorschriften-bestreitung-schulbaukosten-von-heufler-1853-05-06-a3-xxi-d203.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/austin-sarah-an-thun-1859-07-03-a3-xxi-d511.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     von <rs type="person" ref="#heufler-von-hohenbuehel-ludwig">Ludwig
                         Heufler</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1853-05-06">6. Mai 1853</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1853-05-06">6. Mai 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>

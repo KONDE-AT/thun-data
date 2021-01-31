@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="herget-an-thun-1851-12-09-a3-xxi-d135.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/henniger-an-thun-1851-04-26-a3-xxi-d115.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-13-a3-xxi-d44.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs>, <date when="1851-12-09">9.
+                    <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs>, <date when-iso="1851-12-09">9.
                         Dezember 1851</date>
                 </title>
             </titleStmt>
@@ -46,7 +45,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#herget-josef">Josef Herget</rs>
                     <settlement ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</settlement>
-                    <date when="1851-12-09">9.
+                    <date when-iso="1851-12-09">9.
                         Dezember 1851</date>
                 </correspAction>
                 <correspAction type="received">

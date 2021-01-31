@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bonitz-an-thun-1858-11-02-a3-xxi-d473.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-07-a3-xxi-d463.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1859-03-14-a3-xxi-d498.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>
                     <rs type="person" ref="#bonitz-hermann" role="sender:gelehrter">Hermann
                         Bonitz</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
-                    <lb/>o. O., <date when="1858-11-02">2. November
+                    <lb/>o. O., <date when-iso="1858-11-02">2. November
                         1858</date>
                 </title>
             </titleStmt>
@@ -40,7 +39,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#bonitz-hermann">Hermann Bonitz</rs>
-                    <date when="1858-11-02">2. November
+                    <date when-iso="1858-11-02">2. November
                         1858</date>
                 </correspAction>
                 <correspAction type="received">

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="kreutz-an-thun-1853-06-24-a3-xxi-d210.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/krauss-an-ministerium-fuer-kultus-und-unterricht-1851-10-14-a3-xxi-d126.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/krombholz-an-thun-1850-01-20-a3-xxi-d31.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs>, <date when="1853-06-24">24. Juni 1853</date>
+                    <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs>, <date when-iso="1853-06-24">24. Juni 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#kreutz-johann">Johann Kreutz</rs>
                     <settlement ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</settlement>
-                    <date when="1853-06-24">24. Juni 1853</date>
+                    <date when-iso="1853-06-24">24. Juni 1853</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

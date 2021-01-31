@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="foerster-an-thun-1859-06-16-a3-xxi-d508.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1858-04-05-a3-xxi-d450.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-06-05-a3-xxi-d588.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#foerster-heinrich" role="sender:kleriker">Heinrich
                         Förster</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1859-06-16">16. Juni 1859</date>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when-iso="1859-06-16">16. Juni 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -54,7 +53,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#foerster-heinrich">Heinrich Förster</rs>
                     <settlement ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</settlement>
-                    <date when="1859-06-16">16. Juni 1859</date>
+                    <date when-iso="1859-06-16">16. Juni 1859</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lehrerkollegium-gymnasiu-marburg-an-thun-1860-10-28-a3-xxi-d623a37.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lange-an-thun-1859-04-28-a3-xxi-d503.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-cilli-1860-10-31-a3-xxi-d623a39.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Das Lehrerkollegium des Gymnasiums in Marburg [Maribor] an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_5d32722eb37746f42ea031ac604e15aa">Marburg [Maribor]</rs>, <date when="1860-10-28">28. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_5d32722eb37746f42ea031ac604e15aa">Marburg [Maribor]</rs>, <date when-iso="1860-10-28">28. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>

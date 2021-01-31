@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="zielonacki-an-thun-1853-05-22-a3-xxi-d207.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/zeynek-an-thun-1860-11-01-a3-xxi-d623a23.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/zink-an-thun-1860-11-22-a3-xxi-d623a27.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Zielonacki</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_b140e3c7620d2b69957198cf19feac25">Chwalbogowo</rs>,
-                        <date when="1853-05-22">22. Mai 1853</date>
+                        <date when-iso="1853-05-22">22. Mai 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -59,7 +58,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#zielonacki-josephat">Josephat Zielonacki</rs>
                     <settlement ref="#place_b140e3c7620d2b69957198cf19feac25">Chwalbogowo</settlement>
-                    <date when="1853-05-22">22. Mai 1853</date>
+                    <date when-iso="1853-05-22">22. Mai 1853</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

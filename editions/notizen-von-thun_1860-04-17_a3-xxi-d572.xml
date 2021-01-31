@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="notizen-von-thun_1860-04-17_a3-xxi-d572.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Notizen Leo Thuns zu verschiedenen Angelegenheiten<lb/>o. O., <date when="1860-04-17">17. April 1860</date>
+                <title>Notizen Leo Thuns zu verschiedenen Angelegenheiten<lb/>o. O., <date when-iso="1860-04-17">17. April 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>

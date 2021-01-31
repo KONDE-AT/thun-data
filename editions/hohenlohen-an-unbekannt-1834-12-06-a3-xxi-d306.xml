@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hofmann-an-thun-1860-12-06-a3-xxi-d623a24.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-1849-12-12-a3-xxi-d18.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#hohenlohe-waldenburg-schillingfuerst-alexander" role="sender:kleriker">Alexander Hohenlohe</rs> an Unbekannt<note xml:id="note_1">Im Nachlass wurde als Empfänger Johann Minkopf, Pfarrer in
                         Pinkafeld, angegeben.</note>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</rs> [Oradea], <date when="1834-12-06">6. Dezember
+                    <rs type="place" subtype="place" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</rs> [Oradea], <date when-iso="1834-12-06">6. Dezember
                         1834</date>
                     <note xml:id="note_2">Das Dokument wurde im Nachlass
                         fälschlicherweise auf das Jahr 1854 datiert.</note>
@@ -49,7 +48,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#hohenlohe-waldenburg-schillingfuerst-alexander">Alexander Hohenlohe</rs>
                     <settlement ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</settlement>
-                    <date when="1834-12-06">6. Dezember
+                    <date when-iso="1834-12-06">6. Dezember
                         1834</date>
                 </correspAction>
             </correspDesc>

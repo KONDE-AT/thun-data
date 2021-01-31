@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-schulte-09-29-ca504.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-safarik-1852-08-26-ca986.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-segesser-1856-10-27-ca567.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#schulte-friedrich" role="recipient:gelehrter">Friedrich
                         Schulte</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1856-09-29">29. September [1856]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when-iso="1856-09-29">29. September [1856]</date>
                     <note xml:id="note_1">Die Datierung auf das Jahr
                         1856 erfolgt auf Grund einer Bleistiftnotiz auf dem Blatt. Die Ehegesetze
                         wurden am 8. Oktober 1856 vom Kaiser bewilligt. Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18560004&amp;seite=00000605&amp;size=45">RGBl 185/1856</ref>.</note>
@@ -41,7 +40,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
-                    <date when="1856-09-29">29. September [1856]</date>
+                    <date when-iso="1856-09-29">29. September [1856]</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#schulte-friedrich">Friedrich Schulte</rs>

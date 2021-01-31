@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="kopp-an-meyer-1856-06-09-a3-xxi-d370.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/konzept-thuns-uber-zustande-in-prag-1849-a3-xxi-d22.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/korinek-an-thun-1853-a3-xxi-d247.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Kopp</rs> an <rs type="person" ref="#meyer-bernhard" role="recipient">Bernhard
                         Meyer</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_11b61665a73f0026ee1a5c5d4db4d40c">Luzern</rs>, <date when="1856-06-09">9. Juni 1856</date>
+                    <rs type="place" subtype="place" ref="#place_11b61665a73f0026ee1a5c5d4db4d40c">Luzern</rs>, <date when-iso="1856-06-09">9. Juni 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#kopp-josef">Josef Eutych Kopp</rs>
                     <settlement ref="#place_11b61665a73f0026ee1a5c5d4db4d40c">Luzern</settlement>
-                    <date when="1856-06-09">9. Juni 1856</date>
+                    <date when-iso="1856-06-09">9. Juni 1856</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#meyer-bernhard">Bernhard Meyer</rs>

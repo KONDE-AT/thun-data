@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-gumpendorf-an-stadthauptmannschaft-1851-02-28-a3-xxi-d106.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/porta-an-thun-1852-07-12-a3-xxi-d170.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bericht des Polizeikommissariats Maria Hilf an die k.k.
                         Stadthauptmannschaft<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1851-03-03">3. März 1851</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1851-03-03">3. März 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>

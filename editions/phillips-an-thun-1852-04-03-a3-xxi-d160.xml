@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="phillips-an-thun-1852-04-03-a3-xxi-d160.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-03-09-a3-xxi-d158.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-10-26-a3-xxi-d173.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <date when="1852-04-03">3. April 1852</date>
+                    <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <date when-iso="1852-04-03">3. April 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -53,7 +52,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#phillips-george">George Phillips</rs>
                     <settlement ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</settlement>
-                    <date when="1852-04-03">3. April 1852</date>
+                    <date when-iso="1852-04-03">3. April 1852</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

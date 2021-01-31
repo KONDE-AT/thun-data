@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schwarzenberg-an-franz-joseph-1856-02-06-a3-xxi-d355a.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1860-10-20-a3-xxi-d623.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schwarzenberg-an-thun-1852-01-01-a3-xxi-d149.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Schwarzenberg</rs> an Kaiser <rs type="person" ref="#franz-joseph" role="recipient">Franz
                         Joseph</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when="1856-02-06">6. Februar 1856</date>
+                    <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when-iso="1856-02-06">6. Februar 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -54,7 +53,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#schwarzenberg-karl">Karl Schwarzenberg</rs>
                     <settlement ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</settlement>
-                    <date when="1856-02-06">6. Februar 1856</date>
+                    <date when-iso="1856-02-06">6. Februar 1856</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#franz-joseph">Franz Joseph</rs>

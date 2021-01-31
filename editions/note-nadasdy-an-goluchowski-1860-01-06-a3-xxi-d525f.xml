@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="note-nadasdy-an-goluchowski-1860-01-06-a3-xxi-d525f.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525e.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/notiz-thun-comitatsverwaltung-ungarn-od-a3-xxi-d625a.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Note von <rs type="person" ref="#nadasdy-franz" role="sender:beamter">Franz
                         Nádasdy</rs> an <rs type="person" ref="#goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
-                    <lb/>o. O., <date when="1860-01-06">6. Januar 1860</date>
+                    <lb/>o. O., <date when-iso="1860-01-06">6. Januar 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -66,7 +65,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#nadasdy-franz">Franz Nádasdy</rs>
-                    <date when="1860-01-06">6. Januar 1860</date>
+                    <date when-iso="1860-01-06">6. Januar 1860</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#goluchowski-agenor">Agenor Goluchowski</rs>

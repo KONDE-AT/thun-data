@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="binder-an-kaiser-1854-05-09-a3-xxi-d259.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bielowski-an-thun-1855-11-03-a3-xxi-d356.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bippart-an-thun-1857-10-18-a3-xxi-d432.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Binder</rs> an <rs type="person" ref="#franz-joseph" role="recipient">Kaiser
                         Franz Joseph</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1854-05-09">9. Mai 1854</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1854-05-09">9. Mai 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -49,7 +48,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#binder-georg-paul">Georg Paul Binder</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1854-05-09">9. Mai 1854</date>
+                    <date when-iso="1854-05-09">9. Mai 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#franz-joseph">Kaiser Franz Joseph</rs>

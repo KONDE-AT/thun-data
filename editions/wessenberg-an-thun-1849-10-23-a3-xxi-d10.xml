@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/wenzig-an-thun-1857-07-05-a3-xxi-d426.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1855-04-02-a3-xxi-d337.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#wessenberg-johann-philipp" role="sender:beamter">Johann
                         Wessenberg</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</rs>, <date when="1849-10-23">23. Oktober
+                    <rs type="place" subtype="place" ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</rs>, <date when-iso="1849-10-23">23. Oktober
                     1849</date>
                 </title>
             </titleStmt>
@@ -44,7 +43,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#wessenberg-johann-philipp">Johann Wessenberg</rs>
                     <settlement ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</settlement>
-                    <date when="1849-10-23">23. Oktober
+                    <date when-iso="1849-10-23">23. Oktober
                     1849</date>
                 </correspAction>
                 <correspAction type="received">

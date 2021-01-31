@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lohmar-an-thun-1851-09-03-a3-xxi-d121.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/liste-evangelische-gymnasien-mit-oeffentlichkeitsrecht-ungarn-o-d-a3-xxi-d540.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lonyay-an-szogyeny-1860-04-17-a3-xxi-d573.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#lohmar-wilhelm" role="sender:gelehrter">Wilhelm
                         Lohmar</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_df9bd17ff7bdda0e80aa6e2f18bfeaf2">Trier</rs>, <date when="1851-09-03">3. September 1851</date>
+                    <rs type="place" subtype="place" ref="#place_df9bd17ff7bdda0e80aa6e2f18bfeaf2">Trier</rs>, <date when-iso="1851-09-03">3. September 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +42,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#lohmar-wilhelm">Wilhelm Lohmar</rs>
                     <settlement ref="#place_df9bd17ff7bdda0e80aa6e2f18bfeaf2">Trier</settlement>
-                    <date when="1851-09-03">3. September 1851</date>
+                    <date when-iso="1851-09-03">3. September 1851</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="roessler-an-thun-1857-06-20-a3-xxi-d419.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/roeder-an-thun-1855-02-07-a3-xxi-d327.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rohanyi-an-thun-1854-10-14-a3-xxi-d292.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs>, <date when="1857-06-20">20. Juni 1857</date>
+                    <rs type="place" subtype="place" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs>, <date when-iso="1857-06-20">20. Juni 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -57,7 +56,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#roessler-emil">Emil Rössler</rs>
                     <settlement ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</settlement>
-                    <date when="1857-06-20">20. Juni 1857</date>
+                    <date when-iso="1857-06-20">20. Juni 1857</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

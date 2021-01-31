@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-ficker-1857-08-15-ca184.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1856-09-22-ca183.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-09-ca186.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#ficker-julius" role="recipient">Julius
                         Ficker</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_6d484de842d3e23757071dd656e2513e">Lungern</rs>, <date when="1857-08-15">15. August 1857</date>
+                    <rs type="place" subtype="place" ref="#place_6d484de842d3e23757071dd656e2513e">Lungern</rs>, <date when-iso="1857-08-15">15. August 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_6d484de842d3e23757071dd656e2513e">Lungern</settlement>
-                    <date when="1857-08-15">15. August 1857</date>
+                    <date when-iso="1857-08-15">15. August 1857</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#ficker-julius">Julius Ficker</rs>

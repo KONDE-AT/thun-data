@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="pavissich-an-sektionsrat-1850-12-22-a3-xxi-d79.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/pauli-an-ministerium-fuer-kultus-und-unterricht-1851-04-05-a3-xxi-d111.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/pawelek-an-kaiserin-1854-06-27-a3-xxi-d320b.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#pavissich-alois-caesar" role="sender:beamter">Alois Cäsar
                         Pavissich</rs> an einen Sektionsrat im
                         Unterrichtsministerium<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1850-12-22">22. Dezember 1850</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1850-12-22">22. Dezember 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -58,7 +57,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#pavissich-alois-caesar">Alois Cäsar Pavissich</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1850-12-22">22. Dezember 1850</date>
+                    <date when-iso="1850-12-22">22. Dezember 1850</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>

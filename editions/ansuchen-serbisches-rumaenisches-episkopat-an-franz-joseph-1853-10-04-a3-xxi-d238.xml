@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/appony-an-thun-1860-09-30-a3-xxi-d616.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser
                         <rs type="person" ref="#franz-joseph" role="recipient">Franz Joseph</rs> für
                     den Bau einer Kirche in Wien<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1853-10-04">4. Oktober 1853</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1853-10-04">4. Oktober 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>

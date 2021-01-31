@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-12-07-a3-xxi-d307.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_c02c72b51669c91cfda3c0599a674b45">Bad Ems</rs>, <date when="1858-09-14">14. August 1858</date>
+                    <rs type="place" subtype="place" ref="#place_c02c72b51669c91cfda3c0599a674b45">Bad Ems</rs>, <date when-iso="1858-09-14">14. August 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#apponyi-sophie">Sophie Apponyi</rs>
                     <settlement ref="#place_c02c72b51669c91cfda3c0599a674b45">Bad Ems</settlement>
-                    <date when="1858-09-14">14. August 1858</date>
+                    <date when-iso="1858-09-14">14. August 1858</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

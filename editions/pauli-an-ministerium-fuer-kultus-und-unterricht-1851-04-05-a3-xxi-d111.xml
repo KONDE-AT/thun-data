@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="pauli-an-ministerium-fuer-kultus-und-unterricht-1851-04-05-a3-xxi-d111.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/patiss-an-thun-1860-08-31-a3-xxi-d604.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/pavissich-an-sektionsrat-1850-12-22-a3-xxi-d79.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Wilhelm Pauli</rs> an das <rs type="org" ref="#org_0005" role="recipient">Ministerium
                         für Kultus und Unterricht</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1851-04-05">5. April 1851</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1851-04-05">5. April 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -52,7 +51,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#pauli-friedrich-wilhelm">Friedrich Wilhelm Pauli</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1851-04-05">5. April 1851</date>
+                    <date when-iso="1851-04-05">5. April 1851</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>

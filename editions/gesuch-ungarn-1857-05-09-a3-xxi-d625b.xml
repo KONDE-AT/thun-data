@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gesuch-ungarn-1857-05-09-a3-xxi-d625b.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gesuch-niederoesterreichischer-grundherren-an-ministerrat-1850-05-14-a3-xxi-d52.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Petition zahlreicher ungarischer Bischöfe, Adeliger und Beamter an den
                     Kaiser<lb/>
                     <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>
-                    , <date when="1857-05-09">9. Mai 1857</date>
+                    , <date when-iso="1857-05-09">9. Mai 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>

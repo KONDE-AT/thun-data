@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/speranza-an-thun-1858-09-01-a3-xxi-d447.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/statuten-ungarische-akademie-der-wissenschaften-od-a3-xxi-d362.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Staatsanwaltschaft von Kaschau an das Landesgericht von
                         Kaschau<lb/>
-                    <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> [Košice], <date when="1859-12-16">16. Dezember 1859</date>
+                    <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> [Košice], <date when-iso="1859-12-16">16. Dezember 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>

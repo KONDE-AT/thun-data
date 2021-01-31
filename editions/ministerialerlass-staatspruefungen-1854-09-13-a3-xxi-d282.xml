@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="ministerialerlass-staatspruefungen-1854-09-13-a3-xxi-d282.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/mikulas-an-thun-1853-07-16-a3-xxi-d215.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/mischler-an-thun-1855-02-25-a3-xxi-d330.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ministerialerlass über die staatsrechtlichen Prüfungen an den
                     österreichischen Universitäten<lb/>
-                    <date when="1854-09-13">13. September
+                    <date when-iso="1854-09-13">13. September
                         1854</date>
                 </title>
             </titleStmt>

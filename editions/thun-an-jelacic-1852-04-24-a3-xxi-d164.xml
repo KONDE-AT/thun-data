@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-jelacic-1852-04-24-a3-xxi-d164.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-hye-1854-08-07-ca929.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-juelg-1855-01-05-ca807.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Abschrift eines Schreibens von <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs type="person" ref="#jelacic-joseph" role="recipient:beamter">Joseph Jelačič</rs>
-                    <lb/>o. O., <date when="1852-04-24">24. April 1852</date>
+                    <lb/>o. O., <date when-iso="1852-04-24">24. April 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
-                    <date when="1852-04-24">24. April 1852</date>
+                    <date when-iso="1852-04-24">24. April 1852</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#jelacic-joseph">Joseph Jelačič</rs>

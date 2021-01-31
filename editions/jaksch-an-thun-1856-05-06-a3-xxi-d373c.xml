@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="jaksch-an-thun-1856-05-06-a3-xxi-d373c.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1856-04-18-a3-xxi-d373b.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-unbekannt-1854-12-22-a3-xxi-d311.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1856-05-06">6.
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1856-05-06">6.
                         Mai 1856</date>
                 </title>
             </titleStmt>
@@ -64,7 +63,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#jaksch-anton">Anton Jaksch</rs>
                     <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
-                    <date when="1856-05-06">6.
+                    <date when-iso="1856-05-06">6.
                         Mai 1856</date>
                 </correspAction>
                 <correspAction type="received">

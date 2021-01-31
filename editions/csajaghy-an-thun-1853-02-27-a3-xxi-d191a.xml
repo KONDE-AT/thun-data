@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="csajaghy-an-thun-1853-02-27-a3-xxi-d191a.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/csajaghy-an-thun-1853-02-27-a3-xxi-d191.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/csajaghy-an-thun-1856-01-27-a3-xxi-367.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#csajaghy-alexander" role="sender:kleriker">Alexander
                         Csajághy</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temeswar</rs>, <date when="1853-02-27">27. Februar 1853</date>
+                    <rs type="place" subtype="place" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temeswar</rs>, <date when-iso="1853-02-27">27. Februar 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -56,7 +55,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#csajaghy-alexander">Alexander Csajághy</rs>
                     <settlement ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temeswar</settlement>
-                    <date when="1853-02-27">27. Februar 1853</date>
+                    <date when-iso="1853-02-27">27. Februar 1853</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

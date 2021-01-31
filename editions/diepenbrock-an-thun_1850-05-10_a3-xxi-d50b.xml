@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="diepenbrock-an-thun_1850-05-10_a3-xxi-d50b.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#diepenbrock-melchior" key="diepenbrock-melchior" role="sender:kleriker">Melchior
                         Diepenbrock</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1850-05-10">10. Mai
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when-iso="1850-05-10">10. Mai
                     1850</date>
                 </title>
             </titleStmt>
@@ -57,7 +56,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#diepenbrock-melchior">Melchior Diepenbrock</persName>
-                    <date when="1850-05-10">10. Mai
+                    <date when-iso="1850-05-10">10. Mai
                     1850</date>
                 </correspAction>
                 <correspAction type="received">

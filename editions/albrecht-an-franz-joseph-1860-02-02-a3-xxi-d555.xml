@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="albrecht-an-franz-joseph-1860-02-02-a3-xxi-d555.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/aeusserung-zum-kirchenverfassungsentwurf-von-schmidt-1850-06-05-a3-xxi-d55.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/albrecht-an-thun-1858-05-05-a3-xxi-d451.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                         Albrecht</rs> an <rs type="person" ref="#franz-joseph" role="recipient">Kaiser
                         Franz Joseph</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs>, <date when="1860-02-02">2. Februar 1860</date>
+                    <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs>, <date when-iso="1860-02-02">2. Februar 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#albrecht-erzherzog">Erzherzog Albrechts</rs>
                     <settlement ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</settlement>
-                    <date when="1860-02-02">2. Februar 1860</date>
+                    <date when-iso="1860-02-02">2. Februar 1860</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#franz-joseph">Kaiser Franz Joseph</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/statuten-ungarische-akademie-der-wissenschaften-od-a3-xxi-d362.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stellungnahme-clam-handeslrecht-1854-07-07-a3-xxi-d265.xml">
     <teiHeader>
         <fileDesc>
@@ -13,7 +12,7 @@
                         Hinweis auf einen sonstigen Briefkontakt mit Joseph
                         Steger.</note>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</rs>, <date when="1860-07-25">25. Juli 1860</date>
+                    <rs type="place" subtype="place" ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</rs>, <date when-iso="1860-07-25">25. Juli 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -57,7 +56,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#steger-joseph">Joseph Steger</rs>
                     <settlement ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</settlement>
-                    <date when="1860-07-25">25. Juli 1860</date>
+                    <date when-iso="1860-07-25">25. Juli 1860</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>

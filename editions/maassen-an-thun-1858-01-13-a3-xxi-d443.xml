@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="maassen-an-thun-1858-01-13-a3-xxi-d443.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1857-07-04-a3-xxi-d425.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1860-01-22-a3-xxi-d552.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#maassen-friedrich" role="sender:gelehrter">Friedrich
                         Maassen</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when="1858-01-13">13. Januar 1858</date>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1858-01-13">13. Januar 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -55,7 +54,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#maassen-friedrich">Friedrich Maassen</rs>
                     <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
-                    <date when="1858-01-13">13. Januar 1858</date>
+                    <date when-iso="1858-01-13">13. Januar 1858</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

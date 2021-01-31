@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="fesl-an-thun-1850-05-03-a3-xxi-d48.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/feigerle-an-thun-1860-04-18-a3-xxi-d575.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/fessler-an-helfert-1857-08-09-a3-xxi-d429.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Fesl</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1850-05-03">3.
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1850-05-03">3.
                         Mai 1850</date>
                 </title>
             </titleStmt>
@@ -55,7 +54,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#fesl-michael-josef">Michael Josef Fesl</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1850-05-03">3.
+                    <date when-iso="1850-05-03">3.
                         Mai 1850</date>
                 </correspAction>
                 <correspAction type="received">

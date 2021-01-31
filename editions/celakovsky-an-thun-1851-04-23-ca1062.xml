@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="celakovsky-an-thun-1851-04-23-ca1062.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-1851-03-16-ca1066.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1063.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#celakovsky-frantisek-ladislav" role="sender">František
                         Ladislaus Čelakovšký</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1851-04-23">23. April [1851]<note xml:id="note_1">Die Datierung in das
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when-iso="1851-04-23">23. April [1851]<note xml:id="note_1">Die Datierung in das
                             Jahr 1851 ergibt sich aus den übrigen Briefen Thuns und Čelakovškýs in
                             dieser Angelegenheit.</note>
                     </date>
@@ -49,7 +48,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#celakovsky-frantisek-ladislav">František Ladislaus Čelakovšký</rs>
                     <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
-                    <date when="1851-04-23">23. April [1851] Die Datierung in das
+                    <date when-iso="1851-04-23">23. April [1851] Die Datierung in das
                             Jahr 1851 ergibt sich aus den übrigen Briefen Thuns und Čelakovškýs in
                             dieser Angelegenheit. 
                     </date>

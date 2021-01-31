@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="erlass-an-ehegericht-von-wien-von-rauscher-1857-05-26-a3-xxi-d416.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-wirkungskreis-ministerium-fuer-kultus-und-unterricht-o-d-a3-xxi-d84.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/eroeffnungsvortrag-universitaet-wien-von-hofmann-1858-10-19-a3-xxi-d472.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Erlass von <rs type="person" ref="#rauscher-joseph">Joseph Othmar
                     Rauscher</rs> an das fürsterzbischöfliche Ehegericht von
                         Wien<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-05-26">26. Mai
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1857-05-26">26. Mai
                         1857</date>
                 </title>
             </titleStmt>

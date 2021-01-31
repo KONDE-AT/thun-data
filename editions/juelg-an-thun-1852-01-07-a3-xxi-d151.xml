@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="juelg-an-thun-1852-01-07-a3-xxi-d151.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/jesz-an-thun-1859-06-16-a3-xxi-d509.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/juelg-an-thun-1855-01-08-a3-xxi-d323.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Jülg</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</rs>, <date when="1852-01-07">7. Januar 1852</date>
+                    <rs type="place" subtype="place" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</rs>, <date when-iso="1852-01-07">7. Januar 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -59,7 +58,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#juelg-bernhard">Bernhard Jülg</rs>
                     <settlement ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</settlement>
-                    <date when="1852-01-07">7. Januar 1852</date>
+                    <date when-iso="1852-01-07">7. Januar 1852</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

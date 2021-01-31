@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gutachten-leitung-von-schulen-von-krombholz-1856-08-15-a3-xxi-d383f.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-lehranstalten-von-krombholz-1856-08-22-a3-xxi-d383n.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-ordensgymnasien-von-kleemann-1856-a3-xxi-d383q.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Gutachten von <rs type="person" ref="#krombholz-anton">Anton Krombholz</rs> zu §
                     8 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des
                         Konkordats<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1856-08-15">15.
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1856-08-15">15.
                         August 1856</date>
                 </title>
             </titleStmt>

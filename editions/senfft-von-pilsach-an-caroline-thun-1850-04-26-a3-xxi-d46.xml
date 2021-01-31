@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="senfft-von-pilsach-an-caroline-thun-1850-04-26-a3-xxi-d46.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/segesser-an-thun-konzept-1856-11-ca.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Christian Ludwig Senfft von Pilsach</rs> an <rs type="person" ref="#thun-hohenstein-caroline" role="recipient">Caroline
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when="1850-04-26">26. April 1850</date>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1850-04-26">26. April 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#senfft-von-pilsach-friedrich">Friedrich Christian Ludwig Senfft von Pilsach</rs>
                     <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
-                    <date when="1850-04-26">26. April 1850</date>
+                    <date when-iso="1850-04-26">26. April 1850</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-caroline">Caroline Thun</rs>

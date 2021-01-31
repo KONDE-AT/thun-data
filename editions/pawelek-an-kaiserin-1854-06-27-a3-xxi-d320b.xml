@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="pawelek-an-kaiserin-1854-06-27-a3-xxi-d320b.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/pavissich-an-sektionsrat-1850-12-22-a3-xxi-d79.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/pebal-an-einen-ministerialrat-1860-01-16-a3-xxi-d549.xml">
     <teiHeader>
         <fileDesc>
@@ -9,7 +8,7 @@
                         Elisabeth</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_3dd7979c0440a3b55ff7b878051e9863">Königsberg</rs>
-                    [Klimkovice], <date when="1854-06-27">27. Juni 1854</date>
+                    [Klimkovice], <date when-iso="1854-06-27">27. Juni 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#pawelek-johann">Johann Pawelek</rs>
                     <settlement ref="#place_3dd7979c0440a3b55ff7b878051e9863">Königsberg</settlement>
-                    <date when="1854-06-27">27. Juni 1854</date>
+                    <date when-iso="1854-06-27">27. Juni 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#elisabeth">Kaiserin Elisabeth</rs>

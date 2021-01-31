@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hingenau-an-thun-1860-05-11-a3-xxi-d583.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hille-an-thun-1858-12-17-a3-xxi-d477.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hingenau-an-thun-1860-06-20-a3-xxi-d593.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>
                     <rs type="person" ref="#hingenau-otto" role="sender:gelehrter">Otto
                         Hingenau</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
-                    <lb/>o. O., <date when="1860-05-11">11. Mai
+                    <lb/>o. O., <date when-iso="1860-05-11">11. Mai
                     1860</date>
                 </title>
             </titleStmt>
@@ -43,7 +42,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#hingenau-otto">Otto Hingenau</rs>
-                    <date when="1860-05-11">11. Mai
+                    <date when-iso="1860-05-11">11. Mai
                     1860</date>
                 </correspAction>
                 <correspAction type="received">

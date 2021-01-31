@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="linde-an-thun_1856-01-04_a3-xxi-d394.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, <date when="1856-01-04">4. Januar 1856</date>
+                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, <date when-iso="1856-01-04">4. Januar 1856</date>
                     <note>Der Brief trägt
                         das Datum 4. Dezember 1856, allerdings ist davon auszugehen, dass sich Linde
                         beim Schreiben, kurz nach Monats-/Jahreswechsel, im Monat geirrt hat. Der
@@ -61,7 +60,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#linde-justin">Justin Linde</persName>
-                    <date when="1856-01-04">4. Januar 1856</date>
+                    <date when-iso="1856-01-04">4. Januar 1856</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="#thun-hohenstein-leo">Leo Thun</persName>

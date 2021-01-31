@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="brenner-an-haferl-1854-09-21-a3-xxi-d284.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/brueggemann-an-thun-1860-02-20-a3-xxi-d585.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#brenner-felsach-adolph" role="sender:beamter">Adolph
                         Brenner-Felsach</rs> an <rs type="person" ref="#haferl-josef" role="recipient">Josef Haferl</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt a. M.</rs>, <date when="1854-09-21">21. September 1854</date>
+                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt a. M.</rs>, <date when-iso="1854-09-21">21. September 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -58,7 +57,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#brenner-felsach-adolph">Adolph Brenner-Felsach</rs>
                     <settlement ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt a. M.</settlement>
-                    <date when="1854-09-21">21. September 1854</date>
+                    <date when-iso="1854-09-21">21. September 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#haferl-josef">Josef Haferl</rs>

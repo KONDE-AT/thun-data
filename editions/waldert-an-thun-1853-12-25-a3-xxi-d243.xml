@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="waldert-an-thun-1853-12-25-a3-xxi-d243.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/waldert-an-thun-1853-09-22-a3-xxi-d236.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/waldert-an-thun-1854-04-09-a3-xxi-d256.xml">
     <teiHeader>
         <fileDesc>
@@ -9,7 +8,7 @@
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_6f7cc055d11cf2cbbaa605d5449eb44c">Görkau</rs> [Jirkov],
-                        <date when="1853-12-25">25. Dezember 1853</date>
+                        <date when-iso="1853-12-25">25. Dezember 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#waldert-anton">Anton Waldert</rs>
                     <settlement ref="#place_6f7cc055d11cf2cbbaa605d5449eb44c">Görkau</settlement>
-                    <date when="1853-12-25">25. Dezember 1853</date>
+                    <date when-iso="1853-12-25">25. Dezember 1853</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

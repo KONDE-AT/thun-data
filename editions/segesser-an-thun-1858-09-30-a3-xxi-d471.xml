@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="segesser-an-thun-1858-09-30-a3-xxi-d471.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schwarzenberg-an-thun-o-d-a3-xxi-d139.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/segesser-an-thun-konzept-1856-11-ca.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#segesser-philipp-anton" role="sender:beamter">Philipp
                         Segesser</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1858-09-30">30. September 1858</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1858-09-30">30. September 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#segesser-philipp-anton">Philipp Segesser</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1858-09-30">30. September 1858</date>
+                    <date when-iso="1858-09-30">30. September 1858</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

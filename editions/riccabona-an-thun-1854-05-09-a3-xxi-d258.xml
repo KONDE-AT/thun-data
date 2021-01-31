@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="riccabona-an-thun-1854-05-09-a3-xxi-d258.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rezension-organisationsentwurf-in-zeitschrift-religio-1851-a3-xxi-d144.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/riccabona-an-thun-1856-10-31-a3-xxi-d391.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Promemoria von <rs type="person" ref="#riccabona-benedikt">Benedikt
                         Riccabona</rs>, Bischof von Verona, über die Zehentablösung in
                         Tirol<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1854-05-09">9. Mai
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1854-05-09">9. Mai
                         1854</date>
                 </title>
             </titleStmt>

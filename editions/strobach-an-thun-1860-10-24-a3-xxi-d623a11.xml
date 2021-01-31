@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="strobach-an-thun-1860-10-24-a3-xxi-d623a11.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stlaukal-an-thun-1853-04-16-a3-xxi-d200.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml">
     <teiHeader>
         <fileDesc>
@@ -10,7 +9,7 @@
                     </rs> und <rs type="person" ref="#kurz-johann" role="sender:beamter">Johann Kurz</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when="1860-10-24">24.
+                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when-iso="1860-10-24">24.
                         Oktober 1860</date>
                 </title>
             </titleStmt>
@@ -50,7 +49,7 @@
                     <rs type="person" ref="#stifter-adalbert">Adalbert Stifter</rs>
                     <rs type="person" ref="#kurz-johann">Johann Kurz</rs>
                     <settlement ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</settlement>
-                    <date when="1860-10-24">24.
+                    <date when-iso="1860-10-24">24.
                         Oktober 1860</date>
                 </correspAction>
                 <correspAction type="received">

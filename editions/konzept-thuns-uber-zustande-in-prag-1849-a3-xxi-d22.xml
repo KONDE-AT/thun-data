@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="konzept-thuns-uber-zustande-in-prag-1849-a3-xxi-d22.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/konzept-thun-1860-04-a3-xxi-d625f.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml">
     <teiHeader>
         <fileDesc>
@@ -66,7 +65,7 @@
                     Unterricht) ohne Zweifel von Thun ihm in die Feder diktirt.&gt;<note xml:id="note_1">Hinzufügung durch fremde Hand</note>
                 </p>
                 <p>In der Darstellung ist die Periode von der Petizionserledigung, 8.<note xml:id="note_2">korrigiert aus 11.</note>Aprill<note xml:id="note_3">Anmerkung Thuns: Merz?</note>bis zu meinem Antritte des Gubernialpräsidiums
-                        (<date when="1848-05-01">1. May</date>) übersprungen. Und doch war sie die
+                        (<date when-iso="1848-05-01">1. May</date>) übersprungen. Und doch war sie die
                         entscheidende.<lb/>
                     <rs type="person" ref="#stadion-franz">Graf Stadion</rs>,
                     der von einer bewaffneten Rotte, die das Gubernialgebäude besetzt hatte,
@@ -90,7 +89,7 @@
                     Nationalausschußes angenommen, ihm die Bearbeitung des Wahlgesetzes für den
                     Landtag überlassen, etc. Die Organe der Regierung im ganzen Lande hatten allen
                     Muth verloren, in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> fanden immer häufigere Kravalle
-                    statt.<lb/>Als ich am <date when="1848-05-01">1. May</date> in
+                    statt.<lb/>Als ich am <date when-iso="1848-05-01">1. May</date> in
                     <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> ankam, mußte ich mein Amt mit Androhung des
                     Standrechtes für <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> beginnen. Ich fand das Land schon
                     in zwei Lager getheilt; das böhmische wurde von der Parthei des Wenzlsbades mit

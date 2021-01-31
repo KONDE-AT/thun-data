@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-zeithammer-1850-08-01-ca989.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-zeithammer-08-08-ca992.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-zeithammer-1855-08-17-ca990.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#zeithammer-gregor" role="recipient">Gregor
                         Zeithammer</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1850-08-01">1. August 1850</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1850-08-01">1. August 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1850-08-01">1. August 1850</date>
+                    <date when-iso="1850-08-01">1. August 1850</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#zeithammer-gregor">Gregor Zeithammer</rs>

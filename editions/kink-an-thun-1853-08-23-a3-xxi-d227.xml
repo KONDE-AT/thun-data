@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="kink-an-thun-1853-08-23-a3-xxi-d227.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ketteler-an-thun-1860-01-17-a3-xxi-d550.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-20-a3-xxi-d227a.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1853-08-23">23.
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1853-08-23">23.
                         August 1853</date>
                 </title>
             </titleStmt>
@@ -56,7 +55,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#kink-rudolph">Rudolf Kink</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1853-08-23">23.
+                    <date when-iso="1853-08-23">23.
                         August 1853</date>
                 </correspAction>
                 <correspAction type="received">

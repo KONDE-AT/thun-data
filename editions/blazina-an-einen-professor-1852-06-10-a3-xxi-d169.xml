@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="blazina-an-einen-professor-1852-06-10-a3-xxi-d169.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bissingen-an-thun-1854-09-22-a3-xxi-d285.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/blum-an-rauscher-1854-08-23-a3-xxi-d277.xml">
     <teiHeader>
         <fileDesc>
@@ -13,7 +12,7 @@
                         Namenstag. Am 13. Juni ist der Festtag des Hl. Antonius von Padua.
                         </note>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>, <date when="1852-06-10">10.
+                    <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>, <date when-iso="1852-06-10">10.
                         Juni 1852</date>
                 </title>
             </titleStmt>
@@ -62,7 +61,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#blazina-josef">Josef Blazina</rs>
                     <settlement ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</settlement>
-                    <date when="1852-06-10">10.
+                    <date when-iso="1852-06-10">10.
                         Juni 1852</date>
                 </correspAction>
                 <correspAction type="received">

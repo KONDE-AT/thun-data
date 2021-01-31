@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="vorschlag-ueber-colloquien-militaerpflichtiger-medizinier-1859-12-11-a3-xxi-d530.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-von-hingenau-zur-aenderung-der-akademischen-gesetze-od-a3-xxi-d646.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/vorschlag-von-reichenstein-in-protestantenangelegenheit-ungarn-1860-04-15-a3-xxi-d570.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Stellungnahme von <rs type="person" ref="#nadherny-ignaz">Ignaz Nádherny</rs> zu
                     den Folgen des Gesetzes zur Heeresergänzung für
                         Medizinstudenten<lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1859-12-11">11. Dezember 1859</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1859-12-11">11. Dezember 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>

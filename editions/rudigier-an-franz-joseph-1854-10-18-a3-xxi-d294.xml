@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="rudigier-an-franz-joseph-1854-10-18-a3-xxi-d294.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ruben-an-thun-1852-01-13-a3-xxi-d153.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Rudigier</rs> an <rs type="person" ref="#franz-joseph" role="recipient">Kaiser
                         Franz Joseph</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when="1854-10-18">18. Oktober 1854</date>
+                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when-iso="1854-10-18">18. Oktober 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -57,7 +56,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#rudigier-franz-joseph">Franz Joseph Rudigier</rs>
                     <settlement ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</settlement>
-                    <date when="1854-10-18">18. Oktober 1854</date>
+                    <date when-iso="1854-10-18">18. Oktober 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#franz-joseph">Kaiser Franz Joseph</rs>

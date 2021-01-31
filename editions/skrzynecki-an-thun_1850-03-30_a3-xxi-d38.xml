@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="skrzynecki-an-thun_1850-03-30_a3-xxi-d38.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#skrzynecki-jan" key="skrzynecki-jan" role="sender:beamter">Jan
                         Skrzynecki</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>, <date when="1850-03-30">30. März 1850</date>
+                    <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>, <date when-iso="1850-03-30">30. März 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -48,7 +47,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#skrzynecki-jan">Jan Skrzynecki</persName>
-                    <date when="1850-03-30">30. März 1850</date>
+                    <date when-iso="1850-03-30">30. März 1850</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="#thun-hohenstein-leo">Leo Thun</persName>

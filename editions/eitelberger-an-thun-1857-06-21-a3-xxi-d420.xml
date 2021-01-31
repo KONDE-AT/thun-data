@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="eitelberger-an-thun-1857-06-21-a3-xxi-d420.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-07-28-a3-xxi-d428.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Eitelberger</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>,
-                        <date when="1857-06-21">21. Juni 1857</date>
+                        <date when-iso="1857-06-21">21. Juni 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -61,7 +60,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#eitelberger-rudolf">Rudolf Eitelberger</rs>
                     <settlement ref="#place_e30630933146ed8683482de23229fd6a">Mailand</settlement>
-                    <date when="1857-06-21">21. Juni 1857</date>
+                    <date when-iso="1857-06-21">21. Juni 1857</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="doczy-an-kaiserin-1854-07-19-a3-xxi-d320j.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/dittrich-an-thun-1849-09-05-a3-xxi-d6.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/dunajewski-an-thun-1852-11-21-a3-xxi-d175.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#elisabeth" role="recipient">Kaiserin
                         Elisabeth</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1854-07-19">19. Juli 1854</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1854-07-19">19. Juli 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#doczy-josefine">Josefine Dóczy</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1854-07-19">19. Juli 1854</date>
+                    <date when-iso="1854-07-19">19. Juli 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#elisabeth">Kaiserin Elisabeth</rs>

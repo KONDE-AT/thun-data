@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-rauscher-1858-05-17-ca828.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1853-05-16-ca781.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1855-12-26-ca910.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#rauscher-joseph" role="recipient:kleriker">Joseph Othmar
                         Rauscher</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1858-05-17">17. Mai 1858</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1858-05-17">17. Mai 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1858-05-17">17. Mai 1858</date>
+                    <date when-iso="1858-05-17">17. Mai 1858</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#rauscher-joseph">Joseph Othmar Rauscher</rs>

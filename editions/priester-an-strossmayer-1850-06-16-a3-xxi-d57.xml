@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="priester-an-strossmayer-1850-06-16-a3-xxi-d57.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/professorenkollegium-wien-an-thun-1860-10-21-a3-xxi-d623a9.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Ein bosnischer katholischer Priester an <rs type="person" ref="#strossmayer-joseph" role="recipient:kleriker">Joseph
                         Strossmayer</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1850-06-16">16. Juni 1850</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1850-06-16">16. Juni 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>

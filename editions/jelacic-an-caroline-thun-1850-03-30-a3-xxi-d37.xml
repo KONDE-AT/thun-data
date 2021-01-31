@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="jelacic-an-caroline-thun-1850-03-30-a3-xxi-d37.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/jarcke-an-thun-1852-08-07-a3-xxi-d171.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>
                     <rs type="person" ref="#jelacic-joseph" role="sender:beamter">Joseph
                         Jelačič</rs> an <rs type="person" ref="#thun-hohenstein-caroline" role="recipient:verwandter">Caroline Thun</rs>
-                    <lb/> o. O., <date when="1850-03-30">30. März 1850</date>
+                    <lb/> o. O., <date when-iso="1850-03-30">30. März 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +34,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#jelacic-joseph">Joseph Jelačič</rs>
-                    <date when="1850-03-30">30. März 1850</date>
+                    <date when-iso="1850-03-30">30. März 1850</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-caroline">Caroline Thun</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="prokesch-osten-an-thun-1851-10-03-a3-xxi-d125.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/prokesch-an-thun-1852-11-14-a3-xxi-d174.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Prokesch-Osten</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>,
-                        <date when="1851-10-03">3. Oktober 1851</date>
+                        <date when-iso="1851-10-03">3. Oktober 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#prokesch-osten-anton">Anton Prokesch-Osten</rs>
                     <settlement ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</settlement>
-                    <date when="1851-10-03">3. Oktober 1851</date>
+                    <date when-iso="1851-10-03">3. Oktober 1851</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

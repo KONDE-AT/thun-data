@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="adamovich-an-thun_1849-10-31_a3-xxi-d12.xml">
     <teiHeader>
         <fileDesc>
@@ -10,7 +9,7 @@
                         genannt.</note>
                     </rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1849-10-31">31. Oktober
+                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1849-10-31">31. Oktober
                         1849</date>
                 </title>
             </titleStmt>
@@ -42,7 +41,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#adamovich">Val. And. Adamovich</persName>
-                    <date when="1849-10-31">31. Oktober
+                    <date when-iso="1849-10-31">31. Oktober
                         1849</date>
                 </correspAction>
                 <correspAction type="received">

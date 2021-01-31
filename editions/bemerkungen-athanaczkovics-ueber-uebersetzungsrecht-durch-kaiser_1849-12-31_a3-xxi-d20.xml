@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Bemerkungen <rs type="person" ref="#athanaczkovicz-plato" key="athanaczkovicz-plato" role="sender:kleriker">Plato
                         Athanaczkovics'</rs> über das Übersetzungsrecht durch den
                         Kaiser<lb/>
-                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1849-12-31">31. Dezember 1849</date>
+                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1849-12-31">31. Dezember 1849</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -42,7 +41,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#athanaczkovicz-plato">Plato Athanaczkovics'</persName>
-                    <date when="1849-12-31">31. Dezember 1849</date>
+                    <date when-iso="1849-12-31">31. Dezember 1849</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>

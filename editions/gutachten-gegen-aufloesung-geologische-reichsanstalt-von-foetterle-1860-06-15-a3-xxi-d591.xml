@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gutachten-gegen-aufloesung-geologische-reichsanstalt-von-foetterle-1860-06-15-a3-xxi-d591.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-einfluss-gemeinden-schuldienst-von-krombholz-1856-08-19-a3-xxi-d383i.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-halbtaegiger-unterricht-von-krombholz-1856-08-17-a3-xxi-d383g.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     Reichsanstalt von <rs type="person" ref="#foetterle-franz" role="sender:gelehrter">Franz
                         Foetterle</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1860-06-15">15. Juni 1860</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1860-06-15">15. Juni 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -67,7 +66,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#foetterle-franz">Franz Foetterle</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1860-06-15">15. Juni 1860</date>
+                    <date when-iso="1860-06-15">15. Juni 1860</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gutachten-ueber-universitaet-von-kink-1853-12-01-a3-xxi-d241.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-ueber-praeparandenunterricht-o-d-a3-xxi-d145.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-ueber-volksschulen-von-krombholz-1850-05-31-a3-xxi-d54.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Gutachten von <rs type="person" ref="#kink-rudolph" role="sender:gelehrter">Rudolph
-                        Kink</rs> zur Reform des Statuts der Universität Wien<lb/>o. O., <date when="1853-12-01">1. Dezember 1853</date>
+                        Kink</rs> zur Reform des Statuts der Universität Wien<lb/>o. O., <date when-iso="1853-12-01">1. Dezember 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -59,7 +58,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#kink-rudolph">Rudolph Kink</rs>
-                    <date when="1853-12-01">1. Dezember 1853</date>
+                    <date when-iso="1853-12-01">1. Dezember 1853</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>

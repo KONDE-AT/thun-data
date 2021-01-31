@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="unbekannt-an-thun-1851-01-29-a3-xxi-d104.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/unbekannt-an-kaiserin-1854-06-28-a3-xxi-d320d.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/vay-an-rechberg-rothenloewen-1860-03-02-a3-xxi-d564.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Brief eines nicht identifizierbaren Absenders an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O.,
-                        <date when="1851-01-29">29. Januar 1851</date>
+                        <date when-iso="1851-01-29">29. Januar 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>

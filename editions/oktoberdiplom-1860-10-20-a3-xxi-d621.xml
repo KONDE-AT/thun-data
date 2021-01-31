@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="oktoberdiplom-1860-10-20-a3-xxi-d621.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/oa-oa-1850-01-18-a3-xxi-d30.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/osegovic-ueber-slowaken-1849-a3-xxi-d656.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ausschnitt aus der Wiener Zeitung vom <date when="1860-10-21">21. Oktober
+                <title>Ausschnitt aus der Wiener Zeitung vom <date when-iso="1860-10-21">21. Oktober
                         1860</date> mit Abdruck des Kaiserlichen Manifests vom 20. Oktober 1860
                     ("Oktoberdiplom") und mehreren Allerhöchsten Handschreiben vom selben
                     Datum<lb/>und<lb/>Ausschnitt aus der Wiener Zeitung vom 27. Februar 1861 mit

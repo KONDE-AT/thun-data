@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lonyay-an-szogyeny-1860-04-17-a3-xxi-d573.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lohmar-an-thun-1851-09-03-a3-xxi-d121.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lorenz-an-thun-1860-01-07-a3-xxi-d546.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Lónyay</rs> an <rs type="person" ref="#szoegyeny-marich-ladislaus" role="recipient:beamter">Ladislaus
                         Szögyeny</rs>
                     <lb/>
-                    <rs type="place" subtype="place">Pest</rs>, <date when="1860-04-17">17. April 1860</date>
+                    <rs type="place" subtype="place">Pest</rs>, <date when-iso="1860-04-17">17. April 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>

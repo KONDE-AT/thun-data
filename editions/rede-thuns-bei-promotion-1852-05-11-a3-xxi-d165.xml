@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="rede-thuns-bei-promotion-1852-05-11-a3-xxi-d165.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rechberg-an-thun-1857-07-11-a3-xxi-d427.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/reden-an-thun-1857-11-28-a3-xxi-d435.xml">
     <teiHeader>
         <fileDesc>
@@ -6,7 +5,7 @@
                 <title>Abschrift einer Rede <rs type="person" ref="#thun-hohenstein-leo">Leo Thuns</rs>
                     bei einer Promotion sub auspiciis<lb/>
                     <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">[Wien]</rs>,
-                        <date when="1852-05-11">11. Mai 1852</date>
+                        <date when-iso="1852-05-11">11. Mai 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>

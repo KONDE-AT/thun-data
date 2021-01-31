@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="tomek-an-thun-1854-05-21-a3-xxi-d260.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/tomek-an-thun-1860-05-14-a3-xxi-d584.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#tomek-vaclav-vladivoi" role="sender:gelehrter">Václav
                         Tomek</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1854-05-21">21. Mai 1854</date>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1854-05-21">21. Mai 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +42,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#tomek-vaclav-vladivoi">Václav Tomek</rs>
                     <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
-                    <date when="1854-05-21">21. Mai 1854</date>
+                    <date when-iso="1854-05-21">21. Mai 1854</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

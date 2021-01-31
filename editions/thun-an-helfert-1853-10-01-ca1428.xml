@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-helfert-1853-10-01-ca1428.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-08-23-ca1418.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-19-ca1432.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
                         Helfert</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_d5e8623971ef1178c7ac8fc75c5c620d">Smečno</rs>, <date when="1853-10-01">1. Oktober 1853</date>
+                    <rs type="place" subtype="place" ref="#place_d5e8623971ef1178c7ac8fc75c5c620d">Smečno</rs>, <date when-iso="1853-10-01">1. Oktober 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -62,7 +61,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_d5e8623971ef1178c7ac8fc75c5c620d">Smečno</settlement>
-                    <date when="1853-10-01">1. Oktober 1853</date>
+                    <date when-iso="1853-10-01">1. Oktober 1853</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>

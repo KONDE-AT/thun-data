@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-helfert-1854-03-07-ca1420.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-19-ca1432.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1854-04-10-ca1430.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
                         <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
                         Helfert</rs>
-                    <lb/>o. O. [<rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>], <date when="1854-03-07">o. D. [7. März 1854]</date>
+                    <lb/>o. O. [<rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>], <date when-iso="1854-03-07">o. D. [7. März 1854]</date>
                     <note xml:id="note_1">Ort und
                         Datum sind am oberen Blattrand vermerkt.</note>
                 </title>
@@ -41,7 +40,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1854-03-07">o. D. [7. März 1854]</date>
+                    <date when-iso="1854-03-07">o. D. [7. März 1854]</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-helfert-1860-07-02-ca1424.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1860-02-14-ca1423.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-hye-1849-10-25-ca928.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
                         <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
                         Helfert</rs>
-                    <lb/>o. O., <date when="1860-07-02">o. D. [2. Juli
+                    <lb/>o. O., <date when-iso="1860-07-02">o. D. [2. Juli
                         1860]</date>
                     <note xml:id="note_1">Das Datum ist mit Bleistift am Blatt
                         vermerkt.</note>
@@ -41,7 +40,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
-                    <date when="1860-07-02">o. D. [2. Juli
+                    <date when-iso="1860-07-02">o. D. [2. Juli
                         1860]</date>
                 </correspAction>
                 <correspAction type="received">

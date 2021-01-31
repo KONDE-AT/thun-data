@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="oa-oa-1850-01-18-a3-xxi-d30.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/oa-oa-1849-08-18-a3-xxi-d3.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/oktoberdiplom-1860-10-20-a3-xxi-d621.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Abschrift eines Briefes ohne Absender und ohne Adressat
                         <lb/>
-                    <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs>, <date when="1850-01-18">18. Januar
+                    <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs>, <date when-iso="1850-01-18">18. Januar
                         1850</date>
                 </title>
             </titleStmt>

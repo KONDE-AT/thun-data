@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="eroeffnungsvortrag-universitaet-wien-von-hofmann-1858-10-19-a3-xxi-d472.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/erlass-an-ehegericht-von-wien-von-rauscher-1857-05-26-a3-xxi-d416.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/erwiderung-auf-rezension-von-tomek-1859-02-a3-xxi-d496.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Eröffnungsvortrag des Privatdozenten für deutsches Bundes- und Staatsrecht,
                         <rs type="person" ref="#hofmann-leopold">Leopold Hofmann</rs>, an der
-                    Universität Wien<lb/>[<rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>], <date when="1858-10-19">19.
+                    Universität Wien<lb/>[<rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>], <date when-iso="1858-10-19">19.
                         Oktober 1858</date>
                 </title>
             </titleStmt>

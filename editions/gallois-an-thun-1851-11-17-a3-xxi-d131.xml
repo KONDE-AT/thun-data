@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gallois-an-thun-1851-11-17-a3-xxi-d131.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gajazzi-an-thun-1851-10-20-a3-xxi-d127.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#gallois-etienne" role="sender:gelehrter">Etienne
                         Gallois</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, <date when="1851-11-17">17. November 1851</date>
+                    <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, <date when-iso="1851-11-17">17. November 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -52,7 +51,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#gallois-etienne">Etienne Gallois</rs>
                     <settlement ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</settlement>
-                    <date when="1851-11-17">17. November 1851</date>
+                    <date when-iso="1851-11-17">17. November 1851</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525a.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525d.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                         Nádasdy</rs> an <rs type="person" ref="#goluchowski-agenor" role="recipient:beamter">Agenor
                         Goluchowski</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1859-11-05">5. November 1859</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1859-11-05">5. November 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -71,7 +70,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#nadasdy-franz">Franz Nádasdy</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1859-11-05">5. November 1859</date>
+                    <date when-iso="1859-11-05">5. November 1859</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#goluchowski-agenor">Agenor Goluchowski</rs>

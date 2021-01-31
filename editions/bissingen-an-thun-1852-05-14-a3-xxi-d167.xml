@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bissingen-an-thun-1852-05-14-a3-xxi-d167.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bippart-an-thun-1857-10-18-a3-xxi-d432.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bissingen-an-thun-1854-09-22-a3-xxi-d285.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#bissingen-cajetan" role="sender:beamter">Cajetan
                         Bissingen</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1852-05-14">14. Mai 1852</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1852-05-14">14. Mai 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#bissingen-cajetan">Cajetan Bissingen</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1852-05-14">14. Mai 1852</date>
+                    <date when-iso="1852-05-14">14. Mai 1852</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

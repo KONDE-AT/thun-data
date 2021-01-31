@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lehrerkollegium-gymnasium-goerz-an-thun-1860-11-05-a3-xxi-d623a30.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-cilli-1860-10-31-a3-xxi-d623a39.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-graz-an-thun-1860-a3-xxi-d623a28.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Das Lehrerkollegium des Gymnasiums in Görz an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs>, <date when="1860-11-05">5. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs>, <date when-iso="1860-11-05">5. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>

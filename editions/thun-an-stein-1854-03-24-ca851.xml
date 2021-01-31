@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-stein-1854-03-24-ca851.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-stein-05-29-ca853.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tarnoczy-1860-11-21-ca844.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
                         <rs type="person" ref="#stein-lorenz" role="recipient">Lorenz von
                     Stein</rs>
-                    <lb/>o. O., <date when="1854-03-24">24. März [1854]</date>
+                    <lb/>o. O., <date when-iso="1854-03-24">24. März [1854]</date>
                     <note xml:id="note_1">Die Datierung in das Jahr 1854 ergibt sich aus der im Brief
                         angesprochenen Berufung Steins an die Wiener Universität.</note>
                 </title>
@@ -34,7 +33,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
-                    <date when="1854-03-24">24. März [1854]</date>
+                    <date when-iso="1854-03-24">24. März [1854]</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#stein-lorenz">Lorenz von Stein</rs>

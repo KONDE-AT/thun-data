@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="simor-an-thun-1854-11-11-a3-xxi-d296a.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/siegel-an-thun-1857-06-30-a3-xxi-d422.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-14-a3-xxi-d296b.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when="1854-11-11">11.
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when-iso="1854-11-11">11.
                         November 1854</date>
                 </title>
             </titleStmt>
@@ -76,7 +75,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#simor-johann">János Simor</rs>
                     <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
-                    <date when="1854-11-11">11.
+                    <date when-iso="1854-11-11">11.
                         November 1854</date>
                 </correspAction>
                 <correspAction type="received">

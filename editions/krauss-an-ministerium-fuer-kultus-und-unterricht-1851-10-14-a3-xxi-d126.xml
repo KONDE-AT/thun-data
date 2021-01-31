@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="krauss-an-ministerium-fuer-kultus-und-unterricht-1851-10-14-a3-xxi-d126.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/kozacek-an-thun-1854-09-07-a3-xxi-d295.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/kreutz-an-thun-1853-06-24-a3-xxi-d210.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#krauss-josef" role="sender:gelehrter">Josef Krauss</rs>
                     an das <rs type="org" ref="#org_0005" role="recipient">Ministerium für Kultus und Unterricht</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_c7653461ad2c9c2939e47b428b1cb1b2">Hünfeld</rs>, <date when="1851-10-14">14. Oktober
+                    <rs type="place" subtype="place" ref="#place_c7653461ad2c9c2939e47b428b1cb1b2">Hünfeld</rs>, <date when-iso="1851-10-14">14. Oktober
                         1851</date>
                 </title>
             </titleStmt>
@@ -61,7 +60,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#krauss-josef">Josef Krauss</rs>
                     <settlement ref="#place_c7653461ad2c9c2939e47b428b1cb1b2">Hünfeld</settlement>
-                    <date when="1851-10-14">14. Oktober
+                    <date when-iso="1851-10-14">14. Oktober
                         1851</date>
                 </correspAction>
             </correspDesc>

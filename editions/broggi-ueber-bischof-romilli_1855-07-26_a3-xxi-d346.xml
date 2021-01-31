@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="broggi-ueber-bischof-romilli_1855-07-26_a3-xxi-d346.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Memorandum "L’Archiepiscopato di Bartolammeo Romilli" von Ferdinando
                         Broggi<lb/>
-                    <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>, <date when="1855-07-26">26. Juli 1855</date>
+                    <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>, <date when-iso="1855-07-26">26. Juli 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>

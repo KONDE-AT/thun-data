@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/martin-an-thun-1855-05-23-a3-xxi-d344.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/mayr-an-thun-1853-1853-04-08-a3-xxi-d199.xml">
     <teiHeader>
         <fileDesc>
@@ -245,7 +244,7 @@
                         die Ausschreibungsbullen der Jubilärablässe.<lb/>Der Gezeichnete nimmt
                         keinen Anstand dankbar anzuerkennen, daß der vorliegende Vorschlag einer
                         Ministerialverordnung viel einfacher, liberaler und der durch die Verfassung
-                        von <date when="1849-03-04">4. März</date> neuerdings garantirten Freiheit
+                        von <date when-iso="1849-03-04">4. März</date> neuerdings garantirten Freiheit
                         und Selbständigkeit der Kirche entsprechender sey als die Modificationen der
                         vormaligen k. ungarischen Hofkanzlei.</p>
                     <p>2. Verkehr der Bischöfe mit ihren Gemeinden<lb/>Für die Anwendung dieser ad.

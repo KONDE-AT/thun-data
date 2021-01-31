@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="vay-an-rechberg-rothenloewen-1860-03-02-a3-xxi-d564.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/unbekannt-an-thun-1851-01-29-a3-xxi-d104.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/verhandlungen-gebaude-jesuiten-mailand-1853-1856-a3-xxi-d251.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#rechberg-rothenloewen-bernhard" role="recipient">Bernhard
                         Rechberg-Rothenlöwen</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolc</rs>, <date when="1860-03-02">2. März 1860</date>
+                    <rs type="place" subtype="place" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolc</rs>, <date when-iso="1860-03-02">2. März 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -62,7 +61,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#vay-nikolaus">Nikolaus Vay</rs>
                     <settlement ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolc</settlement>
-                    <date when="1860-03-02">2. März 1860</date>
+                    <date when-iso="1860-03-02">2. März 1860</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#rechberg-rothenloewen-bernhard">Bernhard Rechberg-Rothenlöwen</rs>

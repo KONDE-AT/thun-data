@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="safarik-an-thun-1850-07-08-a3-xxi-d59.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/safarik-an-thun-1853-02-27-a3-xxi-d192.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Šafařík</rs> an <rs type="person" ref="#thun-hohenstein-leo">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1850-07-08">8.
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1850-07-08">8.
                         Juli 1850</date>
                 </title>
             </titleStmt>
@@ -52,7 +51,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#safarik-pavel-josef">Pavel Josef Šafařík</rs>
                     <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
-                    <date when="1850-07-08">8.
+                    <date when-iso="1850-07-08">8.
                         Juli 1850</date>
                 </correspAction>
                 <correspAction type="received">

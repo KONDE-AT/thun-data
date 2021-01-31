@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-tarnoczy-1860-11-21-ca844.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-stein-1854-03-24-ca851.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1854-05-12-ca993.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#tarnoczy-maximilian" role="recipient">Maximilian Joseph
                         Tarnóczy</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1860-11-21">21. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1860-11-21">21. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -42,7 +41,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
-                    <date when="1860-11-21">21. November 1860</date>
+                    <date when-iso="1860-11-21">21. November 1860</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#tarnoczy-maximilian">Maximilian Joseph Tarnóczy</rs>

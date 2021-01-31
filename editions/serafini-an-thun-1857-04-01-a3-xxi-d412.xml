@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="serafini-an-thun-1857-04-01-a3-xxi-d412.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/senfft-von-pilsach-an-caroline-thun-1850-04-26-a3-xxi-d46.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/sickel-an-thun-1860-10-25-a3-xxi-d623a26.xml">
     <teiHeader>
         <fileDesc>
@@ -7,7 +6,7 @@
                     <rs type="person" ref="#serafini-filippo" role="sender:gelehrter">Filippo
                         Serafini</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_934634023c7f7a663fdc994504f14b4a">Siena</rs>, <date when="1857-04-01">1. April 1857</date>
+                    <rs type="place" subtype="place" ref="#place_934634023c7f7a663fdc994504f14b4a">Siena</rs>, <date when-iso="1857-04-01">1. April 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -64,7 +63,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#serafini-filippo">Filippo Serafini</rs>
                     <settlement ref="#place_934634023c7f7a663fdc994504f14b4a">Siena</settlement>
-                    <date when="1857-04-01">1. April 1857</date>
+                    <date when-iso="1857-04-01">1. April 1857</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

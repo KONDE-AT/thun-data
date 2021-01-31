@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-friedrich-an-thun-1849-10-05-a3-xxi-d7.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1854-07-14-a3-xxi-d266.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1852-04-09-a3-xxi-d162.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         Thun</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <date when="1849-10-05">5.
+                    <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <date when-iso="1849-10-05">5.
                         Oktober 1849</date>
                 </title>
             </titleStmt>
@@ -72,7 +71,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#thun-hohenstein-friedrich">Friedrich Thun</rs>
                     <settlement ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</settlement>
-                    <date when="1849-10-05">5.
+                    <date when-iso="1849-10-05">5.
                         Oktober 1849</date>
                 </correspAction>
                 <correspAction type="received">

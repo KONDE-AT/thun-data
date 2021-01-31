@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stimpel-an-thun-1860-10-25-a3-xxi-d623a16.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-ungarn-1856-12-28-a3-xxi-d395.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stlaukal-an-thun-1853-04-16-a3-xxi-d200.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when="1860-10-25">25. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1860-10-25">25. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#stimpel-anton">Anton Stimpel</rs>
                     <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
-                    <date when="1860-10-25">25. Oktober 1860</date>
+                    <date when-iso="1860-10-25">25. Oktober 1860</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

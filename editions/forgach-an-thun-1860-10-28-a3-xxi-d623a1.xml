@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="forgach-an-thun-1860-10-28-a3-xxi-d623a1.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/fontana-an-thun-1855-04-22-a3-xxi-d341.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/fraenzinger-an-thun-1854-08-08-a3-xxi-d274.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                     an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <date when="1860-10-28">28. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <date when-iso="1860-10-28">28. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 <correspAction type="sent">
                     <rs type="person" ref="#forgach-anton">Anton Forgách</rs>
                     <settlement ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</settlement>
-                    <date when="1860-10-28">28. Oktober 1860</date>
+                    <date when-iso="1860-10-28">28. Oktober 1860</date>
                 </correspAction>
                 <correspAction type="received">
                     <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>

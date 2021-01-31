@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-rechberg-1857-07-21-ca1571.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1855-12-26-ca910.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1858-02-08-ca1572.xml">
     <teiHeader>
         <fileDesc>
@@ -8,7 +7,7 @@
                         <rs type="person" ref="#rechberg-bernhard" role="recipient">Bernhard
                         Rechberg</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-07-21">21. Juli 1857</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1857-07-21">21. Juli 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
