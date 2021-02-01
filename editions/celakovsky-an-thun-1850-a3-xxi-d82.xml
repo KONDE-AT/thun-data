@@ -1,17 +1,22 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="celakovsky-an-thun-1850-a3-xxi-d82.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-1850-11-24-ca1064.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-1851-03-16-ca1066.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
+    xml:id="celakovsky-an-thun-1850-a3-xxi-d82.xml"
+    prev="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-1850-11-24-ca1064.xml"
+    next="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-1851-03-16-ca1066.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="#celakovsky-frantisek-ladislav" role="sender:gelehrter">František Ladislav Čelakovský</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
-                    <lb/>o. O., o.
-                    J. [1850]<note xml:id="note_1">Hinzufügung von fremder Hand am oberen Blattrand
-                    </note>
+                    <rs type="person" ref="#celakovsky-frantisek-ladislav" role="sender:gelehrter"
+                        >František Ladislaus Čelakovský</rs> an <rs type="person"
+                        ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>o. O., o. J. [1850]<note xml:id="note_1">Hinzufügung von fremder Hand am
+                        oberen Blattrand </note>
                 </title>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC98-2</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
+                        >http://hdl.handle.net/21.11115/0000-000B-DC98-2</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -42,9 +47,9 @@
                             sowie der tschechischen Literatur vorweisen. Nur selten nähere sich
                             jemand dem Kern der Sache und überwinde das Niveau des üblichen
                             Empirismus. Čelakovský schlägt daher vor, ein philologisches Seminar
-                            einzurichten, zunächst für die Dauer von fünf bis sechs Jahren. Mit einer solchen
-                            Maßnahme würde Thun das tschechische Volk für sich und die Reformen
-                            gewinnen.</p>
+                            einzurichten, zunächst für die Dauer von fünf bis sechs Jahren. Mit
+                            einer solchen Maßnahme würde Thun das tschechische Volk für sich und die
+                            Reformen gewinnen.</p>
                     </msContents>
                     <physDesc>
                         <p>Tschechisch.</p>
@@ -55,7 +60,8 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <rs type="person" ref="#celakovsky-frantisek-ladislav">František Ladislav Čelakovský</rs>
+                    <rs type="person" ref="#celakovsky-frantisek-ladislav">František Ladislaus
+                        Čelakovský</rs>
                     <date/>
                 </correspAction>
                 <correspAction type="received">
@@ -135,34 +141,39 @@
                 <p>Poníženě oddaný<lb/>prof. F. L. Čelakovský</p>
             </div>
         </body>
-    <back>
+        <back>
             <listPerson>
                 <person xml:id="celakovsky-frantisek-ladislav">
-                        <persName>
-                            <surname>Čelakovský</surname>
-                            <forename>František Ladislav</forename>
-                        </persName>
-                        <note>
-                            <p>Strakonice 1799–1852 Prag</p>
-                            <p>1841–1849 Prof. für slawische Sprachen an der Universität Breslau, ab 1849 Prof. an der Universität Prag</p>
-                            <p>http://d-nb.info/gnd/119409275</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119409275</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Čelakovský</surname>
+                        <forename>František Ladislav</forename>
+                    </persName>
+                    <note>
+                        <p>Strakonice 1799–1852 Prag</p>
+                        <p>1841–1849 Prof. für slawische Sprachen an der Universität Breslau, ab
+                            1849 Prof. an der Universität Prag</p>
+                        <p>http://d-nb.info/gnd/119409275</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/119409275</tei:idno>
+                </person>
                 <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
+                    <persName>
+                        <surname>Thun-Hohenstein</surname>
+                        <forename>Leo (Leopold)</forename>
+                    </persName>
+                    <note>
+                        <p>Tetschen 1811–1888 Wien</p>
+                        <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und
+                            Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung
+                            "Das Vaterland"</p>
+                        <p>http://d-nb.info/gnd/118757393</p>
+                        <p>k_A</p>
+                    </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118757393</tei:idno>
+                </person>
             </listPerson>
         </back>
     </text>

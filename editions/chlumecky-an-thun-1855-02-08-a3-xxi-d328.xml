@@ -1,18 +1,24 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="chlumecky-an-thun-1855-02-08-a3-xxi-d328.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1065.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/chlumecky-an-thun-1860-06-12-a3-xxi-d590.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
+    xml:id="chlumecky-an-thun-1855-02-08-a3-xxi-d328.xml"
+    prev="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1065.xml"
+    next="https://id.acdh.oeaw.ac.at/thun/editions/chlumecky-an-thun-1860-06-12-a3-xxi-d590.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#chlumecky-peter" role="sender:gelehrter">Peter
-                        Chlumecky</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                        Chlumecký</rs> an <rs type="person" ref="#thun-hohenstein-leo"
+                        role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <date when-iso="1855-02-08">8. Februar 1855</date>
+                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500"
+                        >Brünn</rs>, <date when-iso="1855-02-08">8. Februar 1855</date>
                 </title>
                 <author/>
             </titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC93-7</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
+                        >http://hdl.handle.net/21.11115/0000-000B-DC93-7</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -118,7 +124,8 @@
                         Herausgabe des Codex auf Kosten des mährischen Domesticalfondes so wie jene
                         der alten Landtafel auf Kosten eines großen Theils des hohen begüterten
                         Erbadels dieses Landes zu leiten und durchzuführen, wobey ich vom mährisch
-                        ständischen Archivs- und Registraturbeamten <rs type="person" ref="#chytil-josef">J[osef] Chýtil</rs> besonders unterstützt wurde.
+                        ständischen Archivs- und Registraturbeamten <rs type="person"
+                            ref="#chytil-josef">J[osef] Chýtil</rs> besonders unterstützt wurde.
                         Hiemit ist jedoch immer nur ein sehr geringer Anfang gemacht worden, denn
                         die Erhaltung und Bewahrung, so wie die Herausgabe des ganzen überreichen,
                         in öffentlichen und privat Archiven vorhandenen, in einigen derselben dem
@@ -139,10 +146,17 @@
                         gehindert hat – ich habe jedoch diese Arbeit wieder aufgenommen, und hoffe
                         mit Hülfe der Vorsehung im Laufe des Jahres den zweyten, bey weiten
                         wichtigeren Theil der „Anzeige etc.“: die Correspondenz Zierotins aus den
-                        merkwürdigen Jahren 1606 bis 1612 mit <rs type="person" ref="#thurzo-georg">Thurzo</rs>, <rs type="person" ref="#illeshazi-istvan">Illýeshazy</rs>,
-                            <rs type="person" ref="#starhemberg-reichard">Reichard</rs> und <rs type="person" ref="#starhemberg-erasmus">Erasmus Stahremberg</rs>, <rs type="person" ref="#tschernembl-georg-erasmus">Tschernembl</rs>, <rs type="person" ref="#molart-hanns">Molart</rs>, <rs type="person" ref="#kinsberg-christoph">Kinsberg</rs>, <rs type="person" ref="#cavriani-ottavio">Cavriani</rs> und andere mit den Fürsten der
-                        deutschen evangelischen Union, mit dem <rs type="person" ref="#jacob-i">Könige von
-                            England</rs> und mit den Staatsmännern <rs type="person" ref="#heinrich-IV">Heinrichs IV.</rs> von Frankreich – die leidige
+                        merkwürdigen Jahren 1606 bis 1612 mit <rs type="person" ref="#thurzo-georg"
+                            >Thurzo</rs>, <rs type="person" ref="#illeshazi-istvan">Illýeshazy</rs>,
+                            <rs type="person" ref="#starhemberg-reichard">Reichard</rs> und <rs
+                            type="person" ref="#starhemberg-erasmus">Erasmus Stahremberg</rs>, <rs
+                            type="person" ref="#tschernembl-georg-erasmus">Tschernembl</rs>, <rs
+                            type="person" ref="#molart-hanns">Molart</rs>, <rs type="person"
+                            ref="#kinsberg-christoph">Kinsberg</rs>, <rs type="person"
+                            ref="#cavriani-ottavio">Cavriani</rs> und andere mit den Fürsten der
+                        deutschen evangelischen Union, mit dem <rs type="person" ref="#jacob-i"
+                            >Könige von England</rs> und mit den Staatsmännern <rs type="person"
+                            ref="#heinrich-IV">Heinrichs IV.</rs> von Frankreich – die leidige
                         Entwicklung der Union der evangelischen östreichischen Stände, die Abdankung
                             <rs type="person" ref="#rudolf-II">Rudolphs</rs> und die Thronbesteigung
                             <rs type="person" ref="#mathias-I">Mathias</rs> betreffend, vollenden zu
@@ -176,7 +190,8 @@
                         <p>http://d-nb.info/gnd/108794563</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/108794563</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/108794563</tei:idno>
                 </person>
                 <person xml:id="thun-hohenstein-leo">
                     <persName>
@@ -191,7 +206,8 @@
                         <p>http://d-nb.info/gnd/118757393</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118757393</tei:idno>
                 </person>
                 <person xml:id="zierotin-karl">
                     <persName>
@@ -228,7 +244,8 @@
                         <p>http://d-nb.info/gnd/120404516</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/120404516</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/120404516</tei:idno>
                 </person>
                 <person xml:id="illeshazi-istvan">
                     <persName>
@@ -253,7 +270,8 @@
                         <p>http://d-nb.info/gnd/101974913X</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101974913X</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/101974913X</tei:idno>
                 </person>
                 <person xml:id="starhemberg-erasmus">
                     <persName>
@@ -278,7 +296,8 @@
                         <p>http://d-nb.info/gnd/119852853</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119852853</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/119852853</tei:idno>
                 </person>
                 <person xml:id="molart-hanns">
                     <persName>
@@ -291,7 +310,8 @@
                         <p>http://d-nb.info/gnd/117119148</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117119148</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/117119148</tei:idno>
                 </person>
                 <person xml:id="kinsberg-christoph">
                     <persName>
@@ -316,7 +336,8 @@
                         <p>http://d-nb.info/gnd/118548271</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118548271</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118548271</tei:idno>
                 </person>
                 <person xml:id="rudolf-II">
                     <persName>
@@ -329,7 +350,8 @@
                         <p>http://d-nb.info/gnd/118603701</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118603701</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/118603701</tei:idno>
                 </person>
                 <person xml:id="mathias-I">
                     <persName>
@@ -343,7 +365,8 @@
                         <p>http://d-nb.info/gnd/119400839</p>
                         <p>k_A</p>
                     </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119400839</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
+                        >http://d-nb.info/gnd/119400839</tei:idno>
                 </person>
             </listPerson>
             <listPlace>
