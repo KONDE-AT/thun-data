@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -15,8 +15,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <idno type="handle">http://hdl.handle.net/21.11115/0000-000B-DCC2-2</idno>
-                <date>2015-05-28</date>
+                <p><idno type="handle">http://hdl.handle.net/21.11115/0000-000B-DCC2-2</idno></p>
             </publicationStmt>
             <sourceDesc>
                 <p>Personenverzeichnis der Thun-Korrespondenz</p>
@@ -7316,6 +7315,7 @@
                             <surname>Franz I./II.</surname>
                             <forename/>
                         </persName>
+                        <persName type="display">Kaiser Franz I. von Österreich</persName>
                         <note>
                             <p>Florenz 1768–1835 Wien</p>
                             <p>1792–1806 letzter Kaiser des HRR, 1804–1835 als Franz I. Kaiser von
