@@ -8,7 +8,7 @@
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <date when-iso="1856-10-15">15. Oktober 1856</date>
                 </title>
-            </titleStmt>
+            <title type="label">Friedrich Kolenati an Leo Thun, Brünn, 15. Oktober 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p/>
             <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7FA-3</tei:idno>

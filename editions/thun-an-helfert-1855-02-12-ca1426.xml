@@ -11,7 +11,7 @@
                     <note xml:id="note_1">Das Datum ist mit Bleistift am oberen
                         Blattrand vermerkt.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Leo Thun an Joseph Alexander Helfert o. O., o. D. [12. Februar 1855]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA16-7</tei:idno>
@@ -66,48 +66,6 @@
                 <p>Thun</p>
             </div>
         </body>
-    <back>
-            <listPerson>
-                <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
-                <person xml:id="helfert-joseph-alexander">
-                        <persName>
-                            <surname>Helfert</surname>
-                            <forename>Josef Alexander</forename>
-                        </persName>
-                        <note>
-                            <p>Prag 1820–1910 Wien</p>
-                            <p>Historiker und Politiker, ab Okt. 1847 Supplent für römisches und kanonisches Recht an der Universität Krakau, 1848–1860 Unterstaatssekretär im Ministerium für Kultus und Unterricht, ab 1860 leitender Beamter der Sektion Unterricht im Staatsministerium</p>
-                            <p>http://d-nb.info/gnd/11877381X</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877381X</tei:idno>
-                    </person>
-                <person xml:id="tempsky-friedrich">
-                        <persName>
-                            <surname>Tempsky</surname>
-                            <forename>Friedrich</forename>
-                        </persName>
-                        <note>
-                            <p>Prag 1821–1902 St. Wolfgang bei Ischl</p>
-                            <p>Verleger und Buchhändler</p>
-                            <p>http://d-nb.info/gnd/11761601X</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11761601X</tei:idno>
-                    </person>
-            </listPerson>
-        </back>
+    
     </text>
 </TEI>

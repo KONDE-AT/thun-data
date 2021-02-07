@@ -7,7 +7,7 @@
                         des Österreichischen Ministerrates 1848–1867. Das Ministerium Rechberg. Bd.
                         2, bearbeitet von Stefan Malfèr, Wien 2007, S.145–152.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Eh. Konzept Leo Thuns für mehrere Stellungnahmen in der Ministerkonferenz April 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB70-0</tei:idno>
@@ -57,6 +57,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

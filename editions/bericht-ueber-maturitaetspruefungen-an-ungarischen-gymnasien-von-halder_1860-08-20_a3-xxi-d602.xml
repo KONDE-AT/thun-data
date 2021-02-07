@@ -8,7 +8,7 @@
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when-iso="1860-08-20">20. August 1860</date>
                 </title>
-            </titleStmt>
+            <title type="label">Bericht über die Maturitätsprüfungen an ungarischen Gymnasien im Schuljahr 1860 von Konrad Halder, Pest, 20. August 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p/>
             <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7F7-6</tei:idno>

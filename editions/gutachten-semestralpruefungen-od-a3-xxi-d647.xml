@@ -11,7 +11,7 @@
                         Ministers Graf Leo Thun-Hohenstein, Wien 1962, S. 319–321,
                     333–362.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Stellungnahme von unbekannter Hand zum negativen Einfluss der Semestralprüfungen an den Universitäten o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBE0-1</tei:idno>
@@ -162,6 +162,6 @@
                     und fördert.</p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

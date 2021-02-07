@@ -9,7 +9,7 @@
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_709f3a6e556e54e97c8bcc39dade6c1d">Spalato</rs> [Split], <date when-iso="1850-04-14">14. April 1850</date>
                 </title>
-            </titleStmt>
+            <title type="label">Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p/>
             <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7ED-2</tei:idno>

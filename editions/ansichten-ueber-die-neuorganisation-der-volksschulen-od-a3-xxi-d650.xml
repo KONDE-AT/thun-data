@@ -9,7 +9,7 @@
                         möglich erscheint, dass der Entwurf aus dem Jahr 1850/51 stammt. Eine
                         genauere Datierung muss allerdings unsicher bleiben.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Überlegungen zur Aufgabe der Volksschulen o. D. [1850/51?]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC1E-D</tei:idno>
@@ -139,6 +139,6 @@
                     erheischen, soll die Landesschulbehörde einschreiten.</p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

@@ -7,7 +7,7 @@
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1860-11-15">15. November 1860</date>
                 </title>
-            </titleStmt>
+            <title type="label">Das Lehrerkollegium der Oberrealschule in Innsbruck an Leo Thun, Innsbruck, 15. November 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB52-2</tei:idno>
@@ -86,45 +86,6 @@
                 <p>Innsbruck, den 15. November 1860</p>
             </div>
         </body>
-    <back>
-            <listPerson>
-                <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
-            </listPerson>
-            <listPlace>
-                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
-                        <placeName>Innsbruck</placeName>
-                        <placeName type="alt">Insbruck</placeName>
-                        <placeName type="alt">Insprucker</placeName>
-                        <placeName type="alt">Inspruck</placeName>
-                        <placeName type="alt">Innsbrucker</placeName>
-                        <placeName type="alt">hier</placeName>
-                        <placeName type="alt">o. O. [Innsbruck]</placeName>
-                        <location>
-                            <geo decls="#LatLng">47.26266 11.39454</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/2775220/</idno>
-                    </place>
-                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
-                        <placeName type="pref">oesterreich</placeName>
-                        <placeName type="alt">Vaterlande</placeName>
-                        <placeName type="alt">Österreichs</placeName>
-                        <placeName type="alt">Oesterreich</placeName>
-                        <placeName type="alt">Oestreich</placeName>
-                        <placeName type="alt">Österreich</placeName>
-                    </place>
-            </listPlace>
-        </back>
+    
     </text>
 </TEI>

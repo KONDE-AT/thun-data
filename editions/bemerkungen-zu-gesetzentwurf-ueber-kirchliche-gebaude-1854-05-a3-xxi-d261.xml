@@ -6,7 +6,7 @@
                     Erhaltung katholischer kirchlicher Gebäude"<lb/>o. O., <date when="1854-05">Mai
                         1854</date>
                 </title>
-            </titleStmt>
+            <title type="label">Bemerkungen zum Gesetzesentwurf über die "Concurrrenz zur Herstellung und Erhaltung katholischer kirchlicher Gebäude" o. O., Mai 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DCBE-8</tei:idno>
@@ -54,6 +54,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

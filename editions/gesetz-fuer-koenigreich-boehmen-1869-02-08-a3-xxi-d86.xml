@@ -6,7 +6,7 @@
                         Schulaufsicht<note xml:id="note_1">Dieses Gesetz wurde im Nachlass von Thun
                         fälschlicherweise auf das Jahr 1850 datiert.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Gesetz vom 8. Februar 1869 wirksam für das Königreich Böhmen betreffend die Schulaufsicht</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>Das Gesetz ist abgedruckt in: <ref target="http://alex.onb.ac.at/cgi-content/alex?aid=lbo&amp;datum=1869&amp;page=55&amp;size=45">Landesgesetzblatt für das Königreich Böhmen, Jahrgang 1869, VII. Stück, Nr.
                         26.</ref>
@@ -427,6 +427,6 @@
                     und Ortsschulaufseher an die Ortsschulräthe über.</p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

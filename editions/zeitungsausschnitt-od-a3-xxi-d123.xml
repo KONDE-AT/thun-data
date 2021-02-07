@@ -13,7 +13,7 @@
                         Zeitung aus den Jahren 1848 bis 1853 auf Grundlage der genannten, spärlichen
                         Hinweis hat allerdings kein Ergebnis gebracht.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Ausschnitt aus der Ausgsburger Allgemeinen Zeitung o. D. [September]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D98B-4</tei:idno>
@@ -63,6 +63,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

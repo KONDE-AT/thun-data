@@ -10,7 +10,7 @@
                         Diskussionen um die Reform des Organisationsentwurfs intensiv diskutiert
                         wurde.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Bemerkungen über den Lateinunterricht an den Gymnasien von Karl Schenkl o. O., o. D. [1858]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DCC0-4</tei:idno>
@@ -232,22 +232,6 @@
                     unserer Classification werde ich nächstens schreiben.</p>
             </div>
         </body>
-    <back>
-            <listPerson>
-                <person xml:id="schenkl-karl">
-                        <persName>
-                            <surname>Schenkl</surname>
-                            <forename>Karl</forename>
-                        </persName>
-                        <note>
-                            <p>Brünn 1827–1900 Graz</p>
-                            <p>1851–1858 Lehrer am Gymnasium Prag-Kleinseite, 1858–1863 Prof. für klass. Philologie an der Universität Innsbruck, 1863–1875 Prof. an der Universität Graz, ab 1868 Mitglied der Akademie der Wissenschaften, ab 1875 Prof. an der Universität Wien</p>
-                            <p>http://d-nb.info/gnd/117229938</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117229938</tei:idno>
-                    </person>
-            </listPerson>
-        </back>
+    
     </text>
 </TEI>

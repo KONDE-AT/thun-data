@@ -6,7 +6,7 @@
                     in der Ministerkonferenz
                     vom <date when-iso="1860-03-30">30. März 1860</date>
                 </title>
-            </titleStmt>
+            <title type="label">Schriftliches Votum von Justizminister Franz Nádasdy in der Ministerkonferenz vom 30. März 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>Abgedruckt in: Protokolle des Österreichischen Ministerrates 1848–1867. Das
                     Ministerium Rechberg. Bd. 2, bearbeitet von Stefan Malfèr, Wien 2007, S.
@@ -68,6 +68,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

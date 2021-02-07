@@ -8,7 +8,7 @@
                     <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">o. O. [Triest]</rs>,
                         <date when="1860">o. D. [1860]</date>
                 </title>
-            </titleStmt>
+            <title type="label">Das Lehrerkollegium des Gymnasiums in Triest an Leo Thun, o. O. [Triest], o. D. [1860]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB53-1</tei:idno>
@@ -63,36 +63,6 @@
                 <p>Koren<lb/>k.k. Schulrath</p>
             </div>
         </body>
-    <back>
-            <listPerson>
-                <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
-            </listPerson>
-            <listPlace>
-                <place xml:id="place_4fd4ef3f46418624bcfdb765d2881356">
-                        <placeName>Trieste</placeName>
-                        <placeName type="pref">Triest</placeName>
-                        <placeName type="alt">Triest</placeName>
-                        <placeName type="alt">Triests</placeName>
-                        <placeName type="alt">o. O. [Triest]</placeName>
-                        <placeName type="alt">Triest</placeName>
-                        <location>
-                            <geo decls="#LatLng">45.64953 13.77678</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/3165185/</idno>
-                    </place>
-            </listPlace>
-        </back>
+    
     </text>
 </TEI>

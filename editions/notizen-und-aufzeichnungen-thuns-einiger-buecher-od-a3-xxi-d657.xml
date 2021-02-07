@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Eigenhändige Notizen und Zusammenfassungen von Leo Thun zu einigen Büchern
                     <lb/>o. D.</title>
-            </titleStmt>
+            <title type="label">Eigenhändige Notizen und Zusammenfassungen von Leo Thun zu einigen Büchern o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAFB-5</tei:idno>
@@ -65,6 +65,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

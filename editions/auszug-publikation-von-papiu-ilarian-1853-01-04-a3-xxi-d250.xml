@@ -6,7 +6,7 @@
                     <lb/>o. O.,
                         <date when-iso="1853-01-04">4. Januar 1853</date>
                 </title>
-            </titleStmt>
+            <title type="label">Auszug aus der Geschichte der Romanen Oberdakiens von Alexandru Papiu-Ilarian o. O., 4. Januar 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>Abgedruckt in: Alexandru Papiu Ilarianu, Istoria românilor din Dacia Superioară,
                     Wien 1852.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC29-0</tei:idno>
@@ -63,22 +63,6 @@
                 </p>
             </div>
         </body>
-    <back>
-            <listPerson>
-                <person xml:id="papiu-ilarian-alexandru">
-                        <persName>
-                            <surname>Papiu-Ilarian</surname>
-                            <forename>Alexandru</forename>
-                        </persName>
-                        <note>
-                            <p>Bezded 1827–1877 Hermannstadt</p>
-                            <p>Politiker und Jurist</p>
-                            <p>http://d-nb.info/gnd/1025028732</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1025028732</tei:idno>
-                    </person>
-            </listPerson>
-        </back>
+    
     </text>
 </TEI>

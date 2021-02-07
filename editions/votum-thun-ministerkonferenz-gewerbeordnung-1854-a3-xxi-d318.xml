@@ -9,7 +9,7 @@
                         erst im Jahr 1859 beschlossen. Daher muss die Datierung unsicher
                         bleiben.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Eigenhändiger Entwurf von Leo Thun für sein Votum in der Ministerkonferenz zur Frage der Gewerbeordnung o. O., o. D. [1854–1855]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9B5-4</tei:idno>
@@ -190,6 +190,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

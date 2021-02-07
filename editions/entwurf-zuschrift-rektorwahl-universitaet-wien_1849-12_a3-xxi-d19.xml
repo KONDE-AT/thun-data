@@ -6,7 +6,7 @@
                         Landeschef<lb/>
                     <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date from="1849-12-06" to="1849-12-17">6. bis 17. Dezember 1849</date>
                 </title>
-            </titleStmt>
+            <title type="label">Entwurf von Franz Tomaschek für eine Zuschrift an den niederösterreichischen Landeschef, Wien, 6. bis 17. Dezember 1849</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p/>
             <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7E4-B</tei:idno>

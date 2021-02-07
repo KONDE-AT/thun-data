@@ -6,7 +6,7 @@
                         Am Ende findet sich jedoch die eh. Notiz von Leo Thun: "Dr. Fick. Kritik des
                         Gymn. Plans".</note>
                     <lb/>o. D. [1855]</title>
-            </titleStmt>
+            <title type="label">Memorandum über den Zweck des Gymnasiums von Joseph Fick[?] o. D. [1855]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC40-5</tei:idno>
@@ -465,35 +465,6 @@
                 </p>
             </div>
         </body>
-    <back>
-            <listPerson>
-                <person xml:id="fick-joseph">
-                        <persName>
-                            <surname>Fick</surname>
-                            <forename>Joseph</forename>
-                        </persName>
-                        <note>
-                            <p>1800–1881</p>
-                            <p>Historiker und Archivar, Hauslehrer von Kaiser Franz Joseph I.</p>
-                            <p>http://d-nb.info/gnd/1027728820</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1027728820</tei:idno>
-                    </person>
-                <person xml:id="livius">
-                        <persName>
-                            <surname>Titus Livius</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p>Patavium 59 v. Chr.–17 n. Chr. Patavium</p>
-                            <p>römischer Geschichtsschreiber</p>
-                            <p>http://d-nb.info/gnd/174044089</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/174044089</tei:idno>
-                    </person>
-            </listPerson>
-        </back>
+    
     </text>
 </TEI>

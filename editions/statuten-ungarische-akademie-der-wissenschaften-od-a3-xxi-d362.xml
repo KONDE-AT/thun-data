@@ -5,7 +5,7 @@
                 <title>Statuten der ungarischen Akademie der Wissenschaften<lb/>o. O., o. D. [<date when="1855">1855</date>]<note xml:id="note_1">Das Dokument wurde im Nachlass
                         auf das Jahr 1855 datiert.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Statuten der ungarischen Akademie der Wissenschaften o. O., o. D. [1855]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA6D-6</tei:idno>
@@ -50,6 +50,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

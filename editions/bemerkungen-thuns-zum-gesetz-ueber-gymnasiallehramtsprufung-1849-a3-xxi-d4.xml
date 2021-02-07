@@ -6,7 +6,7 @@
                     Gymnasiallehramtsprüfung, <date when="1849">1849</date>
                 </title>
                 <author>Leo Thun</author>
-            </titleStmt>
+            <title type="label">Eigenhändige Bemerkungen Thuns zum provisorischen Gesetz über die Gymnasiallehramtsprüfung, 1849 Leo Thun</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC0E-F</tei:idno>
@@ -89,6 +89,6 @@
                     allgemeine Geschichte oder wenigstens österreichische sehr zu wünschen)</p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

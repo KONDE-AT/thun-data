@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Memorandum über die Gehälter von Professoren an Universitäten und
                     Gymnasien<lb/>o. D.</title>
-            </titleStmt>
+            <title type="label">Memorandum über die Gehälter von Professoren an Universitäten und Gymnasien o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB25-5</tei:idno>
@@ -115,6 +115,6 @@
                     pragmatischen Rechte.</p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

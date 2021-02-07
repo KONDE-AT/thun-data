@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Zusammenstellung von Gesetzestexten zum Sprachgebrauch in Ungarn<lb/>o.
                     D.</title>
-            </titleStmt>
+            <title type="label">Zusammenstellung von Gesetzestexten zum Sprachgebrauch in Ungarn o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D984-B</tei:idno>
@@ -48,6 +48,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

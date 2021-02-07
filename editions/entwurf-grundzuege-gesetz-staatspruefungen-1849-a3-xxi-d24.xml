@@ -5,7 +5,7 @@
                 <title>Entwurf für die Grundzüge über das Gesetz für die Staatsprüfungen<lb/>o. O.,
                         <date when="1849">[1849]</date>
                 </title>
-            </titleStmt>
+            <title type="label">Entwurf für die Grundzüge über das Gesetz für die Staatsprüfungen o. O., [1849]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC67-A</tei:idno>
@@ -129,13 +129,6 @@
                     mit dem <rs type="org" ref="#org_0005">Unterrichtsministerium</rs> getroffen werden.</p>
             </div>
         </body>
-    <back>
-            <listOrg>
-                <org xml:id="org_0005">
-                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
-                    </org>
-            </listOrg>
-        </back>
+    
     </text>
 </TEI>

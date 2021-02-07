@@ -7,7 +7,7 @@
                     <rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs>,
                     <date when-iso="1860-02-11">11. Februar 1860</date>
                 </title>
-            </titleStmt>
+            <title type="label">Hirtenbrief von Giovanni Antonio Farina, Treviso, 11. Februar 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBB5-2</tei:idno>
@@ -51,6 +51,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

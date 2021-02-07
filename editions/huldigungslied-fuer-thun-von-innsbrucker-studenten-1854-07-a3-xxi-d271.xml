@@ -5,7 +5,7 @@
                 <title>Huldigungsgedichte der Innsbrucker Studentenschaft für Leo Thun<lb/>
                     <date when="1854-07">Juli 1854</date>
                 </title>
-            </titleStmt>
+            <title type="label">Huldigungsgedichte der Innsbrucker Studentenschaft für Leo Thun Juli 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBA2-7</tei:idno>
@@ -86,6 +86,6 @@
                 <p/>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

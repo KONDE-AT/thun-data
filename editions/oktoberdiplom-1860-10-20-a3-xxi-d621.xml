@@ -7,7 +7,7 @@
                     ("Oktoberdiplom") und mehreren Allerhöchsten Handschreiben vom selben
                     Datum<lb/>und<lb/>Ausschnitt aus der Wiener Zeitung vom 27. Februar 1861 mit
                     Abdruck des Kaiserlichen Patents vom 26. Februar 1861 ("Februarpatent")</title>
-            </titleStmt>
+            <title type="label">Ausschnitt aus der Wiener Zeitung vom 21. Oktober 1860 mit Abdruck des Kaiserlichen Manifests vom 20. Oktober 1860 ("Oktoberdiplom") und mehreren Allerhöchsten Handschreiben vom selben Datum und Ausschnitt aus der Wiener Zeitung vom 27. Februar 1861 mit Abdruck des Kaiserlichen Patents vom 26. Februar 1861 ("Februarpatent")</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>Ilse Reiter: Texte zur österreichischen Verfassungsentwicklung 1848–1955. Wien
                     1997, S. 86–89 und S. 89–93.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAF7-9</tei:idno>
@@ -50,6 +50,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

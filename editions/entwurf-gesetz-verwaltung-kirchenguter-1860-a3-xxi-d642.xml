@@ -5,7 +5,7 @@
                 <title>Entwurf für eine Regelung der Verwaltung von Kirchen-, Stiftungs-, und
                     geistlichen Pfründen-Vermögen der katholischen Kirche<lb/>o. O., <date when="1860">[1860]</date>
                 </title>
-            </titleStmt>
+            <title type="label">Entwurf für eine Regelung der Verwaltung von Kirchen-, Stiftungs-, und geistlichen Pfründen-Vermögen der katholischen Kirche o. O., [1860]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC69-8</tei:idno>
@@ -326,6 +326,6 @@
                     finden.</p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

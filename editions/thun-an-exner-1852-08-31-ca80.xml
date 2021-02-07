@@ -10,7 +10,7 @@
                     <note xml:id="note_1">Da der Brief im unmittelbaren Zusammenhang mit dem <ref target="thun/thun-korrespondenz/oesterreichische-nationalbibliothek/thun-an-exner-1852-08-24-ca79.xml">Brief vom 24. August</ref> steht, scheint eine Datierung in das Jahr
                         1852 plausibel.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Leo Thun an Franz Exner o. O. [Wien], 31. August [1852?]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA39-0</tei:idno>
@@ -62,35 +62,6 @@
                 <p>Thun</p>
             </div>
         </body>
-    <back>
-            <listPerson>
-                <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
-                <person xml:id="exner-franz">
-                        <persName>
-                            <surname>Exner</surname>
-                            <forename>Franz Serafin</forename>
-                        </persName>
-                        <note>
-                            <p>Wien 1802–1853 Padua</p>
-                            <p>1831–1848 Prof. für Philosophie an der Universität Prag, 1848–1851 Ministerialrat im Ministerium für Kultus und Unterricht, ab 1852 Ministerialkommissär für das lombardisch-venetianische Schulwesen in Oberitalien</p>
-                            <p>http://d-nb.info/gnd/116319410</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116319410</tei:idno>
-                    </person>
-            </listPerson>
-        </back>
+    
     </text>
 </TEI>

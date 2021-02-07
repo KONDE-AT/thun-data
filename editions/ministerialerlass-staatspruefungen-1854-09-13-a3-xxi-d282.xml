@@ -7,7 +7,7 @@
                     <date when-iso="1854-09-13">13. September
                         1854</date>
                 </title>
-            </titleStmt>
+            <title type="label">Ministerialerlass über die staatsrechtlichen Prüfungen an den österreichischen Universitäten 13. September 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>Teilweise abgedruckt in: <ref target="http://alex.onb.ac.at/cgi-content/alex?aid=rgb&amp;datum=18540004&amp;seite=00000949">RGBl 237/1854</ref>.<lb/>Die Beilage ist, geringfügig verändert, unter
                     anderem abgedruckt in: <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=dsb&amp;datum=18540930&amp;seite=2&amp;zoom=33">Siebenbürger Bote vom 30. September 1854, S. 778</ref>; oder in <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=dea&amp;datum=18540930&amp;seite=2&amp;zoom=33">Deutsche Allgemeine Zeitung vom 30. September 1854, S. 1928</ref>.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB21-9</tei:idno>
@@ -180,41 +180,6 @@
                 </div>
             </div>
         </body>
-    <back>
-            <listOrg>
-                <org xml:id="org_0018">
-                        <orgName>Universität Wien</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
-                    </org>
-                <org xml:id="org_0020">
-                        <orgName>Universität Innsbruck</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
-                    </org>
-                <org xml:id="org_0017">
-                        <orgName>Universität Prag</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
-                    </org>
-                <org xml:id="org_0008">
-                        <orgName>Universität Pest</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/83557-2</idno>
-                    </org>
-                <org xml:id="org_0023">
-                        <orgName>Universität Krakau</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1012007-5</idno>
-                    </org>
-                <org xml:id="org_0021">
-                        <orgName>Universität Lemberg</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/66083-8</idno>
-                    </org>
-                <org xml:id="org_0047">
-                        <orgName>Universität Olmütz</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1029776-5</idno>
-                    </org>
-                <org xml:id="org_0026">
-                        <orgName>Universität Graz</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36157-4</idno>
-                    </org>
-            </listOrg>
-        </back>
+    
     </text>
 </TEI>

@@ -7,7 +7,7 @@
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_cab98f16acacdea50dbd91a389d0624d">St. Paul</rs>, <date when-iso="1860-11-13">13. November 1860</date>
                 </title>
-            </titleStmt>
+            <title type="label">Das Lehrerkollegium des Gymnasiums in St. Paul an Leo Thun, St. Paul, 13. November 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB54-0</tei:idno>
@@ -68,33 +68,6 @@
                 <p>St. Paul, am 13. November 1860</p>
             </div>
         </body>
-    <back>
-            <listPerson>
-                <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
-            </listPerson>
-            <listPlace>
-                <place xml:id="place_cab98f16acacdea50dbd91a389d0624d">
-                        <placeName>St. Paul im Lavanttal</placeName>
-                        <placeName type="pref">St. Paul</placeName>
-                        <placeName type="alt">St. Paul</placeName>
-                        <location>
-                            <geo decls="#LatLng">46.69869 14.84877</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/7871682/</idno>
-                    </place>
-            </listPlace>
-        </back>
+    
     </text>
 </TEI>

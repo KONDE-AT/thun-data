@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Übersicht über die Kompetenzen und Agenden des Ministeriums für Kultus und
                     Unterricht<lb/>o. D.</title>
-            </titleStmt>
+            <title type="label">Übersicht über die Kompetenzen und Agenden des Ministeriums für Kultus und Unterricht o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9C8-F</tei:idno>
@@ -169,13 +169,6 @@
                     Schulfonden nach Maßgabe des allgemeinen Wirkungskreises.</p>
             </div>
         </body>
-    <back>
-            <listOrg>
-                <org xml:id="org_0005">
-                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
-                    </org>
-            </listOrg>
-        </back>
+    
     </text>
 </TEI>

@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Entwurf zur Neuregelung der Kompetenzen des Ministeriums für Kultus und
                     Unterricht<lb/>o. O. o. D.</title>
-            </titleStmt>
+            <title type="label">Entwurf zur Neuregelung der Kompetenzen des Ministeriums für Kultus und Unterricht o. O. o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC5B-8</tei:idno>
@@ -656,24 +656,6 @@
                 </div>
             </div>
         </body>
-    <back>
-            <listPlace>
-                <place xml:id="place_f2646aa02d03ac5a141ef404d919cd11">
-                        <placeName>Salzburg</placeName>
-                        <placeName type="pref">salzburg</placeName>
-                        <placeName type="alt">Salzburger</placeName>
-                        <location>
-                            <geo decls="#LatLng">47.79941 13.04399</geo>
-                        </location>
-                        <idno>http://sws.geonames.org/2766824/</idno>
-                    </place>
-            </listPlace>
-            <listOrg>
-                <org xml:id="org_0005">
-                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
-                    </org>
-            </listOrg>
-        </back>
+    
     </text>
 </TEI>

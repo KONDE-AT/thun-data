@@ -12,7 +12,7 @@
                         Vorsitzender der Gymnasialprüfungskommission. Daher ist es wahrscheinlich,
                         dass der Brief zwischen 1854 und 1860 verfasst wurde.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Leo Thun an Franz Miklosich, o. O., 1. Februar o. J.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA02-D</tei:idno>
@@ -74,43 +74,6 @@
                 <p>1. Februar</p>
             </div>
         </body>
-    <back>
-            <listPerson>
-                <person xml:id="thun-hohenstein-leo">
-                        <persName>
-                            <surname>Thun-Hohenstein</surname>
-                            <forename>Leo (Leopold)</forename>
-                        </persName>
-                        <note>
-                            <p>Tetschen 1811–1888 Wien</p>
-                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
-                            <p>http://d-nb.info/gnd/118757393</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                    </person>
-                <person xml:id="miklosich-franz">
-                        <persName>
-                            <surname>Miklosich</surname>
-                            <forename>Franz</forename>
-                        </persName>
-                        <note>
-                            <p>Ljutomer 1813–1891 Wien</p>
-                            <p>1841–1844 Rechtsanwalt, 1849–1886 Prof. für slawische Philologie und Literatur an der Universität Wien, ab 1864 Mitglied des Unterrichtsrats</p>
-                            <p>http://d-nb.info/gnd/119065932</p>
-                            <p>k_A</p>
-                        </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119065932</tei:idno>
-                    </person>
-            </listPerson>
-            <listPlace>
-                <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
-                        <placeName>o. O.</placeName>
-                        <location>
-                            <geo decls="#LatLng"/>
-                        </location>
-                    </place>
-            </listPlace>
-        </back>
+    
     </text>
 </TEI>

@@ -8,7 +8,7 @@
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</rs>, <date when-iso="1855-09-15">15. September 1855</date>
                 </title>
-            </titleStmt>
+            <title type="label">Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p/>
             <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7E8-7</tei:idno>

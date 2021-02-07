@@ -8,7 +8,7 @@
                         in A3 XXI D85 enthalten, einem Sammelakt aus dem Jahr 1852, der sich mit der
                         Frage der Einrichtung der Bezirksämter befasst.</note>
                 </title>
-            </titleStmt>
+            <title type="label">Stellungnahme von unbekannter Hand zur Frage der Mitwirkung der Bevölkerung an der Verwaltung [1851/52]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC25-4</tei:idno>
@@ -153,6 +153,6 @@
                     Andeutung genügen, daß ein und der andere Weg offen stehe.</p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

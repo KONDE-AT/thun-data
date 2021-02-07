@@ -1,24 +1,18 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions"
-    xml:id="chlumecky-an-thun-1855-02-08-a3-xxi-d328.xml"
-    prev="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1065.xml"
-    next="https://id.acdh.oeaw.ac.at/thun/editions/chlumecky-an-thun-1860-06-12-a3-xxi-d590.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="chlumecky-an-thun-1855-02-08-a3-xxi-d328.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1065.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/chlumecky-an-thun-1860-06-12-a3-xxi-d590.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
                     <rs type="person" ref="#chlumecky-peter" role="sender:gelehrter">Peter
-                        Chlumecký</rs> an <rs type="person" ref="#thun-hohenstein-leo"
-                        role="recipient">Leo Thun</rs>
+                        Chlumecký</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500"
-                        >Brünn</rs>, <date when-iso="1855-02-08">8. Februar 1855</date>
+                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <date when-iso="1855-02-08">8. Februar 1855</date>
                 </title>
                 <author/>
-            </titleStmt>
+            <title type="label">Peter Chlumecký an Leo Thun, Brünn, 8. Februar 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle"
-                        >http://hdl.handle.net/21.11115/0000-000B-DC93-7</tei:idno>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC93-7</tei:idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -124,8 +118,7 @@
                         Herausgabe des Codex auf Kosten des mährischen Domesticalfondes so wie jene
                         der alten Landtafel auf Kosten eines großen Theils des hohen begüterten
                         Erbadels dieses Landes zu leiten und durchzuführen, wobey ich vom mährisch
-                        ständischen Archivs- und Registraturbeamten <rs type="person"
-                            ref="#chytil-josef">J[osef] Chýtil</rs> besonders unterstützt wurde.
+                        ständischen Archivs- und Registraturbeamten <rs type="person" ref="#chytil-josef">J[osef] Chýtil</rs> besonders unterstützt wurde.
                         Hiemit ist jedoch immer nur ein sehr geringer Anfang gemacht worden, denn
                         die Erhaltung und Bewahrung, so wie die Herausgabe des ganzen überreichen,
                         in öffentlichen und privat Archiven vorhandenen, in einigen derselben dem
@@ -146,17 +139,9 @@
                         gehindert hat – ich habe jedoch diese Arbeit wieder aufgenommen, und hoffe
                         mit Hülfe der Vorsehung im Laufe des Jahres den zweyten, bey weiten
                         wichtigeren Theil der „Anzeige etc.“: die Correspondenz Zierotins aus den
-                        merkwürdigen Jahren 1606 bis 1612 mit <rs type="person" ref="#thurzo-georg"
-                            >Thurzo</rs>, <rs type="person" ref="#illeshazi-istvan">Illýeshazy</rs>,
-                            <rs type="person" ref="#starhemberg-reichard">Reichard</rs> und <rs
-                            type="person" ref="#starhemberg-erasmus">Erasmus Stahremberg</rs>, <rs
-                            type="person" ref="#tschernembl-georg-erasmus">Tschernembl</rs>, <rs
-                            type="person" ref="#molart-hanns">Molart</rs>, <rs type="person"
-                            ref="#kinsberg-christoph">Kinsberg</rs>, <rs type="person"
-                            ref="#cavriani-ottavio">Cavriani</rs> und andere mit den Fürsten der
-                        deutschen evangelischen Union, mit dem <rs type="person" ref="#jacob-i"
-                            >Könige von England</rs> und mit den Staatsmännern <rs type="person"
-                            ref="#heinrich-IV">Heinrichs IV.</rs> von Frankreich – die leidige
+                        merkwürdigen Jahren 1606 bis 1612 mit <rs type="person" ref="#thurzo-georg">Thurzo</rs>, <rs type="person" ref="#illeshazi-istvan">Illýeshazy</rs>,
+                            <rs type="person" ref="#starhemberg-reichard">Reichard</rs> und <rs type="person" ref="#starhemberg-erasmus">Erasmus Stahremberg</rs>, <rs type="person" ref="#tschernembl-georg-erasmus">Tschernembl</rs>, <rs type="person" ref="#molart-hanns">Molart</rs>, <rs type="person" ref="#kinsberg-christoph">Kinsberg</rs>, <rs type="person" ref="#cavriani-ottavio">Cavriani</rs> und andere mit den Fürsten der
+                        deutschen evangelischen Union, mit dem <rs type="person" ref="#jacob-i">Könige von England</rs> und mit den Staatsmännern <rs type="person" ref="#heinrich-IV">Heinrichs IV.</rs> von Frankreich – die leidige
                         Entwicklung der Union der evangelischen östreichischen Stände, die Abdankung
                             <rs type="person" ref="#rudolf-II">Rudolphs</rs> und die Thronbesteigung
                             <rs type="person" ref="#mathias-I">Mathias</rs> betreffend, vollenden zu
@@ -176,211 +161,6 @@
                 </div>
             </div>
         </body>
-        <back>
-            <listPerson>
-                <person xml:id="chlumecky-peter">
-                    <persName>
-                        <surname>Chlumecký</surname>
-                        <forename>Peter</forename>
-                    </persName>
-                    <note>
-                        <p>Triest 1825–1863 Brünn</p>
-                        <p>Historiker, Referent für Kultus und Unterricht bei der Statthalterei in
-                            Brünn, ab 1854 Direktor des mährischen Landesarchivs</p>
-                        <p>http://d-nb.info/gnd/108794563</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/108794563</tei:idno>
-                </person>
-                <person xml:id="thun-hohenstein-leo">
-                    <persName>
-                        <surname>Thun-Hohenstein</surname>
-                        <forename>Leo (Leopold)</forename>
-                    </persName>
-                    <note>
-                        <p>Tetschen 1811–1888 Wien</p>
-                        <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und
-                            Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung
-                            "Das Vaterland"</p>
-                        <p>http://d-nb.info/gnd/118757393</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118757393</tei:idno>
-                </person>
-                <person xml:id="zierotin-karl">
-                    <persName>
-                        <surname>Žerotin</surname>
-                        <forename>Karl der Ältere</forename>
-                    </persName>
-                    <note>
-                        <p>Brandýs nad Orlicí 1564–1636 Přerov</p>
-                        <p>böhmischer Adeliger</p>
-                        <p>no gnd provided</p>
-                        <p>k_A</p>
-                    </note>
-                </person>
-                <person xml:id="chytil-josef">
-                    <persName>
-                        <surname>Chytil</surname>
-                        <forename>Josef</forename>
-                    </persName>
-                    <note>
-                        <p>k_A</p>
-                        <p>Archivar</p>
-                        <p>no gnd provided</p>
-                        <p>k_A</p>
-                    </note>
-                </person>
-                <person xml:id="thurzo-georg">
-                    <persName>
-                        <surname>Thurzo</surname>
-                        <forename>Georg</forename>
-                    </persName>
-                    <note>
-                        <p>Lietava 1567–1616 Bytča</p>
-                        <p>1606–1616 Palatin von Ungarn</p>
-                        <p>http://d-nb.info/gnd/120404516</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/120404516</tei:idno>
-                </person>
-                <person xml:id="illeshazi-istvan">
-                    <persName>
-                        <surname>Illésházy</surname>
-                        <forename>István</forename>
-                    </persName>
-                    <note>
-                        <p>1541–1609 Wien</p>
-                        <p>ungarischer Adeliger</p>
-                        <p>no gnd provided</p>
-                        <p>k_A</p>
-                    </note>
-                </person>
-                <person xml:id="starhemberg-reichard">
-                    <persName>
-                        <surname>Starhemberg</surname>
-                        <forename>Reichard</forename>
-                    </persName>
-                    <note>
-                        <p>1570–1613</p>
-                        <p>Adeliger</p>
-                        <p>http://d-nb.info/gnd/101974913X</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/101974913X</tei:idno>
-                </person>
-                <person xml:id="starhemberg-erasmus">
-                    <persName>
-                        <surname>Starhemberg</surname>
-                        <forename>Erasmus II.</forename>
-                    </persName>
-                    <note>
-                        <p>1575–1648</p>
-                        <p>Adeliger</p>
-                        <p>no gnd provided</p>
-                        <p>k_A</p>
-                    </note>
-                </person>
-                <person xml:id="tschernembl-georg-erasmus">
-                    <persName>
-                        <surname>Tschernembl</surname>
-                        <forename>Georg Erasmus</forename>
-                    </persName>
-                    <note>
-                        <p>Schwertberg 1567–1626 Genf</p>
-                        <p>Calvinist und Wortführer der Stände Österreichs ob der Enns</p>
-                        <p>http://d-nb.info/gnd/119852853</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/119852853</tei:idno>
-                </person>
-                <person xml:id="molart-hanns">
-                    <persName>
-                        <surname>Molart</surname>
-                        <forename>Hanns</forename>
-                    </persName>
-                    <note>
-                        <p>†1619 Wien</p>
-                        <p>kaiserlicher Feldmarschall und Hofkriegsratspräsident</p>
-                        <p>http://d-nb.info/gnd/117119148</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/117119148</tei:idno>
-                </person>
-                <person xml:id="kinsberg-christoph">
-                    <persName>
-                        <surname>Kinsberg</surname>
-                        <forename>Christoph</forename>
-                    </persName>
-                    <note>
-                        <p>k_A</p>
-                        <p>Hofkriegsratpräsident</p>
-                        <p>no gnd provided</p>
-                        <p>k_A</p>
-                    </note>
-                </person>
-                <person xml:id="heinrich-IV">
-                    <persName>
-                        <surname>Heinrich IV.</surname>
-                        <forename>k_A</forename>
-                    </persName>
-                    <note>
-                        <p>Pau 1553–1610 Paris</p>
-                        <p>ab 1589 König von Frankreich</p>
-                        <p>http://d-nb.info/gnd/118548271</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118548271</tei:idno>
-                </person>
-                <person xml:id="rudolf-II">
-                    <persName>
-                        <surname>Rudolph II.</surname>
-                        <forename>k_A</forename>
-                    </persName>
-                    <note>
-                        <p>Wien 1552–1612 Prag</p>
-                        <p>1576–1612 Kaiser des HRR</p>
-                        <p>http://d-nb.info/gnd/118603701</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/118603701</tei:idno>
-                </person>
-                <person xml:id="mathias-I">
-                    <persName>
-                        <surname>Mathias I.</surname>
-                        <forename>k_A</forename>
-                    </persName>
-                    <note>
-                        <p>Wien 1557–1619 Wien</p>
-                        <p>1608 König von Ungarn, seit 1611 König von Böhmen, 1612–1619 Kaiser des
-                            HRR</p>
-                        <p>http://d-nb.info/gnd/119400839</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL"
-                        >http://d-nb.info/gnd/119400839</tei:idno>
-                </person>
-            </listPerson>
-            <listPlace>
-                <place xml:id="place_0c51d4343a81db10484268ad1f1b2500">
-                    <placeName>Brno</placeName>
-                    <placeName type="pref">Brünn [Brno]</placeName>
-                    <placeName type="alt">Brünn</placeName>
-                    <placeName type="alt">Brünner</placeName>
-                    <location>
-                        <geo decls="#LatLng">49.19522 16.60796</geo>
-                    </location>
-                    <idno>http://sws.geonames.org/3078610/</idno>
-                </place>
-            </listPlace>
-        </back>
+        
     </text>
 </TEI>

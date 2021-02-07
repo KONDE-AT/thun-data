@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Notizen zur Wiederherstellung des Rechtsstatus Ungarns vor 1848<lb/>o.
                     D.</title>
-            </titleStmt>
+            <title type="label">Notizen zur Wiederherstellung des Rechtsstatus Ungarns vor 1848 o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC30-7</tei:idno>
@@ -50,6 +50,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

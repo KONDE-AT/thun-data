@@ -6,7 +6,7 @@
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">o. O. [Graz]</rs>, <date when="1860">o. D. [1860]</date>
                 </title>
-            </titleStmt>
+            <title type="label">Das Lehrerkollegium des Gymnasiums in Graz an Leo Thun, o. O. [Graz], o. D. [1860]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB58-C</tei:idno>
@@ -70,40 +70,6 @@
                 </p>
             </div>
         </body>
-        <back>
-            <listPerson>
-                <person xml:id="thun-hohenstein-leo">
-                    <persName>
-                        <surname>Thun-Hohenstein</surname>
-                        <forename>Leo (Leopold)</forename>
-                    </persName>
-                    <note>
-                        <p>Tetschen 1811–1888 Wien</p>
-                        <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und
-                            Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung
-                            "Das Vaterland"</p>
-                        <p>http://d-nb.info/gnd/118757393</p>
-                        <p>k_A</p>
-                    </note>
-                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
-                </person>
-            </listPerson>
-            <listPlace>
-                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
-                    <placeName>Graz</placeName>
-                    <placeName type="pref">graz</placeName>
-                    <placeName type="alt">Gratz</placeName>
-                    <placeName type="alt">Grätz</placeName>
-                    <placeName type="alt">Graez</placeName>
-                    <placeName type="alt">o. O. [Graz]</placeName>
-                    <placeName type="alt">Grätzer</placeName>
-                    <placeName type="alt">Graz-Sekau</placeName>
-                    <location>
-                        <geo decls="#LatLng">47.06667 15.45</geo>
-                    </location>
-                    <idno>http://sws.geonames.org/2778067/</idno>
-                </place>
-            </listPlace>
-        </back>
+        
     </text>
 </TEI>

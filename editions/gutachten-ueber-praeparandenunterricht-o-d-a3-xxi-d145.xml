@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Gutachten über den Präparandenunterricht für Lehramtskandidaten der Trivial-
                     und Hauptschulen<lb/>o. O., o. D.</title>
-            </titleStmt>
+            <title type="label">Gutachten über den Präparandenunterricht für Lehramtskandidaten der Trivial- und Hauptschulen o. O., o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBDF-4</tei:idno>
@@ -65,6 +65,6 @@
                     Trivial- oder als Hauptschule.</p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

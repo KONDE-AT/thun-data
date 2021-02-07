@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Schriftliches Votum von Justizminister <rs type="person" ref="#nadasdy-franz">Franz Nádasdy</rs> in den
                     Ministerkonferenzen vom 7. Januar und 21., 25. und 28. Februar 1860</title>
-            </titleStmt>
+            <title type="label">Schriftliches Votum von Justizminister Franz Nádasdy in den Ministerkonferenzen vom 7. Januar und 21., 25. und 28. Februar 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>Abgedruckt in: Protokolle des Österreichischen Ministerrates 1848–1867. Das
                     Ministerium Rechberg. Bd. 1, bearbeitet von Stefan Malfèr, Wien 2003, S.
@@ -78,6 +78,6 @@
                 </p>
             </div>
         </body>
-    <back/>
+    
     </text>
 </TEI>

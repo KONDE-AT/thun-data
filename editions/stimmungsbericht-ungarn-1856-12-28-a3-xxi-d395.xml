@@ -5,7 +5,7 @@
                 <title>Bericht über die Stimmung unter den Protestanten Ungarns<lb/>
                     <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when-iso="1856-12-28">28. Dezember 1856</date>
                 </title>
-            </titleStmt>
+            <title type="label">Bericht über die Stimmung unter den Protestanten Ungarns, Pest, 28. Dezember 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
             <publicationStmt>
                 <p>
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA69-A</tei:idno>
@@ -94,29 +94,6 @@
                 </div>
             </div>
         </body>
-        <back>
-            <listPlace>
-                <place xml:id="place_fc3a4fb327706ca2220500871d60b94b">
-                    <placeName>Pest megye</placeName>
-                    <placeName type="pref">Pest</placeName>
-                    <placeName type="alt">Pesth</placeName>
-                    <placeName type="alt">Pesther</placeName>
-                    <placeName type="alt">Pester</placeName>
-                    <placeName type="alt">Pest</placeName>
-                    <location>
-                        <geo decls="#LatLng">47.41667 19.33333</geo>
-                    </location>
-                    <idno>http://sws.geonames.org/3046431/</idno>
-                </place>
-                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
-                    <placeName type="pref">Ungarn</placeName>
-                    <placeName type="alt">Ungarns</placeName>
-                    <location>
-                        <geo decls="#LatLng">47.0 20.0</geo>
-                    </location>
-                    <idno>http://sws.geonames.org/719819/</idno>
-                </place>
-            </listPlace>
-        </back>
+        
     </text>
 </TEI>
