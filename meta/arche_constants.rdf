@@ -105,7 +105,6 @@
     <acdh:TeiLookUps>
         <acdh:hasTitle type="literal">$item//tei:title[@type='label']/text()</acdh:hasTitle>
         <acdh:hasCoverageStartDate type="date">data($item//tei:titleStmt//tei:date/@when-iso)</acdh:hasCoverageStartDate>
-        <acdh:isContinuedBy type="resource">$item/@next</acdh:isContinuedBy>
         <acdh:continues type="resource">$item/@pref</acdh:continues>
         <acdh:hasPid type="resource">$item//tei:publicationStmt/tei:idno/text()</acdh:hasPid>
         <acdh:isPartOf type="resource">$item/@xml:base</acdh:isPartOf>
