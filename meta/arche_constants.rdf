@@ -114,14 +114,12 @@
     
     <!-- mapping  tei:person to arche:Person -->
     <acdh:PersonLookUps source="indices/listperson.xml">
-        <acdh:hasIdentifier type="resource">$archeutils:persons_url||'/'||data($item/@xml:id)</acdh:hasIdentifier>
-        <acdh:hasIdentifier type="resource">$item/tei:idno[@type="URL"]/text()</acdh:hasIdentifier>
+        <acdh:hasIdentifier type="resource_many">archeutils:get_entity_id($item)</acdh:hasIdentifier>
         <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:persName[1]/tei:forename/text()||' '||$item/tei:persName[1]/tei:surname/text())</acdh:hasTitle>
     </acdh:PersonLookUps>
     
     <!-- mapping  tei:place to arche:Place -->
     <acdh:PlaceLookUps source="indices/listplace.xml">
-        <acdh:hasIdentifier type="resource">$archeutils:places_url||'/'||data($item/@xml:id)</acdh:hasIdentifier>
         <acdh:hasIdentifier type="resource_many">$item/tei:idno[@type="URL"]/text()</acdh:hasIdentifier>
         <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:placeName[1]/text())</acdh:hasTitle>
     </acdh:PlaceLookUps>
