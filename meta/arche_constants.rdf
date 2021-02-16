@@ -120,7 +120,7 @@
     
     <!-- mapping  tei:place to arche:Place -->
     <acdh:PlaceLookUps source="indices/listplace.xml">
-        <acdh:hasIdentifier type="resource_many">$item/tei:idno[@type="URL"]/text()</acdh:hasIdentifier>
+        <acdh:hasIdentifier type="resource_many">archeutils:get_entity_id($item)</acdh:hasIdentifier>
         <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:placeName[1]/text())</acdh:hasTitle>
     </acdh:PlaceLookUps>
     
