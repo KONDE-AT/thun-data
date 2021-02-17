@@ -124,8 +124,9 @@
         <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:placeName[1]/text())</acdh:hasTitle>
     </acdh:PlaceLookUps>
     
-    <acdh:Mentions collection="editions">
-        <acdh:hasActor type="resource">distinct-values(data($item//tei:body//tei:rs[@type="person" and @ref]/@ref))</acdh:hasActor>
-        <acdh:hasSpatialCoverage type="resource">distinct-values(data($item//tei:body//tei:rs[@type="place" and @ref]/@ref))</acdh:hasSpatialCoverage>
-    </acdh:Mentions>
-</acdh:ACDH>
+    <!-- mapping  tei:org to arche:Organisation -->
+    <acdh:OrgLookUps source="indices/listorg.xml">
+        <acdh:hasIdentifier type="resource_many">archeutils:get_entity_id($item)</acdh:hasIdentifier>
+        <acdh:hasTitle type="literal" lang="und">normalize-space($item/tei:orgName[1]/text())</acdh:hasTitle>
+    </acdh:OrgLookUps>
+ </acdh:ACDH>
