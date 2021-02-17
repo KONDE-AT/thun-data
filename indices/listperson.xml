@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/indices" xml:id="listperson.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Personenverzeichnis</title>
+                <title type="label">Personenverzeichnis</title>
                 <respStmt>
                     <resp>providing the content</resp>
                     <name>Christof Aichner</name>
