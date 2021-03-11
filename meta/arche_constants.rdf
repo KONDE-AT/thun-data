@@ -89,7 +89,7 @@
         <!-- Sprach- und Literaturwissenschaften -->
         
         <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/107360859X"/> <!-- Christof Aichner -->
-        <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/thun/tkraler"/> <!-- Tanja Kraler -->
+        <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/tkraler"/> <!-- Tanja Kraler -->
         <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/129199176"/> <!-- Mazohl -->
         <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/skapferer"/>
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1043833846"/> <!-- Peter Andorfer -->
