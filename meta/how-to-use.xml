@@ -72,10 +72,10 @@
                     sofern eine Signatur aus mehreren Dokumenten besteht, eine Übersicht über die
                     unter der Signatur abgelegten Texte. Zu diesen Dokumenten gelangen Sie jeweils
                     durch Anklicken.<lb/>Die <hi rend="bold">Schlagworte</hi> wurden von den
-                    Bearbeitern gewählt. Durch Anklicken eines Schlagwortes erhalten Sie alle
-                    Dokumente, die ebenfalls mit diesem Schlagwort versehen sind.<lb/>Im Abschnitt
+                    Bearbeitern gewählt. <!--Durch Anklicken eines Schlagwortes erhalten Sie alle
+                    Dokumente, die ebenfalls mit diesem Schlagwort versehen sind-->.<lb/>Im Abschnitt
                         <hi rend="bold">Text</hi> finden Sie den oder die transkribierten Texte. Zu
-                    den dabei angewandten Editionsrichtlinien finden Sie <ref target="show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta">hier</ref> die notwendigen Informationen.<lb/>Am Ende des Textes findet
+                    den dabei angewandten Editionsrichtlinien finden Sie <ref target="about.html">hier</ref> die notwendigen Informationen.<lb/>Am Ende des Textes findet
                     sich der <hi rend="bold">Fußnotenapparat</hi> sowie die <hi rend="bold">Signatur</hi> des Dokuments.</p>
             </div>
             <div>
@@ -112,7 +112,7 @@
                 </div>
                 <div>
                     <head>Zugriff über die Register</head>
-                    <p>Das <hi rend="bold">Personenregister <ptr target="persons.html"/>
+                    <p>Das <hi rend="bold">Personenregister <ptr target="listperson.html"/>
                         </hi> ist
                         alphabetisch aufgebaut, allerdings haben Sie die Möglichkeit nach den
                         einzelnen Rubriken zu sortieren. Der Aufbau des Registers folgt dem Schema:
