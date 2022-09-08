@@ -1,6 +1,8 @@
 import glob
 import os
 import pandas as pd
+import jinja2
+
 
 from acdh_tei_pyutils.tei import TeiReader
 
@@ -27,7 +29,7 @@ for x in doc.any_xpath('.//tei:person[@xml:id]'):
         "name": name
     }
 person_df = pd.DataFrame.from_dict(persons, orient='index')
-# person_df.to_csv('./tmp/persons.csv', index=False)
+person_df.to_csv('./tmp/persons.csv', index=False)
 
 doc = TeiReader('./indices/listplace.xml')
 places = {}
@@ -51,7 +53,7 @@ items = []
 for x in sorted(files):
     _, tails = os.path.split(x)
     item = {
-        "id": tails,
+        "doc_id": doc.any_xpath('.//tei:idno[@type="handle"]/text()')[0],
         "sender_ref": unbekannt,
         "sender_place_ref": unbekannt,
         "receiver_ref": unbekannt,
@@ -82,8 +84,19 @@ for x in sorted(files):
 df = pd.DataFrame(items)
 # df.to_csv('./tmp/basic_cmi.csv', index=False)
 
-df = df.merge(person_df, how='left', left_on="sender_ref", right_on='id', suffixes=('_sender_person', '_sender_person'))
-df = df.merge(person_df, how='left', left_on="receiver_ref", right_on='id', suffixes=('_receiver_person', '_receiver_person'))
-df = df.merge(places_df, how='left', left_on="sender_place_ref", right_on='id', suffixes=('_sender_place', '_sender_place'))
+df = df.merge(person_df, how='right', left_on="sender_ref", right_on='id')
+df = df.merge(person_df, how='right', left_on="receiver_ref", right_on='id')
+df = df.merge(places_df, how='left', left_on="sender_place_ref", right_on='id')
 df = df[df['ref'].notna()]
+df = df.fillna('')
 df.to_csv('./tmp/cmi.csv', index=False)
+
+templateLoader = jinja2.FileSystemLoader(searchpath=".")
+templateEnv = jinja2.Environment(loader=templateLoader)
+template = templateEnv.get_template('template.j2')
+data = []
+for i, row in df.iterrows():
+    data.append(dict(row))
+
+with open(f'./indices/cmfi.xml', 'w') as f:
+    f.write(template.render({"data": data}))
