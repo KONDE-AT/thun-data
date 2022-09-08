@@ -1,18 +1,60 @@
 import glob
+import os
 import pandas as pd
 
 from acdh_tei_pyutils.tei import TeiReader
 
 files = glob.glob('./editions/*-an-*.xml')
 unbekannt = "unbekannt"
+nsmap = {
+    'tei': "http://www.tei-c.org/ns/1.0",
+    'xml': "http://www.w3.org/XML/1998/namespace",
+    'tcf': "http://www.dspin.de/data/textcorpus"
+}
+doc = TeiReader('./indices/listperson.xml')
 
+persons = {}
+for x in doc.any_xpath('.//tei:person[@xml:id]'):
+    xml_id = x.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+    try:
+        ref = x.xpath('.//tei:idno/text()', namespaces=nsmap)[0]
+    except IndexError:
+        continue
+    name = " ".join("".join(x.xpath('.//tei:persName//text()', namespaces=nsmap)).split())
+    persons[xml_id] = {
+        "id": xml_id,
+        "ref": ref,
+        "name": name
+    }
+person_df = pd.DataFrame.from_dict(persons, orient='index')
+# person_df.to_csv('./tmp/persons.csv', index=False)
+
+doc = TeiReader('./indices/listplace.xml')
+places = {}
+for x in doc.any_xpath('.//tei:place[@xml:id]'):
+    xml_id = x.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+    try:
+        ref = x.xpath('.//tei:idno/text()', namespaces=nsmap)[0]
+    except IndexError:
+        continue
+    name = " ".join("".join(x.xpath('.//tei:placeName[1]//text()', namespaces=nsmap)).split())
+    places[xml_id] = {
+        "id": xml_id,
+        "ref": ref,
+        "name": name
+    }
+places_df = pd.DataFrame.from_dict(places, orient='index')
+# places_df.to_csv('./tmp/places.csv', index=False)
+
+
+items = []
 for x in sorted(files):
+    _, tails = os.path.split(x)
     item = {
-        "sender": unbekannt,
+        "id": tails,
         "sender_ref": unbekannt,
-        "sender_place": unbekannt,
         "sender_place_ref": unbekannt,
-        "receiver_name": unbekannt,
+        "receiver_ref": unbekannt,
     }
     doc = TeiReader(x)
     item['title'] = doc.any_xpath('.//tei:title[@type="label"]')[0].text
@@ -21,13 +63,27 @@ for x in sorted(files):
     except:
         item['date'] = None
     try:
-        item['sender_ref'] = doc.any_xpath('.//tei:rs[@type="person"]/@ref')[0]
+        item['sender_ref'] = doc.any_xpath('.//tei:title[1]/tei:rs[@type="person"][1]/@ref')[0]
     except:
         pass
     try:
-        item['sender'] = doc.any_xpath('.//tei:rs[@type="person"]/text()')[0]
+        item['receiver_ref'] = doc.any_xpath('.//tei:title[1]/tei:rs[@type="person"][2]/@ref')[0]
     except:
         pass
+    try:
+        item['sender_place_ref'] = doc.any_xpath('.//tei:title[1]/tei:rs[@type="place"]/@ref')[0]
+    except:
+        pass
+    for key, value in item.items():
+        if '_ref' in key:
+            item[key] = value.replace('#', '')
+    items.append(item)
 
+df = pd.DataFrame(items)
+# df.to_csv('./tmp/basic_cmi.csv', index=False)
 
-    item['sender'] = " ".join(item['sender'].split())
+df = df.merge(person_df, how='left', left_on="sender_ref", right_on='id', suffixes=('_sender_person', '_sender_person'))
+df = df.merge(person_df, how='left', left_on="receiver_ref", right_on='id', suffixes=('_receiver_person', '_receiver_person'))
+df = df.merge(places_df, how='left', left_on="sender_place_ref", right_on='id', suffixes=('_sender_place', '_sender_place'))
+df = df[df['ref'].notna()]
+df.to_csv('./tmp/cmi.csv', index=False)
