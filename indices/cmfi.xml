@@ -27,7 +27,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118651455">Bach Alexander</persName>
@@ -60,7 +60,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118651455">Bach Alexander</persName>
@@ -71,7 +71,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118651455">Bach Alexander</persName>
@@ -82,7 +82,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118651455">Bach Alexander</persName>
@@ -93,7 +93,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118651455">Bach Alexander</persName>
@@ -159,7 +159,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/116319410">Exner Franz Serafin</persName>
@@ -170,7 +170,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/116319410">Exner Franz Serafin</persName>
@@ -192,7 +192,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/116319410">Exner Franz Serafin</persName>
@@ -214,7 +214,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/116319410">Exner Franz Serafin</persName>
@@ -830,7 +830,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118735691">Nüll Eduard van der</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118765108">Sicard von Sicardsburg August</persName>
@@ -1083,7 +1083,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/102085779X">Czernin von und zu Chudenitz Eugen</persName>
                     <settlement ref="https://www.geonames.org/3074149">Jindřichův Hradec</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
@@ -1413,7 +1413,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118532863">Ficker Julius</persName>
                     <settlement ref="https://www.geonames.org/2867543">Münster</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
@@ -1622,7 +1622,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118535013">Franz Joseph I.</persName>
                     <settlement ref="https://www.geonames.org/2772810">Laxenburg</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
@@ -1875,7 +1875,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/11877381X">Helfert Joseph Alexander</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
@@ -1974,7 +1974,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/116953462">Heufler von Hohenbühel Ludwig</persName>
                     <settlement ref="https://www.geonames.org/667268">Hermannstadt</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
@@ -2007,7 +2007,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/116953462">Heufler von Hohenbühel Ludwig</persName>
                     <settlement ref="https://www.geonames.org/667268">Hermannstadt</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
@@ -2183,7 +2183,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/117045225">Hübner Alexander</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
@@ -3052,7 +3052,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/1023724472">Mozart Joseph</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
@@ -3899,7 +3899,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/129351105">Sigmund Wenzel</persName>
                     <settlement ref="https://www.geonames.org/3067696">Prag</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
@@ -4537,7 +4537,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118757393">Thun-Hohenstein Leo (Leopold)</persName>
                     <settlement ref="https://www.geonames.org/2761367">Wien</settlement>
-                    <date when=""></date>
+                    
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/103366622X">Zeithammer Gregor</persName>

@@ -27,7 +27,7 @@
                 <correspAction type="sent">
                     <persName ref="{{ x.ref_x }}">{{ x.name_x }}</persName>
                     <settlement ref="{{ x.ref}}">{{ x.name }}</settlement>
-                    <date when="{{ x.date }}">{{ x.date }}</date>
+                    {% if x.date %}<date when="{{ x.date }}">{{ x.date }}</date>{% endif %}
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="{{ x.ref_y }}">{{ x.name_y }}</persName>
