@@ -2184,7 +2184,7 @@
                         <location>
                             <geo decls="#LatLng">50.1497921 8.6662762</geo>
                         </location>
-                        <idno>http://d-nb.info/gnd/4018118-2</idno>
+                        <idno>https://www.geonames.org/2925533</idno>
                     </place>
                     <place xml:id="place_62530da690f678833916ae0e5880bbaa">
                         <placeName>Zsigra</placeName>
@@ -3620,12 +3620,12 @@
                         <idno>https://www.geonames.org/745044</idno>
                     </place>
                     <place xml:id="place_60960432acfa4972c8f13dd89a872920">
-                        <placeName>Breslau</placeName>
-                        <placeName type="alt">Breslauer</placeName>
+                        <placeName>Wrocław</placeName>
+                        <placeName type="alt">Breslau</placeName>
                         <location>
                             <geo decls="#LatLng">51.10773 17.03533</geo>
                         </location>
-                        <idno>https://www.geonames.org/7531292</idno>
+                        <idno>https://www.geonames.org/3081368</idno>
                     </place>
                     <place xml:id="place_fc3a4fb327706ca2220500871d60b94b">
                         <placeName>Pest megye</placeName>
@@ -4135,7 +4135,7 @@
                         <location>
                             <geo decls="#LatLng">50.0906 18.2217</geo>
                         </location>
-                        <idno>https://www.geonames.org/7532706</idno>
+                        <idno>https://www.geonames.org/3087584</idno>
                     </place>
                     <place xml:id="place_af8db1ac57c7409f046f9411a4bdaced">
                         <placeName>Tamási</placeName>
@@ -4289,14 +4289,12 @@
                         <idno>https://www.geonames.org/2917544</idno>
                     </place>
                     <place xml:id="place_3341ffed6fa9ac4acf64535f4f9a72e5">
-                        <placeName>Municipiul Braşov</placeName>
-                        <placeName type="pref">kronstadt</placeName>
-                        <placeName type="alt">Kronstädter</placeName>
+                        <placeName>Braşov</placeName>
                         <placeName type="alt">Kronstadt</placeName>
                         <location>
                             <geo decls="#LatLng">45.65053 25.60913</geo>
                         </location>
-                        <idno>https://www.geonames.org/6691648</idno>
+                        <idno>https://www.geonames.org/683844</idno>
                     </place>
                     <place xml:id="place_e71ad5efc58927b546fbdb1260deba3f">
                         <placeName>Braunsberg</placeName>
@@ -5965,27 +5963,18 @@
                     <place xml:id="place_dc99ae826de653f8eda03c7b3d728ed1">
                         <placeName>Kalocsa</placeName>
                         <placeName type="pref">Colocza</placeName>
-                        <placeName type="alt">Colocza</placeName>
                         <location>
                             <geo decls="#LatLng">46.52639 18.98583</geo>
                         </location>
                         <idno>https://www.geonames.org/3050719</idno>
                     </place>
                     <place xml:id="place_494eccfffbfff4c93f6e601ab346a3cf">
-                        <placeName>Okres Bratislava I</placeName>
-                        <placeName type="pref">Preßburg [Bratislava]</placeName>
-                        <placeName type="alt">Preßburg</placeName>
-                        <placeName type="alt">Presburg</placeName>
-                        <placeName type="alt">Preßburger</placeName>
-                        <placeName type="alt">Presburger</placeName>
-                        <placeName type="alt">Pressburger</placeName>
-                        <placeName type="alt">Pressburg</placeName>
-                        <placeName type="alt">hiesigen</placeName>
-                        <placeName type="alt">Preßburgs</placeName>
+                        <placeName>Bratislava </placeName>
+                        <placeName type="pref">Preßburg </placeName>
                         <location>
                             <geo decls="#LatLng">48.14653 17.10584</geo>
                         </location>
-                        <idno>https://www.geonames.org/8986283</idno>
+                        <idno>https://www.geonames.org/3060972</idno>
                     </place>
                     <place xml:id="place_514ff74bd78be474d8ccddfe84c1fb67">
                         <placeName>Rimavská Sobota</placeName>
@@ -6114,7 +6103,7 @@
                         <idno>https://www.geonames.org/3073660</idno>
                     </place>
                     <place xml:id="place_14fde9ff1bc88b6a4b3884b69424d59f">
-                        <placeName>Municipiul Alba Iulia</placeName>
+                        <placeName>Alba Iulia</placeName>
                         <placeName type="pref">Karlsburg [Alba Iulia]</placeName>
                         <placeName type="alt">Karlsburg [Alba Iulia]</placeName>
                         <placeName type="alt">Karlsburg</placeName>
@@ -6122,7 +6111,7 @@
                         <location>
                             <geo decls="#LatLng">46.06346 23.57494</geo>
                         </location>
-                        <idno>https://www.geonames.org/8299636</idno>
+                        <idno>https://www.geonames.org/686578</idno>
                     </place>
                     <place xml:id="place_6ca0ddda635b8945070e68b07f4a1814">
                         <placeName>Kralovice</placeName>
@@ -6402,7 +6391,6 @@
                         <location>
                             <geo decls="#LatLng">49.93866 17.90257</geo>
                         </location>
-                        <idno>http://d-nb.info/gnd/1028714-0</idno>
                         <idno>https://www.geonames.org/3068927</idno>
                     </place>
                     <place xml:id="place_adee4fd791b6e88a898b11ec5cdaf1eb">
