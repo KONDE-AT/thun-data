@@ -10,11 +10,12 @@
                 <publisher>
                     <ref target="https://thun-korrespondenz.acdh.oeaw.ac.at">Die Korrespondenz von Leo von Thun-Hohenstein</ref>
                 </publisher>
-                <date when="2017-06-28+02:00"/>
+                <date when="2022-09-08+02:00"/>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY 4.0</licence>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
                 <idno type="handle">http://hdl.handle.net/21.11115/0000-000B-D983-C</idno>
+                <idno type="url">https://hdl.handle.net/21.11115/0000-000B-D983-C</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="online">Die Korrespondenz von Leo von Thun-Hohenstein<ref target="https://thun-korrespondenz.acdh.oeaw.ac.at">https://thun-korrespondenz.acdh.oeaw.ac.at</ref>
@@ -26,7 +27,7 @@
         <correspDesc ref="{{ x.doc_id}}">
                 <correspAction type="sent">
                     <persName ref="{{ x.ref_x }}">{{ x.name_x }}</persName>
-                    <settlement ref="{{ x.ref}}">{{ x.name }}</settlement>
+                    <placeName ref="{{ x.ref}}">{{ x.name }}</placeName>
                     {% if x.date %}<date when="{{ x.date }}">{{ x.date }}</date>{% endif %}
                 </correspAction>
                 <correspAction type="received">
@@ -34,7 +35,6 @@
                 </correspAction>
             </correspDesc>{% endif %}
 {% endfor %}
-
         </profileDesc>
         </teiHeader>
     <text>
