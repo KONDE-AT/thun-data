@@ -5277,7 +5277,7 @@
                         <location>
                             <geo decls="#LatLng">48.2082 16.37169</geo>
                         </location>
-                        <idno>https://www.geonames.org/2761367</idno>
+                        <idno>https://www.geonames.org/2761369</idno>
                     </place>
                     <place xml:id="place_6c1def5820cdde63de0c38dd673de4d6">
                         <placeName>Bonn</placeName>
@@ -5648,7 +5648,7 @@
                         <location>
                             <geo decls="#LatLng">48.17547 16.29101</geo>
                         </location>
-                        <idno>https://www.geonames.org/2776420</idno>
+                        <idno>https://www.geonames.org/2776421</idno>
                     </place>
                     <place xml:id="place_a010dc49a464008a7edacd515047e433">
                         <placeName>Babiná</placeName>
@@ -5788,7 +5788,7 @@
                         <location>
                             <geo decls="#LatLng">45.46416 9.19199</geo>
                         </location>
-                        <idno>https://www.geonames.org/6542283</idno>
+                        <idno>https://www.geonames.org/3173435</idno>
                     </place>
                     <place xml:id="place_6f670c686cf3b7c5c9f149fbf21a7918">
                         <placeName>Tenk</placeName>
@@ -6829,7 +6829,6 @@
                         <location>
                             <geo decls="#LatLng">48.44858 18.91003</geo>
                         </location>
-                        <idno>http://d-nb.info/gnd/500808-6</idno>
                         <idno>https://www.geonames.org/3061184</idno>
                     </place>
                     <place xml:id="place_cc0ff2e094d0033cb3bb32c4c5757edf">
