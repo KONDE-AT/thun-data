@@ -1,3 +1,0 @@
-acdh-tei-pyutils
-pandas
-jinj2
